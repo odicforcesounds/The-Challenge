@@ -13,16 +13,14 @@ We Are Looking for You!
 We Need You!
 #### [Player Interface](./UserInterface/README.md)
 Let us try to be minimal.
-#### [Motivations](./Rating/README.md)
-Because You need to be part of our Team!
+#### [Rating System](./Rating/README.md)
+Because make us feel secure!
 #### [Players Hack](./README.md)
 A friend can Help, while we do it! 
 #### [Public Brands Statistic](./README.md)
 Naturally Included
 #### [The Block Chain](./OdicPoints/README.md)
 Because we all Need an Expression of Value!
-#### [Rating System]()
-Because make us feel secure!
 #### [Reporting System](./BlackBox/README.md)
 Because someone will try!
 </div>
