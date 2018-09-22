@@ -15,9 +15,9 @@ We Need You!
 Let us try to be minimal.
 #### [Motivations](./Rating/README.md)
 Because You need to be part of our Team!
-#### [Players Hack]()
+#### [Players Hack](./README.md)
 A friend can Help, while we do it! 
-#### [Public Brands Statistic]()
+#### [Public Brands Statistic](./README.md)
 Naturally Included
 #### [The Block Chain](./OdicPoints/README.md)
 Because we all Need an Expression of Value!
