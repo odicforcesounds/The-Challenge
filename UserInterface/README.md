@@ -1,0 +1,26 @@
+## User Interface Forms
+
+### Path's 
+1. Per Path one RGBBoxForm
+- RGBBoxForm NCP(nature care path) = 0 = Black = Yin
+- RGBBoxForm ACP(animal care path) = 0 = Black = Yin
+- RGBBoxForm HCP(human care path) = 0 = Black = Yin
+2. Per Path, one RGB Channel
+3. Per Point +1 RGB-value
+- (0,0,0) = zero actions approved
+- (1,0,0) = one approved action in Path NCP
+- 255 Per Path per Life is Good Enought!
+- If the user gain no point in action, he/she already loose. === +0 (but at least gain experience)
+
+### Menu ( Create Action )
+- User Choice Path (click)
+- Record (click)
+
+### Menu ( Rate Action )
+- Notification? (new "Concept Proof" to rate)
+- User need to view full video
+- Rate button comes up 
+- (click(0[Deny]))
+- [click(1[Approve])
+
+[Back to Main Page](../README.md)
