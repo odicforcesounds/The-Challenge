@@ -4,9 +4,6 @@
 
 ![](./images/FullMap.jpg?raw=true)
 
-### This Challenge is not a Social Network! 
-The Objective is to DO something without talking so much!
-
 | Content | Tips | Description |  
 | --- | --- | --- | 
 | [Welcome Message](./Welcome/README.md) | Don't get lost | Welcome Message | 
