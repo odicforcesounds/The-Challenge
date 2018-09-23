@@ -18,5 +18,9 @@
 | [Public Brands Statistic](./README.md) | Naturally Included | Lets see who's the best making "good" |
 | [The Block Chain](./OdicPoints/README.md) | Because we all Need an Expression of Value! | Points & Coins |
 | [Reporting System](./BlackBox/README.md) | Because someone will try! | You Shall Not Pass | 
- 
+
+#### App Life Cycle
+
+![](./images/AppLifeCycle.jpg)
+
 </div>
