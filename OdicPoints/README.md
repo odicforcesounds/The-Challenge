@@ -1,5 +1,7 @@
 ### The BlockChain Eco System
+
 ![](../images/Points.jpg)
+
 ##### 1 Approved Action === 1 Point | 1 Point === +1 coin
 
 ##### 1 Denied Action === 0 Points | 0 Points === +0 Coins

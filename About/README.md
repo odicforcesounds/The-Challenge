@@ -6,8 +6,6 @@
 
 This challenge assume [everyone](https://odicforcesounds.com/#/absolute/everything/and/everyone) is included!
 
-All groups or invidual who represent a **LOGO**. 
-
 Some way or another, we all care!
 
 Imagine it, as a `karma` _healing_ **game**, your personal Curriculum Vitae, with all your **Civic** and **Social** actions!
