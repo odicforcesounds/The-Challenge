@@ -1,5 +1,3 @@
-<div style="text-align:center">
-
 # Work is Progress
 
 ![](./images/FullMap.jpg?raw=true)
@@ -24,4 +22,3 @@
 ![](./images/AppLifeCycle.jpg)
 
 [A Different Approach](./WIKI.md)
-</div>
