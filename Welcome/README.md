@@ -1,5 +1,3 @@
-<div style="text-align:center">
-
 ### Yin(1) + Yang(1) = 1 or 3 ([Tao](https://odicforcesounds.com/#/tao)) [The Wind of God](https://www.odicforcesounds.com/#/tao/the/wind/of/god)
 
 "If Time is build within our Self's, then Time is Our Selfs as result of Time it Self"
@@ -31,8 +29,5 @@ aka
  If You deny to contribute to this project, 
  
  You are Included In <b>OdicforceSounds</b> [Eternal License](https://odicforcesounds.com/#/license)!
-
-
-</div>
 
 [Back to Main Page](../README.md)
