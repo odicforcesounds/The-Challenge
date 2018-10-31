@@ -2,7 +2,7 @@
 
 We are here to try to Fix [Common Errors](./404.md)
 
-![](./images/Challenge.svg?raw=true)
+![](./images/Challenge.png?raw=true)
 
 | Content | Tips | Description |  
 | --- | --- | --- |
