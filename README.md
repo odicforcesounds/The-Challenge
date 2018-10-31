@@ -1,13 +1,14 @@
-# Work is Progress
+# The World In Progress
 
-We are here to Fix [Common Errors](./404.md)
+We are here to try to Fix [Common Errors](./404.md)
 
-![](./images/FullMap.jpg?raw=true)
+![](./images/Challenge.svg?raw=true)
 
 | Content | Tips | Description |  
 | --- | --- | --- |
 | [Welcome Message](./Welcome/README.md) | We Bring Fire - The Magic of Fantasy | Welcome Message | 
 | [Concepts](./Concerns/HR.md) | Because We do Think about You! | Rights, Laws, Justice, Theories, Abstractions |
+| [License](https://github.com/odicforcesounds/Eternal-License/blob/master/LICENSE) | You are Included in this License | Our Eternal License | 
 | [Motivations](./Path/README.md) | Walk with Us! | We are here for this challenge |
 | [Privacy](./Privacy/README.md) | Your Choice! | What we need from you. |
 | [Roadmap](./About/README.md) | Lets Make Business | Comercial Targets: Public or Private. |
@@ -19,9 +20,4 @@ We are here to Fix [Common Errors](./404.md)
 | [The Block Chain](./OdicPoints/README.md) | Because we all Need an Expression of Value! | Points & Coins |
 | [Reporting System](./BlackBox/README.md) | Because someone will try! | You Shall Not Pass |
 
-#### App Life Cycle
-
-![](./images/AppLifeCycle.jpg)
-
 [A Different Approach](./WIKI.md)
-

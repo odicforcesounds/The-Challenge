@@ -1,6 +1,6 @@
 # Device Target:
-- Android, iPhone, 
-- Create hardware specific to play: 
-- Glass's? Maybe a Hat? 
+- Android, 
+- iPhone, 
+- GP (Head-Video-device)
 
 [Back to Main Page](../README.md)
