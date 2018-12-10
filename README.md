@@ -2,11 +2,11 @@
 
 We are here to try to Fix [Common Errors](./404.md)
 
->| Fantasy [OM]() | + | Logic [Spirit]() | = | Application [Expression]() | 
+| Fantasy | + | Logic      | = | Application    | 
+| [OM]()  | + | [Spirit]() | = | [Expression]() |
+| [Fire](./Welcome/README.md) | + | [Wood](./Concerns/HR.md) | = | [Love](https://github.com/odicforcesounds/Eternal-License/blob/master/LICENSE) | 
 
->| Fire [Welcome Message](./Welcome/README.md) | + | Wood [Concepts](./Concerns/HR.md) | = | Love [License](https://github.com/odicforcesounds/Eternal-License/blob/master/LICENSE) | 
-
->| World [Motivations](./Path/README.md) | + | User [Privacy](./Privacy/README.md) | = | Future [Roadmap](./About/README.md) |
+| World [Motivations](./Path/README.md) | + | User [Privacy](./Privacy/README.md) | = | Future [Roadmap](./About/README.md) |
 
 >| Tecnology [Devices Targets](./Devices/README.md) | + | Brain [Player Interface](./UserInterface/README.md) | = | Society [Rating System](./Rating/README.md) |
 
