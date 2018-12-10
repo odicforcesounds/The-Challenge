@@ -3,7 +3,9 @@
 We are here to try to Fix [Common Errors](./404.md)
 
 | Fantasy | + | Logic      | = | Application    | 
+
 | [OM]()  | + | [Spirit]() | = | [Expression]() |
+
 | [Fire](./Welcome/README.md) | + | [Wood](./Concerns/HR.md) | = | [Love](https://github.com/odicforcesounds/Eternal-License/blob/master/LICENSE) | 
 
 | World [Motivations](./Path/README.md) | + | User [Privacy](./Privacy/README.md) | = | Future [Roadmap](./About/README.md) |
