@@ -1,21 +1,23 @@
 # The World In Progress
 
+![](./images/Challenge.png?raw=true)
+
 We are here to try to Fix [Common Errors](./404.md)
 
-| Fantasy | + | Logic      | = | Application    | 
+> Most of World problems are about Logic
 
-| [OM]()  | + | [Spirit]() | = | [Expression]() |
+> [Fantasy]() + [Logic]() = [Application]()   << Blank Links
 
-| [Fire](./Welcome/README.md) | + | [Wood](./Concerns/HR.md) | = | [Love](https://github.com/odicforcesounds/Eternal-License/blob/master/LICENSE) | 
+> [Time]()   +   [Spirit]()   =   [Expression]()  << Blank Links 
 
-| World [Motivations](./Path/README.md) | + | User [Privacy](./Privacy/README.md) | = | Future [Roadmap](./About/README.md) |
+> [Fire](./Welcome/README.md) + [Wood](./Concerns/HR.md) = [Metal](https://github.com/odicforcesounds/Eternal-License/blob/master/LICENSE)
 
->| Tecnology [Devices Targets](./Devices/README.md) | + | Brain [Player Interface](./UserInterface/README.md) | = | Society [Rating System](./Rating/README.md) |
+> [Motivations](./Path/README.md)   +    [Privacy](./Privacy/README.md)   =    [Roadmap](./About/README.md)  
 
->| Human [Players Hack](./README.md) | + | Teams [Public Brands Statistic](./README.md) | = | Economy [The Block Chain](./OdicPoints/README.md) |
+> [Devices](./Devices/README.md)   +    [Player](./UserInterface/README.md)   =    [System](./Rating/README.md)  
 
-| [Reporting System](./BlackBox/README.md) | Because someone will try! | You Shall Not Pass |
+> [Players](./README.md)   +    [Brands](./README.md)   =    [BlockChain](./OdicPoints/README.md)  
 
-[A Different Approach](./WIKI.md)
+> [Reporting System](./BlackBox/README.md) 
 
-![](./images/Challenge.png?raw=true)
+>> /// [A Different Approach](./WIKI.md)
