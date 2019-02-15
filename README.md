@@ -1,23 +1,10 @@
-# The World In Progress
-
 ![](./images/Challenge.png?raw=true)
 
-We are here to try to Fix [Common Errors](./404.md)
+# 1+1=1 or 3
 
-> Most of World problems are about Logic
+- Take me into [Logic](/docs/Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) - [Not Complete] but readable
+- Take me into [Fantasy](/docs/Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) - [Not Complete] but readable
 
-> [Fantasy]() + [Logic]() = [Application]()   << Blank Links
+- Mix [Both](/docs/Tao/Tao.md) (**Tao**) - [Not Complete] but readable
 
-> [Time]()   +   [Spirit]()   =   [Expression]()  << Blank Links 
-
-> [Fire](./Welcome/README.md) + [Wood](./Concerns/HR.md) = [Metal](https://github.com/odicforcesounds/Eternal-License/blob/master/LICENSE)
-
-> [Motivations](./Path/README.md)   +    [Privacy](./Privacy/README.md)   =    [Roadmap](./About/README.md)  
-
-> [Devices](./Devices/README.md)   +    [Player](./UserInterface/README.md)   =    [System](./Rating/README.md)  
-
-> [Players](./README.md)   +    [Brands](./README.md)   =    [BlockChain](./OdicPoints/README.md)  
-
-> [Reporting System](./BlackBox/README.md) 
-
->> /// [A Different Approach](./WIKI.md)
+### You are included in OUR Eternal [LICENSE](https://github.com/odicforcesounds/Eternal-License/blob/master/LICENSE)
