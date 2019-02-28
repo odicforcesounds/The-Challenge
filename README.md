@@ -2,36 +2,36 @@
 
 Sharing some <b>Poetry / Literature</b> just for Fun:
 
-"If Time is Built Within Our Self's, then Time is Our Self's as result of Time it Self"
+"**If Time is Built Within Our Self's, then Time is Our Self's as result of Time it Self**"
 
 - "You are the Wood" : [America]() - [White Tiger]()
 - "I am the Fire" : [Asia]() - [Fire Dragon]()
 - Which means: 1 + 1 = 1 OR 3 ([Tao](https://www.odicforcesounds.com/#/tao))
 
 
-We are here to try to Fix [Common Errors](/404.md)
+>## We are here to try to Fix [Common Errors](/404.md)
 
 > ## Most of <b>World</b> problems are <b>Logic</b> problems
 
-<b>Logic</b> Refers: <b>Ego</b>!
+- <b>Logic</b> Refers: <b>Ego</b>!
 
-Each one <b>Ego</b> is each one "holy" <b>tool</b> to <b>create</b> anything each one wish to!
+- Each one <b>Ego</b> is each one "holy" <b>tool</b> to <b>create</b> anything each one wish to!
 
-### Let us Try to Solve some of them, while We Can...
+- ### Let us Try to Solve some of them, while We Can...
 
-### So, the best way we can help, is by asking You to keep Reading!
+- ### So, the best way I can help, is by asking You to keep Reading!
 
 > ## <b>Fantasy</b> [1] + <b>Logic</b> [1] = <b>Application</b> [1]
 
-### A Simple Mental Exercise:
+- ### A Simple Mental Exercise:
 
-> ## [OM]() [1] [Fantasy](/docs/Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "We Came In Peace - Trance Zone"
+> ## [OM](https://www.odicforcesounds.com/#/three/you/tell/me) [1] [Fantasy](/docs/Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "We Came In Peace - Trance Zone"
 
-1. Full in your Natural Air Box and stop Your breath for some moments.
+- Full in your Natural Air Box and stop Your breath for some moments.
 
 - What You are thinking about in that moment, will take Your mind to some "place" called "Dream". ( it is only in your mind) So we <b>Sum</b> that "Dream" to the last step, and we call this next step  <b>Spirit</b>, which is about that abstract capacity we all have, where we "produce" <b>Fantasy</b> while comparing our self's to those creations, which means, we are using: <b>Logic</b>:
 
-> ## '+' [Spirit]() [1] [Logic](/docs/Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "Our Eternal License"
+> ## '+' [Spirit](https://www.odicforcesounds.com/#/secret/responsability/exposed) [1] [Logic](/docs/Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "Our Eternal License"
 
 - By <b>Logic</b>, each person (men or woman) in the world, even having the same skills or (body tools), we assume that all develop  something different from all others. That is our <b>Spirit</b>! 
 
@@ -45,7 +45,7 @@ Each one <b>Ego</b> is each one "holy" <b>tool</b> to <b>create</b> anything eac
 
 - Share Your Voice Sound, Expressing Your Inner Self Creation.
 
-> ## = [Expression]() [1] [Application](/docs/Tao/Tao.md)
+> ## = [Expression](https://www.odicforcesounds.com/#/expression) [1] [Application](/docs/Tao/Tao.md)
 
 - I don't know about your Sound...
 - But if someone else above yourself did listen to...
