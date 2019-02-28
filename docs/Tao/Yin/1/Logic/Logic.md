@@ -2,9 +2,9 @@
 
 ###### An Expression Of Logic Based on Fantasy
 
-1. [Android App](./App/Devices/Android.md) - Not even Interface
-2. [iOS App](./App/Devices/iOS.md) (NULL) - Not evem Interface
-3. [Dedicated]() (NULL) - Just a Dream...
+1. [Android App](./App/Devices/Android.md) NULL
+2. [iOS App](./App/Devices/iOS.md) (NULL)
+3. [Dedicated]() (NULL)
 
 ## Hosting
 
