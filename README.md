@@ -77,9 +77,11 @@ So let's Read about Our <b>Challange</b>, which is about a Dream that is only in
 - Each Track have <b>One Single Compenent</b>. You Shall Not Change That <b>Sigular Condition</b>!
 - Each <b>Component</b> shall use <b>player settings</b> as they are: Small.
 - Css can become better, but let it be <b>Dark</b> let it be <b>Black</b>. Even If You don't <b>Love</b> to watch <b>stars</b> at night... 
-- The is a lot of work in this Fantastic Challenge that needs an expression of existence. Maybe my English is terrible. Make it Better for everything. You can add Longs text's or a simple **Link**, but we motivate You to create more **Components**.
+- The is a lot of work in this Fantastic Challenge that needs an expression of existence. 
+- Maybe my English is terrible. Make it Better for everyone. 
+- You can add Longs text's or a simple **Link**, but we motivate You to create more **Components**.
 - You are free to add more content / functonality, but You need to comment the **Code** you write / add, and You need to explain the Logic association between Content+Function, while You shall give priority to this **Challenge**!
 
 ## <b>Challenge</b> Player Notes:
 
-- You need to wait! :( 
+- You need to wait! :(
