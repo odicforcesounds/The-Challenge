@@ -65,13 +65,13 @@ So let's Read about Our <b>Challange</b>, which is about a Dream that is only in
 - In this case the [Paths](./docs/Fragments/Path/README.md) are for <b>Players</b> and the Roadmap to <b>Developers</b>.
 - To Motivate You to participate in this Challenge, I include All (Players, Developers, Investors, and All next Generations) in my [Eternal_License](https://github.com/odicforcesounds/Eternal-License/blob/master/README.md), therefor You Should accept to start participating <b>NOW</b>, if You wish to <b>NOT</b> be Included!
 
-- Now, that You know more about my Motivations, lets talk about [Your](./docs/Fragmens/UserInterface/README.md) motivations which drop You with a [Privacy](./docs/Fragmens/Privacy/README.md) Problem that <b>Face</b> our Roadmap Dream, when using your [Devices](./docs/Fragmens/Devices/README.md)!
+- Now, that You know more about my Motivations, lets talk about [Your](./docs/Fragments/UserInterface/README.md) motivations which drop You with a [Privacy](./docs/Fragments/Privacy/README.md) Problem that <b>Face</b> our Roadmap Dream, when using your [Devices](./docs/Fragments/Devices/README.md)!
 
-- Our <b>Challenge</b> [target](./docs/Fragmens/About/README.md) All Business by motivating them in a <b>Free</b> Public Exposition for Image Propose Only in Our [Rating_System](./docs/Fragmens/Rating/README.md)!
+- Our <b>Challenge</b> [target](./docs/Fragments/About/README.md) All Business by motivating them in a <b>Free</b> Public Exposition for Image Propose Only in Our [Rating_System](./docs/Fragmens/Rating/README.md)!
 
-- Because the <b>Main Tools</b> are Persons, we add Our [Numeric_Expression](./docs/Fragmens/OdicPoints/README.md) that Represents Value!
+- Because the <b>Main Tools</b> are Persons, we add Our [Numeric_Expression](./docs/Fragments/OdicPoints/README.md) that Represents Value!
 
-- The [Reporting System](./docs/Fragmens/BlackBox/README.md) is Rated by the same <b>Tools</b>!
+- The [Reporting System](./docs/Fragments/BlackBox/README.md) is Rated by the same <b>Tools</b>!
 
 ## <b>Challenge</b> Developer Notes:
 
