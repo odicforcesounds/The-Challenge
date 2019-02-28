@@ -1,3 +1,5 @@
 # Registration
 
-Send an email to " INFO HAT ODICFORCESOUNDS DOT COM"
+Work in Progress
+
+Go back to [Main Page](../../../../../../README.md)

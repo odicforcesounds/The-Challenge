@@ -2,23 +2,20 @@
 
 ###### An Expression Of Logic Based on Fantasy
 
-1. [Android App](./App/Devices/Android.md) NULL
-2. [iOS App](./App/Devices/iOS.md) (NULL)
-3. [Dedicated]() (NULL)
+1. [Android App](./App/Devices/Android.md)
+2. [iOS App](./App/Devices/iOS.md)
 
 ## Hosting
 
-1. Using [Firebase](https://github.com/firebase) to host the Website
+- Github + GitLab + Firebase
 
 ## Developers
 
-1. Dive [into](./Github/Developers.md)
+- Dive [into](./Github/Developers.md)
 
-## Business
+## Business Challenge
 
-- [@MicroSoft](https://github.com/Microsoft) [@Google](https://github.com/google), [@Firebase](https://github.com/firebase), [@Github](https://github.com/), [@Facebook](https://github.com/facebook), [@Twitter](https://github.com/twitter), [@Tumblr](https://github.com/tumblr), [@Instagram](https://github.com/Instagram)
-- [Individual or Group who represents a LOGO](https://www.odicforcesounds.com/#/license)
-- [Subscribe this Challenge](./Business/Subscriptions.md)
+- [Read](../../../../Fragments/BrandsInterface)
 
 ## Scope
 
@@ -36,8 +33,8 @@
 
 ## User Profile
 
-1. Chinese [Zodiacs](./../../../Yang/0/Fantasy/Zodiac/Zodiacs.md) Avatars are Static Data.
-2. [Paths](./Challenge/Play/Paths.md) are expressed in Color.
+1. Chinese [Zodiacs](../../../Yang/0/Fantasy/Zodiac/Zodiacs.md) Avatars are Static Data.
+2. [Paths](../../../Fragments/Path/README.md) are expressed in Color.
 3. Each Path is one "Channel" of RBG Color. Complete 255 for Each ( at least )
 4. All Users Shall Start Profile Policy with Total Anonymous.
 5. Naturally, if a User wish to Expose him/her Self, it Should be Possible.
@@ -47,13 +44,11 @@
 ## BlockChain
 
 - Concepts (KISS) - "Coins are Points" for Users.
-- Brands only handle Points to Manage Social and Political Ranking Status (Public Information)
-- Logic (BOOLEAN) - 1(Positive(**Approved**)) 0(Negative(**Denied**))
-- [Points](./Challenge/Play/Points.md) represent Approved Action.
+- Read more about Odic [Points](../../../Fragments/OdicPoints/README.md) that represent an Approved Action.
 
 ## Actions
 
-[Actions](./Challenge/Play/Actions.md)
+[Actions](../../../Fragments/UserInterface/README.md)
 
 ## Rules
 

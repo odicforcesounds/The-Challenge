@@ -21,4 +21,4 @@ For those who don't have the will to clean or **help** Nature environment, becau
 
 Earn **Points**, earn **Game status**, earn **Professional Status**, earn **Social Status**, earn **Life experience**, earn Personal and Community **Business** Gratitude!
 
-[Back to Main Page](../README.md)
+Back to [Main Page](../../../../README.md)
