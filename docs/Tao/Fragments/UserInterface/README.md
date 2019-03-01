@@ -12,7 +12,7 @@
 - 255 Per Path per Life is Good Enought!
 - If the user gain no point in action, he/she already loose. === +0 (but at least gain experience)
   
-### Menu ( Create Action )
+### Menu ( Create [Action](../../../Tao/Yin/1/Logic/Challenge/Play/Actions.md) )
 - User Choice Path (click)
 - Record (click)
 - Stop (click)
