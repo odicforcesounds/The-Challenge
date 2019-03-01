@@ -76,6 +76,6 @@ So let's Read about Our <b>Challange</b>, which is about a Dream that is only in
 ## Sharing some <b>Poetry / Literature</b> just for Fun:
 
 - "**If Time is Built Within Our Self's, then Time is Our Self's as result of Time it Self**"
-- "You are the Wood" : **America** - **[White Tiger](./letters/Tigber_America)**
+- "You are the Wood" : **America** - **[White Tiger](./letters/Tiger_America)**
    "I am the Fire" : **Asia** - **[Fire Dragon](./letters/Dragon_Asia.md)**
 - Which means: 1 + 1 = 1 OR 3 ([Tao](https://www.odicforcesounds.com/#/tao))
