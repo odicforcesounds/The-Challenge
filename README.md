@@ -1,13 +1,5 @@
 # The World In Progress
 
-Sharing some <b>Poetry / Literature</b> just for Fun:
-
-"**If Time is Built Within Our Self's, then Time is Our Self's as result of Time it Self**"
-
-- "You are the Wood" : **America** - **White Tiger**
-- "I am the Fire" : **Asia** - **Fire Dragon**
-- Which means: 1 + 1 = 1 OR 3 ([Tao](https://www.odicforcesounds.com/#/tao))
-
 > ## We are here to try to Fix [Common Errors](./404.md).
 
 > ## Most of <b>World</b> problems are <b>Logic</b> problems
@@ -69,7 +61,7 @@ So let's Read about Our <b>Challange</b>, which is about a Dream that is only in
 
 - Our <b>Challenge</b> [target](./docs/Tao/Fragments/About/README.md) All Business by motivating them in a <b>Free</b> Public Exposition for Image Propose Only in Our [Rating_System](./docs/Tao/Fragments/Rating/README.md)!
 
-- Because the <b>Main Tools</b> are Persons, we add Our [Numeric_Expression](./docs/Tao/Fragments/OdicPoints/README.md) that Represents Value!
+- Because the <b>Main [Tools](./docs/Tao/Fragments/Concerns/HR.md)</b> are Persons, we add Our [Numeric_Expression](./docs/Tao/Fragments/OdicPoints/README.md) that Represents Value!
 
 - The [Reporting System](./docs/Tao/Fragments/BlackBox/README.md) is Rated by the same <b>Tools</b>!
 
@@ -80,3 +72,10 @@ So let's Read about Our <b>Challange</b>, which is about a Dream that is only in
 ## <b>Challenge</b> Player Notes:
 
 - You need to wait! :(
+
+## Sharing some <b>Poetry / Literature</b> just for Fun:
+
+- "**If Time is Built Within Our Self's, then Time is Our Self's as result of Time it Self**"
+- "You are the Wood" : **America** - **White Tiger**
+   "I am the Fire" : **Asia** - **Fire Dragon**
+- Which means: 1 + 1 = 1 OR 3 ([Tao](https://www.odicforcesounds.com/#/tao))

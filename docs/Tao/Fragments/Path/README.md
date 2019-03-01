@@ -11,7 +11,7 @@
     - User make videos as Concept Proof of their actions in benefit of Nature. (cleaning,recycling,etc...)
 4. **BCP** ( [Business Care Path](https://www.odicforcesounds.com/#/business/care/path) )
     - Materials, Human resources, Company Choices. Everything can become better.
-5. **PCP** ( [Proprieties Owners](https://www.odicforcesounds.com/#/business/care/path/proprieties) )
+5. **POP** ( [Proprieties Owners Path](https://www.odicforcesounds.com/#/business/care/path/proprieties) )
     - Let them sleep, at least, let them take a bath, at least...
     
 Back to [Main Page](../../../../README.md)

@@ -11,4 +11,6 @@
 2. Title: ( Actions Path ) + GPS + Date ( Full )
 3. Concept Proof Duration.
 
+Read more about [actions](../../../../../Fragments/Privacy/README.md)
+
 Go back to [Main Page](../../../../../../../README.md)
