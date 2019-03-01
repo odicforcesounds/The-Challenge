@@ -7,7 +7,9 @@
 
 ## Hosting
 
-- Github + GitLab + Firebase
+- Github: wiki.odicforcesounds.com
+- GitLab:
+- Firebase: www.odicforcesounds.com
 
 ## Developers
 
@@ -15,7 +17,7 @@
 
 ## Business Challenge
 
-- [Read](../../../../Fragments/BrandsInterface)
+- [Read](../../../Fragments/BrandsInterface/README.md)
 
 ## Scope
 

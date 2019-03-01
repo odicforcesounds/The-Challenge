@@ -12,4 +12,4 @@
 - This OdicCoins Should have Expression in Reality, so a User can use it in a Store.
 - Optionaly this platform should offer a Store Place ( only to those ( individuals )) who Finish the Challenge!
 
-Go back to [Main Page](../../../../../../README.md)
+Go back to [Main Page](../../../../../../../README.md)
