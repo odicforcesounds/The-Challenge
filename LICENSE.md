@@ -1,12 +1,12 @@
 ODICFORCESOUNDS ETERNAL LICENSE 
 
-LICENSE="https://www.odicforcesounds.com/#/license"
+[LICENSE](https://www.odicforcesounds.com/#/license)
 
-LOVE="https://www.odicforcesounds.com/#/love"
+[LOVE](https://www.odicforcesounds.com/#/love)
 
 Copyright (c) 2050 odicforcesounds 
 
-DEVELOPERS AND CODERS LICENSE:
+PLAYERS, INVESTORS, DEVELOPERS and Next World Wide Generations LICENSE:
 
 Permission is NOT hereby granted, NOT free of charge, to any person obtaining a copy
 of this LOVE and associated documentation files (the "LOVE"), to deal
