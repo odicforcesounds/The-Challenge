@@ -1,12 +1,13 @@
-ODICFORCESOUNDS ETERNAL LICENSE 
+Main Concept [LICENSE](https://www.odicforcesounds.com/#/license)
 
-[LICENSE](https://www.odicforcesounds.com/#/license)
-
-[LOVE](https://www.odicforcesounds.com/#/love)
+World Wide [LOVE](https://www.odicforcesounds.com/#/love) Expression
 
 Copyright (c) 2050 odicforcesounds 
 
-PLAYERS, INVESTORS, DEVELOPERS and Next World Wide Generations LICENSE:
+PLAYERS, INVESTORS, DEVELOPERS and Next World Wide Generations ETERNAL LICENSE:
+
+You shall Start Doing the Best You can to Contribute to this Challenge!
+You shall Not deny to contribute to this Challenge!
 
 Permission is NOT hereby granted, NOT free of charge, to any person obtaining a copy
 of this LOVE and associated documentation files (the "LOVE"), to deal
@@ -25,3 +26,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE LOVE OR THE USE OR OTHER DEALINGS IN THE
 LOVE.
+
+
+back to [main page](./README.md)

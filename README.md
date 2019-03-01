@@ -79,5 +79,3 @@ So let's Read about Our <b>Challange</b>, which is about a Dream that is only in
 - "You are the Wood" : **America** - **[White Tiger](./letters/Tiger_America.md)**
    "I am the Fire" : **Asia** - **[Fire Dragon](./letters/Dragon_Asia.md)**
 - Which means: 1 + 1 = 1 OR 3 ([Tao](https://www.odicforcesounds.com/#/tao))
-
-back to [main page](../README.md)
