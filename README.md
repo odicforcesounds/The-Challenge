@@ -54,7 +54,7 @@ So let's Read about Our <b>Challange</b>, which is about a Dream that is only in
 
 - We always need a Path or a Roadmap.
 - In this case the [Paths](./docs/Tao/Fragments/Path/README.md) are for <b>Players</b> and the Roadmap to <b>Developers</b>.
-- To Motivate You to participate in this Challenge, I include All (Players, Developers, Investors, and All next Generations) in my [Eternal_License](./docs/LICENSE.md), therefor You Should accept to start participating <b>NOW</b>, if You wish to <b>NOT</b> be Included!
+- To Motivate You to participate in this Challenge, I include All (Players, Developers, Investors, and All next Generations) in my [Eternal_License](./letters/Eternal_License.md), therefor You Should accept to start participating <b>NOW</b>, if You wish to <b>NOT</b> be Included!
 
 - Now, that You know more about my Motivations, lets talk about [Your](./docs/Tao/Fragments/UserInterface/README.md) motivations which drop You with a [Privacy](./docs/Tao/Fragments/Privacy/README.md) Problem that <b>Face</b> our Roadmap Dream, when using your [Devices](./docs/Tao/Fragments/Devices/README.md)!
 
