@@ -70,7 +70,7 @@ So let's Read about Our <b>Challange</b>, which is about a Dream that is only in
 
 ## <b>Challenge</b> Player Notes:
 
-- You need to wait! :(
+- You need to wait! Therefor, You should keep in mind everything you did read. You can even help!
 
 ## Sharing some <b>Poetry / Literature</b> just for Fun:
 
