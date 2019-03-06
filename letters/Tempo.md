@@ -1,18 +1,22 @@
+# Tempo
+
 Até parece que não sou dono do meu tempo.
 
 Porque falo com o tempo e o tempo não espera.
 
-Mas eu tenho de esperar. Que sensação estranha.
+Mas eu tenho de esperar.
 
-Não sei se devo continuar. 
+Que sensação estranha.
 
-Também não sei o que procurar!
+Não sei se devo continuar à procura.
 
-Aceito a casualidade do acaso. 
+Mas também não sei o que procurar!
 
-Não espero que me traga algo de novo.
+Afinal aceito a casualidade do acaso.
 
-Mas espero que me engane. 
+Não espero que o acaso me traga algo de novo.
+
+Mas espero que me engane.
 
 Da mesma forma que espero que o tempo espere por mim.
 
