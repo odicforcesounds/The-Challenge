@@ -15,7 +15,7 @@
 
 - A Simple Mental Exercise:
 
-> ## [OM](https://www.odicforcesounds.com/#/three/you/tell/me) [1] [Fantasy](./docs/Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "We Came In Peace - Trance Zone" {**m**}
+> ## [OM](https://www.odicforcesounds.com/#/three/you/tell/me) [1] [Fantasy](./docs/Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "[We Came In Peace](https://www.odicforcesounds.com/#/we/came/in/peace) - Trance Zone" {**m**}
 
 - Full in your Natural Air Box and stop Your breath for some moments.
 
