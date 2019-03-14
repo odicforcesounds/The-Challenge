@@ -23,7 +23,7 @@
 - ( it is only in your mind) 
 - Then we <b>Sum</b> that "Dream" to the last step, and we call this next step  <b>Spirit</b>, which is about that abstract capacity we all have, where we "produce" <b>Fantasy</b> while comparing our self's to those creations, which means, we are using: <b>Logic</b>:
 
-> ## '+' [Spirit](https://www.odicforcesounds.com/#/secret/responsability/exposed) [1] [Logic](./docs/Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "Our Eternal License" {**E**}
+> ## '+' [Spirit](https://www.odicforcesounds.com/#/secret/responsability/exposed) [1] [Logic](./docs/Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "[Our Eternal License](https://www.odicforcesounds.com/#/license)" {**E**}
 
 - By <b>Logic</b>, each person (men or woman) in the world, even having the same skills or (body tools), we assume that all develop  something different from all others. That is our <b>Spirit</b>! 
 
