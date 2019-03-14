@@ -15,7 +15,7 @@
 
 - A Simple Mental Exercise:
 
-> ## [OM](https://www.odicforcesounds.com/#/three/you/tell/me) [1] [Fantasy](./docs/Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "We Came In Peace - Trance Zone"
+> ## [OM](https://www.odicforcesounds.com/#/three/you/tell/me) [1] [Fantasy](./docs/Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "We Came In Peace - Trance Zone" {**m**}
 
 - Full in your Natural Air Box and stop Your breath for some moments.
 
@@ -23,28 +23,28 @@
 - ( it is only in your mind) 
 - Then we <b>Sum</b> that "Dream" to the last step, and we call this next step  <b>Spirit</b>, which is about that abstract capacity we all have, where we "produce" <b>Fantasy</b> while comparing our self's to those creations, which means, we are using: <b>Logic</b>:
 
-> ## '+' [Spirit](https://www.odicforcesounds.com/#/secret/responsability/exposed) [1] [Logic](./docs/Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "Our Eternal License"
+> ## '+' [Spirit](https://www.odicforcesounds.com/#/secret/responsability/exposed) [1] [Logic](./docs/Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "Our Eternal License" {**E**}
 
 - By <b>Logic</b>, each person (men or woman) in the world, even having the same skills or (body tools), we assume that all develop  something different from all others. That is our <b>Spirit</b>! 
 
 - This Concept of being Logicly Some "Fantastic-Self-Creation" give us a good suggestion as Slogan:
 
-- <b>Our Spirit - Our Style</b>
+- <b>Our [Spirit](https://www.odicforcesounds.com/#/respect/spiritual/life) - Our [Style](https://www.odicforcesounds.com/#/my/style)</b>
 
-- Styles are about <b>Colors</b> and Colors is one of the Brain Creation when listning <b>Music</b> which is made of <b>Sound</b>.
+- Styles are about <b>Colors</b> and Color is one of the Brain Creation when listning to <b>Music</b> which is made of <b>Sound</b>.
 
 - <b>Sound</b> is an <b>Expression</b> of <b>Movement</b> in <b>Space</b>.
 
 - Share Your Voice Sound, Expressing Your Inner Self Creation.
 
-> ## = [Expression](https://www.odicforcesounds.com/#/expression) [1] [Application](./docs/Tao/Tao.md)
+> ## = [Expression](https://www.odicforcesounds.com/#/expression) [1] [Application](./docs/Tao/Tao.md) : (Tao) - "Real Time [Shamanic Quest Dream](https://www.odicforcesounds.com/#/magic/fire) " {c2}
 
 - I don't know about your Sound...
 - But if someone else above yourself did listen to...
-- Then You can share with them about those effects.
+- Then You can share with them about those effects, creating more sound effects using sound+Verbal objectivity.
 - We call that <b>Science</b>!
 
->>>>>>> ### WHAT!? :) 
+>>>>>>> ### WHAT!? :)
 
 Yes, <b>children</b> and "non-rational" <b>animals</b> are doing <b>Science</b> from the day they were born.
 
