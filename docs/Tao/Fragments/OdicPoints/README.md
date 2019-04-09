@@ -26,4 +26,14 @@ For those who don't have the will to clean or **help** Nature environment, becau
 
 Earn **Points**, earn **Game status**, earn **Professional Status**, earn **Social Status**, earn **Life experience**, earn Personal and Community **Business** Gratitude!
 
+### Note: 
+
+How much is the Value of a Choice that doesn't Have Value? Maybe there is no Value, therefor we can exchange what doesn't have any Numeric Value with something that does have. Let us create a simple possible example:
+
+Lets say "you" did made some action that benefit others with sucess. You got one single "Coin / Point" that have only the Value of a choice. Those who have business, agree that a Choice who cares others have no Value. Then it would be possible to exchange one single "Coin / Point" with a reward that have the same Value ( The value of Choice ).
+
+This Take us to the condition, where everyone ( not excluding anyone ), can help each others without "loosing" anything at all because there is not Value related to a choice who cares.
+
+Imagine You have X point in this challenge and you need to eat something but you have no money. All brands registered in this challenge, should accept to exchange one "coin / point" with food that clear your need.
+
 Back to [Main Page](../../../../README.md)
