@@ -14,7 +14,7 @@ Verificação da aplicação do conhecimento associado, para servir cuidar do me
 
 <b>C</b>aminho do <b>C</b>uidado dos <b>A</b>nimais:
 
-1. Ajuda de animais abandonados.
+1. Ajuda de animais abandonados e\ou selvagens.
 2. Alimentação e Vacinação.
 3. Estadia: "Casota" e Acompanhamentos
 
@@ -22,6 +22,6 @@ Verificação da aplicação do conhecimento associado, para servir cuidar do me
 
 1. Ajuda de pessoas em estado de pobreza.
 2. Alimentação, Água, Roupa, Dormida, Vacinação, Banho, Companhia.
-3. Estadia: Quarto e Acompanhamentos
+3. Estadia: Quarto e Acompanhamentos educacionais
 
 [voltar](./README.md) para a página inicial
