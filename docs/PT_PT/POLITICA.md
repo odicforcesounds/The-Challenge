@@ -2,7 +2,7 @@
 
 ## Governo, Estado e Bancos
 
-Como podem imaginar ao ler e pensar o que lêm, estamos a falar de energia que representa valor e\ou gasto e\ou serviço e\ou trabalho e\ou atenção, que merece ser retribuída pois é essa a função actual de qualquer trabalho do mundo. 
+Como podem imaginar ao ler e pensar o que lêm, estamos a falar de energia que representa valor e\ou gasto e\ou serviço e\ou trabalho e\ou atenção, que merece ser retribuída pois é essa a função actual de qualquer trabalho do mundo. Tanto é que curiosamente bancos públicos como a CGD cobra por atendimento ao calcão (3€). Três euros por breves minutos de atenção.
 
 Cada [Moeda](./MOEDA.md) representa valor e esse valor deverá ter expressão na realidade. Como tal é o vosso dever colaborar. Caso contrário será necessário criar uma nova economia paralela, tal como a Bitcoin onde a energia é medida pelo processamento de dados dos computadores, sendo que neste nosso caso, são processadores humanos.
 
