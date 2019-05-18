@@ -1,4 +1,4 @@
-# Motivações Política
+# Motivações Políticas
 
 ## Governo, Estado e Bancos
 
