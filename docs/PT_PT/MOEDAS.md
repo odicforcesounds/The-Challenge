@@ -2,6 +2,8 @@
 
 Expressões Numéricas que representam Valor
 
+Nota: Gostemos ou não, o dinheiro é propriedade de solução, pois sem dinheiro o governo e\ou o estado e\ou uma maioria de pessoas que fazem parte, não querem saber e\ou não mostram interesse em participar para melhorar as condições de fragilidade de terceiros, para torna-los mais "fortes" e dessa forma serem igualmente livres de escolher algo melhor para elas. Além disso, todos tentamos quantificar as propriedades do Ser, associadas às várias qualidades do Ser.
+
 Referência aos pontos da competição [industrial](./INDUSTRIA.md).
 
 Em função de cada acção aprovada, o "jogador", ganha um ponto que é representativo de 2 caminhos e\ou escolhas e que subdividem-se em 3 mais.
