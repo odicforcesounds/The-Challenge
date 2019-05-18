@@ -2,7 +2,7 @@
 
 1. [Introdução](./INTRO.md) - breve introdução
 2. [Aplicação](./APP.md) - explicação da aplicação
-3. [Conceitos](./) - descrição dos conceitos usados
+3. [Conceitos](./CONCEITOS.md) - descrição dos conceitos usados
 4. [Desafio](./DESAFIO.md) - descrição dos desafios
 5. [Avaliações](./AVALIA.md) - descrição do método das avaliações
 6. [Pontos](./PONTOS.md) - o que são pontos e para que servem
