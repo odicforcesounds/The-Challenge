@@ -13,5 +13,5 @@
 11. [Empresas](./EMPRESAS.md) - alvos fantásticos ( marcas e\ou logos )
 12. Competição [Industria](./INDUSTRIA.md) - alvos principais
 13. [Política](./POLITICA.md) - decisões sobre questões legais e políticas, na adaptação das novas realidades.
-14. [Educação](./EDUCA.md) - breve descrição sobre as mesmasfunções na educação
+14. [Educação](./EDUCA.md) - breve descrição sobre as mesmas funções na educação
 15. [Fantasia](./FANTASIA.md) - breve descrição sobre "o que é a fantasia" e para que serve.
