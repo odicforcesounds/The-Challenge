@@ -11,7 +11,9 @@
 9. [Licença](./LICENCA.md) - estás incluid@ nesta licença eterna
 10. [Projecto](./PROJECTO.md) - desenvolvimento do código
 11. [Empresas](./EMPRESAS.md) - alvos fantásticos ( marcas e\ou logos )
-12. Competição [Industria](./INDUSTRIA.md) - alvos principais
+12. Competição [Industrial](./INDUSTRIA.md) - alvos principais desta solução e\ou desta competição
 13. [Política](./POLITICA.md) - decisões sobre questões legais e políticas, na adaptação das novas realidades.
 14. [Educação](./EDUCA.md) - breve descrição sobre as mesmas funções na educação
 15. [Fantasia](./FANTASIA.md) - breve descrição sobre "o que é a fantasia" e para que serve.
+16. [Lógica](./LOGICA.md) - breve descrição sobre os ensinamentos dos 3 macacos
+17. [Caminhos](./CAMINHOS.md) - descrição dos caminhos desta aplicação
