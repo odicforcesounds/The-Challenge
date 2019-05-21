@@ -1,9 +1,9 @@
 # Desafio Mundial
 
 1. [Introdução](./INTRO.md) - breve introdução dos objectivos no objecto de função desta aplicação (pessoas)
-2. [Aplicação](./APP.md) - breve explicação da aplicação do objecto de função nos objectos da função.
-3. [Conceitos](./CONCEITOS.md) - breve descrição dos conceitos usados para serem função de guia dos objectos de função desta aplicação.
-4. [Desafio](./DESAFIO.md) - breve descrição dos desafios que esta solução usa como objecto de função.
+2. [Aplicação](./APP.md) - breve explicação da aplicação do objecto de função nos objectos da função. (pessoas)
+3. [Conceitos](./CONCEITOS.md) - breve descrição dos conceitos usados para serem função de guia dos objectos de função desta aplicação. (pessoas)
+4. [Desafio](./DESAFIO.md) - breve descrição dos desafios que esta solução usa como objecto de função. 
 5. [Avaliações](./AVALIA.md) - breve descrição dos métodos de avaliação, do uso dos objectos que são função da solução (pessoas)
 6. [Pontos](./PONTOS.md) - breve descrição sobre "o que são pontos, para que servem e como adquiri-los" (expressões numéricas)
 7. [Moedas](./MOEDAS.md) - breve descrição sobre "o que são moedas e como usa-las" (expressões numéricas) que representam valor
