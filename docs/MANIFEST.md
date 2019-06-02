@@ -1,7 +1,7 @@
 # Manifest
 > **FILE**: README.MD <br>
 > **USAGE**: READ & CLICK <br>
-> **DESCRIPTION**: [First Contact - Path of Shields](https://odicforcesounds.bandcamp.com/track/first-contact-path-of-shields)  <br>
+> **DESCRIPTION**: [First Contact - Path of Shields](https://odicforcesounds.bandcamp.com/track/first-contact-path-of-shields-2)  <br>
 > **OPTIONS**: Follow the [Fun](https://odicforcesounds.bandcamp.com/track/fuck-politic-sex-is-fun-vs-fuck-sex-politic-is-fun)-[tool](https://odicforcesounds.bandcamp.com/track/we-are-tools-objects-of-expression)  <br>
 > **REQUIREMENTS**: ENGLISH + [TIME](https://odicforcesounds.bandcamp.com/track/running-out-of-time-no-turning-back) + [BRAIN](https://odicforcesounds.bandcamp.com/track/brain-chilout) <br>
 > **BUGS**: I am part of the bug. <br>
