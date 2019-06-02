@@ -1,9 +1,9 @@
 # The World In Progress
 
-- click [here](https://wiki.odicforcesounds.com) to return to the blog
+## - Click [here](https://wiki.odicforcesounds.com) to return to the main page (Blog)
 
-- click [here](./MANIFEST.md) to read my Manifest.
+## - Click [here](./MANIFEST.md) to read my Manifest
 
-- Click [here](./EN_EN/README.md) to read the English Version.
+## - Click [here](./EN_EN/TOPICLIST.md) to read the English Version
 
-- Clica [aqui](./PT_PT/README.md) para ler a versão em Português.
+## - Clica [aqui](./PT_PT/README.md) para ler a versão em Português

@@ -28,4 +28,4 @@
 - Rate Menu getblockedState
 - User need to make another action.
   
-Back to [Main Page](../../../../README.md)
+Back to [Main Page](../../../EN_EN/TOPICLIST.md)
