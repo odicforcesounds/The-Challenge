@@ -4,7 +4,7 @@
 var user_profile = {
   'firstName': 'Oscar',
   'lastName': 'FM',
-  'picture': 'https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace5.jpg',
+  'picture': '<img  width="290px" height="290" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace5.jpg">',
   'location': 'Portugal',
   'city': 'Porto',
   'logo': '<a href="https://odicforcesounds.com/" target="_blank"><img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt="We Came in Peace"></a>',
@@ -49,7 +49,7 @@ document.getElementById('player1').innerHTML = user_profile.player1
 
 // SubMenus
 document.getElementById('welcome-message').innerHTML = user_profile.blog
-
+document.getElementById('picture').innerHTML = user_profile.picture
 // SOCIAL MEDIA LINKS
 document.getElementById('blogspot').innerHTML = '<a href=' + user_profile.social_media[5].link + ' ' + 'target=_blank>Blogspot</a>'
 document.getElementById('facebook').innerHTML = '<a href=' + user_profile.social_media[0].link + ' ' + 'target=_blank>Facebook</a>'
