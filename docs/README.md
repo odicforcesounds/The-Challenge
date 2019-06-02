@@ -1,6 +1,6 @@
 # The World In Progress
 
-- click [here](https://rakzhodekams.github.io/Manifest/) to return to the blog
+- click [here](https://wiki.odicforcesounds.com/) to return to the blog
 
 - click [here](./MANIFEST.md) to read my Manifest.
 
