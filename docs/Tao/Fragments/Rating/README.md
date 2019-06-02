@@ -2,4 +2,4 @@
 - If Video is denied 3 times in sequence, video is deleted and user gain 0 points.
 - if video is reported 3 times in sequence : this video goes into the <b>[Black Box](../BlackBox/README.md)</b>
 
-Back to [Main Page](../../../EN_EN/TOPICLIST.md)
+Back to [Main Page](../../../EN_EN/README.md)

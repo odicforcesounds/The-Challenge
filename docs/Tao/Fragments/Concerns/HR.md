@@ -5,6 +5,6 @@
 - Rights ask Duties, and Duties ask Actions.
 - Do You know a better way to Educate?
 
-All other Organic Living Beings work be the same Law! 
+All other Organic Living Beings work be the same Law!
 
-Back to [Main Page](../../../EN_EN/TOPICLIST.md)
+Back to [Main Page](../../../EN_EN/README.md)
