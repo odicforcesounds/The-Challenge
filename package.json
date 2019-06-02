@@ -1,8 +1,8 @@
 {
-  "name": "js",
+  "name": "challenge",
   "version": "1.0.0",
   "description": "Building",
-  "main": "day.js",
+  "main": "someday.js",
   "scripts": {
     "test": "npm "
   },
