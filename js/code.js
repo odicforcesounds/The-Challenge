@@ -50,9 +50,12 @@ firstPost.innerHTML = user_profile.postsList[0].content
 const button = document.getElementById('btn')
 button.addEventListener('click', nextPage )
 function nextPage(e) {
-  e.preventDefault();
-  let post = document.getElementById('pcode1')
-  post.innerHTML = user_profile.postsList[1].content
+  let i = 0;
+  while( i < user_profile.postsList[i].content.length) {
+    let post = document.getElementById('pcode1')
+    post.innerHTML = user_profile.postsList[i].content
+    i++    
+  }
 }
 // GITHUB FOOT
 const gh = document.getElementById('github')

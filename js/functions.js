@@ -5,8 +5,7 @@ var user_profile = {
   'intro': '<b>A B C D F G</b> <br><br> JavaScript Functions',
   'player1': '<iframe style="border: 0; width: 50%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=997256964/size=small/bgcol=333333/linkcol=0f91ff/track=4209853396/transparent=true/" seamless><a href="http://odicforcesounds.bandcamp.com/album/spiritual-algorithm">Spiritual Algorithm by Odicforcesounds</a></iframe>',
   'pnote': 'So here I am Diving Into the Code I should to finish my Quest!',
-  'pcode1': ' <br><h1>Q: You know what is Fun?</h1><br><h1>A: Yes, Actions! So type those codes and see ( test ) their behaviors, while you learn!</h1> ',
-  'pcode2': '',
+  'pcode1': '<h2> - Q: You know what is Fun?</h2 <br> - A: Yes, Actions! <br> - % Master: So type those <b>codes</b> that exist there ( as you can see them ) and type them with your fingers, and see ( test ) their behaviors, while you learn! ',
   'logo': '<a href="https://odicforcesounds.com/" target="_blank"><img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt=""></a>',
   'open_source': [
     {
