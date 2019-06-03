@@ -108,11 +108,13 @@ nav {
     color:yellow;
     display: flex;
 }
+
 #code {
     background-color:black;
     color:yellow;
     display: flex;
 }
+
 #wiki {
     background-color:black;
     color:greenyellow;
@@ -161,7 +163,7 @@ nav {
 
 #fun {
     background-color:black;
-    color:yellow;
+    color:orange;
     display: flex;
 }
 
