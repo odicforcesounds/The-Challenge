@@ -128,7 +128,14 @@ nav {
     height: 65px;
 }
 
-
+#btn {
+    background-color: darkblue;
+    align-content: flex-end;
+    float: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.2rem;
+    color: yellow;
+}
 #pcode1 {
     width: 90%;
     align-content: center;

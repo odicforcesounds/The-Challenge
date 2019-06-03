@@ -1,13 +1,13 @@
 'use strict'
 
 // eslint-disable-next-line camelcase
-var user_profile = {
+const user_profile = {
   'firstName': 'Oscar',
   'lastName': 'FM',
   'picture': '<img  width="290px" height="290" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace5.jpg">',
   'location': 'Portugal',
   'city': 'Porto',
-  'logo': '<a href="https://odicforcesounds.com/" target="_blank"><img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt="We Came in Peace"></a>',
+  'logo': '<a href="https://odicforcesounds.com/" target="_blank"><img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt=""></a>',
   'player1': '<iframe style="border: 0; width: 50%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3048830850/size=small/bgcol=333333/linkcol=0f91ff/track=2560697642/transparent=true/" seamless><a href="http://odicforcesounds.bandcamp.com/album/emotional-signals">Emotional Signals by Odicforcesounds</a></iframe>',
   'slogan': 'If Time is build within our selfs, then Time is our selfs, as result of Time it self.',
   'website': 'https://www.odicforcesounds.com/',
