@@ -89,7 +89,7 @@ nav {
 
 #fun {
     background-color:black;
-    color:orange;
+    color:lightblue;
     display: flex;
 }
 
@@ -117,18 +117,6 @@ nav {
 
 
 #pcode1 {
-    width: 90%;
-    align-content: center;
-    background-color: rgb(221,255,155);
-    text-align: justify;
-    font-size: 1.3rem;
-    font-family: sans-serif;
-    width:94%;
-    margin:2%;
-    padding: 1%;
-}
-
-#pcode2 {
     width: 90%;
     align-content: center;
     background-color: rgb(221,255,155);
@@ -169,6 +157,6 @@ nav {
 
 #sm a{
     color:lightblue;
-    font-size: 1rem;
+    font-size: 1.2rem;
     text-decoration: none;
 } 
