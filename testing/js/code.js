@@ -170,20 +170,23 @@ firstPost.innerHTML = user_profile.postsList[0].content
 let buttonNext = document.getElementById('btnNext')
 let postList = 1
 let i = 1
-buttonNext.onclick = function() {
+let count = 1
+
+buttonNext.onclick = function(e) {
   let textContent = document.getElementById('pcode1')
   let postList = user_profile.postsList[i].content.length
   textContent.innerHTML = user_profile.postsList[i].content
+  count += 1
   postList += 1
   i += 1
 }
-
 // Go Back
 let buttonBack = document.getElementById('btnBack')
-buttonBack.onclick = function() {
+buttonBack.onclick = function(e) {
   let textContent = document.getElementById('pcode1')
   let postList = user_profile.postsList[i].content.length
   textContent.innerHTML = user_profile.postsList[i].content
+  count -= 1
   postList -= 1
   i -= 1
 }
