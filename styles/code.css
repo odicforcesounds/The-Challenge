@@ -21,7 +21,12 @@ li {
 }
 #wiki {
     background-color:black;
-    color:greenyellow;
+    color:whitesmoke;
+    display: flex;
+}
+#music {
+    background-color:black;
+    color: grey;
     display: flex;
 }
 li a {
@@ -73,7 +78,7 @@ nav {
 
 #blog {
     background-color:black;
-    color:yellow;
+    color: aqua;
     display: flex;
 }
 #code {
@@ -102,7 +107,7 @@ nav {
 
 #fun {
     background-color:black;
-    color:rgb(0, 153, 255);
+    color:orange;
     display: flex;
 }
 
@@ -135,8 +140,8 @@ nav {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1.2rem;
     color: yellow;
-    padding: 1%;
-    margin: 1%;
+    padding: 1.3%;
+    margin: 1.3%;
 }
 #btnBack {
     background-color: darkblue;
@@ -145,8 +150,8 @@ nav {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1.2rem;
     color: yellow;
-    padding: 1%;
-    margin: 1%;
+    padding: 1.3%;
+    margin: 1.3%;
 }
 
 #pcode1 {
@@ -186,10 +191,11 @@ nav {
     text-align:center;
     color:yellow;
     margin-top: 1%;
+    font-size: 1.3rem;
 }
 
 #sm a{
     color:lightblue;
-    font-size: 1rem;
+    font-size: 1.5rem;
     text-decoration: none;
 } 
