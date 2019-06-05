@@ -1,0 +1,3 @@
+1. set all albums and tracks in JSON format.
+2. set all images and icons in JSON format.
+3. step by step, play with each step!
