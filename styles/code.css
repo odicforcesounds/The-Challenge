@@ -135,7 +135,8 @@ nav {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1.2rem;
     color: yellow;
-    padding: 1.5%;
+    padding: 1%;
+    margin: 1%;
 }
 #btnBack {
     background-color: darkblue;
@@ -144,7 +145,8 @@ nav {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1.2rem;
     color: yellow;
-    padding: 1.5%;
+    padding: 1%;
+    margin: 1%;
 }
 
 #pcode1 {
