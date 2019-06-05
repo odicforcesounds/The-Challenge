@@ -128,14 +128,25 @@ nav {
     height: 65px;
 }
 
-#btn {
+#btnNext {
     background-color: darkblue;
     align-content: flex-end;
     float: right;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1.2rem;
     color: yellow;
+    padding: 1.5%;
 }
+#btnBack {
+    background-color: darkblue;
+    align-content: flex;
+    float: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.2rem;
+    color: yellow;
+    padding: 1.5%;
+}
+
 #pcode1 {
     width: 90%;
     align-content: center;

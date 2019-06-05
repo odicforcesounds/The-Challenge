@@ -148,6 +148,16 @@ nav {
     font-family: sans-serif;
 }
 
+#subtitle {
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    margin: 1.5%;
+    padding: .1.5%;
+    font-size: 1.3rem;
+    font-family: sans-serif;
+}
+
 #sm {
     background-color:darkblue;
     text-align:center;

@@ -132,6 +132,7 @@ nav {
     background-color: darkblue;
     align-content: flex-end;
     float: right;
+    margin-right: 1%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 1.2rem;
     color: yellow;
