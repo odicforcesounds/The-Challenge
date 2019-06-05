@@ -59,7 +59,10 @@ firstPost.innerHTML = user_profile.postsList[0].content
 
 // NEXT PAGE - UNDERSTANDING FUNCTIONS
 
-/* function nextPage(e) {
+// EXAMPLE USED ( IT WORKS WITH 2 ARRAYS ONLY
+// IF MORE THAN 2 ARRAYS, USER (ME) CAN ONLY SEE THE FIRST AND THE LAST
+// wORking ! 
+/* function nextPage(e) {  
   let i = 0;
   while( i < user_profile.postsList[i].content.length) {
     let post = document.getElementById('pcode1');
@@ -68,27 +71,34 @@ firstPost.innerHTML = user_profile.postsList[0].content
   }
 } */
 
-const = clickControl = function(user_profile.postsList(CountQueuingStrategy)) {
+// EXPLORING WHAT ELSE CAN I DO WITH THE SAME CONTENT
+// WHILE CARING TO FIND THE SOLUTION TO MY PROBLEM IN THIS PAGE
+// PER CLICK USER SEE NEXT ARRAY.CONTENT OF USER_PROFILE.POSTLIST{Object}
+// IF THIS DOENST MAKE ANY SENSE IT MEANS IT DOESNT, I AM LEARNING!
+// I COULD COPY AND PASTE OTHER EXAMPLES, BUT... THERE IS ALWAYS A BUT ( NICE BUTT )
+
+// NOT WORKING !!! 
+const clickControl = function(i) {
   i = 0;
-  let page = user_profile.postList[i];
-  let pageList = user_profile.postsList[l].content.length;
-  let button = document.getElementById('btn');
-  let click = button.addEventListener('click', nextPage );
-   
+  let page = document.getElementById('pcode1');
+  let pageList = user_profile.postsList[0].content.length;
+  
+  let btnclick = button.addEventListener('click', nextPage );
+  for(btnclick > i) {
+    if (btnclick === 1) {
+      page.innerHTML = user_profile.postsList[1].content
+    },
+    if (btnclick === 2) {
+      page.innerHTML = user_profile.postsList[2].content
+    },
+    if (btnclick === 3) {
+      page.innerHTML = user_profile.postList[3].content
+    }
+  }
 }
 
-while (pageList < click.button) {
-  if (page === 1) {
-    page.innerHTML = user_profile.postsList[1].content;
-  }
-  if (page === 2) {
-    page.innerHTML = user_profile.postsList[2].content;
-  }
-  if (page === 3) {
-    page.innerHTML = user_profile.postList[3].content
-  }
-  i++;
-}
+const button = document.getElementById('btn');
+
 // GITHUB FOOT
 const gh = document.getElementById('github')
 gh.innerHTML = '<a href=' + user_profile.open_source[0].link + ' ' + 'target=_blank>GitHub</a>'
