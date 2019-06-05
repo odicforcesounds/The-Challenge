@@ -4,7 +4,7 @@
 const user_profile = {
   'intro': [
     {
-      'TopMessage': '<b>A B C D F G</b> <br><br> Introduction to Web Technologies,<br> sharing them while I learn them and use them here!!'
+      'TopMessage': '<b>A B C D F G</b> <br> Introduction to Web Technologies,<br> sharing them while I learn them and use them here. <br> Check the Code, Follow my Dream!'
     }
   ],
   'player': [

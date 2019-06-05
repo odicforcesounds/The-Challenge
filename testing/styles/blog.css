@@ -105,7 +105,7 @@ nav {
 
 #blog {
     background-color:black;
-    color:yellow;
+    color: aqua;
     display: flex;
 }
 
@@ -117,7 +117,7 @@ nav {
 
 #wiki {
     background-color:black;
-    color:greenyellow;
+    color:whitesmoke;
     display: flex;
 }
 #game a{
@@ -125,7 +125,11 @@ nav {
     color: grey;
     display: flex;
 }
-
+#music {
+    background-color:black;
+    color: grey;
+    display: flex;
+}
 #posts {
     background-color: lemonchiffon;
     width:94%;
@@ -163,7 +167,7 @@ nav {
 
 #fun {
     background-color:black;
-    color:rgb(0, 153, 255);
+    color:orange;
     display: flex;
 }
 
@@ -171,17 +175,17 @@ nav {
     float: right;
     padding: 0.5px 10px 0.5px 10px;
 }
-
 #sm {
     background-color:darkblue;
     text-align:center;
     color:yellow;
     margin-top: 1%;
+    font-size: 1.3rem;
 }
 
 #sm a{
     color:lightblue;
-    font-size: 1rem;
+    font-size: 1.5rem;
     text-decoration: none;
 } 
 
