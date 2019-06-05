@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 // eslint-disable-next-line camelcase
 const user_profile = {
@@ -16,9 +16,7 @@ const user_profile = {
   'pnote': 'So here I am Diving Into the Code I should to finish my Quest!',
   'postsList': [
     {
-      'title': 'Introduction to Web Technologies',
-      'subtitle': 'The World of JavaScript',
-      'content': 'As much I understand <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>, we use it to serve us on how we organize <i>Data</i>, so we know how to <i> access </i> it when ever we wish to, and display it in our browsers in real-time. ' 
+      'content': 'As much I understand <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>, we use it to serve us on how we organize <i>Data</i>, so we know how to <i> access </i> it when ever we wish to, and display it in our browsers in real-time. '
     },
     {
       'content': 'In <b>JavaScript</b> we organize data in <b>arrays[]</b>, which style is based in <a href="https://www.json.org/" target="_blank">JSON</a>. This way we can build our <b>Objects{}</b>. '
@@ -129,7 +127,7 @@ const user_profile = {
       'content': 'The Coolest detail is: <b>Android</b> make a lot of use of <b>XML</b> technology, which will help me to simplify how this website will work. Maybe as a bridge to talk with Web clients [Computers] and Our Own Mobil Application clients that we need to define to build this challenge!! '
     },
     {
-      'content': 'Maybe is not a bad idea to organize one or more <b>XML</b> books to serve all domains of this project. Till now (2): the main domain and this subdomain :)  '
+      'content': 'Maybe is not a bad idea to organize one or more <b>XML</b> books to serve all domains of this project. Till now (1): This subdomain, since everything is hosted in GitHub :)  '
     },
     {
       'content': 'Anyway I made a Google search to compare <b>XML</b> vs <b>JSON</b> and I did find <a href="https://www.javatpoint.com/json-vs-xml" target="_blank">this</a> link, where we can read what we should use in our needs! To my Needs and to this Project-Page Needs, we need Both! So I will define some files for many proposes of this project! By the way, <b>Github</b> have awesome shares from awesome group of people who made the Web as it is! <b><a href="https://github.com/w3c/web-roadmaps" target="_blank">W3C</a></b>, which are who define the Web, and they share everything we need to help us in this choice as that link above. I have no experience or enough knowledge of <q>Project Design</q> but lets say, since XML is good for documentation and asked by Google to index page content, XML is useful to that propose, while is useful as well for Mobil Applications.'
@@ -138,31 +136,32 @@ const user_profile = {
       'content': 'Mr.JSON is part of JS World as XML. I need to follow the easy funny part of what is already defined by the <q>Oracle</q>: <a href="https://docs.oracle.com/en/database/oracle/oracle-database/12.2/adjsn/lot.html" target="_blank">JSON</a> !! <br><br> To continue... :p ' 
     }
   ],
-  'logo': '<img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt="">',  'open_source': [
+  'logo': '<img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt="">',
+  'open_source': [
     {
       'description': 'GitHub',
       'link': 'https://github.com/rakzhodekams'
     }
   ]
-};
+}
 
 // LOGO
-const logo = document.getElementById('logo');
+const logo = document.getElementById('logo')
 logo.innerHTML = user_profile.logo
 
 // INTRO
-const intro = document.getElementById('mintro');
+const intro = document.getElementById('mintro')
 intro.innerHTML = user_profile.intro[0].TopMessage
 
-const note = document.getElementById('pnote');
+const note = document.getElementById('pnote')
 note.innerHTML = user_profile.pnote
 
 // BANDCAMP TRACK
-const player = document.getElementById('player1');
+const player = document.getElementById('player1')
 player.innerHTML = user_profile.player[0].track
 
 // INSERT FIRST POST DATA
-const firstPost = document.getElementById('pcode1');
+const firstPost = document.getElementById('pcode1')
 firstPost.innerHTML = user_profile.postsList[0].content
 
 // document.getElementById('pcode1').innerHTML = user_profile.pcode1
