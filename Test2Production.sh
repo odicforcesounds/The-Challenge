@@ -16,6 +16,6 @@ cp testing/js/* js/
 
 echo "JS Files Copied"
 
-cp testing/styles/*.css styles/
+cp testing/styles/* styles/
 
 echo "CSS Files Copied"
