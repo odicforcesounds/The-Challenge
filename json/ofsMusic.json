@@ -1,0 +1,19 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "albums": [
+        {
+            "title": "",
+            "year": "",
+            "tracks": [
+                {
+                    "id":"01",
+                    "title": "",
+                    "link": "",
+                    "image": "",
+                    "player": "",
+                    "comments": ""
+                }
+            ]
+        }
+    ]
+}
