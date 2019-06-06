@@ -22,41 +22,38 @@
     <meta property="og:video:width" content="75%">
     <title>Learning JavaScript from Scratch</title>
     <script type="41d5750c8dad7e5471ccb266-text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-79929721-1', 'auto');ga('require', 'GTM-PDQR6KX');ga('send', 'pageview');</script>
-    <link type="text/css" rel="stylesheet" href="../styles/blog.css">
   </header>
   <body>
-
     <div id="container">
-      <div id="main">
-        <nav>  
-          <div id="head">
-            <ul>
-              <li><span id="logo"></span></li>
-              <li id="art"></li>
-              <li id="blog"></li>
-              <li id="code"></li>
-              <li id="dev"></li>
-              <li id="fun"></li>
-              <li id="game"></li>
-              <li><span id="hijkl">H,I,J,K,L</span></li>
-              <li id="music"></li>
-              <li id="wiki"></li>  
-            </ul>
-          </div>
-        </nav>
-
+        <div id="main">    
+            <nav>
+                <div id="head">  
+                    <ul>
+                        <li><span id="ofslogo"></span></li>
+                        <li id="ofsart"></li>
+                        <li id="ofsblog" onclick="inputChange()"></li>
+                        <li id="ofscode"></li>
+                        <li id="ofsdev"></li>
+                        <li id="ofsfun"></li>
+                        <li id="ofsgame"></li>
+                        <li><span id="hijkl">H,I,J,K,L</span></li>
+                        <li id="ofsmusic"></li>
+                        <li id="ofswiki"></li>  
+                    </ul>
+            </nav>
+        </div>
         <span id="btnLeft"></span>
         <span id="btnRight"></span>
         
         <section>
-          <p id="player"></p>
-          <div id="post" class="main-content">
+          <p id="player1"></p>
+          <div id="posts" class="main-content">
             <h3 id="topMessage"></h3>
-            <div id="intro"></div>
+            <div id="mintro"></div>
             <span id="picture" class="right"></span> 
-            <p id="welcome" class="left"></p>
-            <div id="note"></div>
-            <div id="code"></div>
+            <p id="welcome-message" class="left"></p>
+            <div id="pnote"></div>
+            <div id="pcode1"></div>
           </div>  
         </section>
         
@@ -64,6 +61,7 @@
           <div id="sm">
             <span id="blogspot"></span>
             <span id="facebook"></span>
+            <span id="github"></span>
             <span id="instagram"></span>
             <span id="mastodon"></span>
             <span id="tumblr"></span>
@@ -74,7 +72,10 @@
           </div>
         </footer>
 
-        <script src="../js/blog.js"></script>
+        <script src="./index.js"></script>
+        <!-- !!!: I Shouldn\'t put css here, but' -->
+        <link type="text/css" rel="stylesheet" href="../styles/blog.css">
+
       </div>
     </div>
   </body>
