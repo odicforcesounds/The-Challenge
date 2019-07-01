@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS Extension instructions</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20Extension%20instructions_files/jstree.js"></script>
+        <script src="Saxon-JS%20Extension%20instructions_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20Extension%20instructions_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="ixsl-extension" class="trail">Saxon Interactive Extensions ▷</li><li idt="instructions" class="trail">Extension instructions</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20Extension%20instructions_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="open" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="open" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="open" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="item">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="open"><span class="item">HTTP client</span><ul><li id="termination" class="empty"><span class="item">HTTP request termination</span></li></ul></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="item">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="open" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span><ul><li id="functions" class="open"><span class="item">Extension functions</span><ul><li id="apply" class="empty"><span class="item">ixsl:apply</span></li><li id="call" class="empty"><span class="item">ixsl:call</span></li><li id="eval" class="empty"><span class="item">ixsl:eval</span></li><li id="event" class="empty"><span class="item">ixsl:event</span></li><li id="get" class="empty"><span class="item">ixsl:get</span></li><li id="location" class="empty"><span class="item">ixsl:location</span></li><li id="page" class="empty"><span class="item">ixsl:page</span></li><li id="query-params" class="empty"><span class="item">ixsl:query-params</span></li><li id="source" class="empty"><span class="item">ixsl:source</span></li><li id="style" class="empty"><span class="item">ixsl:style</span></li><li id="window" class="empty"><span class="item">ixsl:window</span></li></ul></li><li id="instructions" class="open"><span class="hot">Extension instructions</span><ul><li id="remove-attribute" class="empty"><span class="item">ixsl:remove-attribute</span></li><li id="schedule-action" class="empty"><span class="item">ixsl:schedule-action</span></li><li id="set-attribute" class="empty"><span class="item">ixsl:set‑attribute</span></li><li id="set-property" class="empty"><span class="item">ixsl:set-property</span></li><li id="set-style" class="empty"><span class="item">ixsl:set-style</span></li></ul></li><li id="conversions" class="empty"><span class="item">JS/XDM Type Conversion</span></li></ul></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="closed"><span class="item">SaxonJS.transform</span></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="closed" id="conformance"><span class="item">Standards Conformance</span></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left">
+      <h1>Extension instructions</h1>
+
+      <p>A Saxon interactive extension instruction is invoked using a name such as
+            <code>&lt;ixsl:localname&gt;</code>.</p>
+
+      <p>The <code>ixsl</code> prefix (or whatever prefix you choose to use) must be associated with
+         the Saxon namespace URI <code>http://saxonica.com/ns/interactiveXSLT</code>. The prefix
+         must also be designated as an extension element prefix by including it in the
+            <code>extension-element-prefixes</code> attribute on the <code>xsl:stylesheet</code>
+         element, or the <code>xsl:extension-element-prefixes</code> attribute on any enclosing
+         literal result element or extension element.</p>
+
+      <p>However, top-level elements can be used without designating the prefix as an extension
+         element prefix.</p>
+
+      <p>The extension instructions are:</p>
+      <ul><li><p><span class="link" data-href="remove-attribute">ixsl:remove-attribute</span></p></li><li><p><span class="link" data-href="schedule-action">ixsl:schedule-action</span></p></li><li><p><span class="link" data-href="set-attribute">ixsl:set‑attribute</span></p></li><li><p><span class="link" data-href="set-property">ixsl:set-property</span></p></li><li><p><span class="link" data-href="set-style">ixsl:set-style</span></p></li></ul>
+
+      
+      
+      
+      
+      
+
+   </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

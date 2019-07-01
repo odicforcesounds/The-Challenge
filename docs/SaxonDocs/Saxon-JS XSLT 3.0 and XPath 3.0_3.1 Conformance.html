@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS XSLT 3.0 and XPath 3.0/3.1 Conformance</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20XSLT%203.0%20and%20XPath%203.0_3.1%20Conformance_files/jstree.js"></script>
+        <script src="Saxon-JS%20XSLT%203.0%20and%20XPath%203.0_3.1%20Conformance_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20XSLT%203.0%20and%20XPath%203.0_3.1%20Conformance_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="conformance" class="trail">Standards Conformance ▷</li><li idt="xslt30" class="trail">XSLT 3.0 and XPath 3.0/3.1 Conformance</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20XSLT%203.0%20and%20XPath%203.0_3.1%20Conformance_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="closed" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="closed" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="closed" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="item">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="open"><span class="item">HTTP client</span><ul><li id="termination" class="empty"><span class="item">HTTP request termination</span></li></ul></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="item">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="closed" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span><ul><li id="functions" class="open"><span class="item">Extension functions</span><ul><li id="apply" class="empty"><span class="item">ixsl:apply</span></li><li id="call" class="empty"><span class="item">ixsl:call</span></li><li id="eval" class="empty"><span class="item">ixsl:eval</span></li><li id="event" class="empty"><span class="item">ixsl:event</span></li><li id="get" class="empty"><span class="item">ixsl:get</span></li><li id="location" class="empty"><span class="item">ixsl:location</span></li><li id="page" class="empty"><span class="item">ixsl:page</span></li><li id="query-params" class="empty"><span class="item">ixsl:query-params</span></li><li id="source" class="empty"><span class="item">ixsl:source</span></li><li id="style" class="empty"><span class="item">ixsl:style</span></li><li id="window" class="empty"><span class="item">ixsl:window</span></li></ul></li><li id="instructions" class="open"><span class="item">Extension instructions</span><ul><li id="remove-attribute" class="empty"><span class="item">ixsl:remove-attribute</span></li><li id="schedule-action" class="empty"><span class="item">ixsl:schedule-action</span></li><li id="set-attribute" class="empty"><span class="item">ixsl:set‑attribute</span></li><li id="set-property" class="empty"><span class="item">ixsl:set-property</span></li><li id="set-style" class="empty"><span class="item">ixsl:set-style</span></li></ul></li><li id="conversions" class="empty"><span class="item">JS/XDM Type Conversion</span></li></ul></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="open"><span class="item">SaxonJS.transform</span><ul><li id="parameters" class="empty"><span class="item">Supplying stylesheet parameters</span></li></ul></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="open" id="conformance"><span class="item">Standards Conformance</span><ul><li id="xslt30" class="empty"><span class="hot">XSLT 3.0 and XPath 3.0/3.1 Conformance</span></li><li id="dynamic-xpath" class="empty"><span class="item">Dynamic XPath evaluation</span></li><li id="regex" class="empty"><span class="item">Regular Expressions</span></li><li id="limits" class="empty"><span class="item">Limits</span></li><li id="saxon-extensions" class="empty"><span class="item">Saxon Extensions</span></li></ul></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left">
+      <h1>XSLT 3.0 and XPath 3.0/3.1 Conformance</h1>
+      
+      <p>Saxon-JS implements XSLT 3.0 <b>Basic</b> Level with some restrictions, and some of the optional
+         features that are not included in the W3C-defined Basic level - namely the <b>XSLT 1.0
+            backwards compatibility</b>, <b>dynamic evaluation</b>, and <b>XPath 3.1</b> features.</p>
+      
+      <p>As an implementation at the basic conformance level, Saxon-JS <b>does not implement</b> the
+         following optional features of the specification: <b>schema-awareness</b>,
+         <b>serialization</b>, <b>streaming</b>, <b>higher-order functions</b>, and
+         <b>disable-output-escaping</b>.</p>
+      
+      <h3>Restrictions</h3>
+      
+      <p><b><code>xsl:assert</code></b> and <b><code>xsl:global-context-item</code></b> are not implemented.</p>
+      
+      <p><b><code>xsl:function</code></b>: Memo functions (<code>xsl:function cache="yes"</code>) are
+         not implemented.</p>
+      
+      <p><b><code>xsl:key</code></b>: Composite keys (<code>xsl:key composite="yes"</code>) are
+         not implemented.</p>
+      
+      <p><b><code>xsl:number</code></b>: the <code>lang</code> attribute is ignored (the
+         default language is English). Cannot handle non-BMP characters in the <code>format</code>
+         picture string. The format tokens that are recognised are the same as for the
+         <code>fn:format-integer()</code> function, see below.</p>
+      
+      <p><b><code>xsl:source-document</code></b>: From Saxon 9.9, the use of the <code>xsl:source-document</code>
+         instruction is no longer supported when exporting for use with Saxon-JS 1.x. For SEFs generated using 9.8 or
+         earlier, the <code>xsl:source-document</code> instruction is only implemented in non-streaming mode (i.e. as
+         long as the value of the <code>streaming</code> attribute is not <code>"yes"</code>), since streaming is not
+         implemented. However, note that Saxon-EE 9.8 and earlier compiles such an instruction into a call of
+         <code>doc()</code>, and since this performs a synchronous fetch (see below) it is therefore not recommended. </p>
+      
+      <p><b>Accumulators:</b></p>
+      <ul>
+         <li>accumulator values are attached to DOM nodes in situ. This means a DOM
+            node can't have different values for the same accumulator name in different transformations.
+            This is likely to be a permanent restriction. Advice for users, in particular: do not use
+            accumulators on the HTML document, because it is mutable.</li>
+         <li>the <code>use-accumulators</code> attribute on <code>xsl:mode</code>,
+            <code>xsl:merge-source</code>, and <code>xsl:source-document</code> is ignored. All
+            accumulators are applicable to all documents. Error XTDE3362 is never raised.</li>
+      </ul>
+      
+      <!--<p>The use of collations is implemented for XPath functions (<code>fn:compare</code>,
+      <code>fn:collation-key</code>, <code>fn:contains-token</code>  etc.) but not with XSLT
+      instructions (<code>xsl:sort</code>, <code>xsl:for-each-group</code>, <code>xsl:key</code>,
+      etc.) The default is the Unicode codepoint collation. The HTML ASCII case-insensitive
+      collation is also available. Currently, if any collation from the UCA family is requested,
+      then the codepoint collation is used.</p>-->
+      
+      <p><b>Collations</b>: The default is the Unicode codepoint
+         collation. The HTML ASCII case-insensitive collation is also available. Currently, if any
+         collation from the UCA family is requested, then the
+         codepoint collation is used. In addition, collation related attributes on
+         <code>xsl:sort</code> (such as <code>lang</code>) have no effect. Note that collations can
+         also be supplied using the <span class="link bodylink code" data-href="/api/transform">SaxonJS.transform()</span> option
+         <code>collations</code>.</p>
+      
+      <p><b>Serialization</b>: The implementation of <code>fn:serialize()</code> in Saxon-JS is
+         non-conformant. Since Saxon-JS 1.1.0, serialization for the JSON output method is usable,
+         though there are a number of restrictions (see below). For all other output methods
+         (including the default, XML output), use in production is discouraged, since it may lead to
+         unexpected results. The implementation was primarily designed for use with our debugging, and
+         may be useful to developers for that purpose. It does not conform to all the rules defined for
+         the function in the XPath 3.0/3.1 specification, and in addition produces serializations of
+         arrays and maps. (See <a class="bodylink" href="https://saxonica.plan.io/boards/5/topics/6696">Issues with serialize function</a> forum post.)</p>
+      
+      <p><b>Serialization to JSON</b>: Available since Saxon-JS 1.1.0, but with the following
+         restrictions for the relevant serialization parameters:</p>
+      <ul>
+         <li><code>allow-duplicate-names</code> is implemented</li>
+         <li><code>byte-order-mark</code> is ignored, the default is "no"</li>
+         <li><code>encoding</code> is ignored, the default is "utf-8"</li>
+         <li><code>indent</code> is ignored, no extra whitespace is added</li>
+         <li><code>json-node-output-method</code> is ignored, serialization of nodes calls
+            <code>fn:serialize()</code> with options <code>map{"method":"xml",
+               "omit-xml-declaration":"yes"}</code></li><!-- TODO more? -->
+         <li><code>media-type</code> is ignored</li>
+         <li><code>normalization-form</code> is ignored, the default is "none"</li>
+         <li><code>use-character-maps</code> is ignored.</li>
+      </ul>
+      
+      <p><b>XML Parsing</b>: The XML parser used depends on the JavaScript platform. When running in
+         the browser, the browser's XML parser is used. Parsers in the JavaScript world are generally
+         not highly conformant. In particular they typically do not handle DTDs. This affects the
+         results of certain system functions:</p>
+      
+      <ul>
+         <li><code>unparsed-entity-uri()</code> and <code>unparsed-entity-system-id()</code> behave as
+            if the document contains no unparsed entities</li>
+         <li>the <code>id()</code> and <code>element-with-id()</code> functions select those elements
+            returned by the DOM method <code>getElementById()</code> (which returns elements with the
+            given id)</li>
+         <li>the <code>idref()</code> function always returns an empty sequence.</li>
+      </ul>
+      
+      <p><b>Regular Expressions</b>: see <span class="link bodylink" data-href="/conformance/regex">Regular Expressions</span>.</p>
+      
+      <p><b>Dynamic evaluation</b>: for details and restrictions using <code>xsl:evaluate</code> see
+         <span class="link bodylink" data-href="/conformance/dynamic-xpath">Dynamic XPath evaluation</span>.</p>
+      
+      <p><b><code>fn:current-output-uri()</code></b> is not implemented.</p>
+      
+      <p><b><code>fn:format-date()</code>, <code>fn:format-dateTime()</code>,
+         <code>fn:format-time()</code></b>: the <code>language</code>,
+         <code>calendar</code> and <code>place</code> arguments in the five-argument form are not
+         supported (they are ignored). Cannot handle non-BMP characters in the picture string.</p>
+      
+      <p><b><code>fn:format-integer()</code></b>: the (3rd) <code>lang</code> argument is ignored (the
+         default language is English). Cannot handle non-BMP characters in the picture string. The
+         primary format tokens that are recognised are listed in the table below:</p>
+      <table>
+         <thead>
+            <tr>
+               <th>Primary token</th>
+               <th>Numbering sequence</th>
+            </tr>
+         </thead>
+         <tr>
+            <td>a</td>
+            <td>Alphabetic lower-case</td>
+         </tr>
+         <tr>
+            <td>A</td>
+            <td>Alphabetic upper-case</td>
+         </tr>
+         <tr>
+            <td>&amp;#x03b1;</td>
+            <td>Greek lower-case</td>
+         </tr>
+         <tr>
+            <td>&amp;#x0391;</td>
+            <td>Greek upper-case</td>
+         </tr>
+         <tr>
+            <td>i</td>
+            <td>Roman lower-case</td>
+         </tr>
+         <tr>
+            <td>I</td>
+            <td>Roman upper-case</td>
+         </tr>
+         <tr>
+            <td>w</td>
+            <td>Words lower-case</td>
+         </tr>
+         <tr>
+            <td>W</td>
+            <td>Words upper-case</td>
+         </tr>
+         <tr>
+            <td>Ww</td>
+            <td>Words title-case</td>
+         </tr>
+         <tr>
+            <td>&amp;#x2460;</td>
+            <td>Circled numbers</td>
+         </tr>
+         <tr>
+            <td>&amp;#x2474;</td>
+            <td>Parenthesized numbers</td>
+         </tr>
+         <tr>
+            <td>&amp;#x2488;</td>
+            <td>Dotted numbers</td>
+         </tr>
+         <tr>
+            <td>&amp;#x24f5;</td>
+            <td>Double circled numbers</td>
+         </tr>
+         <tr>
+            <td>&amp;#x2776;</td>
+            <td>Dingbat negative circled numbers</td>
+         </tr>
+         <tr>
+            <td>&amp;#x2780;</td>
+            <td>Dingbat circled sans-serif numbers</td>
+         </tr>
+         <tr>
+            <td>&amp;#x278a;</td>
+            <td>Dingbat negative circled sans-serif numbers</td>
+         </tr>
+         <tr>
+            <td>&amp;#x3220;</td>
+            <td>Parenthesized ideograph</td>
+         </tr>
+         <tr>
+            <td>&amp;#x3280;</td>
+            <td>Circled ideograph</td>
+         </tr>
+      </table>
+      
+      <p><b><code>fn:format-number()</code></b>: Cannot handle non-BMP characters in the picture string.</p>
+      
+      <p><b><code>fn:json-to-xml()</code></b>: The options argument is ignored. If duplicate keys are
+         present then (as with JavaScript <code>JSON.parse()</code>) the last one wins. No escaping of
+         special characters takes place. Unpaired surrogates are not detected; they result in unpaired
+         surrogates in the generated XML. The lexical representation of numbers in the source JSON is
+         not retained. The order of entries in a JSON object is not retained. Since the options
+         parameter has no effect, Saxon does not validate its contents.</p>
+      
+      <p><b><code>fn:transform()</code></b> is not implemented.</p>
+      
+      <p><b><code>fn:uri-collection()</code></b>: the function is available, but does nothing useful -
+         the result is always an empty sequence, regardless of the URI supplied.</p>
+      
+      <p>Since higher-order functions are not implemented, XPath functions such as the following are
+         not supported: <code>fn:function-lookup()</code>, <code>fn:sort()</code>, <code>fn:apply()</code>,
+         <code>fn:load-xquery-module()</code>.</p>
+      
+      
+      <h3>Implementation details</h3>
+      
+      <p><b>HTML and namespaces</b>: When XPath expressions and XSLT match patterns are used in
+         conjunction with the HTML DOM (as distinct from an XML DOM), special matching rules apply
+         relating to the case of element and attribute names, and the use of namespaces. Regular
+         elements and attributes are treated as being in no namespace, and their names are always
+         written in lower-case regardless of the actual case used in the HTML page. For further
+         information see <span class="link bodylink" data-href="/development/source-documents">Source
+            documents</span>.</p>
+      
+      <p><b><code>xsl:strip-space</code></b> is implemented by in-situ modification of supplied input
+         documents: this means that on completion of the transformation the source documents will have
+         been altered to remove whitespace as directed by the stylesheet. The source document is also
+         modified to replace CDATA nodes by text nodes.</p>
+      
+      <p><b><code>fn:doc()</code></b> and <b><code>fn:document()</code></b>: these functions perform a
+         synchronous XML document fetch from the server. For an asynchronous fetch use <span class="link bodylink code" data-href="/ixsl-extension/instructions/schedule-action">ixsl:schedule-action/@document</span>.</p>
+      
+      <p><b><code>fn:element-available()</code></b> and <b><code>fn:function-available()</code></b> are
+         normally evaluated at compile time (because the argument will usually be known statically).
+         When Saxon-EE is run with the option <code>-target:JS</code> then compile-time evaluation of
+         these functions (for example, in a <code>use-when</code> attribute) will reflect knowledge of
+         what functions and instructions are implemented in Saxon-JS. If for some reason these
+         functions are evaluated at run-time, then:</p>
+      <ul>
+         <li><code>function-available()</code> downloads a list of available functions from the file
+            <code>opt/functions.json</code> and returns true if the function is present in the list
+            (or if it is a user-defined function in the stylesheet, of course)</li>
+         <li><code>element-available()</code> simply returns true.</li>
+      </ul>
+      
+      <p><b><code>fn:normalize-unicode()</code></b>: This function invokes the JavaScript function
+         <code>String.normalize()</code> if implemented in the browser; if it is not available in
+         the browser then the function returns the input string unchanged. At the time of writing the
+         function is available in some versions of Firefox and Chrome.</p>
+      
+      <p>See also <span class="link bodylink" data-href="/conformance/limits">Limits</span> - for information on the
+         implementation of certain data types, etc. </p>
+      
+   </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

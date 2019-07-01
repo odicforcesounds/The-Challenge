@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS Handling client system events</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20Handling%20client%20system%20events_files/jstree.js"></script>
+        <script src="Saxon-JS%20Handling%20client%20system%20events_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20Handling%20client%20system%20events_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="development" class="trail">Developing Applications ▷</li><li idt="system-events" class="trail">Handling client system events</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20Handling%20client%20system%20events_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="open" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="open" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="open" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="hot">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="closed"><span class="item">HTTP client</span></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="item">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="closed" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="closed"><span class="item">SaxonJS.transform</span></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="closed" id="conformance"><span class="item">Standards Conformance</span></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left">
+      <h1>Handling client system events</h1>
+
+      <p>As well as handling user interaction events on DOM elements (see <span class="link bodylink" data-href="../events">Handling user input events</span>), Saxon-JS also handles events raised by
+         objects such as <code>Window</code> that live outside the DOM.</p>
+      <p>Again, event handlers for such objects are written in the form of template rules. The match
+         pattern is different from that for conventional templates because there is no node to
+         match. Instead, the pattern must match the JavaScript object whose event is to be handled.
+         This can be achieved using the XSLT 3.0 pattern <code>match="."</code> (note that
+         attempting to match the <code>Window</code> object using <code>match="ixsl:window()"</code>
+         will not work). </p>
+      <p>The mode name is the type of event, for example <code>ixsl:onhashchange</code>. An event
+         notification causes a new transformation to take place, using the existing stylesheet. The
+         initial context item for the transformation is set to the matched object.</p>
+
+      <p>For example, a rule defining what happens when the window's hash changes might look like
+         this:</p>
+      <samp>&lt;xsl:template match="." mode="ixsl:onhashchange"&gt;
+   &lt;xsl:call-template name="process-hashchange"/&gt;
+&lt;/xsl:template&gt;</samp>
+      <p>In this case, the event listener is set on the <code>Window</code> object.</p>
+
+      <p>While an event is being processed, the function <span class="link bodylink code" data-href="/ixsl-extension/functions/event">ixsl:event()</span> can be called to return to the
+            <code>Event</code> object; and its properties and methods are available via the <span class="link bodylink code" data-href="/ixsl-extension/functions/get">ixsl:get()</span> and <span class="link bodylink code" data-href="/ixsl-extension/functions/call">ixsl:call()</span> extension
+         functions.</p>
+      <p>
+         <i>Note that client system events can be caused both by user interaction and by your own
+            XSLT. Browser behavior will be more predictable if your design does not rely on
+            differentiating between events originating from users and from your own code.</i>
+      </p>
+   </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

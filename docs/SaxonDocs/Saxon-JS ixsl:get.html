@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS ixsl:get</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20ixsl:get_files/jstree.js"></script>
+        <script src="Saxon-JS%20ixsl:get_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20ixsl:get_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="ixsl-extension" class="trail">Saxon Interactive Extensions ▷</li><li idt="functions" class="trail">Extension functions ▷</li><li idt="get" class="trail">ixsl:get</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20ixsl:get_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="open" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="open" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="open" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="item">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="open"><span class="item">HTTP client</span><ul><li id="termination" class="empty"><span class="item">HTTP request termination</span></li></ul></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="item">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="open" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span><ul><li id="functions" class="open"><span class="item">Extension functions</span><ul><li id="apply" class="empty"><span class="item">ixsl:apply</span></li><li id="call" class="empty"><span class="item">ixsl:call</span></li><li id="eval" class="empty"><span class="item">ixsl:eval</span></li><li id="event" class="empty"><span class="item">ixsl:event</span></li><li id="get" class="empty"><span class="hot">ixsl:get</span></li><li id="location" class="empty"><span class="item">ixsl:location</span></li><li id="page" class="empty"><span class="item">ixsl:page</span></li><li id="query-params" class="empty"><span class="item">ixsl:query-params</span></li><li id="source" class="empty"><span class="item">ixsl:source</span></li><li id="style" class="empty"><span class="item">ixsl:style</span></li><li id="window" class="empty"><span class="item">ixsl:window</span></li></ul></li><li id="instructions" class="closed"><span class="item">Extension instructions</span></li><li id="conversions" class="empty"><span class="item">JS/XDM Type Conversion</span></li></ul></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="closed"><span class="item">SaxonJS.transform</span></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="closed" id="conformance"><span class="item">Standards Conformance</span></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left"><h1>ixsl:get</h1>
+            <p>Gets a property of a JavaScript object (which may be an object returned by another
+               extension function, or a node in the HTML DOM).</p>
+         <aside> Requires Saxon-EE.  Implemented since Saxon 9.7.0.7.</aside><p class="fn-sig">get($object as item()?, $property as xs:string) ➔  item()?</p><table class="fn-prototype" style="margin-bottom:10px;"><tr><td colspan="4" style="border-top:solid 1px;" width="470" align="left"><p><i>Arguments</i></p></td></tr><tr><td width="40"><p>&nbsp;</p></td><td width="80" valign="top"><p>$object</p></td><td width="150" valign="top"><p>item()?</p></td><td width="200" valign="top"><p>JavaScript object</p></td></tr><tr><td width="40"><p>&nbsp;</p></td><td width="80" valign="top"><p>$property</p></td><td width="150" valign="top"><p>xs:string</p></td><td width="200" valign="top"><p>Either a property name or a dot                   (character '.') separated list of names</p></td></tr><tr><td colspan="2" style="border-top:solid 1px; border-bottom:solid 1px;"><p><i>Result</i></p></td><td style="border-top:solid 1px #3D5B96; border-bottom:solid 1px;" colspan="2"><p>item()?</p></td></tr></table><h3 class="subtitle">Namespace</h3><p>http://saxonica.com/ns/interactiveXSLT</p><h3 class="subtitle">Notes on the Saxon implementation</h3>
+            <p>Available since Saxon 9.7.0.7.</p>
+         <h3 class="subtitle">Details</h3>
+            <div>
+               <p>The first argument is the object on which the property is defined. The second
+                  argument is the property name; or to obtain a nested property, use dot separator
+                  characters within this second argument (see <span class="link bodylink" data-href="/development/properties">Properties of JavaScript
+                     objects</span> for more information). The result of calling the function is returned as the
+                  result of <code>ixsl:get()</code>.</p>
+               <p>If the specified object or property does not exist, then the function returns the
+                  empty sequence (with a console log warning in the latter case). (Note the
+                  difference to the similar function <span class="link bodylink code" data-href="../call">ixsl:call()</span>, for which a run-time error is raised in this
+                  case.)</p>
+               <p>See <span class="link bodylink" data-href="/ixsl-extension/conversions">Type Conversion</span> for details
+                  on how the returned property (itself a JavaScript object) is converted to XDM.</p>
+               
+               <p>In some cases, <code>$object?prop</code> (shorthand for <code>map:get($object,
+                  "prop")</code>) is interchangeable with <code>ixsl:get($object, "prop")</code>.
+                  The requirement for this is that <code>$object</code> is a JavaScript object which
+                  is not a more specific type which is recognised and converted to an XDM
+                  "equivalent" (e.g. null, Node, Array), and so within an XPath expression it is
+                  treated as a special wrapped (JSValue) object, which behaves something like a
+                  "read-only" XPath map. See <span class="link bodylink" data-href="/development/properties">Properties of
+                     JavaScript objects</span> and <span class="link bodylink" data-href="/ixsl-extension/conversions">JavaScript to XDM Conversion</span> for
+                  details.</p>
+            </div>
+         <h3 class="subtitle">Examples</h3><h4>Example 1</h4>
+               <p>The <code>offsetHeight</code> property of an HTML element <code>$node</code> is
+                  obtained using:</p>
+               <samp>ixsl:get($node, "offsetHeight")</samp>
+            <h4>Example 2</h4>
+               <p>Example using dot separator characters within <code>$property</code> to obtain a
+                  nested property. The hash property of the location property of the
+                  <code>Window</code> object is obtained using:</p>
+               <samp>ixsl:get(ixsl:window(), "location.hash")</samp>
+               <p>For improved readability, consider using the XPath 3.1 arrow operator:</p>
+               <samp>ixsl:window() =&gt; ixsl:get("location.hash")</samp>
+               <p>Alternatively, the XPath 3.1 lookup operator can be used here:</p>
+               <samp>ixsl:window()?location?hash</samp>
+            <h4>Example 3</h4>
+               <p>As a more complicated example, suppose we wish to get the X coordinate
+                  of the first touch point of a touch event. In JavaScript, this would be accessed
+                  as <code>event.touches[0].clientX</code>, where <code>event</code> is the
+                  <code>TouchEvent</code> object. In an IXSL event handling template, the property
+                  can be obtained using either of the following:</p>
+               <samp>ixsl:get(ixsl:event(), 'touches.0.clientX')</samp>
+               <samp>ixsl:event()?touches?0?clientX</samp>
+               <p>See <span class="link bodylink" data-href="/development/properties">Properties of JavaScript
+                  objects</span> for more details.</p>
+            </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

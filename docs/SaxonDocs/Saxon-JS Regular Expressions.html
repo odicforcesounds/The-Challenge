@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS Regular Expressions</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20Regular%20Expressions_files/jstree.js"></script>
+        <script src="Saxon-JS%20Regular%20Expressions_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20Regular%20Expressions_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="conformance" class="trail">Standards Conformance ▷</li><li idt="regex" class="trail">Regular Expressions</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20Regular%20Expressions_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="closed" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="closed" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="closed" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="item">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="open"><span class="item">HTTP client</span><ul><li id="termination" class="empty"><span class="item">HTTP request termination</span></li></ul></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="item">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="closed" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span><ul><li id="functions" class="open"><span class="item">Extension functions</span><ul><li id="apply" class="empty"><span class="item">ixsl:apply</span></li><li id="call" class="empty"><span class="item">ixsl:call</span></li><li id="eval" class="empty"><span class="item">ixsl:eval</span></li><li id="event" class="empty"><span class="item">ixsl:event</span></li><li id="get" class="empty"><span class="item">ixsl:get</span></li><li id="location" class="empty"><span class="item">ixsl:location</span></li><li id="page" class="empty"><span class="item">ixsl:page</span></li><li id="query-params" class="empty"><span class="item">ixsl:query-params</span></li><li id="source" class="empty"><span class="item">ixsl:source</span></li><li id="style" class="empty"><span class="item">ixsl:style</span></li><li id="window" class="empty"><span class="item">ixsl:window</span></li></ul></li><li id="instructions" class="open"><span class="item">Extension instructions</span><ul><li id="remove-attribute" class="empty"><span class="item">ixsl:remove-attribute</span></li><li id="schedule-action" class="empty"><span class="item">ixsl:schedule-action</span></li><li id="set-attribute" class="empty"><span class="item">ixsl:set‑attribute</span></li><li id="set-property" class="empty"><span class="item">ixsl:set-property</span></li><li id="set-style" class="empty"><span class="item">ixsl:set-style</span></li></ul></li><li id="conversions" class="empty"><span class="item">JS/XDM Type Conversion</span></li></ul></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="open"><span class="item">SaxonJS.transform</span><ul><li id="parameters" class="empty"><span class="item">Supplying stylesheet parameters</span></li></ul></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="open" id="conformance"><span class="item">Standards Conformance</span><ul><li id="xslt30" class="empty"><span class="item">XSLT 3.0 and XPath 3.0/3.1 Conformance</span></li><li id="dynamic-xpath" class="empty"><span class="item">Dynamic XPath evaluation</span></li><li id="regex" class="empty"><span class="hot">Regular Expressions</span></li><li id="limits" class="empty"><span class="item">Limits</span></li><li id="saxon-extensions" class="empty"><span class="item">Saxon Extensions</span></li></ul></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left">
+      <h1>Regular Expressions</h1>
+      
+      <p><b>Regular Expressions</b> are implemented using the JavaScript regex library. Saxon-JS
+         attempts to use the new Unicode capabilities of ES6 if supported in the browser; on older
+         browsers, regular expressions will fail with a dynamic error if used with strings containing
+         non-BMP characters.</p>
+      
+      <p>Saxon-JS allows the flags argument to be suffixed with the string ";j". If this option is
+         present then the JavaScript regular expression engine is used directly, which means that
+         the JavaScript rules rather than the XPath rules apply. In this case the replacement string
+         in the <code>replace()</code> function is also used "as is".</p>
+      
+      <p>In the absence of this "j" flag, the software converts the regular expression from the XPath regex
+         dialect to the JavaScript dialect, but there are some limitations:</p>
+
+      <ul>
+         <li>If the "q" flag is present, all special characters in the regex are escaped to
+            give literal string matching.</li>
+         <li>If the "x" flag is present, whitespace in the regular expression is removed,
+            except between square brackets.</li>
+         <li>If the "s" flag is present, the metacharacter "." is replaced by [^] (which
+            matches everything), except between square brackets.</li>
+         <li>A numeric escape (e.g. \2) within square brackets is rejected as an error.</li>
+         <li>Escape sequences not allowed in XPath (e.g. \x, \u, \A, \Z) are rejected as
+            errors.</li>
+         <li>\p and \P are expanded to an equivalent JavaScript regular expression, using a
+            list of expansions in the file <code>categories.json</code>, which is loaded on
+            demand.</li>
+         <li>\d and \D have the XPath meaning (any Unicode digit) rather than the JavaScript
+            meaning (0-9 only).</li>
+         <li>The multi-character escapes \i, \I (initial name characters), \c, \C (name
+            characters) are expanded.</li>
+         <li>Since Saxon-JS 1.0.1, character range subtraction is rewritten using negated lookahead,
+            for example [A-[B]] becomes (?![B])[A].</li>
+      </ul>
+
+
+      <h2>Regex non-conformances</h2>
+
+      <ul>
+         <li>On older browsers it is not possible to match characters outside the BMP range
+            (0-65535). If the browser does not support the ES6-defined "u" flag in regular
+            expressions, and if the input string contains such a character, a dynamic error is
+            reported. (At the time of writing the "u" flag is supported in the current releases of
+            all major browsers except Safari; with Safari, the flag will be supported from version
+            10.)</li>
+         <li>JS case-blind matching ("i" flag) applies only to ASCII characters, and affects
+            characters in categories such as \p{Lu} as well as characters specified literally.</li>
+         <li>Some erroneous constructs are not signalled as an error:<ul>
+               <li>character ranges making inappropriate use of hyphens, for example [a-z-0-9]</li>
+               <li>occurrence indicators with no preceding atom, for example (*) or ({2})</li>
+               <li>empty character ranges, for example []</li>
+               <li>incorrect multi-digit back-references, for example (a)\15 (but incorrect
+                  single-digit back-references are reported)</li>
+            </ul>
+         </li>
+         <li>Negation of single-character categories (for example \P{L}) is not working</li>
+         <li>\w has the JavaScript meaning rather than the XPath meaning.</li>
+      </ul>
+
+      <h2>Restrictions in XPath regex functions</h2>
+
+      <p>Regex groups are not cleared on a function call.</p>
+
+      <p><code>fn:analyze-string()</code> does not correctly handle nested captured groups. In
+         addition, if a string that matches a captured substring occurs more than once, then
+         Saxon-JS tags the first occurrence rather than the last.</p>
+
+   </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS Extension instructions</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20Extension%20instructions%20-%20shudleractions_files/jstree.js"></script>
+        <script src="Saxon-JS%20Extension%20instructions%20-%20shudleractions_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20Extension%20instructions%20-%20shudleractions_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="ixsl-extension" class="trail">Saxon Interactive Extensions ▷</li><li idt="instructions" class="trail">Extension instructions ▷</li><li idt="schedule-action" class="trail">ixsl:schedule-action</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20Extension%20instructions%20-%20shudleractions_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="open" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="open" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="open" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="item">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="open"><span class="item">HTTP client</span><ul><li id="termination" class="empty"><span class="item">HTTP request termination</span></li></ul></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="item">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="open" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span><ul><li id="functions" class="open"><span class="item">Extension functions</span><ul><li id="apply" class="empty"><span class="item">ixsl:apply</span></li><li id="call" class="empty"><span class="item">ixsl:call</span></li><li id="eval" class="empty"><span class="item">ixsl:eval</span></li><li id="event" class="empty"><span class="item">ixsl:event</span></li><li id="get" class="empty"><span class="item">ixsl:get</span></li><li id="location" class="empty"><span class="item">ixsl:location</span></li><li id="page" class="empty"><span class="item">ixsl:page</span></li><li id="query-params" class="empty"><span class="item">ixsl:query-params</span></li><li id="source" class="empty"><span class="item">ixsl:source</span></li><li id="style" class="empty"><span class="item">ixsl:style</span></li><li id="window" class="empty"><span class="item">ixsl:window</span></li></ul></li><li id="instructions" class="open"><span class="item">Extension instructions</span><ul><li id="remove-attribute" class="empty"><span class="item">ixsl:remove-attribute</span></li><li id="schedule-action" class="empty"><span class="hot">ixsl:schedule-action</span></li><li id="set-attribute" class="empty"><span class="item">ixsl:set‑attribute</span></li><li id="set-property" class="empty"><span class="item">ixsl:set-property</span></li><li id="set-style" class="empty"><span class="item">ixsl:set-style</span></li></ul></li><li id="conversions" class="empty"><span class="item">JS/XDM Type Conversion</span></li></ul></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="closed"><span class="item">SaxonJS.transform</span></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="closed" id="conformance"><span class="item">Standards Conformance</span></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left">
+         <h1>ixsl:schedule-action</h1>
+               <p>Makes an asynchronous call to the template named in an
+                     <code>xsl:call-template</code> instruction that is the only permitted body
+                  content of <code>ixsl:schedule-action</code>, either after waiting a specified
+                  time, or after fetching specified documents, or after getting a response from a
+                  specified HTTP request.</p>
+               <aside>From Saxon-JS 1.1.0, the instruction returns an item containing any associated
+                  JavaScript XMLHttpRequest objects, or an empty sequence otherwise. Earlier
+                  versions of Saxon-JS always returned nothing.</aside>
+            <aside> Requires Saxon-EE.  Implemented since Saxon 9.7.0.7.</aside><a name="element-schedule-action"></a><p class="element-syntax"><strong>Category: </strong>instruction<br><strong>Content: </strong><a class="bodylink code" href="http://www.saxonica.com/xsl-elements/call-template">xsl:call-template</a>?<br><strong>Permitted parent elements: </strong>
+                   any XSLT element whose content model is 
+        <i>sequence-constructor</i>; any literal result element
+    
+               </p><h3 class="subtitle">Attributes</h3><table class="element-att"><tr><td><p><code>wait?</code></p></td><td><p><code><i>expression</i></code></p></td><td><p>Used to specify the delay in milliseconds before the call is invoked; or
+                     from Saxon-JS 1.1.0 (and Saxon-EE 9.8.0.10), when used with attributes
+                     <code>document</code> or <code>http-request</code>, specifies a timeout in
+                     milliseconds for the associated HTTP requests.</p></td></tr><tr><td><p><code>document?</code></p></td><td><p><code>{ 
+                     <i>uri</i>
+                   }</code></p></td><td><p>Used to specify documents to be fetched before the call is invoked.
+                     Requires Saxon-EE 9.7.0.8 or later. From Saxon-JS 1.0.2, a space-separated list
+                  of document URIs can be used to specify multiple documents.</p></td></tr><tr><td><p><code>http-request?</code></p></td><td><p><code><i>expression</i></code></p></td><td><p>Used to specify an HTTP request to be made before the call is invoked (with
+                     the HTTP response as the context).
+                     Requires Saxon-EE 9.8 and Saxon-JS 1.0.1 or later.</p></td></tr></table><h3 class="subtitle">Details</h3>
+               <p>The instruction should have either exactly one of the available attributes
+                  <code>wait</code>, <code>document</code>, or <code>http-request</code>; or from
+                  Saxon-JS 1.1.0 and Saxon 9.8.0.10, <code>wait</code> may be used with either
+                  <code>document</code> or <code>http-request</code>. (From Saxon-EE 9.7.0.19 and
+                  9.8.0.2 the validation of attribute combinations is checked at compile time. For
+                  earlier versions the order of precedence at run time is
+                  <code>http-request</code>, <code>document</code>, then <code>wait</code>.)</p>
+               <p>The <code>wait</code> attribute of <code>ixsl:schedule-action</code> is an integer
+                  used to specify the delay in milliseconds before the call is invoked; or when used
+                  in conjunction with either the <code>document</code> or <code>http-request</code>
+                  attribute, specifies the timeout in milliseconds before HTTP requests are
+                  terminated. The value can be given either as an integer literal or as an XPath
+                  expression.</p>
+               <p>The <code>document</code> attribute of <code>ixsl:schedule-action</code> (new for
+                  use with Saxon-JS) is an attribute value template giving the URI(s) of XML
+                  document(s) to be fetched from the server before the call is invoked. From
+                  Saxon-JS 1.0.2, multiple XML documents can be specified for the same
+                  <code>ixsl:schedule-action</code> using a space-separated list of URIs in the
+                  <code>document</code> attribute. The called template can access the document(s)
+                  using the <code>doc()</code> or <code>doc-available()</code> functions (the
+                  document(s) will be found in a local cache and will not involve another request to
+                  the server). </p>
+               <p>If there was an error fetching a requested document, or the fetch was terminated
+                  by timeout or abort, the local cache contains an error entry for the URI (error
+                  code "SXJS0008" for timeout or abort, and "SXJS0009" for other errors). As
+                  expected, a subsequent <code>doc()</code> call will throw the error, and
+                  <code>doc-available()</code> will return false. For a new asynchronous document
+                  fetch, if the local cache entry is an error, then Saxon-JS will retry to fetch the
+                  document, and update the entry in the cache.</p>
+               <p>The <code>http-request</code> attribute of <code>ixsl:schedule-action</code> (new
+                  in Saxon-JS 1.0.1) is an XPath map which specifies an HTTP request. The response
+                  to the request must be returned from the server before the call is invoked. The
+                  HTTP response is supplied as the context item to the called template, in the form
+                  of an XPath map. See <span class="link bodylink" data-href="/development/http">HTTP
+                     client</span> for full details. From Saxon-JS 1.1.0, if no response is returned
+                  but the request is terminated (either due to an error, abort or timeout), the call
+                  is invoked, and the context item is an XPath map containing termination details.
+                  See <span class="link bodylink" data-href="/development/http/termination">HTTP request
+                     termination</span> for more information.</p>
+               <p>From Saxon-JS 1.1.0, the <code>ixsl:schedule-action</code> instruction returns
+                  immediately with an object containing any associated JavaScript XMLHttpRequest
+                  (XHR) objects, or an empty sequence otherwise. Earlier versions of Saxon-JS always
+                  returned nothing. When the <code>http-request</code> attribute is used, or the
+                  <code>document</code> attribute is used to fetch a single document, the
+                  instruction returns a single XHR object. When the <code>document</code> attribute 
+                  is used to fetch multiple documents, it returns an object containing multiple XHR
+                  objects indexed by absolute URIs (or if the document is already available in the
+                  local cache, the object contains an entry mapping the URI to the value null).</p>
+               <p>This change was made to enable HTTP requests from
+                  <code>ixsl:schedule-action</code> instructions to be aborted by user interaction.
+                  For this the underlying XHR objects must be made accessible. See the examples
+                  below, and <span class="link bodylink" data-href="/development/http/termination">HTTP request
+                     termination</span> for further details and examples.</p>
+               <p>Note that <code>ixsl:schedule-action</code> does not write the value returned by
+                  the contained <code>xsl:call-template</code> instruction to the current result
+                  tree. In practice therefore, the only useful thing that the called template can do
+                  is to issue an <code>xsl:result-document</code> instruction (or similar
+                  instructions with side-effects, such as <code>ixsl:set-attribute</code>).</p>
+               <p>To prevent the returned object from being written to the current result tree, it
+                  may be necessary to throw it away, for instance:</p>
+               <samp>&lt;xsl:variable name="request" as="item()*"&gt;
+   &lt;ixsl:schedule-action document="$uri"&gt;
+      &lt;xsl:call-template name="action"/&gt;
+   &lt;/ixsl:schedule-action&gt;
+&lt;/xsl:variable&gt;
+&lt;xsl:sequence select="$request[current-date() lt xs:date('2000-01-01')]"/&gt;</samp>
+               <!-- TODO more? improve animation page -->
+               <p>See the <span class="link bodylink" data-href="/development/animation">Animation</span>
+                  section for further detail.</p>
+            <h3 class="subtitle">Examples</h3><h4>Example 1</h4>
+                  <p>The following example fetches the document referenced from the
+                        <code>href</code> attribute of a <code>link</code> element, and renders it
+                     as the content of <code>&lt;div id="display-area"/&gt;</code> in the HTML page.
+                     The document is fetched asynchronously, and the "render-document"
+                     template is called only when the document is available in the local cache.</p>
+                  <samp>&lt;xsl:template match="link"&gt;
+   &lt;ixsl:schedule-action document="{@href}"&gt;
+      &lt;xsl:call-template name="render-document"&gt;
+         &lt;xsl:with-param name="docName" select="@href"/&gt;
+      &lt;/xsl:call-template&gt;
+   &lt;/ixsl:schedule-action&gt;
+&lt;/xsl:template&gt;
+
+&lt;xsl:template name="render-document"&gt;
+   &lt;xsl:param name="docName"/&gt;
+   &lt;xsl:result-document href="#display-area"&gt;
+      &lt;xsl:apply-templates select="doc($docName)"/&gt;
+   &lt;/xsl:result-document&gt;
+&lt;/xsl:template&gt;</samp>
+               <h4>Example 2</h4>
+                  <p>The following example attempts to fetch a document, but uses a timeout to
+                     terminate the fetch if it takes too long. The scheduled "action" template is
+                     called when either the document is available in the local cache, or the fetch
+                     has been terminated. In the case that the document is not available, the error
+                     code is used to produce a relevant message.</p>
+                  <samp>&lt;xsl:template match="button[@id eq 'fetch']" mode="ixsl:onclick"&gt;
+   &lt;ixsl:schedule-action document="{$href}" wait="2000"&gt;
+      &lt;xsl:call-template name="action"&gt;
+         &lt;xsl:with-param name="href" select="$href"/&gt;
+      &lt;/xsl:call-template&gt;
+   &lt;/ixsl:schedule-action&gt;
+&lt;/xsl:template&gt;
+
+&lt;xsl:template name="action"&gt;
+   &lt;xsl:param name="href"/&gt;
+   &lt;xsl:choose&gt;
+      &lt;xsl:when test="doc-available($href)"&gt;
+         &lt;xsl:result-document href="#target" method="ixsl:replace-content"&gt;
+            &lt;p&gt;Document fetched: &lt;xsl:value-of select="$href"/&gt;.&lt;/p&gt;
+            &lt;p&gt;&lt;xsl:sequence select="doc($href)"/&gt;&lt;/p&gt;
+         &lt;/xsl:result-document&gt;
+      &lt;/xsl:when&gt;
+      &lt;xsl:otherwise&gt;
+         &lt;xsl:result-document href="#target" method="ixsl:replace-content"&gt;
+            &lt;p&gt;Document not available: &lt;xsl:value-of select="$href"/&gt;.&lt;/p&gt;
+         &lt;/xsl:result-document&gt;
+         &lt;xsl:try select="doc($href)"&gt;
+            &lt;xsl:catch&gt;
+               &lt;xsl:result-document href="#target" method="ixsl:append-content"&gt;
+                  &lt;xsl:choose&gt;
+                     &lt;xsl:when test="$err:code eq QName('http://www.w3.org/2005/xqt-errors', 
+                        'SXJS0008')"&gt;
+                        &lt;p&gt;Document fetch timeout.&lt;/p&gt;
+                     &lt;/xsl:when&gt;
+                     &lt;xsl:otherwise&gt;
+                        &lt;p&gt;Document fetch error: &lt;xsl:value-of select="$err:code"/&gt;&lt;/p&gt;
+                     &lt;/xsl:otherwise&gt;
+                  &lt;/xsl:choose&gt;
+                  &lt;p&gt;&lt;xsl:value-of select="$err:description"/&gt;&lt;/p&gt;
+               &lt;/xsl:result-document&gt;
+            &lt;/xsl:catch&gt;
+         &lt;/xsl:try&gt;
+      &lt;/xsl:otherwise&gt;
+   &lt;/xsl:choose&gt;
+&lt;/xsl:template&gt;</samp> 
+               <h4>Example 3</h4>
+                  <p>Attempt to fetch multiple documents, allowing separate aborts.</p>
+                  <samp>&lt;xsl:template match="button[@id eq 'fetchDocs']" mode="ixsl:onclick"&gt;
+   &lt;xsl:variable name="docs" select="($doc1, $doc2)"/&gt;
+   &lt;xsl:variable name="docSSS" select="string-join($docs, ' ')"/&gt;
+   
+   &lt;xsl:result-document href="#target" method="ixsl:replace-content"/&gt;
+   &lt;ixsl:set-style name="display" select="'none'" object="."/&gt;
+   
+   &lt;xsl:variable name="requests" as="item()*"&gt; 
+      &lt;!-- An object mapping hrefs to XHR objects; or null if document already fetched --&gt;
+      &lt;ixsl:schedule-action document="{$docSSS}"&gt;
+         &lt;xsl:call-template name="action"&gt;
+            &lt;xsl:with-param name="docs" select="$docs"/&gt;
+         &lt;/xsl:call-template&gt;
+      &lt;/ixsl:schedule-action&gt;
+   &lt;/xsl:variable&gt;
+   
+   &lt;xsl:if test="exists($requests)"&gt;
+      &lt;xsl:variable name="request1" as="item()*" select="ixsl:get($requests, $doc1)"/&gt;
+      &lt;xsl:variable name="request2" as="item()*" select="ixsl:get($requests, $doc2)"/&gt;
+      &lt;xsl:if test="exists(($request1, $request2))"&gt;
+         &lt;xsl:result-document href="#target" method="ixsl:replace-content"&gt;
+            &lt;p&gt;Fetching documents from &lt;xsl:value-of select="$docSSS"/&gt;&lt;/p&gt;
+            &lt;xsl:if test="exists($request1)"&gt;
+               &lt;ixsl:set-style name="display" select="'inline'"
+                  object="ixsl:page()/html/body/button[@id = 'abort1']"/&gt;
+               &lt;ixsl:set-property name="_saxonRequest" select="$request1"
+                  object="ixsl:page()/html/body/button[@id='abort1']"/&gt;
+            &lt;/xsl:if&gt;
+            &lt;xsl:if test="exists($request2)"&gt;
+               &lt;ixsl:set-style name="display" select="'inline'"
+                  object="ixsl:page()/html/body/button[@id = 'abort2']"/&gt;
+               &lt;ixsl:set-property name="_saxonRequest" select="$request2"
+                  object="ixsl:page()/html/body/button[@id='abort2']"/&gt;
+            &lt;/xsl:if&gt;
+         &lt;/xsl:result-document&gt;
+      &lt;/xsl:if&gt;
+   &lt;/xsl:if&gt;
+&lt;/xsl:template&gt;
+
+&lt;xsl:template match="button[@id = ('abort1', 'abort2')]" mode="ixsl:onclick"&gt;
+   &lt;xsl:sequence select="ixsl:call(ixsl:get(., '_saxonRequest'), 'abort', [])"/&gt;
+   &lt;ixsl:set-style name="display" select="'none'" object="."/&gt;
+&lt;/xsl:template&gt;
+
+&lt;xsl:template name="action"&gt;
+   &lt;xsl:param name="docs"/&gt;
+   &lt;ixsl:set-style name="display" select="'inline'"
+      object="ixsl:page()/html/body/button[@id = 'fetchDocs']"/&gt;
+   &lt;ixsl:set-style name="display" select="'none'"
+      object="ixsl:page()/html/body/button[@id = 'abort1']"/&gt;
+   &lt;ixsl:set-style name="display" select="'none'"
+      object="ixsl:page()/html/body/button[@id = 'abort2']"/&gt;
+   &lt;xsl:for-each select="$docs"&gt;
+      &lt;xsl:choose&gt;
+         &lt;xsl:when test="doc-available(.)"&gt;
+            &lt;xsl:result-document href="#target" method="ixsl:append-content"&gt;
+               &lt;p&gt;Document fetched from &lt;xsl:value-of select="."/&gt;&lt;/p&gt;
+            &lt;/xsl:result-document&gt;
+         &lt;/xsl:when&gt;
+         &lt;xsl:otherwise&gt;
+            &lt;xsl:try select="doc(.)"&gt;
+               &lt;xsl:catch&gt;
+                  &lt;xsl:result-document href="#target" method="ixsl:append-content"&gt;
+                     &lt;xsl:choose&gt;
+                        &lt;xsl:when test="$err:code eq QName('http://www.w3.org/2005/xqt-errors', 
+                           'SXJS0008')"&gt;
+                           &lt;p&gt;Document fetch aborted.&lt;/p&gt;
+                        &lt;/xsl:when&gt;
+                        &lt;xsl:otherwise&gt;
+                           &lt;p&gt;Document fetch error: &lt;xsl:value-of select="$err:code"/&gt;&lt;/p&gt;
+                        &lt;/xsl:otherwise&gt;
+                     &lt;/xsl:choose&gt;
+                     &lt;p&gt;&lt;xsl:value-of select="$err:description"/&gt;&lt;/p&gt;
+                  &lt;/xsl:result-document&gt;
+               &lt;/xsl:catch&gt;
+            &lt;/xsl:try&gt;
+         &lt;/xsl:otherwise&gt;
+      &lt;/xsl:choose&gt;
+   &lt;/xsl:for-each&gt;
+&lt;/xsl:template&gt;</samp>
+               
+      </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

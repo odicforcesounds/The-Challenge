@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS Exporting for JS</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20Exporting%20for%20JS_files/jstree.js"></script>
+        <script src="Saxon-JS%20Exporting%20for%20JS_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20Exporting%20for%20JS_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="starting" class="trail">Getting started ▷</li><li idt="export" class="trail">Exporting for JS</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20Exporting%20for%20JS_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="open" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="open" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="hot">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="closed" id="development"><span class="item">Developing Applications</span></li><li class="closed" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="closed"><span class="item">SaxonJS.transform</span></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="closed" id="conformance"><span class="item">Standards Conformance</span></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left">
+      <h1>Exporting for JS</h1>
+      <p>To generate a stylesheet export file (SEF) that can be executed by Saxon-JS, you need
+         Saxon-EE version 9.7.0.7 or later. This is a commercial product that requires a license key
+         to activate. See the <a class="bodylink" href="http://saxonica.com/">Saxonica</a> website
+         for downloads and more details.</p>
+      
+      <aside>Note that a Saxon-EE evaluation license can be used to produce SEFs, but these will
+         have an expiry date like the evaluation license itself.</aside>
+      
+      <h2>From the command line</h2>
+      <p>To generate a stylesheet export file, use the command line:</p>
+
+      <kbd>java net.sf.saxon.Transform -t -xsl:mytrans.xsl -export:mytrans.sef -target:JS
+         -nogo</kbd>
+
+      <p>Here:</p>
+      <ul>
+         <li><code>-t</code> causes the command to display progress messages</li>
+         <li><code>-xsl:mytrans.xsl</code> identifies the source stylesheet</li>
+         <li><code>-export:mytrans.sef</code> identifies the file where the generated SEF file will
+            be written</li>
+         <li><code>-target:JS</code> causes Saxon-EE to include stub libraries for the Saxon-JS
+            IXSLT extensions in the static context for compilation, and tailors the format of the
+            stylesheet export file for use by Saxon-JS. For more details see 'Using s9api' below.</li>
+         <li><code>-nogo</code> suppresses any attempt to execute the stylesheet.</li>
+      </ul>
+      
+      <p>With Saxon-EE 9.8, a new transform option is available: <code>-relocate:on</code> is used
+         to produce a <em>relocatable</em> export package (SEF) which can be deployed to a different
+         location, with a different base URI. If <code>on</code>, then <code>static-base-uri()</code> represents
+         the deployed location of the package, rather than its compile time location; the default is
+         <code>off</code>. See the section about relative URIs at <span class="link bodylink" data-href="/development/source-documents">Source documents</span> for more information.</p>
+
+      <aside>If you use the file extension <code>.sef</code> as in this example, then you will need
+         to configure your web server to serve <code>.sef</code> files with MIME type
+            <code>application/xml</code>. If you're not able to do this, then you can simply use
+         the extension <code>.xml</code>. For example, you might like to use the naming convention
+            <code>mytrans.sef.xml</code>.</aside>
+
+
+      <h2>Using s9api</h2>
+      <p>Equivalent options are available in the s9api interface. For example there is a method
+            <code>XsltCompiler.setTargetEdition("JS")</code>; or the target edition can be set on
+         the <code>CompilerInfo</code>. Setting this option has two effects:</p>
+
+      <ol>
+         <li>compile-time evaluation of functions such as <code>system-property()</code>,
+               <code>function-available()</code>, <code>element-available()</code> considers the
+            target environment, not the compiler environment. For example
+               <code>element-available('xsl:evaluate')</code> returns false if the target is "JS".
+            This is true whether the call appears in normal code or in a static expression (such as
+            a use-when expression).</li>
+         <li>the generated stylesheet export file contains snippets of JavaScript code to evaluate
+            things such as item type tests.</li>
+      </ol>
+
+      <p>Setting this option does not currently cause errors when unsupported features are used in
+         the stylesheet, but it may do so in future.</p>
+      
+      <h2>Using the Oxygen XML Editor</h2>
+      
+      <p>SEFs can be generated using the Saxon transformer engine in the Oxygen XML Editor: select
+         "Compile XSL for Saxon" in the "Tools" menu, and choose Saxon-JS as the "Target" (see <a class="bodylink" target="_blank" href="https://www.oxygenxml.com/doc/versions/20.0/ug-editor/topics/compile-xsl-for-saxon-x-tools.html?hl=export">Compiling
+            an XSL Stylesheet for Saxon</a> in the Oxygen documentation for details). Oxygen 20
+         comes with Saxon-EE 9.8.0.8 built-in, and the transformer engine can be updated to the
+         latest Saxon release by installing an add-on (see <a class="bodylink" target="_blank" href="https://www.oxygenxml.com/doc/versions/20.0/ug-editor/topics/saxon-transformer-addon.html">Saxon
+            XSLT and XQuery Transformer Add-on</a> for instructions).</p>
+
+   </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

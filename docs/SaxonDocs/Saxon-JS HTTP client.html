@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS HTTP client</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20HTTP%20client_files/jstree.js"></script>
+        <script src="Saxon-JS%20HTTP%20client_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20HTTP%20client_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="development" class="trail">Developing Applications ▷</li><li idt="http" class="trail">HTTP client</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20HTTP%20client_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="open" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="open" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="open" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="item">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="open"><span class="hot">HTTP client</span><ul><li id="termination" class="empty"><span class="item">HTTP request termination</span></li></ul></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="item">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="closed" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="closed"><span class="item">SaxonJS.transform</span></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="closed" id="conformance"><span class="item">Standards Conformance</span></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left">
+      <h1>HTTP client</h1>
+      
+      <p>Since Saxon-JS 1.0.1, a mechanism for making HTTP requests directly within an interactive
+         stylesheet is available. </p>
+      <p>Using the <code>http-request</code> attribute (which requires Saxon-EE 9.8 or later), the
+         extension instruction <span class="link bodylink code" data-href="/ixsl-extension/instructions/schedule-action">ixsl:schedule-action</span> may be used
+         to make an asynchronous HTTP request and specify the action to take when the response is returned. XPath
+         maps are used to represent the HTTP messages. The value of the <code>http-request</code>
+         attribute should evaluate to an XPath map which defines the HTTP request. An XPath map
+         representing the HTTP response is then supplied as the context item to the named
+         template contained in the <code>ixsl:schedule-action</code> instruction.</p>
+      <p>From Saxon-JS 1.1.0 (and Saxon 9.8.0.10), the <code>wait</code> attribute on
+         <code>ixsl:schedule-action</code> can be used to specify a timeout (in milliseconds) for
+         the request. If an HTTP response is not received within this time,
+         then the HTTP request will be terminated. It is also possible to abort a request. See <span class="link bodylink" data-href="termination">HTTP request termination</span> for details.</p>
+      <p>The XPath maps used to represent the HTTP requests and responses are defined below. The
+         design is very much influenced by the <a class="bodylink" href="http://expath.org/spec/http-client">EXPath HTTP Client Module</a> (in particular the
+         definition of the <code>http:request</code> and <code>http:response</code> elements), but for
+         convenience we use maps rather than XML elements to represent the HTTP messages.</p>
+      
+      <aside>Multipart requests and responses are not currently supported.</aside>
+      
+      <h2>Example</h2>
+      <p>The following example shows an HTTP request represented as an XPath map, supplied to an
+         <code>ixsl:schedule-action</code> instruction. This makes an HTTP post request, sending the
+      XML content of the variable <code>$body</code>. When the response returns, the HTTP response content (obtained
+         from the XPath map representation of the HTTP response) will be processed.</p>
+      <!-- 'headers': map{'content-type': 'application/xml'} -->
+      <p><samp>&lt;xsl:template name="send-request"&gt;
+   &lt;xsl:variable name="request" select="
+   map{
+      'method': 'POST',
+      'href': 'http://localhost:19757/mywebapp/receiveXML',
+      'body': $body, 
+      'media-type': 'application/xml'
+      } "/&gt;
+   &lt;ixsl:schedule-action http-request="$request"&gt;
+      &lt;xsl:call-template name="handle-response"/&gt;
+   &lt;/ixsl:schedule-action&gt;
+&lt;/xsl:template&gt;
+
+&lt;xsl:template name="handle-response"&gt;
+   &lt;xsl:context-item as="map(*)" use="required"/&gt;
+   &lt;xsl:for-each select="?body"&gt;
+      &lt;xsl:call-template name="process-response-body"/&gt;
+   &lt;/xsl:for-each&gt;
+&lt;/xsl:template&gt;</samp></p>
+      
+      <h2>XPath map representation of HTTP messages</h2>
+      <h3>HTTP requests</h3>
+      <p>The XPath maps used to specify HTTP requests must take the required format. First the rules are listed,
+         and then this is followed by a table giving the meaning of each entry.</p>
+      <aside>Note that multipart HTTP requests are not currently implemented. Some rules anticipate
+         these being available.</aside>
+      <ol>
+         <li>Key names are case sensitive, and must all be lowercase.</li>
+         <li><code>method</code> and <code>href</code> are required.</li>
+         <li>If one of <code>username</code> or <code>password</code> is used, then they are both required.</li>
+         <li><code>body</code> <i>(or <code>multipart-bodies</code>)</i> must only be used for HTTP
+            requests that allow content to be sent; if the <code>method</code> is GET or HEAD and
+            body parts are specified, then an error will be raised (at run time).</li> <!-- then body parts are ignored -->
+         <li>If content is to be sent in the request using <code>body</code>, then the MIME media type must be
+            specified. This can either be set using <code>media-type</code> (which takes precedence) or
+            <code>headers?content-type</code>.</li>
+         <li><i>If multipart content is to be sent in the request using <code>multipart-bodies</code>,
+            then the MIME media type (specified by <code>media-type</code> or
+            <code>headers?content-type</code>) must be a multipart type (i.e. a MIME type
+            beginning with '<code>multipart/</code>').</i></li>
+         <li><i>For each member of the array <code>multipart-bodies</code> (the body parts in a
+            multipart request) there must be a <code>content-type</code> defined in the corresponding member of
+            <code>multipart-headers</code>.</i></li>
+      </ol>
+      
+      <!--<p>TODO serialization parameters for body and multipart-bodies??</p>-->
+      <table>
+         <thead>
+            <tr>
+               <th>Key</th>
+               <th>Value</th>
+               <th>Meaning</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td><code>method</code></td>
+               <td><code>xs:string</code></td>
+               <td><p>The HTTP method to use: GET, POST, etc. Case insensitive.</p></td>
+            </tr>
+            <tr>
+               <td><code>href</code></td>
+               <td><code>xs:string</code></td>
+               <td><p>The URI of the request target.</p></td>
+            </tr>
+            <tr>
+               <td><code>status-only</code></td>
+               <td><code>xs:boolean</code></td>
+               <td><p>Controls the response returned: if true then only the status
+                  (<code>status</code> and <code>message</code>)
+                  and headers are returned (i.e. no body content). Default is false.</p></td>
+            </tr>
+            <tr>
+               <td><code>username</code></td>
+               <td><code>xs:string</code></td>
+               <td><p>Used for authentication.</p></td>
+            </tr>
+            <tr>
+               <td><code>password</code></td>
+               <td><code>xs:string</code></td>
+               <td><p>Used for authentication.</p></td>
+            </tr>
+            <tr>
+               <td><code>override-media-type</code></td>
+               <td><code>xs:string</code></td>
+               <td><p>A MIME type. Used to override the content-type of the response returned by the
+                  server.</p></td>
+            </tr>
+            <tr>
+               <td><code>headers</code></td>
+               <td><code>map(xs:string, xs:string)</code></td>
+               <td><p>An XPath map, specifying the HTTP request headers. Keys are not case sensitive.</p></td>
+            </tr>
+            <tr>
+               <td><code>body</code></td>
+               <td><code>item()</code></td>
+               <td><p>The request content, if the HTTP method allows content to be sent (i.e. not
+                  GET or HEAD). If the MIME media type of the request content is either XML or HTML,
+                  then <code>body</code> must be a document node (note that this is the default for
+                  an <code>xsl:variable</code> with content and no declared type, see <a href="https://www.w3.org/TR/xslt-30/#temporary-trees" class="bodylink">Creating
+                     Implicit Document Nodes</a> in the XSLT Specification; but otherwise it
+                  may be necessary to wrap content using <code>xsl:document</code>).</p></td>
+            </tr>
+            <tr>
+               <td><code>media-type</code></td>
+               <td><code>xs:string</code></td>
+               <td><p>MIME media type of the request content.</p></td>
+            </tr>
+            <tr>
+               <td><code>multipart-headers</code></td>
+               <td><code>array(map(xs:string, xs:string))</code></td>
+               <td><p>Used with multipart-bodies for a multipart request. An array of XPath maps,
+                  specifying the HTTP request headers for each body part. Keys are not case
+                  sensitive.</p>
+               <p><i>Not currently implemented.</i></p></td>
+            </tr>
+            <tr>
+               <td><code>multipart-bodies</code></td>
+               <td><code>array(*)</code></td>
+               <td><p>Used with multipart-headers for a multipart request. An array whose members are
+                  the body parts.</p>
+                  <p><i>Not currently implemented.</i></p></td>
+            </tr>
+            <tr>
+               <td><code>multipart-boundary</code></td>
+               <td><code>xs:string</code></td>
+               <td><p>Used to specify the boundary used for a multipart request.</p>
+                  <p><i>Not currently implemented.</i></p></td>
+            </tr>
+            <tr>
+               <td><code>timeout</code></td>
+               <td><code>xs:integer</code></td>
+               <td><p>(Available from Saxon-JS 1.1.0) Used to set a timeout on the request.</p></td>
+            </tr>
+         </tbody>
+      </table>
+      
+      <h3>HTTP responses</h3>
+      <p>The XPath map used to represent an HTTP response has a similar format. Note that:</p>
+      <ol>
+         <li>Key names are always lowercase.</li>
+         <li><code>body</code> (<i>or <code>multipart-bodies</code></i>) and <code>media-type</code>
+            will not be present if <code>status-only</code> was set to true in the request.</li>
+         <li><i>The arrays in <code>multipart-headers</code> and <code>multipart-bodies</code> have the
+         same size.</i></li>
+      </ol>
+      <aside>Multipart responses are not currently properly handled. A multipart response will be
+         returned as one text/plain body in <code>body</code> (rather than an array of body parts in
+         <code>multipart-bodies</code>.)</aside>
+      <table>
+         <thead>
+            <tr>
+               <th>Key</th>
+               <th>Value</th>
+               <th>Meaning</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td><code>status</code></td>
+               <td><code>xs:integer</code></td>
+               <td><p>HTTP status code returned by the server.</p></td>
+            </tr>
+            <tr>
+               <td><code>message</code></td>
+               <td><code>xs:string</code></td>
+               <td><p>HTTP status line message returned by the server.</p></td>
+            </tr>
+            <tr>
+               <td><code>headers</code></td>
+               <td><code>map(xs:string, xs:string)</code></td>
+               <td><p>An XPath map, containing all HTTP response headers. Keys are always
+                  lower-case. For example <code>headers</code> may be something like
+                  <samp>map{"date":"Thu, 15 Jun 2017 15:41:09 GMT",
+   "server":"Apache-Coyote/1.1",
+   "transfer-encoding":"chunked",
+   "content-type":"application/xml;charset=UTF-8"}</samp></p></td>
+            </tr>
+            <tr>
+               <td><code>body</code></td>
+               <td><code>item(*)</code></td>
+               <td><p>The response content. If the content-type of the response is an XML type or
+                  HTML type (or
+                  <code>override-media-type</code> was specified on the request with one of these
+                  types), then
+                  this is a document node. Otherwise it is an <code>xs:string</code>.</p></td>
+            </tr>
+            <tr>
+               <td><code>media-type</code></td>
+               <td><code>xs:string</code></td>
+               <td><p>MIME media type of the response content. If <code>override-media-type</code>
+                  was specified on the request, then this is the response media-type. Otherwise, the
+                  MIME media type is taken from the content-type header of the HTTP response.
+                  (Note that <code>headers?content-type</code> is always the content
+                  type of the original HTTP response.)</p></td>
+            </tr>
+            <tr>
+               <td><code>multipart-headers</code></td>
+               <td><code>array(map(xs:string, xs:string))</code></td>
+               <td><p>An XPath map, containing all HTTP response headers. Keys are always
+                  lower-case.</p>
+                  <p><i>Not currently implemented.</i></p></td>
+            </tr>
+            <tr>
+               <td><code>multipart-bodies</code></td>
+               <td><code>array(*)</code></td>
+               <td><p>An array whose members are the multipart response content. If the content-type
+                  of the response body part is an XML type (or
+                  <code>override-media-type</code> was specified on the request with an XML type), then
+                  the member is a document node. Otherwise the member is an <code>xs:string</code>.</p>
+                  <p><i>Not currently implemented.</i></p></td>
+            </tr>
+         </tbody>
+         
+      </table>
+      
+      <h2>MIME media types</h2>
+      <p>Following the definitions in the <a class="bodylink" href="http://expath.org/spec/http-client">EXPath HTTP Client Module</a>, media types are
+         grouped as XML, HTML, text, multipart, and binary as follows:</p>
+      <ul>
+         <li>XML: MIME types <code>text/xml</code>, <code>application/xml</code>,
+            <code>text/xml-external-parsed-entity</code>, and
+            <code>application/xml-external-parsed-entity</code>; and MIME types ending with
+            <code>+xml</code></li>
+         <li>HTML: MIME type <code>text/html</code></li>
+         <li>text: Remaining MIME types beginning with <code>text/</code></li>
+         <li>multipart: MIME types beginning with <code>multipart/</code></li>
+         <li>binary: All other MIME types</li>
+      </ul>
+      
+      
+      
+      
+   </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

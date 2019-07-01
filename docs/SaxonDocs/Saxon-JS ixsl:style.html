@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS ixsl:style</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20ixsl:style_files/jstree.js"></script>
+        <script src="Saxon-JS%20ixsl:style_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20ixsl:style_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="ixsl-extension" class="trail">Saxon Interactive Extensions ▷</li><li idt="functions" class="trail">Extension functions ▷</li><li idt="style" class="trail">ixsl:style</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20ixsl:style_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="open" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="open" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="open" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="item">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="open"><span class="item">HTTP client</span><ul><li id="termination" class="empty"><span class="item">HTTP request termination</span></li></ul></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="item">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="open" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span><ul><li id="functions" class="open"><span class="item">Extension functions</span><ul><li id="apply" class="empty"><span class="item">ixsl:apply</span></li><li id="call" class="empty"><span class="item">ixsl:call</span></li><li id="eval" class="empty"><span class="item">ixsl:eval</span></li><li id="event" class="empty"><span class="item">ixsl:event</span></li><li id="get" class="empty"><span class="item">ixsl:get</span></li><li id="location" class="empty"><span class="item">ixsl:location</span></li><li id="page" class="empty"><span class="item">ixsl:page</span></li><li id="query-params" class="empty"><span class="item">ixsl:query-params</span></li><li id="source" class="empty"><span class="item">ixsl:source</span></li><li id="style" class="empty"><span class="hot">ixsl:style</span></li><li id="window" class="empty"><span class="item">ixsl:window</span></li></ul></li><li id="instructions" class="closed"><span class="item">Extension instructions</span></li><li id="conversions" class="empty"><span class="item">JS/XDM Type Conversion</span></li></ul></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="closed"><span class="item">SaxonJS.transform</span></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="closed" id="conformance"><span class="item">Standards Conformance</span></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left"><h1>ixsl:style</h1>
+            <p>Returns an XPath map containing the style properties of an HTML element node.</p>
+         <aside> Requires Saxon-EE.  Implemented since Saxon 9.7.0.7.</aside><p class="fn-sig">style($node as item()?) ➔  map(*)</p><table class="fn-prototype" style="margin-bottom:10px;"><tr><td colspan="4" style="border-top:solid 1px;" width="470" align="left"><p><i>Arguments</i></p></td></tr><tr><td width="40"><p>&nbsp;</p></td><td width="80" valign="top"><p>$node</p></td><td width="150" valign="top"><p>item()?</p></td><td width="200" valign="top"><p>The HTML element node</p></td></tr><tr><td colspan="2" style="border-top:solid 1px; border-bottom:solid 1px;"><p><i>Result</i></p></td><td style="border-top:solid 1px #3D5B96; border-bottom:solid 1px;" colspan="2"><p>map(*)</p></td></tr></table><h3 class="subtitle">Namespace</h3><p>http://saxonica.com/ns/interactiveXSLT</p><h3 class="subtitle">Notes on the Saxon implementation</h3>
+            <p>Available since Saxon 9.7.0.7.</p>
+         <h3 class="subtitle">Details</h3>
+            <div>
+               <p>Used to access the properties of the JavaScript computed style object
+                  (<code>CSSStyleDeclaration</code>) associated with an element node in the HTML DOM
+                  tree. This object is obtained using <code>window.getComputedStyle()</code> and
+                  includes all CSS declarations (such as style rules in the <code>head</code>
+                  section, or external style sheets), rather than just those from the element's
+                  inline style attribute (obtained using <code>HTMLElement.style</code>).</p>
+               <p>The style information is returned as an XPath map of type <code>map(xs:string,
+                  xs:string?)</code>. The entries in the map are key-value pairs, in which the keys
+                  are strings corresponding to the style property names, in kebab-case (e.g.
+                  'font-size'). The corresponding values are strings containing the style property
+                  value (or the empty sequence if the style property value is undefined or null).
+                  The value of an entry in a map can be obtained using the XPath "?"
+                  operator, e.g. to obtain the value of the 'hidden' style property of the
+                  current node use <code>ixsl:style(.)?hidden</code>.</p>
+               <p>If the specified node does not exist, or is not an element node, then the function
+                  returns an empty map.</p>
+            </div>
+         <h3 class="subtitle">Examples</h3><example>
+               <p>The example below demonstrates checking computed style properties of an HTML
+                  element, and setting the corresponding properties under certain conditions. Note
+                  the mismatch between getting style properties using kebab-case names, and setting
+                  them using camel-case names:</p>
+               <samp>&lt;xsl:template match="div[@id='list']//li" mode="ixsl:onmouseover"&gt;
+   &lt;xsl:if test="ixsl:style(.)?font-weight = ('normal', '400')"&gt;
+      &lt;ixsl:set-style name="fontWeight" select="'bold'"/&gt;
+   &lt;/xsl:if&gt;
+   &lt;xsl:if test="ixsl:style(.)?font-size = '12px'"&gt;
+      &lt;ixsl:set-style name="fontSize" select="'20px'"/&gt;
+   &lt;/xsl:if&gt;
+&lt;/xsl:template&gt;</samp>
+            </example><h3 class="subtitle">See also:</h3><p><span class="link" data-href="/ixsl-extension/instructions/set-style">ixsl:set-style</span></p></div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

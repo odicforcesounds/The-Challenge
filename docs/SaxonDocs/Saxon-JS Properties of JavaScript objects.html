@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS Properties of JavaScript objects</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20Properties%20of%20JavaScript%20objects_files/jstree.js"></script>
+        <script src="Saxon-JS%20Properties%20of%20JavaScript%20objects_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20Properties%20of%20JavaScript%20objects_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="development" class="trail">Developing Applications ▷</li><li idt="properties" class="trail">Properties of JavaScript objects</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20Properties%20of%20JavaScript%20objects_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="open" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="open" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="open" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="item">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="open"><span class="item">HTTP client</span><ul><li id="termination" class="empty"><span class="item">HTTP request termination</span></li></ul></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="hot">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="closed" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="closed"><span class="item">SaxonJS.transform</span></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="closed" id="conformance"><span class="item">Standards Conformance</span></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left">
+      <h1>Properties of JavaScript objects</h1>
+      
+      <p>It is possible to develop rich interactive applications with Saxon-JS and IXSLT without
+         requiring much knowledge of JavaScript, but to develop more advanced applications it helps
+         to know some basics about JavaScript objects and their properties. This section provides an
+         introduction to some relevant JavaScript fundamentals, aimed primarily at XSLT developers
+         who are new to JavaScript; and shows how understanding these is important for getting the
+         most out of IXSLT.</p>
+      
+      <aside>To learn more, there are many introductions to JavaScript available. Mozilla's <a href="https://developer.mozilla.org/en-US/">MDN web docs</a> provides a
+         number of excellent introductory guides, and we highly recommended its references for Web
+         APIs and interfaces for information about objects, events, etc. which may be used in
+         interactive web applications.</aside>
+      
+      <h3>Accessing properties of objects</h3>
+      
+      <p>In JavaScript, almost everything is an <i>object</i>. Objects have members with names and values;
+         these are the <i>properties</i> of the object. A property's name is a string, and its value can be
+         any object. A <i>method</i> is a property whose value is a function. Properties can be accessed using dot
+         notation, e.g. <code>window.document</code>, or bracket notation e.g.
+         <code>window['document']</code>. Dot notation is often used because it is easier to read, but
+         there are some restrictions for its use. For instance, JavaScript properties that begin
+         with a digit cannot be referenced with dot notation. Nested
+         properties are easily accessed using these notations, e.g. <code>window.document.title</code>.</p>
+      
+      <p>In IXSL stylesheets, <span class="link bodylink code" data-href="/ixsl-extension/functions/get">ixsl:get()</span> and <span class="link bodylink             code" data-href="/ixsl-extension/instructions/set-property">ixsl:set-property</span> may be used
+         to get and set properties of JavaScript objects, respectively. Also,
+         methods of JavaScript objects can be called using <span class="link bodylink code" data-href="/ixsl-extension/functions/call">ixsl:call()</span>, and global JavaScript
+         functions can be called as described in <span class="link bodylink" data-href="../global">Using global
+            JavaScript functions</span>. In each of these cases, nested properties can be obtained
+         using a dot (character '.') separated list of names in the string supplying the property
+         name.</p>
+      
+      <p>So while in JavaScript code you would write <code>object.propName</code>, the equivalent in
+         IXSL would be something like <code>ixsl:get($object, 'propName')</code> to get the value, or
+         <code>&lt;ixsl:set-property name="propName" select="$newValue" object="$object"
+            /&gt;</code> to set the value. For example, to obtain the title property of the
+         window document, use <code>ixsl:get(ixsl:window(), 'document.title')</code>.</p>
+      
+      <p>As a more complicated example, consider the interface for encapsulating touches on a
+         touch-sensitive surface. A <code>TouchEvent</code> object represents an event
+         that occurs when the state of touches on the surface changes. The X coordinate of the first
+         touch point of a touch event is accessed as:</p>
+      <samp>event.touches[0].clientX</samp>
+      
+      <p>Using full bracket notation this
+         would be <code>event['touches']['0']['clientX']</code>, but this is harder to read. As well
+         as using dot notation, note the use of <code>[0]</code> rather than <code>['0']</code>.
+         While <code>.0</code> is not allowed (since properties that begin with a digit cannot be
+         referenced with dot notation), this is a useful shorthand, made possible because a
+         JavaScript engine implicitly applies <code>toString</code> conversion on a number supplied
+         as the property name.</p>
+      
+      <p>In IXSLT, in a template rule handling touch events (e.g.
+         <code>mode="ixsl:ontouchstart"</code>), this property can be obtained using:</p>
+      <samp>ixsl:get(ixsl:event(), 'touches.0.clientX')</samp>
+      
+      <p>Note that while the property name may look very much like the JavaScript dot notation,
+         internally in Saxon-JS this is converted to JavaScript bracket notation, i.e.
+         <code>event['touches']['0']['clientX']</code>. As explained above, this is equivalent to
+         the more readable form <code>event.touches[0].clientX</code>. So while
+         <code>event.touches.0.clientX</code> is a syntax error in JavaScript,
+         <code>'touches.0.clientX'</code> is acceptable as a string supplied for a nested property
+         name in IXSLT.</p>
+      
+      <h3>Use of the XPath 3.1 lookup operator</h3>
+      
+      <p>In some cases, accessing properties of JavaScript objects is possible in IXSLT using the
+         XPath 3.1 lookup operator '?'. For instance, the above example could in fact be written:</p>
+      <samp>ixsl:event()?touches?0?clientX</samp>
+      
+      <p>Here, the result of <code>ixsl:event()</code> is converted according to the rules described
+         in <span class="link bodylink" data-href="/ixsl-extension/conversions">JavaScript to XDM Conversion</span>,
+         so that in the IXSLT the JavaScript <code>Event</code> object is treated as a wrapped
+         external object, which behaves a little like a "read-only" XPath map. Thus properties of the
+         <code>TouchEvent</code> object can be obtained using <code>map:get()</code> or the lookup
+         operator. Similarly, <code>ixsl:event()?touches</code> returns a wrapped
+         <code>TouchList</code> object, and <code>ixsl:event()?touches?0</code> returns a wrapped
+         <code>Touch</code> object (before <code>ixsl:event()?touches?0?clientX</code> returns an
+         <code>xs:double</code>, the result of converting a JavaScript <code>long</code>).</p>
+      
+      <p>In order to use this <code>$object?propName</code> shorthand, the JavaScript object must be
+         converted using "Case 1" conversion (as described in <span class="link bodylink" data-href="/ixsl-extension/conversions">JavaScript to XDM Conversion</span>), and must not be of
+         a more specific type which is recognised (i.e. the object is not any of the following:
+         null, undefined, String, Number, Boolean, Date, Node, Array, or Function). So that
+         <code>$object</code> is treated as a JSValue wrapped external object.</p>
+      
+      
+   </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>

@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html><head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Saxon-JS Supplying stylesheet parameters</title>
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=768, minimum-scale=1.0, maximum-scale=1.0">
+        <script type="text/javascript" src="Saxon-JS%20Supplying%20stylesheet%20parameters_files/jstree.js"></script>
+        <script src="Saxon-JS%20Supplying%20stylesheet%20parameters_files/SaxonJS.js"></script>
+        <script>
+      window.onload = function() {
+        SaxonJS.transform({
+           stylesheetLocation: "xsl/jstree.sef.xml",
+           initialTemplate: "main"
+           });
+      }     
+        </script>
+        <link href="Saxon-JS%20Supplying%20stylesheet%20parameters_files/jstree.css" rel="stylesheet" type="text/css">
+            
+    </head>
+
+<body>
+
+    <div id="wrap">
+        
+        <div id="header" class="unselectable">
+            
+            <!-- bread-crumb trail -->
+            
+            <ul class="trail" id="trail"><li id="trail1"><a href="http://saxonica.com/">Saxonica ▷</a></li><li id="trail2"><a href="http://www.saxonica.com/saxon-js/index.xml">Saxon-JS ▷</a></li><li idt="api" class="trail">JavaScript API ▷</li><li idt="transform" class="trail">SaxonJS.transform ▷</li><li idt="parameters" class="trail">Supplying stylesheet parameters</li></ul>
+            
+        </div>
+        
+        <!-- find box appears in top-left of display - normally hidden -->
+        
+        <div class="found">
+            
+            <p class="foundClosed"></p>
+            
+            <p class="foundNext"></p>
+            
+            <p class="foundPrev"></p>
+            
+            <p id="findstatus" class="foundCount">searching...</p>
+            
+        </div>
+        
+        <div id="foundPaths"></div>
+        
+        <div id="nav" class="unselectable">
+            
+            
+            <!-- logo and search -->
+            
+            <div id="logo">
+                
+                <p class="logoBox"><img src="Saxon-JS%20Supplying%20stylesheet%20parameters_files/logo_crop-mid-blue-background.gif" alt="saxonica.com" width="120" height="24"></p>
+                
+                
+                <p class="arrowNone"></p>
+                
+                <p class="search"></p>
+                <input id="search" style="font-family:inherit;font-size:12px;float:right;padding:2px;margin-top:4px;width:110px;border:none;">
+                    
+            </div>
+            
+            
+            <!-- tree-view -->
+            
+            <ul id="list"><li class="closed" id="about"><span class="item">About Saxon-JS</span><ul><li id="saxonce" class="empty"><span class="item">Comparison with Saxon-CE</span></li></ul></li><li class="open" id="changes"><span class="item">Change History</span></li><li class="closed" id="starting"><span class="item">Getting started</span><ul><li id="installing" class="empty"><span class="item">Installing the Software</span></li><li id="export" class="empty"><span class="item">Exporting for JS</span></li><li id="running" class="empty"><span class="item">Running Saxon-JS</span></li></ul></li><li class="closed" id="development"><span class="item">Developing Applications</span><ul><li id="namespaces" class="empty"><span class="item">Namespaces</span></li><li id="result-documents" class="empty"><span class="item">Result documents</span></li><li id="source-documents" class="empty"><span class="item">Source documents</span></li><li id="events" class="empty"><span class="item">Handling user input events</span></li><li id="system-events" class="empty"><span class="item">Handling client system events</span></li><li id="animation" class="empty"><span class="item">Animation</span></li><li id="http" class="open"><span class="item">HTTP client</span><ul><li id="termination" class="empty"><span class="item">HTTP request termination</span></li></ul></li><li id="global" class="empty"><span class="item">Using global JavaScript functions</span></li><li id="properties" class="empty"><span class="item">Properties of JavaScript objects</span></li><li id="saxonce" class="empty"><span class="item">Migration from Saxon-CE</span></li></ul></li><li class="closed" id="ixsl-extension"><span class="item">Saxon Interactive Extensions</span><ul><li id="functions" class="open"><span class="item">Extension functions</span><ul><li id="apply" class="empty"><span class="item">ixsl:apply</span></li><li id="call" class="empty"><span class="item">ixsl:call</span></li><li id="eval" class="empty"><span class="item">ixsl:eval</span></li><li id="event" class="empty"><span class="item">ixsl:event</span></li><li id="get" class="empty"><span class="item">ixsl:get</span></li><li id="location" class="empty"><span class="item">ixsl:location</span></li><li id="page" class="empty"><span class="item">ixsl:page</span></li><li id="query-params" class="empty"><span class="item">ixsl:query-params</span></li><li id="source" class="empty"><span class="item">ixsl:source</span></li><li id="style" class="empty"><span class="item">ixsl:style</span></li><li id="window" class="empty"><span class="item">ixsl:window</span></li></ul></li><li id="instructions" class="open"><span class="item">Extension instructions</span><ul><li id="remove-attribute" class="empty"><span class="item">ixsl:remove-attribute</span></li><li id="schedule-action" class="empty"><span class="item">ixsl:schedule-action</span></li><li id="set-attribute" class="empty"><span class="item">ixsl:set‑attribute</span></li><li id="set-property" class="empty"><span class="item">ixsl:set-property</span></li><li id="set-style" class="empty"><span class="item">ixsl:set-style</span></li></ul></li><li id="conversions" class="empty"><span class="item">JS/XDM Type Conversion</span></li></ul></li><li class="open" id="api"><span class="item">JavaScript API</span><ul><li id="transform" class="open"><span class="item">SaxonJS.transform</span><ul><li id="parameters" class="empty"><span class="hot">Supplying stylesheet parameters</span></li></ul></li><li id="getProcessorInfo" class="empty"><span class="item">SaxonJS.getProcessorInfo</span></li><li id="setLogLevel" class="empty"><span class="item">SaxonJS.setLogLevel</span></li><li id="xpathEvaluate" class="empty"><span class="item">SaxonJS.XPath.evaluate</span></li></ul></li><li class="closed" id="conformance"><span class="item">Standards Conformance</span></li><li class="closed" id="samples"><span class="item">Sample Saxon-JS Applications</span></li><li class="closed" id="conditions"><span class="item">Licensing</span></li></ul>
+            
+        </div>
+        
+        <!-- main page -->
+        
+        <div id="main" style="float:left">
+            <h1>Supplying stylesheet parameters</h1>
+
+            <p>Stylesheet parameters are supplied using the <code>stylesheetParams</code> option on
+                the call of <span class="link bodylink code" data-href="/api/transform">SaxonJS.transform</span>.
+                The values that can be supplied depend on the declared type of the parameter, as
+                follows:</p>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Declared XDM type</th>
+                        <th>Supplied JavaScript type</th>
+                        <th>Conversion</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>xs:string or xs:untypedAtomic</td>
+                        <td>Any value</td>
+                        <td>
+                            <p>Applies the <code>toString()</code> method.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>xs:boolean</td>
+                        <td>Boolean</td>
+                        <td>
+                            <p>No conversion.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>xs:double</td>
+                        <td>Number</td>
+                        <td>
+                            <p>No conversion.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>node()</td>
+                        <td>DOM Node (XML or HTML)</td>
+                        <td>
+                            <p>No conversion.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>map(*)</td>
+                        <td>Object</td>
+                        <td>
+                            <p>The properties of the JavaScript object become key-value pairs within the map,
+                                where the key is the property name (as a string), and the value is
+                                obtained by applying the JavaScript to XDM conversion rules (as
+                                described at <span class="link bodylink" data-href="/ixsl-extension/conversions">JS/XDM Type Conversion</span>)
+                                recursively, using "Case 2" conversion for nested objects.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>array(*)</td>
+                        <td>Array nested in an Array</td>
+                        <td>
+                            <p>JavaScript to XDM conversion using the rules given at <span class="link bodylink" data-href="/ixsl-extension/conversions">JS/XDM Type Conversion</span>, using
+                                "Case 2" conversion for nested objects.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>X?, X+, X*, where X is one of the above</td>
+                        <td>Array (either an empty Array or Null can be used for an empty
+                            sequence)</td>
+                        <td>
+                            <p>The items of the supplied array are converted to type X using the
+                                above rules (so any nested arrays become XPath array items).</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <p>If no type is declared, or if the type is declared as <code>item()</code>, then
+                Saxon-JS converts the supplied value as described in <span class="link bodylink" data-href="/ixsl-extension/conversions">JS/XDM Type Conversion</span> (using
+                "Case 1" conversion for 'other' JavaScript objects).</p>
+
+            <p>If the declared type is anything other than the above, then Saxon-JS will raise an
+                error. </p>
+
+            <!--<h2>Example</h2>
+            
+            <p>Here is an example which invokes a transform, supplying values for three stylesheet
+                parameters:</p>
+            
+            <samp><![CDATA[<script>
+   window.onload = function() {
+      SaxonJS.transform({
+         stylesheetLocation: "style.sef.xml",
+         initialTemplate: "main",
+         stylesheetParams:
+           {'sequence': ['a','b','c'],
+            'array': [['a','b','c']],
+            'seqOfArrays': [['a','b','c'], [1,2,3,4], ['string', true, 42]]
+           }
+      })
+   }     
+</script>]]></samp>
+            
+            <p>The JavaScript array <code>['a','b','c']</code> will be converted to the XDM sequence
+                <code>('a','b','c')</code> for the stylesheet parameter <code>$sequence</code> (for
+                instance with declared type <code>xs:string*</code>); while the
+                nested JavaScript array <code>[['a','b','c']]</code> will be converted to the XDM
+                array <code>['a','b','c']</code> for the stylesheet parameter <code>$array</code>
+                (for instance with declared type <code>array(*)</code>).</p>-->
+        </div>
+        
+        <!-- footnote anchored to bottom of display -->
+        
+        <div id="footer">
+            
+            <div id="info" class="footnote">
+                
+                <p>Saxon-JS Documentation</p>
+                
+            </div>
+            
+            <div>
+                
+                <p class="arrowRight"></p>
+                
+                <p class="arrowLeft"></p> 
+                
+            </div>
+            
+        </div>
+        
+        
+    </div>
+      
+
+   
+
+
+</body></html>
