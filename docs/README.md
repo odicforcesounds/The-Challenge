@@ -8,7 +8,7 @@
 
 ## - Click [here](./MANIFEST.md) to read my Manifest
 
-## - Clica [aqui](../blogs/blogspot/) para ler outros textos em Português.  
+## - Clica [aqui](../blogs/pt/) para ler outros textos em Português.  
 
 # Extra's
 
