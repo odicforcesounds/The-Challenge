@@ -8,7 +8,7 @@
 
 ## - Click [here](./MANIFEST.md) to read my Manifest
 
-## - Clica [aqui](../blogs/pt/) para ler outros textos em Português.  
+## - Clica [aqui](https://github.com/odicforcesounds/The-Challenge/tree/master/blogs/pt) para ler outros textos em Português.  
 
 # Extra's
 
