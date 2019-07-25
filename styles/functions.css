@@ -46,6 +46,12 @@ li {
     color:whitesmoke;
     display: flex;
 }
+
+#video {
+    background-color:black;
+    color:lightseagreen;
+    display: flex;
+}
 li a {
     display:block;
     align-content: center;
@@ -202,4 +208,11 @@ nav {
 section {
     background-color: yellowgreen;
     margin: 1%;
+}
+
+#ser {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 1.5rem;
 }

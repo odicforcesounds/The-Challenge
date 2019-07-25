@@ -199,3 +199,15 @@ nav {
     font-size: 1.5rem;
     text-decoration: none;
 } 
+
+#ser {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+#video {
+    background-color:black;
+    color:lightseagreen;
+    display: flex;
+}
