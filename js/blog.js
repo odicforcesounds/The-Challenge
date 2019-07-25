@@ -56,7 +56,7 @@ document.getElementById('twitter').innerHTML = '<a href=' + user_profile.social_
 document.getElementById('tumblr').innerHTML = '<a href=' + user_profile.social_media[3].link + ' ' + 'target=_blank><img src=".https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-tumblr-48.png"></a>';
 document.getElementById('instagram').innerHTML = '<a href=' + user_profile.social_media[4].link + ' ' + 'target=_blank><img src="https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-instagram-48.png"></a>';
 document.getElementById('github').innerHTML = '<a href=' + user_profile.social_media[1].link + ' ' + 'target=_blank><img src="https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-github-48.png"></a>';
-document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img src="../images/icons/icons8-youtube-48.png"></a>';
+document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img src="https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-youtube-48.png"></a>';
 
 // USER PROFILE PICTURE
 document.getElementById('welcome').innerHTML = 'Welcome Reader!';
