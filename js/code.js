@@ -137,12 +137,6 @@ const user_profile = {
     }
   ],
   'logo': '<img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt="">',
-  'open_source': [
-    {
-      'description': 'GitHub',
-      'link': 'https://github.com/rakzhodekams'
-    }
-  ]
 }
 
 // LOGO
