@@ -211,3 +211,7 @@ nav {
     color:lightseagreen;
     display: flex;
 }
+#socialMedia {
+    align-content: center;
+    margin-top: 1%;
+}

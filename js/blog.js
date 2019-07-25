@@ -1,7 +1,7 @@
-'use strict'
+'use strict';
 
 // eslint-disable-next-line camelcase
-const user_profile = {
+var user_profile = {
   'firstName': 'Oscar',
   'lastName': 'FM',
   'picture': '<img  width="290px" height="290" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace5.jpg">',
@@ -15,10 +15,7 @@ const user_profile = {
   'social_media': [
     {
       'description': 'Facebook',
-      'link': 'https://www.facebook.com/odicforcesounds',
-      'articles': [
-
-      ]
+      'link': 'https://www.facebook.com/odicforcesounds'
     },
     {
       'title': 'Github',
@@ -43,27 +40,31 @@ const user_profile = {
     {
       'description': 'Blogspot',
       'link': 'https://odicforcesounds.blogspot.com/'
+    },
+    {
+      'description': 'Youtube',
+      'link': 'https://www.youtube.com/channel/UCKxb1p0OzXuiAQBkiY0dCGg'
     }
   ]
-}
+};
 
 // LOGO
-document.getElementById('logo').innerHTML = user_profile.logo
+document.getElementById('logo').innerHTML = user_profile.logo;
+document.getElementById('blogspot').innerHTML = '<a href=' + user_profile.social_media[6].link + ' ' + 'target=_blank><img src="https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-blogger-48.png"></a>';
+document.getElementById('facebook').innerHTML = '<a href=' + user_profile.social_media[0].link + ' ' + 'target=_blank><img src="https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-facebook-circled-48.png"></a>';
+document.getElementById('twitter').innerHTML = '<a href=' + user_profile.social_media[2].link + ' ' + 'target=_blank><img src="https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-twitter-circled-48.png"></a>';
+document.getElementById('tumblr').innerHTML = '<a href=' + user_profile.social_media[3].link + ' ' + 'target=_blank><img src=".https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-tumblr-48.png"></a>';
+document.getElementById('instagram').innerHTML = '<a href=' + user_profile.social_media[4].link + ' ' + 'target=_blank><img src="https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-instagram-48.png"></a>';
+document.getElementById('github').innerHTML = '<a href=' + user_profile.social_media[1].link + ' ' + 'target=_blank><img src="https://github.com/odicforcesounds/The-Challenge/blob/master/images/icons/icons8-github-48.png"></a>';
+document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img src="../images/icons/icons8-youtube-48.png"></a>';
 
 // USER PROFILE PICTURE
-document.getElementById('welcome').innerHTML = 'Welcome Reader!'
-document.getElementById('player1').innerHTML = user_profile.player1
+document.getElementById('welcome').innerHTML = 'Welcome Reader!';
+document.getElementById('player1').innerHTML = user_profile.player1;
 
 // SubMenus
-document.getElementById('welcome-message').innerHTML = user_profile.blog
-document.getElementById('picture').innerHTML = user_profile.picture
-// SOCIAL MEDIA LINKS
-document.getElementById('blogspot').innerHTML = '' + '<a href=' + user_profile.social_media[5].link + ' ' + 'target=_blank><img src="../images/icons/icons8-blogger-48.png"></a>'
-document.getElementById('facebook').innerHTML = '' +  '<a href=' + user_profile.social_media[0].link + ' ' + 'target=_blank><img src="../images/icons/icons8-facebook-circled-48.png"></a>'
-document.getElementById('twitter').innerHTML = '' + '<a href=' + user_profile.social_media[1].link + ' ' + 'target=_blank><img src="../images/icons/icons8-twitter-circled-48.png"></a>'
-document.getElementById('tumblr').innerHTML = '' + '<a href=' + user_profile.social_media[2].link + ' ' + 'target=_blank><img src="../images/icons/icons8-tumblr-48.png"></a>'
-document.getElementById('instagram').innerHTML = '' + '<a href=' + user_profile.social_media[3].link + ' ' + 'target=_blank><img src="../images/icons/icons8-instagram-48.png"></a>'
-document.getElementById('github').innerHTML = '' + '<a href=' + user_profile.social_media[3].link + ' ' + 'target=_blank><img src="../images/icons/icons8-github-48.png"></a>'
+document.getElementById('welcome-message').innerHTML = user_profile.blog;
+document.getElementById('picture').innerHTML = user_profile.picture;
 
 // SLOGAN
-document.getElementById('slogan').innerHTML = user_profile.slogan
+document.getElementById('slogan').innerHTML = user_profile.slogan;

@@ -1,7 +1,7 @@
-'use strict'
+'use strict';
 
 // eslint-disable-next-line camelcase
-const user_profile = {
+var user_profile = {
   'intro': [
     {
       'TopMessage': '<b>A B C D F G</b> <br> Introduction to Web Technologies,<br> sharing them while I learn them and use them here. <br> Check the Code, Follow my Dream!'
@@ -11,6 +11,36 @@ const user_profile = {
     {
       'title': 'Dive Into the World of JavaScrpt',
       'track': '<iframe style="border: 0; width: 50%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=997256964/size=small/bgcol=333333/linkcol=0f91ff/track=398268745/transparent=true/" seamless><a href="http://odicforcesounds.bandcamp.com/album/spiritual-algorithm">Spiritual Algorithm by Odicforcesounds</a></iframe>'
+    }
+  ],
+  "social_media": [
+    {
+      'description': 'Facebook',
+      'link': 'https://www.facebook.com/odicforcesounds'
+    },
+    {
+      'description': 'Twitter',
+      'link': 'https://twitter.com/odicforcesounds'
+    },
+    {
+      'description': 'Tumblr',
+      'link': 'https://rakzhodekams.tumblr.com/'
+    },
+    {
+      'description': 'Instagram',
+      'link': 'https://www.instagram.com/odicforcesounds/'
+    },
+    {
+      'description': 'Github',
+      'link': 'https://github.com/rakzhodekams'
+    },
+    {
+      'description': 'Blogspot',
+      'link': 'https://odicforcesounds.blogspot.com/'
+    },
+    {
+      'description': 'Youtube',
+      'link': 'https://www.youtube.com/channel/UCKxb1p0OzXuiAQBkiY0dCGg'
     }
   ],
   'pnote': 'So here I am Diving Into the Code I should to finish my Quest!',
@@ -100,10 +130,10 @@ const user_profile = {
       'content': 'Learning how to program is like learning how to behave, seeing others behaviors, defending those behaviors with an explanation. Education. I Like to COPY because is impossible to NOT copy anything we wish to learn.'
     },
     {
-      'content': 'You have the right to copy or download all the content of my pages, since in fact everything I share is here (including the music) for you, free to Download, and with the content in your hard drive, you have the right to Mix, Change, and delete? LoL ...  since that part is not included in the <a href="https://odicforcesounds.com/#/license" target="_blank">License</a>. '
+      'content': 'You have the right to copy or download all the content of my pages, since in fact everything I share is here (including the music) for you, free to Download, and with the content in your hard drive, you have the right to Mix, Change, and devare? LoL ...  since that part is not included in the <a href="https://odicforcesounds.com/#/license" target="_blank">License</a>. '
     },
     {
-      'content': 'First July of 2019 and I have a lot of work to do, till the end of this year. I read and re-read and re-read again. The cycling redundant process of studing to understand anything is what we expect as a path to learn any subject in this Long-Short life experience we all live, and lets assume, <b>JavaScript</b> is like any other programming language, a way to <q>Manipulate</q> static data to give us a <q>Sensation</q> of <q>Natural Life Reaction</q> that exist in any <q>Living Body</q> which is a <q> Informational State</q>, that normally reacts in the moment we <q>TEST</q> what we wish to find if what we are searching for, is <b>defined</b>.'
+      'content': 'First July of 2019 and I have a lot of work to do, till the end of this year. I read and re-read and re-read again. The cycling redundant process of studing to understand anything is what we expect as a path to learn any subject in this Long-Short life experience we all live, and vars assume, <b>JavaScript</b> is like any other programming language, a way to <q>Manipulate</q> static data to give us a <q>Sensation</q> of <q>Natural Life Reaction</q> that exist in any <q>Living Body</q> which is a <q> Informational State</q>, that normally reacts in the moment we <q>TEST</q> what we wish to find if what we are searching for, is <b>defined</b>.'
     },
     {
       'content': ' <b>Noob confession</b>: I pass all my life trying to know / find the limits of any <q>Programming Language</q>... and in the middle-time, I discover that I define the limits, which is super-very-obvious to most everyone, who wish to define the reason to use <b> Programming Languages</b>. LoL'
@@ -115,7 +145,7 @@ const user_profile = {
       'content': 'Q: So what each need to learn to learn what each desire to learn? <br>  A: Each needs to Learn how To <b>define</b> the limits of <q>Life Interaction</q> with... <br> A: with Any <q>Language</q> he/she connects with, where each, try to find each one <b>truth</b> of what each did <b>Define</b> as their own limits, in other <b>Objects</b> aka with the <b>Class</b> person that is a <b>Class</b> of <q>living organisms</q> .'
     },
     {
-      'content': 'So lets talk about the WEB! <br> The Web is DATA aka metadata ( confirmation of data ) and DATA have several <b>types</b> of it self. Numbers, Booleans, Strings, Arrays, Objects, Class\'s and many other fragments of DATA structures (ways of organizing data) aka <b>knowledge</b> that can be used in a functional relationship in reality to find the <b>truth</b> of it self. '
+      'content': 'So vars talk about the WEB! <br> The Web is DATA aka metadata ( confirmation of data ) and DATA have several <b>types</b> of it self. Numbers, Booleans, Strings, Arrays, Objects, Class\'s and many other fragments of DATA structures (ways of organizing data) aka <b>knowledge</b> that can be used in a functional relationship in reality to find the <b>truth</b> of it self. '
     },
     {
       'content': 'As you may know, <b>Truth</b> can only exist in a relationship of two or more <q>persons</q> or <q>functions</q> that try to find some <b>truth</b> in what they wish to define as truth, which means that truth is only the confirmation of others information. aka <b>metadata</b>. '
@@ -130,58 +160,73 @@ const user_profile = {
       'content': 'Maybe is not a bad idea to organize one or more <b>XML</b> books to serve all domains of this project. Till now (1): This subdomain, since everything is hosted in GitHub :)  '
     },
     {
-      'content': 'Anyway I made a Google search to compare <b>XML</b> vs <b>JSON</b> and I did find <a href="https://www.javatpoint.com/json-vs-xml" target="_blank">this</a> link, where we can read what we should use in our needs! To my Needs and to this Project-Page Needs, we need Both! So I will define some files for many proposes of this project! By the way, <b>Github</b> have awesome shares from awesome group of people who made the Web as it is! <b><a href="https://github.com/w3c/web-roadmaps" target="_blank">W3C</a></b>, which are who define the Web, and they share everything we need to help us in this choice as that link above. I have no experience or enough knowledge of <q>Project Design</q> but lets say, since XML is good for documentation and asked by Google to index page content, XML is useful to that propose, while is useful as well for Mobil Applications.'
+      'content': 'Anyway I made a Google search to compare <b>XML</b> vs <b>JSON</b> and I did find <a href="https://www.javatpoint.com/json-vs-xml" target="_blank">this</a> link, where we can read what we should use in our needs! To my Needs and to this Project-Page Needs, we need Both! So I will define some files for many proposes of this project! By the way, <b>Github</b> have awesome shares from awesome group of people who made the Web as it is! <b><a href="https://github.com/w3c/web-roadmaps" target="_blank">W3C</a></b>, which are who define the Web, and they share everything we need to help us in this choice as that link above. I have no experience or enough knowledge of <q>Project Design</q> but vars say, since XML is good for documentation and asked by Google to index page content, XML is useful to that propose, while is useful as well for Mobil Applications.'
     },
     {
       'content': 'Mr.JSON is part of JS World as XML. I need to follow the easy funny part of what is already defined by the <q>Oracle</q>: <a href="https://docs.oracle.com/en/database/oracle/oracle-database/12.2/adjsn/lot.html" target="_blank">JSON</a> !! <br><br> To continue... :p ' 
     }
   ],
   'logo': '<img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt="">',
-}
+};
+
 
 // LOGO
-const logo = document.getElementById('logo')
-logo.innerHTML = user_profile.logo
+document.getElementById('logo').innerHTML = user_profile.logo;
+document.getElementById('blogspot').innerHTML = '<a href=' + user_profile.social_media[6].link + ' ' + 'target=_blank><img src="../images/icons/icons8-blogger-48.png"></a>';
+document.getElementById('facebook').innerHTML = '<a href=' + user_profile.social_media[0].link + ' ' + 'target=_blank><img src="../images/icons/icons8-facebook-circled-48.png"></a>';
+document.getElementById('twitter').innerHTML = '<a href=' + user_profile.social_media[2].link + ' ' + 'target=_blank><img src="../images/icons/icons8-twitter-circled-48.png"></a>';
+document.getElementById('tumblr').innerHTML = '<a href=' + user_profile.social_media[3].link + ' ' + 'target=_blank><img src="../images/icons/icons8-tumblr-48.png"></a>';
+document.getElementById('instagram').innerHTML = '<a href=' + user_profile.social_media[4].link + ' ' + 'target=_blank><img src="../images/icons/icons8-instagram-48.png"></a>';
+document.getElementById('github').innerHTML = '<a href=' + user_profile.social_media[1].link + ' ' + 'target=_blank><img src="../images/icons/icons8-github-48.png"></a>';
+document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img src="../images/icons/icons8-youtube-48.png"></a>';
+
+// USER PROFILE PICTURE
+document.getElementById('welcome').innerHTML = 'Welcome Reader!';
+document.getElementById('player1').innerHTML = user_profile.player1;
+
+// SubMenus
+document.getElementById('welcome-message').innerHTML = user_profile.blog;
+document.getElementById('picture').innerHTML = user_profile.picture;
+// SOCIAL MEDIA LINKS
+
+// SLOGAN
+document.getElementById('slogan').innerHTML = user_profile.slogan;
 
 // INTRO
-const intro = document.getElementById('mintro')
-intro.innerHTML = user_profile.intro[0].TopMessage
+var intro = document.getElementById('mintro');
+intro.innerHTML = user_profile.intro[0].TopMessage;
 
-const note = document.getElementById('pnote')
-note.innerHTML = user_profile.pnote
+var note = document.getElementById('pnote');
+note.innerHTML = user_profile.pnote;
 
 // BANDCAMP TRACK
-const player = document.getElementById('player1')
-player.innerHTML = user_profile.player[0].track
+var player = document.getElementById('player1');
+player.innerHTML = user_profile.player[0].track;
 
 // INSERT FIRST POST DATA
-const firstPost = document.getElementById('pcode1')
-firstPost.innerHTML = user_profile.postsList[0].content
+var firstPost = document.getElementById('pcode1');
+firstPost.innerHTML = user_profile.postsList[0].content;
 
 // document.getElementById('pcode1').innerHTML = user_profile.pcode1
 
 // NEXT PAGE - UNDERSTANDING FUNCTIONS
-let buttonNext = document.getElementById('btnNext')
-let postList = 1
-let i = 1
+var buttonNext = document.getElementById('btnNext');
+var postList = 1;
+var i = 1;
 buttonNext.onclick = function() {
-  let textContent = document.getElementById('pcode1')
-  let postList = user_profile.postsList[i].content.length
-  textContent.innerHTML = user_profile.postsList[i].content
-  postList += 1
-  i += 1
-}
+  var textContent = document.getElementById('pcode1');
+  var postList = user_profile.postsList[i].content.length;
+  textContent.innerHTML = user_profile.postsList[i].content;
+  postList += 1;
+  i += 1;
+};
 
 // Go Back
-let buttonBack = document.getElementById('btnBack')
+var buttonBack = document.getElementById('btnBack');
 buttonBack.onclick = function() {
-  let textContent = document.getElementById('pcode1')
-  let postList = user_profile.postsList[i].content.length
-  textContent.innerHTML = user_profile.postsList[i].content
-  postList -= 1
-  i -= 1
-}
-
-// GITHUB FOOT
-const gh = document.getElementById('github')
-gh.innerHTML = '<a href=' + user_profile.open_source[0].link + ' ' + 'target=_blank>GitHub</a>'
+  var textContent = document.getElementById('pcode1');
+  var postList = user_profile.postsList[i].content.length;
+  textContent.innerHTML = user_profile.postsList[i].content;
+  postList -= 1;
+  i -= 1;
+};

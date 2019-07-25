@@ -39,7 +39,7 @@ const spa = {
       'topMenuBlogLink': '<a href="#" onclick="goBlog()">Blog</a>',
       'topMenuCodeLink': '<a href="#" onclick="return true"">Code</a>',
       'topMenuDeLink': '<a href="#" onclick="return false">De</a>',
-      'topMenuGameLink': '<a href="#" onclick="return false">De</a>',
+      'topMenuGameLink': '<a href="#" onclick="return false">Game</a>',
       'topMenuWikiLink': '<a href="https://wiki.odicforcesounds.com/docs/">Wiki</a>',
       'topMenuArtLink': '<a href="https://wiki.odicforcesounds.com/art/">Art</a>'
     }
