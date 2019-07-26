@@ -47,11 +47,6 @@ li {
     display: flex;
 }
 
-#video {
-    background-color:black;
-    color:lightseagreen;
-    display: flex;
-}
 li a {
     display:block;
     align-content: center;
@@ -67,6 +62,8 @@ li a {
 
 nav {
     display: block;
+    text-align:center;
+    align-content: center;
 }
 
 #container {
@@ -74,11 +71,14 @@ nav {
     margin-left:1%;
     margin-right:1%;
     margin-bottom: 2%;
+    align-content: center;
+    text-align:center;
 }
 
 #main {
     margin-top:0.3px;
     background-color: white;
+    align-content: center;
 }
 
 #head {
@@ -87,6 +87,8 @@ nav {
     color:lightblue;
     font-family:sans-serif;
     font-size:1.3rem;
+    align-content: center;
+    text-align:center;
 }
 #art {
     background-color:black;

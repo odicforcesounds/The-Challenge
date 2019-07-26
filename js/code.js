@@ -2,6 +2,8 @@
 
 // eslint-disable-next-line camelcase
 var user_profile = {
+  'slogan': 'If Time is build within our selfs, then Time is our selfs, as result of Time it self.',
+
   'intro': [
     {
       'TopMessage': '<b>A B C D F G</b> <br> Introduction to Web Technologies,<br> sharing them while I learn them and use them here. <br> Check the Code, Follow my Dream!'
@@ -19,6 +21,10 @@ var user_profile = {
       'link': 'https://www.facebook.com/odicforcesounds'
     },
     {
+      'title': 'Github',
+      'link': 'https://github.com/rakzhodekams'
+    },
+    {
       'description': 'Twitter',
       'link': 'https://twitter.com/odicforcesounds'
     },
@@ -31,8 +37,8 @@ var user_profile = {
       'link': 'https://www.instagram.com/odicforcesounds/'
     },
     {
-      'description': 'Github',
-      'link': 'https://github.com/rakzhodekams'
+      'description': 'Mastodon',
+      'link': 'https://mastodon.social/@odicforcesounds'
     },
     {
       'description': 'Blogspot',
@@ -175,33 +181,13 @@ document.getElementById('logo').innerHTML = user_profile.logo;
 document.getElementById('blogspot').innerHTML = '<a href=' + user_profile.social_media[6].link + ' ' + 'target=_blank><img src="../images/icons/icons8-blogger-48.png"></a>';
 document.getElementById('facebook').innerHTML = '<a href=' + user_profile.social_media[0].link + ' ' + 'target=_blank><img src="../images/icons/icons8-facebook-circled-48.png"></a>';
 document.getElementById('twitter').innerHTML = '<a href=' + user_profile.social_media[2].link + ' ' + 'target=_blank><img src="../images/icons/icons8-twitter-circled-48.png"></a>';
-document.getElementById('tumblr').innerHTML = '<a href=' + user_profile.social_media[3].link + ' ' + 'target=_blank><img src=".../images/icons/icons8-tumblr-48.png"></a>';
+document.getElementById('tumblr').innerHTML = '<a href=' + user_profile.social_media[3].link + ' ' + 'target=_blank><img src="../images/icons/icons8-tumblr-48.png"></a>';
 document.getElementById('instagram').innerHTML = '<a href=' + user_profile.social_media[4].link + ' ' + 'target=_blank><img src="../images/icons/icons8-instagram-48.png"></a>';
 document.getElementById('github').innerHTML = '<a href=' + user_profile.social_media[1].link + ' ' + 'target=_blank><img src="../images/icons/icons8-github-48.png"></a>';
 document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img src="../images/icons/icons8-youtube-48.png"></a>';
 
-// USER PROFILE PICTURE
-document.getElementById('welcome').innerHTML = 'Welcome Reader!';
-document.getElementById('player1').innerHTML = user_profile.player1;
-
-// SubMenus
-document.getElementById('welcome-message').innerHTML = user_profile.blog;
-document.getElementById('picture').innerHTML = user_profile.picture;
-// SOCIAL MEDIA LINKS
-
 // SLOGAN
 document.getElementById('slogan').innerHTML = user_profile.slogan;
-
-// INTRO
-var intro = document.getElementById('mintro');
-intro.innerHTML = user_profile.intro[0].TopMessage;
-
-var note = document.getElementById('pnote');
-note.innerHTML = user_profile.pnote;
-
-// BANDCAMP TRACK
-var player = document.getElementById('player1');
-player.innerHTML = user_profile.player[0].track;
 
 // INSERT FIRST POST DATA
 var firstPost = document.getElementById('pcode1');
@@ -230,3 +216,18 @@ buttonBack.onclick = function() {
   postList -= 1;
   i -= 1;
 };
+
+
+// INTRO
+var intro = document.getElementById('mintro');
+intro.innerHTML = user_profile.intro[0].TopMessage;
+
+// BANDCAMP TRACK
+var player = document.getElementById('player1');
+player.innerHTML = user_profile.player[0].track;
+// INSERT FIRST POST DATA
+var note = document.getElementById('pnote');
+note.innerHTML = user_profile.pnote;
+var code = document.getElementById('pcode1');
+firstPost.innerHTML = user_profile.postsList[0].content;
+
