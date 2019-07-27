@@ -18,11 +18,11 @@ ul {
 li {
     float:left;
     background-color:black;
-    margin-left:2px;
     margin-right:2px;
     align-content: center;
     text-align:center;
     margin-left: 0.5%;
+    padding: 0%;
 }
 
 li a {
@@ -32,8 +32,8 @@ li a {
     text-decoration:none;
     margin-right: 5px;
     margin-left: 5px;
-    margin-top: 24px;
-    margin-bottom: 14px;
+    padding: 2%;
+    margin-top: 5%;
     font-family:fantasy;
 }
 
@@ -205,7 +205,7 @@ span {
     text-align: center;
     background-color: black;
     color: whitesmoke;
-    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
+    font-size: calc(1vw + 0.5vh + 0.3vmin);
 }
 
 #welcome {
