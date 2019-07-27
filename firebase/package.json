@@ -1,0 +1,37 @@
+{
+  "name": "firehost",
+  "version": "1.0.0",
+  "description": "Learning firebase sdk for JavaScript / TypeScript to rebuild all into it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "challenge",
+    "odicforcesounds",
+    "js",
+    "javascript",
+    "google",
+    "typescript",
+    "script",
+    "java",
+    "android",
+    "world",
+    "wide",
+    "business",
+    "asia",
+    "america",
+    "europe",
+    "africa",
+    "india",
+    "monkey",
+    "dao",
+    "tao"
+  ],
+  "author": "Oscar FM aka OdicforceSounds aka Sun Wukong",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^6.3.3"
+  }
+}
