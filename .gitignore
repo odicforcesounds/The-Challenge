@@ -3,3 +3,4 @@ app/node_modules/
 app/firebase.json
 app/.firebaserc
 app/dist
+firebase/node_modules/
