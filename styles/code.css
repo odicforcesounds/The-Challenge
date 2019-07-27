@@ -1,5 +1,6 @@
 body {
     background-color: darkgray;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
 
 .main-content {
@@ -13,36 +14,21 @@ ul {
     overflow:hidden;
     position:sticky;
     background-color:lightblue;
-    padding:2%;
+    padding:1%;
+    align-content: center;
+    text-align:center;
 }
 
 li {
-    text-align:center;
     float:left;
     background-color:black;
     margin-left:2px;
     margin-right:2px;
-    text-align: center;
     align-content: center;
-}
-#wiki {
-    background-color:black;
-    color:whitesmoke;
-    display: flex;
+    text-align:center;
+    margin-left: 0.5%;
 }
 
-#slogan {
-    text-align: center;
-    display: block;
-    background-color: aquamarine;
-    color: darkblue;
-    font-size: 1.5rem;
-}
-#music {
-    background-color:black;
-    color: grey;
-    display: flex;
-}
 li a {
     display:block;
     align-content: center;
@@ -50,10 +36,9 @@ li a {
     text-decoration:none;
     margin-right: 5px;
     margin-left: 5px;
-    margin-top: 14px;
+    margin-top: 24px;
     margin-bottom: 14px;
     font-family:fantasy;
-    font-size:2rem;
 }
 
 #container {
@@ -81,7 +66,7 @@ nav {
     background-color:gray;
     color:lightblue;
     font-family:sans-serif;
-    font-size:1.3rem;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     text-align: center;
     align-content: center;
 }
@@ -161,7 +146,7 @@ nav {
     width: 90%;
     align-content: center;
     background-color: rgb(221,255,155);
-    text-align: justify;
+    text-align: center;
     font-size: 1.3rem;
     font-family: sans-serif;
     width:94%;
@@ -189,6 +174,25 @@ nav {
     font-family: sans-serif;
 }
 
+#wiki {
+    background-color:black;
+    color:whitesmoke;
+    display: flex;
+}
+
+#slogan {
+    text-align: center;
+    display: block;
+    background-color: aquamarine;
+    color: darkblue;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
+}
+#music {
+    background-color:black;
+    color: grey;
+    display: flex;
+}
+
 #sm {
     background-color:darkblue;
     text-align:center;
@@ -199,7 +203,7 @@ nav {
 
 #sm a{
     color:lightblue;
-    font-size: 1.5rem;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     text-decoration: none;
 } 
 
@@ -207,7 +211,7 @@ nav {
     text-align: center;
     background-color: black;
     color: whitesmoke;
-    font-size: 1.5rem;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
 #video {
     background-color:black;
@@ -215,6 +219,8 @@ nav {
     display: flex;
 }
 #socialMedia {
+    float: right;
     align-content: center;
-    margin-top: 1%;
+    text-align:center;
+    margin-top: 2%;
 }

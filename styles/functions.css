@@ -1,7 +1,7 @@
 body {
     background-color: darkgray;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
-
 ul {
     list-style-type: none;
     margin:0;
@@ -9,9 +9,32 @@ ul {
     overflow:hidden;
     position:sticky;
     background-color:lightblue;
-    padding:2%;
+    padding:1%;
+    align-content: center;
+    text-align:center;
 }
 
+li {
+    float:left;
+    background-color:black;
+    margin-left:2px;
+    margin-right:2px;
+    align-content: center;
+    text-align:center;
+    margin-left: 0.5%;
+}
+
+li a {
+    display:block;
+    align-content: center;
+    text-align:center;
+    text-decoration:none;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 24px;
+    margin-bottom: 14px;
+    font-family:fantasy;
+}
 #btnNext {
     background-color: darkblue;
     align-content: flex-end;
@@ -33,31 +56,10 @@ ul {
     margin: 1%;
 }
 
-
-li {
-    text-align:center;
-    float:left;
-    background-color:black;
-    margin-left:2px;
-    margin-right:2px;
-}
 #wiki {
     background-color:black;
     color:whitesmoke;
     display: flex;
-}
-
-li a {
-    display:block;
-    align-content: center;
-    text-align:center;
-    text-decoration:none;
-    margin-right: 5px;
-    margin-left: 5px;
-    margin-top: 14px;
-    margin-bottom: 14px;
-    font-family:fantasy;
-    font-size:2rem;
 }
 
 nav {
@@ -71,14 +73,15 @@ nav {
     margin-left:1%;
     margin-right:1%;
     margin-bottom: 2%;
+    text-align: center;
     align-content: center;
-    text-align:center;
 }
 
 #main {
     margin-top:0.3px;
     background-color: white;
     align-content: center;
+    margin-bottom: 0.3px;
 }
 
 #head {
@@ -156,7 +159,7 @@ nav {
     align-content: center;
     background-color: rgb(221,255,155);
     text-align: justify;
-    font-size: 1.3rem;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     font-family: sans-serif;
     width:94%;
     margin:2%;
@@ -169,7 +172,7 @@ nav {
     text-align: center;
     padding: 1.5%;
     margin: 1.5%;
-    font-size: 1.3rem;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     font-family: sans-serif;
 }
 
@@ -189,7 +192,7 @@ nav {
     text-align: center;
     margin: 1.5%;
     padding: .1.5%;
-    font-size: 1.3rem;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     font-family: sans-serif;
 }
 
@@ -198,7 +201,7 @@ nav {
     text-align:center;
     color:yellow;
     margin-top: 1%;
-    font-size: 1.3rem;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
 
 #sm a{
@@ -219,6 +222,8 @@ section {
     font-size: 1.5rem;
 }
 #socialMedia {
+    float: right;
     align-content: center;
-    margin-top: 1%;
+    text-align:center;
+    margin-top: 2%;
 }
