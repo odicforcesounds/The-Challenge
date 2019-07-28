@@ -4,7 +4,7 @@
 
 ## - Clica [aqui](./PT_PT/README.md) para ler a versão em Português deste desafio
 
-## - Click [here](https://wiki.odicforcesounds.com/src/blog.html) to return to the main page (Blog)
+## - Click [here](https://wiki.odicforcesounds.com/) to return to the main page (Blog)
 
 ## - Click [here](./MANIFEST.md) to read my Manifest
 

@@ -1,95 +1,79 @@
 body {
-    background-color: darkgray;
+    background-color: rgb(170, 170, 170);
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
 
 .main-content {
     text-align: center;
-}
-
-ul {
-    list-style-type: none;
-    margin:0;
-    padding:0;
-    overflow:hidden;
-    position:sticky;
-    background-color:lightblue;
-    padding:1%;
     align-content: center;
-    text-align:center;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
-li {
-    float:left;
-    background-color:black;
-    margin-left:2px;
-    margin-right:2px;
-    align-content: center;
-    text-align:center;
-    margin-left: 0.5%;
-}
 
-li a {
+nav a {
     display:block;
     align-content: center;
     text-align:center;
     text-decoration:none;
-    margin-right: 5px;
-    margin-left: 5px;
-
+    margin: 2%;
     font-family:fantasy;
 }
 
 #container {
-    margin-top:2%;
-    margin-left:1%;
-    margin-right:1%;
+    margin-left:2%;
+    margin-right:2%;
     margin-bottom: 2%;
+    margin-top: 2%;
+
     text-align: center;
     align-content: center;
 }
 
 nav {
     display: block;
+    float:left;
+    align-content: center; 
     text-align: center;
-    align-content: center;
+    margin-left: 5%;
 }
 
 #main {
-    margin-top: 2%;
-    background-color: white;
+    align-content: center;
+    text-align: center;
 }
 
 #head {
     margin-top: 2%;
-    background-color:gray;
     color:lightblue;
     font-family:sans-serif;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
-    text-align: center;
-    align-content: center;
 }
 
 #art {
     background-color:black;
     color: rgb(94, 255, 0);
     display: flex;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
 
 #blog {
     background-color:black;
     color: aqua;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     display: flex;
 }
 #code {
     background-color:black;
     color:yellow;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     display: flex;
 }
 
 #dev {
     background-color:black;
     color: grey;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     display: flex;
 }
 
@@ -97,11 +81,13 @@ nav {
     background-color:black;
     color: grey;
     display: flex;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
 
 #fun {
     background-color:black;
     color:orange;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     display: flex;
 }
 
@@ -116,8 +102,10 @@ nav {
 #logo {
     padding: 0;
     margin: 0%;
-    width: 60px;
-    height: 60px;
+    width: 55px;
+    height: 55px;
+    float: left;
+    margin-left: 7%;
 }
 
 #btnNext {
@@ -145,15 +133,13 @@ nav {
     text-align: center;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     font-family: sans-serif;
-    margin:2%;
-    padding: 1%;
+    margin-top:3%;
 }
 
 #pnote {
     align-content: center;
     text-align: center;
     padding: 1.5%;
-    margin-bottom: 1.5%;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     font-family: sans-serif;
 }
@@ -170,50 +156,24 @@ nav {
 #wiki {
     background-color:black;
     color:whitesmoke;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
     display: flex;
 }
 
 #slogan {
     text-align: center;
     display: block;
-    background-color: aquamarine;
     color: darkblue;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
-#music {
-    background-color:black;
-    color: grey;
-    display: flex;
-}
-
-#sm {
-    background-color:darkblue;
-    text-align:center;
-    color:yellow;
-    margin-top: 1%;
-    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
-}
-
-#sm a{
-    color:lightblue;
-    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
-    text-decoration: none;
-} 
 
 #ser {
     text-align: center;
-    background-color: black;
-    color: whitesmoke;
     font-size: calc(1vw + 0.5vh + 0.3vmin);
 }
-#video {
-    background-color:black;
-    color:lightseagreen;
-    display: flex;
-}
-#socialMedia {
-    float: right;
-    align-content: center;
-    text-align:center;
-    margin-top: 2%;
+
+#socialMedia span{
+    align-content: center; 
+    text-align: center;
+    margin-left: 5%;
 }
