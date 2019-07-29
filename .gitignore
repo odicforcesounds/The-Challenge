@@ -1,6 +1,6 @@
 node_modules/
-ng2app/node_modules/
-ng2app/firebase.json
-ng2app/.firebaserc
-ng2app/dist
+artcode/node_modules/
+artcode/firebase.json
+artcode/.firebaserc
+artcode/dist
 firebase/node_modules/
