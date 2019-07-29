@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "stage01": "boom-cat"
+  }
+}
