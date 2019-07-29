@@ -1,0 +1,301 @@
+<HTML>
+<HEAD>
+<TITLE>Pythagorean Triples, Triplets</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#ffffff" rgb="#000000" text="#000000" link="#ff0000" vlink="#0000ff">
+<center><img src="images/key.gif"></center>
+
+<H1 align=center>Pythagorean Triples</H1>
+
+<P><center><img src="images/key.gif"></center>
+
+<P><table border cellpadding=5 align=right bgcolor="#dddddd">
+<tr><th>a</th><th>b</th><th>c</th></tr>
+<tr bgcolor="#ffffff"><td>1</td><td>0</td><td>1</td></tr>
+<tr><td>3</td><td>4</td><td>5</td></tr>
+<tr><td>5</td><td>12</td><td>13</td></tr>
+<tr><td>7</td><td>24</td><td>25</td></tr>
+<tr><td>9</td><td>40</td><td>41</td></tr>
+<tr><td>11</td><td>60</td><td>61</td></tr>
+<tr><td>13</td><td>84</td><td>85</td></tr>
+<tr><td>15</td><td>112</td><td>113</td></tr>
+<tr><td>17</td><td>144</td><td>145</td></tr>
+<tr><td>19</td><td>180</td><td>181</td></tr>
+<tr><td>21</td><td>220</td><td>221</td></tr>
+<tr><td>23</td><td>264</td><td>265</td></tr>
+<tr><td>25</td><td>312</td><td>313</td></tr>
+<tr><td>27</td><td>364</td><td>365</td></tr>
+<tr><td>29</td><td>420</td><td>421</td></tr>
+<tr><td>31</td><td>480</td><td>481</td></tr>
+</table>
+
+<P>"Pythagorean triples" are integer solutions to the <B>Pythagorean Theorem, a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></B>.  I like "triplets," but "triples" seems to be the favored term. <img src="images/pythag-1.gif" align=left>For a right triangle, the <B>c</B> side is the hypotenuse, the side opposite the right angle.  The <B>a</B> side is the shorter of the two sides adjacent to the right angle.  The first rules that I became aware of for determining a subset of Pythagorean triplets are as follows:
+
+<ul>
+<li>Every odd number is the <B>a</B> side of a Pythagorean triplet.
+<li>The <B>b</B> side of a Pythagorean triplet is simply <B>(a<sup>2</sup> - 1) / 2</B>.
+<li>The <B>c</B> side is <B>b + 1</B>.
+</ul>
+
+<P>Here, <B>a</B> and <B>c</B> are always odd; <B>b</B> is always even.  These relationships hold because the difference between successive square numbers is successive odd numbers.  Every odd number that is itself a square (and the square of every odd number is an odd number) thus makes for a Pythagorean triplet.  Thus, the square of <B>7</B>, <B>49</B>, is the difference between <B>576</B>, the square of <B>24</B>, and <B>625</B>, the square of <B>25</B>, giving us the triplet <B>7,24,25</B>.  Similarly, the square of <B>23</B>, <B>529</B>, is the difference between <B>69696</B>, the square of <B>264</B>, and <B>70225</B>, the square of <B>265</B>, giving us the triplet <B>23,264,265</B>.
+
+
+<P>The simplest triplet in the table, <B>1,0,1</B>, is not a triangle, and <B>a&gt;b</B>, but it is a solution to the Pythagorean Theorem -- a very trival one since <B>n,0,n</B>, where <B>n</B> is <I>any number</I>, works just as well (using <B>0</B> would even allow us to break Fermat's Last Theorem).
+
+<P>These relationships came to my attention through an appendix to <I>Fermat's Enigma</I>, by Simon Singh (Walker and Company, 1997, p. 293), which gives Euclid's proof that there are an infinite number of Pythagorean triplets -- <img src="images/pythag-2.gif" align=left>basically because there are an infinite number of odd numbers.  Singh's book also gives (pp. 287-288) an elegant proof of the Pythagorean Theorem itself.  Thus, in the diagram at left, the area of the entire square is<br>
+<B>(a + b)<sup>2</sup></B>, the area of each triangle is <B>1/2 ab</B>, and the area of the inner square is <B>c<sup>2</sup></B>.  The area of the entire square is thus also <B>4(1/2 ab) + c<sup>2</sup></B>, so we can say that <B>(a + b)<sup>2</sup> = 4(1/2 ab) + c<sup>2</sup></B>.  This multiplies out to<br>
+<B>a<sup>2</sup> + 2ab + b<sup>2</sup> = 2ab + c<sup>2</sup></B>.  Simplifying, we get <B>a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup></B>, which is what we wanted to prove.
+<br clear=left>
+
+<P>The fact that the difference between successive squares is successive odd numbers suggests comparison to another Pythagorean discovery, that every square is the sum of two successive <a href="music.htm#triangle"><B>triangular</B></a> numbers, where the triangular numbers are the successive sums of all integers:  &nbsp;0 + 1 = <B>1</B>, 0 + 1 + 2 = <B>3</B>, 0 + 1 + 2 + 3 = <B>6</B>, etc.  <img src="images/pythag-3.gif" align=left>So the triangular numbers are <b>1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66, 78, 91, 105, 120,</B> etc.  105 + 120 = <B>225</B>; 225 is the square of <B>15</B>.  The way this relationship can be illustrated is shown at left:  &nbsp;As every square can be divided into two triangles, so can every square number, which can be mapped as a square, be divided into two triangular numbers, which can be mapped as triangles.  The square <B>25</B> can thus be divided into the triangles <B>10</B> and <B>15</B>.<br clear=left>
+
+<P><table border cellpadding=5 align=right bgcolor="#dddddd">
+<tr><th>a</th><th>b</th><th>c</th></tr>
+<tr bgcolor="#ffffff"><td>2</td><td>0</td><td>2</td></tr>
+<tr bgcolor="#ffaaaa"><td>4</td><td>3</td><td>5</td></tr>
+<tr bgcolor="#ffffff"><td>6</td><td>8</td><td>10</td></tr>
+<tr><td>8</td><td>15</td><td>17</td></tr>
+<tr bgcolor="#ffffff"><td>10</td><td>24</td><td>26</td></tr>
+<tr><td>12</td><td>35</td><td>37</td></tr>
+<tr bgcolor="#ffffff"><td>14</td><td>48</td><td>50</td></tr>
+<tr><td>16</td><td>63</td><td>65</td></tr>
+<tr bgcolor="#ffffff"><td>18</td><td>80</td><td>82</td></tr>
+<tr><td>20</td><td>99</td><td>101</td></tr>
+<tr bgcolor="#ffffff"><td>22</td><td>120</td><td>122</td></tr>
+<tr><td>24</td><td>143</td><td>145</td></tr>
+<tr bgcolor="#ffffff"><td>26</td><td>168</td><td>170</td></tr>
+<tr><td>28</td><td>195</td><td>197</td></tr>
+<tr bgcolor="#ffffff"><td>30</td><td>224</td><td>226</td></tr>
+<tr><td>32</td><td>255</td><td>257</td></tr>
+<tr bgcolor="#ffffff"><td>34</td><td>288</td><td>290</td></tr>
+<tr><td>36</td><td>323</td><td>325</td></tr>
+<tr bgcolor="#ffffff"><td>38</td><td>360</td><td>362</td></tr>
+<tr><td>40</td><td>399</td><td>401</td></tr>
+<tr bgcolor="#ffffff"><td>42</td><td>440</td><td>442</td></tr>
+<tr><td>44</td><td>483</td><td>485</td></tr>
+<tr bgcolor="#ffffff"><td>46</td><td>528</td><td>530</td></tr>
+<tr><td>48</td><td>575</td><td>577</td></tr>
+<tr bgcolor="#ffffff"><td>50</td><td>624</td><td>626</td></tr>
+<tr><td>52</td><td>675</td><td>677</td></tr>
+<tr bgcolor="#ffffff"><td>54</td><td>728</td><td>730</td></tr>
+<tr><td>56</td><td>783</td><td>785</td></tr>
+<tr bgcolor="#ffffff"><td>58</td><td>840</td><td>842</td></tr>
+<tr><td>60</td><td>899</td><td>901</td></tr>
+<tr bgcolor="#ffffff"><td>62</td><td>960</td><td>962</td></tr>
+<tr><td>64</td><td>1023</td><td>1025</td></tr>
+</table>
+
+It was originally pointed out to me by Matthew Q. Boeke that there are Pythagorean triplets in which the <B>a</B> side is an even number.  An infinite series of Pythagorean solutions can be generated with the following rule:
+
+<ul>
+<li>Every even number is the <B>a</B> side of a Pythagorean triplet.
+<li>The <B>b</B> side of such a Pythagorean triplet is simply <B>(a/2)<sup>2</sup> - 1</B>.
+<li>The <B>c</B> side is <B>b + 2</B>.
+</ul>
+
+<P>In the table, we see the interesting result that for triplets where <B>a</B> is not evenly divisible by 4, the numbers are all even.  These are simply multiples by 2 of triplets in the table above where <B>a</B> is odd.  As such they do not seem to be considered fundamental triplets.  The triplet <B>4,3,5</B> is noteworthy as having <B>a&gt;b</B>, but if we reverse <B>4</B> & <B>3</B>, we just have the classic <B>3,4,5</B> triplet in the odd series above.
+
+<P>I was aware that there were many other triplets, e.g. <B>20,21,29</B>; <B>28,45,53</B>; and <B>36,77,85</B>, which do not obey the rule for <B>b</B> and <B>c</B> in the even series.  I found these generated with matrices on the <a href="http://mathworld.wolfram.com/PythagoreanTriple.html">Internet</a>, but that is a very technical presentation, and I wanted to see simpler rules for them -- my purpose in these pages not being to present mathematical matters in the standard way, which lost me back in the 11th grade, but in a way that I find interesting.  This may or may not be helpful or of interest to others, but I imagine that there may be at least a few like myself who are not really mathophobes but who find the way real mathematicians explain things exasperating.
+
+<P>Happily, Juan Tolosa, from Richard Stockton College, Pomona, New Jersey, sent me [December 2001] formulas for all Pythagorean triplets:
+
+<ul>
+<li> <B>a = p * q</B>
+<li> <B>b = (p<sup>2</sup> - q<sup>2</sup>)/2</B>
+<li> <B>c = (p<sup>2</sup> + q<sup>2</sup>)/2</B>
+</ul>
+
+<P>Here <B>p</B> and <B>q</B> must be odd integers, with p &gt; q, and with no common divisors.  This doesn't always work as expected.  For instance, with <B>8, 15, 17</B>, using <B>p=5</B> and <B>q=3</B>, the <B>a</B> term in the equations gives the <B>b</B> side and the <B>b</B> term the <B>a</B> side.
+
+<P>Then Juan sent along an alternative version of the equations:
+
+<ul>
+<li> <B>a = 2pq</B>
+<li> <B>b = p<sup>2</sup> - q<sup>2</sup></B>
+<li> <B>c = p<sup>2</sup> + q<sup>2</sup></B>
+</ul>
+
+<P>Here there are similar qualifications for <B>p</B> and <B>q</B>, except that now also they cannot both be odd.  For <B>8, 15, 17</B>, we now use <B>p=4</B> and <B>q=1</B>.  This preserves <B>a</B> as <B>a</B> (<B>2*4*1=8</B>) and <B>b</B> as <B>b</B> (<B>4<sup>2</sup> -1 = 15</B>).
+
+<P>All this was more like what I was looking for.
+
+<P>The rules above that every odd number and every even number gives the <B>a</B> side of a Pythagorean triplet are special cases of these general rules.  The first table above can be derived from [<B>n,1</B>] for <B>p,q</B> where <B>n</B> is any odd number greater than <B>1</B>.  We get <I>every other</I> line (the primitive triplets) in the second table with [<B>n,1</B>] for <B>p,q</B> where <B>n</B> is any even number.  But all the entries in either table can be derived from either general rule.  Thus, <B>3,4,5</B> comes from [<B>3,1</B>] or [<B>2,1</B>], although the order for [<B>2,1</B>] is then <B>4,3,5</B>.  The triplet <B>7,24,25</B> in the first table can be derived from [<B>7,1</B>] through the first rule and from [<B>4,3</B>] by the second rule.  Similarily, the triplet <B>16,63,65</B> in the second table can be derived from [<B>8,1</B>] through the second rule and from [<B>9,7</B>] by the first rule.  The non-primitive triplets in the second table can be derived by breaking the rules slightly.  Thus [<B>4,2</B>] consists of two even numbers.  This is prohibited for the second general rule because <B>4</B> and <B>2</B> share a factor of <B>2</B>.  [<B>4,2</B>], however, does produce the triplet <B>8,6,10</B>.  This can be reduced to <B>4,3,5</B>, derived from [<B>2,1</B>] -- where [<B>4,2</B>] has been reduced by the common factor of <B>2</B>.  A triplet that occurs in neither table would be <B>20,21,29</B>, from [<B>7,3</B>] by the first rule and [<B>5,2</B>], in the different order, by the second rule.
+
+<P><img src="images/pythag-4.gif" align=left>Just to check, we can put the first general rule into the Pythagorean Theorem itself, as at left.  Here it doesn't make any difference which of the smaller quantities is <B>a</B> and which is <B>b</B>, since it is simply their sum that is the square of <B>c</B>.  The fourth power terms that we get all cancel each other out, and we end up with a nice equality between the <B>p</B> and <B>q</B> terms.  A similar test can be run with the second general rule for triplets.
+
+<P>What is less intuitive in these tests is why only odd numbers work for the first rule and not for the second.
+
+<P><a name="irrational">As it happens, a similar problem of odds and evens comes to my attention.  It is part of the demonstration formulated by the Pythagoreans that the square root of <B>2</B> is an irrational number.  The argument goes like this:  &nbsp;If the <img src="images/greek/root.gif"><B>2</B> is rational, then it can be expressed as the ratio of integers <B>p/q</B> (since that is what "rational" means for numbers).  If that ratio is at the lowest factors, then at least one number must be odd, since otherwise both could be divided by the factor of <B>2</B>.  Now, if <img src="images/greek/root.gif"><B>2 = p/q</B>, then <B>2q<sup>2</sup> = p<sup>2</sup></B>.  This means that <B>p<sup>2</sup></B> is even; and if <B>p<sup>2</sup></B> is even, then <B>p</B> is even, since every even square is the square of an even number.  <B>That</b> is true because odd numbers do not contain the factor <B>2</B>, and so multiplying them by themselves will not introduce it.  If <B>p</B> is even, then <B>q</B> must be odd.  However, if <B>p</B> is even, then it can be expressed as <B>2r</B>; and this means, by substitution, that <B>2q<sup>2</sup> = 4r<sup>2</sup></B>.  This means that <B>q<sup>2</sup> = 2r<sup>2</sup></B>, which makes <B>q<sup>2</sup></B> and so <B>q</B> even.  But <B>q</B> cannot be both odd and even, so the <img src="images/greek/root.gif"><B>2</B> is not a rational number.
+
+<P>With the rules for Pythagorean triplets, where <B>a = 2pq</B>, <B>a</B> must be even.  <B>B</B> and <B>c</B> will then be odd.  <B>C</B> alone could not be even because an odd number (<B>b<sup>2</sup></B>) added to an even number (<B>a<sup>2</sup></B>) produces an odd number.  If they were all even, then <B>a, b,</B> and <B>c</B> could all be divided by <B>2</B> and it would not be a primitive triplet.  But if <B>b</B> and <B>c</B> are both odd, then <B>p</B> and <B>q</B> cannot be both even or both odd, or the differences and the sums of <B>p<sup>2</sup></B> and <B>q<sup>2</sup></B> would not be odd (evens added to evens and odds to odds are both even).  Therefore, where <B>a = 2pq</B>, <B>p</B> and <B>q</B> are neither both even nor both odd.
+
+<P>Where <B>a = pq</B>, <B>b</B> and <B>c</B> both result from division by <B>2</B> and so <B>p<sup>2</sup> - q<sup>2</sup></B> and <B>p<sup>2</sup> + q<sup>2</sup></B> both must be even (if we are to have an integer result).  For them to be even, <B>p</B> and <B>q</B> must either both be even or both be odd (for the sum and difference to be even).  Since the squares of even numbers are always multiples of <B>4</B>, and the sums of multiples of <B>4</B> will always be multiples of <B>4</B>, if both <B>p</B> and <B>q</B> are even, then <B>c</B>, having been divided by <B>2</B>, will still be even.  But, as noted above, <B>c</B> can never be even in a primitive Pythagorean triplet.  Therefore, <B>p</B> and <B>q</B> are both odd, which is the requirement for <B>a = pq</B>.<br clear=left>
+
+<P><table border cellpadding=5 align=left bgcolor="#dddddd">
+<tr><th bgcolor="ddddff">p</th><th bgcolor="ddddff">q</th><th>a</th><th>b</th><th>c</th><th bgcolor="ddffdd">p</th><th bgcolor="ddffdd">q</th></tr>
+<tr><td bgcolor="ddddff">3</td><td bgcolor="ddddff">1</td><td>3</td><td>4</td><td>5</td><td bgcolor="ddffdd">2</td><td bgcolor="ddffdd">1</td></tr>
+<tr><td bgcolor="ddddff">5</td><td bgcolor="ddddff">3</td><td>8</td><td>15</td><td>17</td><td bgcolor="ddffdd">4</td><td bgcolor="ddffdd">1</td></tr>
+<tr><td bgcolor="ddddff">5</td><td bgcolor="ddddff">1</td><td>5</td><td>12</td><td>13</td><td bgcolor="ddffdd">3</td><td bgcolor="ddffdd">2</td></tr>
+<tr><td bgcolor="ddddff">7</td><td bgcolor="ddddff">5</td><td>12</td><td>35</td><td>37</td><td bgcolor="ddffdd">6</td><td bgcolor="ddffdd">1</td></tr>
+<tr><td bgcolor="ddddff">7</td><td bgcolor="ddddff">3</td><td>20</td><td>21</td><td>29</td><td bgcolor="ddffdd">5</td><td bgcolor="ddffdd">2</td></tr>
+<tr><td bgcolor="ddddff">7</td><td bgcolor="ddddff">1</td><td>7</td><td>24</td><td>25</td><td bgcolor="ddffdd">4</td><td bgcolor="ddffdd">3</td></tr>
+
+<tr><td bgcolor="ddddff">9</td><td bgcolor="ddddff">7</td><td>16</td><td>63</td><td>65</td><td bgcolor="ddffdd">8</td><td bgcolor="ddffdd">1</td></tr>
+<tr><td bgcolor="ddddff">9</td><td bgcolor="ddddff">5</td><td>28</td><td>45</td><td>53</td><td bgcolor="ddffdd">7</td><td bgcolor="ddffdd">2</td></tr>
+<tr bgcolor="ffdddd"><td>9</td><td>3</td><td>27</td><td>36</td><td>45</td><td>6</td><td>3</td></tr>
+<tr><td bgcolor="ddddff">9</td><td bgcolor="ddddff">1</td><td>9</td><td>40</td><td>41</td><td bgcolor="ddffdd">5</td><td bgcolor="ddffdd">4</td></tr>
+</table>
+
+<table border cellpadding=5 align=right bgcolor="#dddddd">
+<tr><th bgcolor="ddddff">p</th><th bgcolor="ddddff">q</th><th>a</th><th>b</th><th>c</th><th bgcolor="ddffdd">p</th><th bgcolor="ddffdd">q</th></tr>
+
+<tr><td bgcolor="ddddff">11</td><td bgcolor="ddddff">9</td><td>20</td><td>99</td><td>101</td><td bgcolor="ddffdd">10</td><td bgcolor="ddffdd">1</td></tr>
+<tr><td bgcolor="ddddff">11</td><td bgcolor="ddddff">7</td><td>36</td><td>77</td><td>85</td><td bgcolor="ddffdd">9</td><td bgcolor="ddffdd">2</td></tr>
+<tr><td bgcolor="ddddff">11</td><td bgcolor="ddddff">5</td><td>48</td><td>55</td><td>73</td><td bgcolor="ddffdd">8</td><td bgcolor="ddffdd">3</td></tr>
+<tr><td bgcolor="ddddff">11</td><td bgcolor="ddddff">3</td><td>33</td><td>56</td><td>65</td><td bgcolor="ddffdd">7</td><td bgcolor="ddffdd">4</td></tr>
+<tr><td bgcolor="ddddff">11</td><td bgcolor="ddddff">1</td><td>11</td><td>60</td><td>61</td><td bgcolor="ddffdd">6</td><td bgcolor="ddffdd">5</td></tr>
+
+<tr><td bgcolor="ddddff">13</td><td bgcolor="ddddff">11</td><td>24</td><td>143</td><td>145</td><td bgcolor="ddffdd">12</td><td bgcolor="ddffdd">1</td></tr>
+<tr><td bgcolor="ddddff">13</td><td bgcolor="ddddff">9</td><td>44</td><td>117</td><td>125</td><td bgcolor="ddffdd">11</td><td bgcolor="ddffdd">2</td></tr>
+<tr><td bgcolor="ddddff">13</td><td bgcolor="ddddff">7</td><td>60</td><td>91</td><td>109</td><td bgcolor="ddffdd">10</td><td bgcolor="ddffdd">3</td></tr>
+<tr><td bgcolor="ddddff">13</td><td bgcolor="ddddff">5</td><td>65</td><td>72</td><td>97</td><td bgcolor="ddffdd">9</td><td bgcolor="ddffdd">4</td></tr>
+<tr><td bgcolor="ddddff">13</td><td bgcolor="ddddff">3</td><td>39</td><td>80</td><td>89</td><td bgcolor="ddffdd">8</td><td bgcolor="ddffdd">5</td></tr>
+<tr><td bgcolor="ddddff">13</td><td bgcolor="ddddff">1</td><td>13</td><td>84</td><td>85</td><td bgcolor="ddffdd">7</td><td bgcolor="ddffdd">6</td></tr>
+</table>
+
+The tables at left and right give 21 sets of Pythagorean triplets.  These are based on <B>p</B> for all odd numbers from <B>3</B> to <B>13</B>.  Each larger odd number has an additional odd number than is smaller than it, so there is an extra triplet for each successive odd number.  The odd <B>p</B> and <B>q</B> are given on blue in the left columns, then the triplet in the middle columns on gray, and the odd/even <B>p</B> and <B>q</B> on green in the right columns.
+
+<P>All these small odd numbers are prime, except <B>9</B>.  The [<B>9,3</B>] line is the only non-primitive triplet, and it is marked in red, but included for sake of completeness.  What is otherwise noteworthy is that the odd/even <B>p</B> and <B>q</B> always add up to the odd <B>p</B>, while the odd <B>q</B> is always the difference between the odd/even <B>p</B> and <B>q</B>.  Going down the table, the odd/even <B>q</B> increases by one as the <B>p</B> decreases by one, until they only differ by one.  Which is even and which is odd changes from line to line.
+
+<P>Fermat's Last Theorem (from <B>Pierre de Fermat</B>, 1607-1665), recently proven (by Andrew Wiles, 1994), is that there are no integer solutions to equations like the Pythagorean Theorem to the third power or higher, e.g. <B>a<sup>3</sup> + b<sup>3</sup> = c<sup>3</sup></B>.  Fermat said that he had a simple proof of this, but the proof eventually produced is scores of pages of the densest and most esoteric material that modern mathematics has to offer.  I wondered if there were integer solutions to the three dimensional version of the Pythagorean Theorem, i.e. <B>x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> = r<sup>2</sup></B>.  I doubted that there were, but now D.J. Kuik of the Free University of Amsterdam has pointed out to me that any Pythagorean triplet where <B>a</B> or <B>b</B> is itself <B>c</B> in another triplet would make for a Pythagorean "quadruplet."  Thus, in the triplet <B>5<sup>2</sup> + 12<sup>2</sup> = 13<sup>2</sup></B>, <B>5<sup>2</sup></B> can be analyzed as  <B>3<sup>2</sup> + 4<sup>2</sup></B>.  So we get the "quadruplet" <B>3<sup>2</sup> + 4<sup>2</sup> + 12<sup>2</sup> = 13<sup>2</sup></B>.
+
+<P>There is also, of course, the <I>four dimensional</I> version of the Pythagorean Theorem, i.e. the <a href="separat.htm">Separation Formula</a> in Relativity, <B>t<sup>2</sup> - (x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup>)/c<sup>2</sup> = s<sup>2</sup></B>.  Integer solutions are not to be found here unless the velocity of light (<B>c</B>) is itself set to an integer value, i.e. <B>1</B>, <img src="images/greek/triple01.gif" align=right>which would mean that units of time could be years and units of distance are light-years (or seconds and light-seconds).  To that we certainly <I>can</I> have integer solutions if we replace <B>x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup></B> with its equivalent, <B>r<sup>2</sup></B>.  With <B>t<sup>2</sup> - r<sup>2</sup> = s<sup>2</sup></B> we simply have a version of the Pythagorean Theorem itself.  Otherwise we will need a Pythagorean "quintuplet."
+
+<P>In fact, there will be such things, for instance <B>3<sup>2</sup> + 4<sup>2</sup> + 12<sup>2</sup> + 84<sup>2</sup> = 85<sup>2</sup></B>.  If <B>c = 1</B>, we can give a solution of <B>t<sup>2</sup> - (x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup>) = s<sup>2</sup></B> as <B>85<sup>2</sup> - (3<sup>2</sup> + 4<sup>2</sup> + 12<sup>2</sup>) = 84<sup>2</sup></B>.  The "separation," <B>s</B>, in units of time, is, of course, smaller than the magnitude of the temporal dimension, <B>t</B>, because of the Reltivistic effect of time dilation.
+
+<P>Thus, with Pythagorean "quadruplets" and "quintuplets," we have integer solutions to the three and four dimensional versions of the Pythagorean Theorem.  Other quintuplets would be <B>16<sup>2</sup> + 63<sup>2</sup> + 72<sup>2</sup> + 4704<sup>2</sup> = 4705<sup>2</sup></B> and <B>8<sup>2</sup> + 15<sup>2</sup> + 144<sup>2</sup> + 10512<sup>2</sup> = 10513<sup>2</sup></B>.  Each of the quintuplets cited here requires three sets of interlocking Pythagorean triplets, 
+
+<table border cellpadding=5 align=left bgcolor="#dddddd">
+<tr bgcolor="#aaaaff"><th>x</th><th>y</th><th>h</th></tr>
+<tr bgcolor="#aaaaff"><td>3</td><td>4</td><td>5</td></tr>
+<tr bgcolor="#aaffaa"><th>h</th><th>z</th><th>r</th></tr>
+<tr bgcolor="#aaffaa"><td>5</td><td>12</td><td>13</td></tr>
+<tr bgcolor="#ffaaff"><th>r</th><th>s</th><th>t</th></tr>
+<tr bgcolor="#ffaaff"><td>13</td><td>84</td><td>85</td></tr>
+</table>
+
+<table border cellpadding=5 align=right bgcolor="#dddddd">
+<tr bgcolor="#aaaaff"><th>x</th><th>y</th><th>h</th><th>x</th><th>y</th><th>h</th></tr>
+<tr bgcolor="#aaaaff"><td>16</td><td>63</td><td>65</td><td>8</td><td>15</td><td>17</td></tr>
+<tr bgcolor="#aaffaa"><th>h</th><th>z</th><th>r</th><th>h</th><th>z</th><th>r</th></tr>
+<tr bgcolor="#aaffaa"><td>65</td><td>72</td><td>97</td><td>17</td><td>144</td><td>145</td></tr>
+<tr bgcolor="#ffaaff"><th>r</th><th>s</th><th>t</th><th>r</th><th>s</th><th>t</th></tr>
+<tr bgcolor="#ffaaff"><td>97</td><td>4704</td><td>4705</td><td>145</td><td>10512</td><td>10513</td></tr>
+</table>
+
+which are displayed in the tables at left and right.  As in the diagram, <B>x</B>, <B>y</B>, <B>z</B>, and <B>t</B> are used for the coordinates of space and time.  The letter <B>h</B> is used for the hypotenuse of a triangle using the first triplet.  Then <B>r</B> is used for the radius of the three dimensional figure where the smallest number of the second triplet is replaced by its equivalent from the first triplet.  Finally, <B>s</B> is the space-time separation that can be expressed when the whole quintuplet has been assembled.  In the table at right, only half the triplets appear in the tables above.<br clear=left>
+
+<P>Expanding the Pythagorean Theorem can be continued.  Thus <B>157<sup>2</sup> = 132<sup>2</sup> + 85<sup>2</sup></B> -- a triplet that does not figure in any of the tables here.  We can break this down as, <B>157<sup>2</sup> = 132<sup>2</sup> + 84<sup>2</sup> + 12<sup>2</sup> + 4<sup>2</sup> + 3<sup>2</sup></B>.  So if we want integer solutions in five dimensions, there we go.
+
+<P>Interesting in realation to all this are the theorems, proven by Fermat, that (1) any prime number of the form <B>4n + 1</B> can be expressed a sum of two squares; and (2) that such a prime is the hypotenuse of a Pythagorean Triplet, i.e. its square is the sum of two squares, (3) its square is the hypotenuse of two Pythagorean Triplets, and (4) its cube is the hypotenuse of three Pythagorean Triplets.  Thus,
+
+<ol><li><B>5 = 2<sup>2</sup> + 1<sup>2</sup></B>,
+<li><B>5<sup>2</sup> = 3<sup>2</sup> + 4<sup>2</sup></B>,
+<li><B>5<sup>4</sup> = 25<sup>2</sup> = 15<sup>2</sup> + 20<sup>2</sup> = 7<sup>2</sup> + 24<sup>2</sup></B>, and
+<li><B>5<sup>6</sup> = 125<sup>2</sup> = 75<sup>2</sup> + 100<sup>2</sup> = 35<sup>2</sup> + 120<sup>2</sup> = 44<sup>2</sup> + 117<sup>2</sup></B>.
+</ol>
+
+<P>The principle that certain primes are the sum of squares fits with one of the equations that generates triplets:  &nbsp;<B>c = p<sup>2</sup> + q<sup>2</sup></B>.  Thus, the numbers which, squared and added, produce a prime, can be found here as <B>p</B> and <B>q</B>.  In the table above, <B>c</B> includes the prime numbers <B>5, 13, 17, 29, 37, 41, 53, 61, 73, 89, 97, 101, 109</B>.  These prime numbers all have the noteworthy feature that they are <I>not</I> prime if we take into account <a href="imagine.htm#note-2">complex factors</a>.<br clear=right>
+
+
+<P><table border cellpadding=5 align=right bgcolor="#dddddd">
+<tr><th bgcolor="ffbbff">p</th><th bgcolor="ffbbff">q</th><th bgcolor="ffbbff">r</th><th bgcolor="ffbbff">s</th><th>a</th><th>b</th><th>c</th></tr>
+<tr><td bgcolor="ffbbff">1</td><td bgcolor="ffbbff">1</td><td bgcolor="ffbbff">2</td><td bgcolor="ffbbff">3</td><td>3</td><td>4</td><td>5</td></tr>
+<tr><td bgcolor="ffbbff">1</td><td bgcolor="ffbbff">2</td><td bgcolor="ffbbff">3</td><td bgcolor="ffbbff">5</td><td>5</td><td>12</td><td>13</td></tr>
+<tr bgcolor="ffdddd"><td>2</td><td>3</td><td>5</td><td>8</td><td>16</td><td>30</td><td>34</td></tr>
+<tr><td bgcolor="ffbbff">3</td><td bgcolor="ffbbff">5</td><td bgcolor="ffbbff">8</td><td bgcolor="ffbbff">13</td><td>39</td><td>80</td><td>89</td></tr>
+<tr><td bgcolor="ffbbff">5</td><td bgcolor="ffbbff">8</td><td bgcolor="ffbbff">13</td><td bgcolor="ffbbff">21</td><td>105</td><td>208</td><td>233</td></tr>
+
+<tr bgcolor="ffdddd"><td>8</td><td>13</td><td>21</td><td>34</td><td>272</td><td>546</td><td>610</td></tr>
+
+</table>
+
+In the table at right, Pythagorean triplets are generated from successive <a href="golden.htm">Fibonacci numbers</a>, <B>p, q, r, s</B>, according to the following rules:
+
+<ul>
+<li> <B>a = ps</B>
+<li> <B>b = 2qr</B>
+<li> <B>c = q<sup>2</sup> + r<sup>2</sup></B>
+</ul>
+
+<P>This does not seem to produce all the triplets, and we get two results here where the triplets can be divided by two, giving us <B>8, 15, 17</B> and <B>136, 273, 305</B>.  It looks like this will happen when <B>p</B> and <B>s</B> are even.
+
+<P>This characteristic of Pythagorean triplets, and more, I've found in The Teaching Company's "An Introduction to Number Theory," with lectures by Edward B. Burger, of Williams College.  Curiously, while Burger devotes considerable attention to matters addressed in these pages, such as the triplets, the <a href="golden.htm">Golden Ratio and Fibonacci numbers</a>, <a href="music.htm#triangle">triangular numbers</a>, and <a href="golden.htm#note-2">continued fractions</a>, his comprehensive survey of Number Theory mentions, but does not directly address or treat, the category of <a href="imagine.htm">imaginary numbers</a>.  This is especially striking in that, despite all the attention given to prime numbers and the importance attributed to them, we do not learn that many traditional primes, like <B>2</B> and <B>5</B>, can be <a href="imagine.htm#note-2">factored</a> into complex numbers:  &nbsp;i.e. <B>(1 + <I>i</I>)(1 - <I>i</I>)</B> and  <B>(2 + <I>i</I>)(2 - <I>i</I>)</B>, respectively.  I would have expected this intriguing circumstance to excite some curiosity in any treatment of Number Theory; but it seems to be characteristic of the ambivalent attitude of mathematicians to imaginaries.<br clear=right>
+
+<P><center><img src="images/key.gif"></center>
+
+<P><a href="music.htm">Mathematics & Music, after Pythagoras</a><p>
+<a href="music.htm#triangle">Triangular Numbers</a><p>
+<a href="science.htm#math">Philosophy of Science, Mathematics</a><p>
+<a href="history.htm#greek">History of Philosophy, Greek</a><p>
+<a href="./#contents">Home Page</a><p>
+
+<H5>Copyright (c) 1998, 2000, 2001, 2002, 2006, 2008, 2011, 2018 <a href="./ross/">Kelley L. Ross, Ph.D.</a> All <a href="./#ross">Rights</a> Reserved</H5>
+
+<a name="periodic"><center><img src="images/key.gif"></center>
+
+<H1 align=center>Imaginary Powers of Euler's<br>or Napier's Constant</H1>
+
+<P><center><img src="images/key.gif"></center>
+
+<P><img src="images/greek/trigfunc.gif" align=right>The equations at right for the ordinary circular <B>sine</B> and <B>cosine</B> functions, which are periodic, contrast with the equations for <B>hyperbolic sine</B> and <B>hyperbolic cosine</B> functions, which are not periodic.  The results of all the equations are real numbers; but for the <B>sine</B> and <B>cosine</B> we have <I>imaginary</I> powers of <font size=+1><B>e</B></font> -- Euler's (after <B>Leonhard Euler</B>, 1707-1783) or Napier's (after <B>John Napier</B>, 1550–1617, the man who originated <I>logarithms</I>) Constant -- now usually called simply <B>e</B> alone, or the "base of natural logarithms."  For the <B>sine</B> function, these imaginary powers are divided by the imaginary number itself.
+
+<P>These relationships go back to <B>Euler's Theorem:</B>  &nbsp;<img src="images/greek/euler.gif">  &nbsp;The equation for hyperbolic functions analogous to Euler's Theorem is: &nbsp;<img src="images/greek/euler-2.gif">  Note that all of these equations only work when using <B>radian measure</B> for angles.  Thus 180<sup>o</sup> is <img src="images/greek/pi.gif"> radians, and 90<sup>o</sup> is <img src="images/greek/pi.gif"><B>/2</B> radians.  From this comes one famous solution to Euler's Theorem:  &nbsp;<img src="images/greek/euler-3.gif">  This occurs because the <B>sine</B> of 180<sup>o</sup> (<img src="images/greek/pi.gif"> radians) is <B>zero</B>, which eliminates the imaginary term, while the <B>cosine</B> of 180<sup>o</sup> is <B>minus one</B>, which provides the whole value of the expression.
+
+<P>The idea of the imaginary power of a number is very strange.  And the idea that the higher powers of a number end up repeating the lower powers is also very counter-intuitive.  These phenomena can be investigated, however, using the <I>continued series</I> for Euler's or Napier's Constant (<B>e</B>).  <img src="images/greek/napier-1.gif" align=left>The basic series is simple and elegant.  The power of <B>e</B> occurs as the numerator on the series of continued fractions, raised to the power of succeeding integers, starting with zero, while the denominator of the fractions is the factorial of the same integers.  <B>E</B> to the given power is the sum of the series.  Since factorials get large very quickly (13! is already 6,227,020,800), not much of the series needs to be completed to get very accurate numbers.  The series will always begin with &nbsp;<B>l + x</B>&nbsp;; but I have included &nbsp;<B>x<sup>0</sup>/0!</B>&nbsp; and &nbsp;<B>x<sup>1</sup>/1!</B>&nbsp; in order to show that the first two terms are generated by the same principle as the following ones.<br clear=left>
+
+<P><img src="images/greek/napier-2.gif" align=right>Where the power of <B>e</B> is negative (reciprocals of <B>e</B>), the series is modified as at right.  Every other term becomes negative, since the even power of a negative number is positive, while the odd power of a negative number is negative.<br clear=right>
+
+<img src="images/greek/napier-5.gif" align=left>
+
+<P>With the series for the powers of <B>e</B> and that for the reciprocals, we can add them together and produce the numerator for the series of the <B>hyperbolic cosine</B>.  All of the fractions with even powers are retained.  They are doubled, but then the series is to be divided by <B>2</B> to get the function, which is:  &nbsp;<img src="images/greek/napier-6.gif" align=middle><br clear=left>
+
+<P><img src="images/greek/napier-7.gif" align=left>The <B>hyperbolic sine</B> will come from subtracting rather than adding the reciprocal series.  This eliminates all the fractions with even powers in the series.  All the fractions with odd powers are multiplied by <B>2</B>, but, again, the series is to be divided by two to get the <B>hyperbolic sine</B>, which will be as follows:  &nbsp;<img src="images/greek/napier-8.gif" align=middle>   &nbsp;The series of fractions for the <B>hyperbolic sine</B> and <B>hyperbolic cosine</B> are thus simple, elegant, and memorable.  Since the terms are all added, it is obvious why the functions should increase continuously to infinity, which is characteristic of hyperbolic functions.<br clear=left>
+
+<P>The circular functions, the ordinary <B>sine</B> and <B>cosine</B>, involve <I>imaginary powers</I> of <B>e</B>.  The series of the simple powers of <B>e</B> is now modified by the power of the imaginary number, <B><I>i</I></B>.  Multiplied by itself (i.e. squared), <B><I>i</I></B> becomes <B>-1</B>.  Multiplied by itself again (i.e. cubed), that becomes <B>-<I>i</I></B>.  Multiplied by itself again (i.e. to the fourth power), that becomes simply <B>1</B>.  <B>E</B> to the fifth power is then just <B><I>i</I></B> again, and the cycle is repeated through the higher powers.  <B>E</B> to the zero power falls in the cycle (before <B><I>i</I></B>) where its value should be <B>1</B>; and, indeed, if the zero power of <B>any</B> number is <B>1</B>, then it should be.  <img src="images/greek/napier-3.gif" align=left>The series for powers of <B>e</B> that results with powers of <B><I>i</I></B> may be seen at left.  The <I>odd</I> powers now all contain <B><I>i</I></B> themselves.  The distribution of positive and negative terms, however, is now very different from what we saw above.  We have two positive terms (for <B>1</B> and <B><I>i</I></B>) followed by two negative terms (for <B>-1</B> and <B>-<I>i</I></B>).  Then the cycle repeats.<br clear=left>
+
+<P><img src="images/greek/napier-4.gif" align=right>For the negative imaginary powers of <B>e</B>, we take the imaginary series and multiply every odd power by <B>-1</B>, just as in the simple negative power series above.  The sign of every fraction with an odd power will thus change from our simple imaginary power series.  The result is that we still have a series with two positive terms followed by two negative terms, but now the cycle has been moved up one and the whole series begins with just one positive term.<br clear=right>
+
+<img src="images/greek/napier-9.gif" align=left>
+
+<P>With the series for the imaginary powers of <B>e</B> and that for the negative (reciprocal) powers, we can add them together and produce the numerator for the series of the <B>cosine</B> function.  All of the fractions with even powers are retained.  They are doubled, but then the series is to be divided by <B>2</B> to get the function, which is:  &nbsp;<img src="images/greek/napier-A.gif" align=middle>  The conspicuous feature about this series, in comparison to that for the <B>hyperbolic cosine</B>, is that the terms are alternatively positive and negative, while the terms in the hyperbolic function were all positive.  That is actually the <I>only</I> difference.<br clear=left>
+
+<P><img src="images/greek/napier-B.gif" align=left>The <B>sine</B> function will come from subtracting rather than adding the reciprocal series.  This eliminates all the fractions with even powers in the series.  All the fractions with odd powers are multiplied by <B>2</B>.  All the fractions with odd powers also retain their <I>imaginary part</I>.  So the series must be divided, not just by two, like the previous series, but by <B><I>i</I></B> also to get the <B>sine</B>, which will be as follows:  &nbsp;<img src="images/greek/napier-C.gif" align=middle>   &nbsp;Again, as in the series of the <B>cosine</B>, we have an alternation of positive and negative terms, which is the only difference between this series and that for the <B>hyperbolic sine</B>.  The series of fractions for the <B>sine</B> and <B>cosine</B>, like those for the hyperbolic functions, are thus simple, elegant, and memorable.  Since the terms are alternatively added and subtracted, it is obvious why the functions are periodic and will not increase to infinity.  In fact, they do not increase beyond <B>1</B> or decrease below <B>-1</B>.<br clear=left>
+
+<P>We can now see why <B>Euler's Theorem</B>, &nbsp;<img src="images/greek/euler.gif">, takes the form that it does.  The <B>cosine</B> series would supply the even terms for the imaginary powers of <B>e</B>, while the <B>sine</B> series supplies the odd terms.  However, all the odd terms of <B>e</B><sup><I>i</I>x</sup> are imaginary, so the <B>sine</B> series must all be multiplied by <B><I>i</I></B> itself.
+<img src="images/greek/napier-3.gif" align=middle>  In short, <B>e</B><sup><I>i</I>x</sup> is a <B>complex number</B>, with the <B>cos x</B> supplying the real part and <B>sin x</B> the imaginary part.  Adding together the <B>hyperbolic cosine</B> and <B>sine</B> series for <B>e</B><sup>x</sup>, on the other hand, is subject to no such complication, since all of those functions are real:  &nbsp;<img src="images/greek/euler-2.gif">
+
+<P><img src="images/greek/euler-6.gif" align=right>Two other noteworthy equations are <img src="images/greek/euler-4.gif"> for the circular functions and <img src="images/greek/euler-5.gif"> for the hyperbolic functions. The solution for the equations of the circular functions may be seen at right.  The terms for powers of <B>e</B> will be seen to cancel each other out.  The integers that result in the numerator come from the circumstance that multiplying a number by its reciprocal (i.e.  <B>e</B><sup><I>i</I>x</sup> by <B>e</B><sup>-<I>i</I>x</sup>) equals one.<br clear=right>
+
+<img src="images/greek/euler-7.gif" align=right>The solution for the equations of the hyperbolic functions may also be seen at right.  It should now be clear that the equation for the hyperbolic functions <I>subtracts</I> the <B>hyperbolic sine</B> term, while the equation for the circular functions does not subtract the <B>sine</B> term, because squaring the <B>sine</B> term with <B><I>i</I></B> in it produces a negative number, which supplies the effect of subtraction anyway.  The elegance of expressions that at first seem so complicated but then simply reduce to unity is striking.<br clear=right>
+
+<P>Another aspect of these equations can be explored when we note a couple of things.  It turns out that the <B>sine</B> of a negative angle is equal to the negative of the <B>sine</b> of the positive angle:  &nbsp;<img src="images/greek/euler-8.gif">  &nbsp;This is also true for a <B>hyperbolic sine</B>:  &nbsp;<img src="images/greek/euler-a.gif">  &nbsp;However, the <B>cosine</B> and <B>hyperbolic cosine</B> of a negative angle are simply equal to the <B>cosine</B> and <B>hyperbolic cosine</B> of the positive angle:  &nbsp;<img src="images/greek/euler-9.gif"> and &nbsp;<img src="images/greek/euler-b.gif">  &nbsp;This occurs because <B>cosine</B>
+values are symmetrical around zero, while <B>sine</B> values are positive on one side of zero and negative on the other.  With these equalities, <B>Euler's Theorem</B>, and the corresponding hyperbolic equation, can be rewritten for reciprocals:  &nbsp;<img src="images/greek/euler-c.gif"> &nbsp;and &nbsp;<img src="images/greek/euler-d.gif">
+
+<P>Now, if we multiply <B>e</B><sup><I>i</I>x</sup> by <B>e</B><sup>-<I>i</I>x</sup> (or <B>e</B><sup>x</sup> by <B>e</B><sup>-x</sup>) we <I>know</I> the result will be <B>1</B>, since we are simply multiplying a number by its reciprocal, which is always <B>1</B>.  However, we now can express 
+<B>e</B><sup><I>i</I>x</sup><B>e</B><sup>-<I>i</I>x</sup> as <B>(cos x + <I>i</I> sin x)(cos x - <I>i</I> sin x)</B> and <B>e</B><sup>x</sup><B>e</B><sup>-x</sup> as <B>(cosh x + sinh x)(cosh x - sinh x)</B>  &nbsp;These multiply out as <B>(cos x<sup>2</sup> - <I>i</I><sup>2</sup> sin<sup>2</sup> x)</B> and <B>(cosh<sup>2</sup> x - sinh<sup>2</sup> x)</B>  &nbsp;Notice that these are still identical in form.  The square of <B><I>i</I></B>, however, in the circular function equation can be evaluated as <B>-1</B>, and this changes the sign in that equation:  &nbsp;<B>(cos x<sup>2</sup> + sin<sup>2</sup> x)</B>   &nbsp;Thus, we are back to our original equalities:  &nbsp;<img src="images/greek/euler-4.gif"> and &nbsp;<img src="images/greek/euler-5.gif">
+
+<P>While the result <img src="images/greek/euler-3.gif"> has seemed extraordinary to many people -- it was called "the most remarkable formula in math" by a young <a href="feynman.htm">Richard Feynman</a> -- there are even stranger effects with numbers to the <I><B>i</B></I> power.  If we begin with Euler's Theorem, &nbsp;<img src="images/greek/euler.gif">, and use the angle <img src="images/greek/pi.gif">/2 (i.e. 90<sup>o</sup>), the result, since the cosine of  90<sup>o</sup> is zero and the sine <B>1</B>, is:  &nbsp;<B><img src="images/greek/euler-e.gif"> = <I>i</I></B>.  This result can also be obtained directly, of course, just by taking the square root of each side of <img src="images/greek/euler-3.gif">!  Then let's raise both sides of this equation to the <I><B>i</B></I> power:  &nbsp;<B>(<img src="images/greek/euler-e.gif">)<sup><I>i</I></sup> = <I>i</I><sup><I> i</I></sup></B>.  Since the power of a power is equal to the powers multiplied together, that equation is equivalent to:  &nbsp;<B><img src="images/greek/euler-f.gif"> = <I>i</I><sup><I> i</I></sup></B>.  We know, however, that <B><I>i</I><sup>2</sup></B> is <B>-1</B>, so we end up with: &nbsp;<B><img src="images/greek/euler-g.gif"> = <I>i</I><sup><I> i</I></sup></B>.   Well, <img src="images/greek/euler-g.gif"> is a real number, which can be derived on any calculator:  &nbsp;<B><I>i</I><sup><I> i</I></sup> = 0.207879576</B>.  By the same token, the imaginary root of <I>i</I> is also real.  If we begin with <B><img src="images/greek/euler-e.gif"> = <I>i</I></B>, taking the <I>i</I> root gets us: &nbsp;<B><img src="images/greek/euler-h.gif"> = <sup><I>i</I></sup><img src="images/root.gif"><I>i</I></B>.  Since the <I>i</I> powers cancel out, we end up with:  &nbsp;<B><img src="images/greek/euler-i.gif"> = <sup><I>i</I></sup><img src="images/root.gif"><I>i</I> = 4.810477381</B>, which is the reciprocal, as we should expect from the mere difference in sign on the exponent, of <B><I>i</I><sup><I> i</I></sup></B>.  Now, there are many expressions with imaginaries that are equivalent to real numbers, but it is especially remarkable that the imaginary power of the imaginary number, and the imaginary root of the imaginary number, are both themselves real numbers!  If we wonder why <B><sup><I>i</I></sup><img src="images/root.gif"><I>i</I> = 1/<I>i<sup>i</sup></I></B>, it helps to put the equation all in exponential form: &nbsp;<B><I>i</I><sup>1/<I>i</I></sup> = <I>i<sup>-i</sup></I></B>.  In this way, it highlights the circumstance that <B>1/<I>i</I> = -<I>i</I></B>, or <B><I>i</I><sup>-1</sup> = -<I>i</I></B>, a curious property of <I>i</I> that is unrelated to Euler's Equation.
+
+<P>For even more about this, see Paul J. Nahin, <I>An Imaginary Tale, The Story of <img src="images/root.gif">-1</I> (Princeton University Press, 1998, pp.67-68 & 166-167).
+
+<p><center><img src="images/key.gif"></center>
+
+<P><a href="science.htm#math">Philosophy of Science, Mathematics</a><p>
+<a href="./#contents">Home Page</a><p>
+
+<H5>Copyright (c) 1999, 2002, 2006, 2009 <a href="./ross/">Kelley L. Ross, Ph.D.</a> All <a href="./#ross">Rights</a> Reserved</H5>
+
+</BODY>
+</HTML>
