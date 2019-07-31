@@ -3,57 +3,28 @@ body {
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
 
-ul {
-    list-style-type: none;
-    margin:0;
-    padding:0;
-    overflow:hidden;
-    position:sticky;
-    background-color:lightblue;
-    padding:1%;
-    align-content: center;
-    text-align:center;
-}
-
 li {
     float:left;
     background-color:black;
-    margin-right:2px;
-    align-content: center;
-    text-align:center;
-    margin-left: 0.5%;
-    padding: 0%;
+    margin-right:5px;
+    margin-top: 0.4%;
+    display: flex;
 }
 
 li a {
-    display:block;
+    display: flex;
     align-content: center;
     text-align:center;
     text-decoration:none;
     margin-right: 5px;
     margin-left: 5px;
     font-family:fantasy;
-}
-
-#logo {
-    padding: 0;
-    margin: 0%;
-    width: 60px;
-    height: 60px;
-    float: left;
-}
-
-#coding1 {
-    text-align:center;
-    background-color: rgb(221,255,155);
-    text-orientation: left;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
-    padding: 2%;
 }
 
 #post-body p {
     text-align:justify;
-    width: 100%;
+    
 }
 
 #player1 {
@@ -62,29 +33,21 @@ li a {
 }
 
 #container {
-    margin-left:1%;
-    margin-right:1%;
-    margin-bottom: 1%;
+
+    background-color: darkslateblue;
     text-align: center;
     align-content: center;
-
+    padding: 1%;
 }
 
 #main {
     text-align: center;
     align-content: center;
-
-}
-
-#head {
-    font-family:sans-serif;
-    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
-    text-align: center;
-    align-content: center;
+    margin-left: 0.2%;
 }
 
 nav {
-    display: block;
+    display: flex;
     text-align: center;
     align-content: center;
 }
@@ -120,8 +83,8 @@ nav {
 }
 
 #posts {
-    background-color: lemonchiffon;
-    padding: 3%;
+    background-color: darkcyan;
+
 }
 
 #posts h4 {
@@ -135,7 +98,7 @@ nav {
 }
 
 #player1 {
-    text-align: left;
+    padding: 2%;
 }
 
 #dev a{
@@ -157,8 +120,7 @@ nav {
 }
 
 .right {
-    float: right;
-    padding: 1.5px 1px 1px 1px;
+    float: left;
 }
 #sm {
     text-align:center;
@@ -173,28 +135,14 @@ nav {
     text-decoration: none;
 } 
 
-span {
-    margin-left:5px;
-    margin-right:5px;
-
-    margin-bottom:5px;
-    align-content: center;
-    text-align:center;
-}
 
 #slogan {
     text-align: center;
-    display: block;
-    background-color: aquamarine;
+    display: flex;
+    background-color: rgb(127, 255, 202);
     color: darkblue;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
-}
-
-#ser {
-    text-align: center;
-    background-color: black;
-    color: whitesmoke;
-    font-size: calc(1vw + 0.5vh + 0.3vmin);
+    padding: 0.3%;
 }
 
 #welcome {
@@ -205,4 +153,21 @@ span {
     float: right;
     align-content: center;
     text-align:center;
+    padding: 0.4%;
+}
+
+#welcome-message2 {
+    padding: 2%;
+    background-color: limegreen;
+}
+
+#welcome-message {
+    margin-top: 3%;
+}
+
+#picture {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 0.1%;
 }
