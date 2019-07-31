@@ -1,7 +1,7 @@
 body {
     background-color: darkgray;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
-    padding: 2%;
+    padding: 1%;
 }
 
 li {
@@ -36,21 +36,17 @@ li a {
 #container {
 
     background-color: darkslateblue;
-    text-align: center;
-    align-content: center;
-    padding: 2%;
+
+    padding: 1%;
 }
 
 #main {
-    text-align: center;
-    align-content: center;
-    margin-left: 0.2%;
+
 }
 
 nav {
     display: flex;
-    text-align: center;
-    align-content: center;
+    text-align: left;
 }
 
 #art a{

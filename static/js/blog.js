@@ -61,7 +61,7 @@ document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_
 
 // USER PROFILE PICTURE
 //document.getElementById('welcome').innerHTML = 'Welcome Reader!';
-// document.getElementById('player1').innerHTML = user_profile.player1;
+document.getElementById('player1').innerHTML = user_profile.player1;
 
 // SubMenus
 document.getElementById('welcome-message').innerHTML = user_profile.blog2;
