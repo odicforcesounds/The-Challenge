@@ -8,7 +8,7 @@ var user_profile = {
   'location': 'Portugal',
   'city': 'Porto',
   'logo': '<img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt="">',
-  'player1': '<iframe style="border: 0; width: 90%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=997256964/size=small/bgcol=333333/linkcol=0f91ff/track=697635667/transparent=true/" seamless><a href="http://odicforcesounds.bandcamp.com/album/spiritual-algorithm">Spiritual Algorithm by Odicforcesounds</a></iframe>',
+  'player1': '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3048830850/size=small/bgcol=333333/linkcol=0f91ff/track=2560697642/transparent=true/" seamless><a href="http://odicforcesounds.bandcamp.com/album/emotional-signals">Emotional Signals by Odicforcesounds</a></iframe>',
   'slogan': 'If Time is build within our selfs, then Time is our selfs, as result of Time it self.',
   'website': 'https://www.odicforcesounds.com/',
   'blog': 'A little about me: <b>Monkeys</b> always like to play with <q><strong>Code</strong></q>, while writting any kind of <q>text</q> aka <q>subject</q> is coding as well, not computers, but possibly, minds who wish to learn about that specific subject, as they did pay attention to!! About that, I write a lot! Right now I am playing  with css and learning more about loops. This pages will change in Time. Loops will be tested in <span style="color:yellow;background-color:black">C</span> page.  ',

@@ -95,7 +95,8 @@ nav {
 }
 
 #player1 {
-    padding: 2%;
+    padding: -2%;
+    margin: 0%;
 }
 
 #dev a{
@@ -118,6 +119,7 @@ nav {
 
 .right {
     float: left;
+    margin-top: 1%;
 }
 #sm {
     text-align:center;
@@ -184,6 +186,7 @@ nav {
     text-align: center;
     float: right;
     padding: 2%;
+    margin-right: 10px;
 }
 
 #msg {
