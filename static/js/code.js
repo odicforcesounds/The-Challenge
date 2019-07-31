@@ -187,7 +187,7 @@ document.getElementById('github').innerHTML = '<a href=' + user_profile.social_m
 document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-youtube-48.png"></a>';
 
 // SLOGAN
-document.getElementById('slogan').innerHTML = user_profile.slogan;
+//document.getElementById('slogan').innerHTML = user_profile.slogan;
 
 // INSERT FIRST POST DATA
 var firstPost = document.getElementById('pcode1');

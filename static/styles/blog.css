@@ -1,6 +1,7 @@
 body {
     background-color: darkgray;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
+    padding: 2%;
 }
 
 li {
@@ -37,7 +38,7 @@ li a {
     background-color: darkslateblue;
     text-align: center;
     align-content: center;
-    padding: 1%;
+    padding: 2%;
 }
 
 #main {
@@ -137,12 +138,11 @@ nav {
 
 
 #slogan {
-    text-align: center;
     display: flex;
+    float: left;
     background-color: rgb(127, 255, 202);
     color: darkblue;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
-    padding: 0.3%;
 }
 
 #welcome {
@@ -153,21 +153,51 @@ nav {
     float: right;
     align-content: center;
     text-align:center;
-    padding: 0.4%;
+    margin-top: 0.4%;
+    margin-right: 15%;
+    padding-right: 5%;
+
 }
 
 #welcome-message2 {
-    padding: 2%;
-    background-color: limegreen;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: limegreen; 
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
 
 #welcome-message {
-    margin-top: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
 }
 
 #picture {
     padding-left: 2%;
     padding-right: 2%;
-    padding-top: 2%;
-    padding-bottom: 0.1%;
+    padding-top: -1%;
+    padding-bottom: 2%;
 }
+
+#navigator {
+    align-content: center;
+    text-align: center;
+    float: right;
+    padding: 2%;
+}
+
+#msg {
+    background-color: wheat;
+    display: flex;
+    height: 270px;
+    padding-left: 5%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    width: 60%;
+    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
+}
+
