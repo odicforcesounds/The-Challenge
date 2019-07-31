@@ -12,8 +12,8 @@ var user_profile = {
   'slogan': 'If Time is build within our selfs, then Time is our selfs, as result of Time it self.',
   'website': 'https://www.odicforcesounds.com/',
   'blog': 'A little about me: <b>Monkeys</b> always like to play with <q><strong>Code</strong></q>, while writting any kind of <q>text</q> aka <q>subject</q> is coding as well, not computers, but possibly, minds who wish to learn about that specific subject, as they did pay attention to!! About that, I write a lot! Right now I am playing  with css and learning more about loops. This pages will change in Time. Loops will be tested in <span style="color:yellow;background-color:black">C</span> page.  ',
-  'blog1':'So I am learning JavaScript and By time I will change things here. This project is hosted in Github (subscribe) and will use Google Firebase Databases.',
-  'blog2': '<br><li id="art"><a  href="https://wiki.odicforcesounds.com/art/">Art</a></li>: <b>Odicforcesounds</b> Creative ( Fantastic & Logic ) Expression<br><li id="blog"><a  href="./b.html">B</a></li>: stands for Blogs - (<b>Welcome</b> to this.blogs page)<br><li id="code"><a  href="./c.html">C</a></li>: stands for <b>Challenge Code</b> (testing zone) <br><span style="color:gray;background-color:black"> D </span>: stands for <b>Design & Develop</b> (active soon)<br><span style="color:gray;background-color:black"> E </span>: // Null<br> <li id="fun"><a  href="./f.html">F</a></li>: Fire Functions (static page aka cartoon aka shell talk commit) <br><span style="color:gray;background-color:black"> G </span>: stands for Game (Final Login Application)<br><li id="wiki"><a  href="https://wiki.odicforcesounds.com/docs/">Wiki</a></li>: The Challenge: Dive into...',
+  'blog1':'So I am learning JavaScript and By time I will change things here. <br>This project is hosted in Github (subscribe this repo) and we will use Google Firebase Databases. <br> Soon, the <b>De</b> menu will open sharing some maps to build this application.',
+  'blog2': '<li id="art"><a  href="https://wiki.odicforcesounds.com/art/">Art</a></li>: <b>Odicforcesounds</b> Creative ( Fantastic & Logic ) Expression<br><li id="blog"><a  href="./b.html">B</a></li>: stands for Blogs - (<b>Welcome</b> to this.blogs page)<br><li id="code"><a  href="./c.html">C</a></li>: stands for <b>Challenge Code</b> (testing zone) <br><span style="color:gray;background-color:black"> D </span>: stands for <b>Design & Develop</b> (active soon)<br><span style="color:gray;background-color:black"> E </span>: // Null<br> <li id="fun"><a  href="./f.html">F</a></li>: Fire Functions (static page aka cartoon aka shell talk commit) <br><span style="color:gray;background-color:black"> G </span>: stands for Game (Final Login Application)<br><li id="wiki"><a  href="https://wiki.odicforcesounds.com/docs/">Wiki</a></li>: The Challenge: Dive into...',
   'social_media': [
     {
       'description': 'Facebook',
@@ -70,5 +70,5 @@ document.getElementById('player1').innerHTML = user_profile.player1;
 document.getElementById('welcome-message').innerHTML = user_profile.blog2;
 document.getElementById('picture').innerHTML = user_profile.picture;
 document.getElementById('welcome-message2').innerHTML = user_profile.blog;
-// document.getElementById('welcome-message1').innerHTML = user_profile.blog1;
+document.getElementById('welcome-message1').innerHTML = user_profile.blog1;
 
