@@ -2,8 +2,7 @@
 
 // eslint-disable-next-line camelcase
 var user_profile = {
-  'slogan': 'If Time is build within our selfs, then Time is our selfs, as result of Time it self.',
-
+  'slogan': 'If Time is build within our selfs, then Time is our selfs, as result of Time it self',
   'intro': [
     {
       'TopMessage': '<b>A B C D E F G</b> <br><br> Introduction to Web Technologies,<br> sharing them while I learn them and use them here. <br> Check the Code, Follow my Dream!'
@@ -47,6 +46,14 @@ var user_profile = {
     {
       'description': 'Youtube',
       'link': 'https://www.youtube.com/channel/UCKxb1p0OzXuiAQBkiY0dCGg'
+    },
+    {
+      'description': 'stackoverflow',
+      'link': 'https://stackoverflow.com/users/6806076/odicforcesounds'
+    },
+    {
+      'description': 'redit',
+      'link': 'https://www.reddit.com/user/odicforcesounds'
     }
   ],
   'pnote': 'So here I am Diving Into the Code I should to finish my Quest!',
@@ -175,8 +182,7 @@ var user_profile = {
   'logo': '<img id="logo" src="https://path_of_shields.keybase.pub/Myth-illusions-Memories/SpaceTrip/WeCameInPeace3.jpg" alt="">',
 };
 
-
-// LOGO
+// Social Media
 document.getElementById('logo').innerHTML = user_profile.logo;
 document.getElementById('blogspot').innerHTML = '<a href=' + user_profile.social_media[6].link + ' ' + 'target=_blank><img width="24px"  src="../../images/icons/icons8-blogger-48.png"></a>';
 document.getElementById('facebook').innerHTML = '<a href=' + user_profile.social_media[0].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-facebook-circled-48.png"></a>';
@@ -185,49 +191,48 @@ document.getElementById('tumblr').innerHTML = '<a href=' + user_profile.social_m
 document.getElementById('instagram').innerHTML = '<a href=' + user_profile.social_media[4].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-instagram-48.png"></a>';
 document.getElementById('github').innerHTML = '<a href=' + user_profile.social_media[1].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-github-48.png"></a>';
 document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-youtube-48.png"></a>';
+document.getElementById('stackoverflow').innerHTML = '<a href=' + user_profile.social_media[8].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/stack-overflow.png"></a>';
+document.getElementById('redit').innerHTML = '<a href=' + user_profile.social_media[8].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/reddit-icon-25852.png"></a>';
 
-// SLOGAN
-//document.getElementById('slogan').innerHTML = user_profile.slogan;
+// Personal SLOGAN about Time
+document.getElementById('slogan').innerHTML = user_profile.slogan;
+
+// LOGO
+document.getElementById('logo').innerHTML = user_profile.logo;
 
 // INSERT FIRST POST DATA
-var firstPost = document.getElementById('pcode1');
-firstPost.innerHTML = user_profile.postsList[0].content;
+document.getElementById('mintro').innerHTML = user_profile.intro[0].TopMessage;
 
-// document.getElementById('pcode1').innerHTML = user_profile.pcode1
+// BANDCAMP TRACK
+document.getElementById('player1').innerHTML = user_profile.player[0].track;
 
-// NEXT PAGE - UNDERSTANDING FUNCTIONS
-var buttonNext = document.getElementById('btnNext');
+// INSERT FIRST POST DATA ( ABC )
 var postList = 1;
 var i = 1;
+var note = document.getElementById('pnote').innerHTML = user_profile.pnote;
+var firstPost = document.getElementById('pcode1');
+var postList = user_profile.postsList[i].content.length;
+var buttonNext = document.getElementById('btnNext');
+var buttonBack = document.getElementById('btnBack');
+var textContent = document.getElementById('pcode1');
+
+firstPost.innerHTML = user_profile.postsList[0].content;
+
 buttonNext.onclick = function() {
-  var textContent = document.getElementById('pcode1');
-  var postList = user_profile.postsList[i].content.length;
+
   textContent.innerHTML = user_profile.postsList[i].content;
   postList += 1;
   i += 1;
-};
+};  
 
 // Go Back
-var buttonBack = document.getElementById('btnBack');
+
 buttonBack.onclick = function() {
-  var textContent = document.getElementById('pcode1');
-  var postList = user_profile.postsList[i].content.length;
+
   textContent.innerHTML = user_profile.postsList[i].content;
   postList -= 1;
   i -= 1;
-};
+}; 
 
 
-// INTRO
-var intro = document.getElementById('mintro');
-intro.innerHTML = user_profile.intro[0].TopMessage;
-
-// BANDCAMP TRACK
-var player = document.getElementById('player1');
-player.innerHTML = user_profile.player[0].track;
-// INSERT FIRST POST DATA
-var note = document.getElementById('pnote');
-note.innerHTML = user_profile.pnote;
-var code = document.getElementById('pcode1');
-firstPost.innerHTML = user_profile.postsList[0].content;
 
