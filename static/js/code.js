@@ -50,6 +50,10 @@ var user_profile = {
     {
       'description': 'stackoverflow',
       'link': 'https://stackoverflow.com/users/6806076/odicforcesounds'
+    },
+    {
+      'description': 'redit',
+      'link': 'https://www.reddit.com/user/odicforcesounds'
     }
   ],
   'pnote': 'So here I am Diving Into the Code I should to finish my Quest!',
@@ -188,6 +192,7 @@ document.getElementById('instagram').innerHTML = '<a href=' + user_profile.socia
 document.getElementById('github').innerHTML = '<a href=' + user_profile.social_media[1].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-github-48.png"></a>';
 document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-youtube-48.png"></a>';
 document.getElementById('stackoverflow').innerHTML = '<a href=' + user_profile.social_media[8].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/stack-overflow.png"></a>';
+document.getElementById('redit').innerHTML = '<a href=' + user_profile.social_media[8].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/reddit-icon-25852.png"></a>';
 
 // Personal SLOGAN about Time
 document.getElementById('slogan').innerHTML = user_profile.slogan;
