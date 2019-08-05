@@ -40,6 +40,10 @@ var user_profile = {
     {
       'description': 'Youtube',
       'link': 'https://www.youtube.com/channel/UCKxb1p0OzXuiAQBkiY0dCGg'
+    },
+    {
+      'description': 'stackoverflow',
+      'link': 'https://stackoverflow.com/users/6806076/odicforcesounds'
     }
   ],
 };
@@ -53,6 +57,7 @@ document.getElementById('tumblr').innerHTML = '<a href=' + user_profile.social_m
 document.getElementById('instagram').innerHTML = '<a href=' + user_profile.social_media[4].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-instagram-48.png"></a>';
 document.getElementById('github').innerHTML = '<a href=' + user_profile.social_media[1].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-github-48.png"></a>';
 document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-youtube-48.png"></a>';
+document.getElementById('stackoverflow').innerHTML = '<a href=' + user_profile.social_media[8].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/stack-overflow.png"></a>';
 
 // BANDCAMP TRACK
 var player = document.getElementById('player');

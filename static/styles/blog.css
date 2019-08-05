@@ -148,9 +148,9 @@ nav {
     margin-bottom: 0.2%;
     margin-left: 2%;
     margin-right: 2%;
-    background-color: rgb(127, 255, 202);
-    color: darkblue;
-    font-size: calc(1.3vw + 0.5vh + 0.3vmin);
+    color: whitesmoke;
+    font-size: calc(1.9vw + 0.7vh + 0.2vmin);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial Narrow Bold';
     display: block;
     padding-left: 2%;
     padding-right: 2%;
@@ -216,7 +216,7 @@ nav {
 
 
 #picture {
-    padding-right: 4%;
+    padding-right: 2%;
 }
 
 #navigator {
