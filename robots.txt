@@ -1,0 +1,8 @@
+# robots.txt for https://wiki.odicforcesounds.com/
+
+User-agent: *
+Disallow: /artcode/
+Disallow: /test/
+Disallow: /data/
+Disallow: /firebase/
+Disallow: /images/
