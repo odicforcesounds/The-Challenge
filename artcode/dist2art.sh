@@ -1,5 +1,5 @@
 #!/bin/sh
 # Copy dist/* files to ../art/ and remove unecessary files
 
-cp dist/* -R ../art/
+cp dist/* -v -R ../art/
 
