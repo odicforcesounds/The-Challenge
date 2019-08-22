@@ -1,6 +1,6 @@
 node_modules/
-artcode/node_modules/
-artcode/firebase.json
-artcode/.firebaserc
-artcode/dist
+codeArt/node_modules/
+codeArt/firebase.json
+codeArt/.firebaserc
+codeArt/dist
 firebase/node_modules/
