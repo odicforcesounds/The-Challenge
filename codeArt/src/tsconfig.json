@@ -3,7 +3,7 @@
     "baseUrl": "src",
     "downlevelIteration": true,
     "paths": {
-      "@core/*": ["app/core/*"],
+      "@core/*": ["app/*"],
       "@services/*": ["app/services/*"],
       "@data/*": ["app/data/*"]
     },
