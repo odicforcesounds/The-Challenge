@@ -30,6 +30,10 @@ a {
   display: inline-block;
   float: none;
   vertical-align: middle;
+  border: 1px solid yellow;
 }
 
-
+.nav-item{}
+.btn{} 
+.btn-primary{} 
+.btn-sm{}
