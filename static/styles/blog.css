@@ -174,6 +174,7 @@ nav {
     padding-top: 2%;
     padding-bottom: 2%;
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
+    text-align: left;
 }
 
 #welcome-message1 {
@@ -183,7 +184,7 @@ nav {
     padding-bottom: 2%;
     background-color: limegreen; 
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
-    text-align: justify;
+    text-align: left;
 }
 
 #welcome-message2 {
@@ -193,6 +194,7 @@ nav {
     padding-bottom: 2%;
     background-color: limegreen; 
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
+    text-align: left;
 }
 
 #welcome-message3 {
@@ -202,6 +204,7 @@ nav {
     padding-bottom: 2%;
     background-color: limegreen; 
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
+    text-align: left;
 }
 
 #welcome-message4 {
@@ -211,6 +214,7 @@ nav {
     padding-bottom: 2%;
     background-color: limegreen; 
     font-size: calc(1.3vw + 0.5vh + 0.3vmin);
+    text-align: left;
 }
 
 
