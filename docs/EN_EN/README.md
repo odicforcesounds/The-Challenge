@@ -1,6 +1,6 @@
 # Topics 
 
-![](../../images/FullMap.jpg)
+![](../images/FullMap.jpg)
 
 1. [Welcome Message](../Tao/Fragments/Welcome/README.md)
 2. [About this Project](../Tao/Fragments/About/README.md)
