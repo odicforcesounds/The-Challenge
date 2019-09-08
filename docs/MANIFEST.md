@@ -26,14 +26,14 @@
 
 > "Defense [Security](https://odicforcesounds.bandcamp.com/track/we-dont-need-security-but-functionality) Should be the First step of Any Living Box, While Most Boxes Don't Always Care About Them Self's, when exploring the World" <br>
 
-> What can I say? [Eyes On You](https://www.odicforcesounds.com/#/eyes/on/you/) > "We are not what we say but what we do" <br>
+> What can I say? [Eyes On You](https://wiki.odicforcesounds.com/art/#/eyes/on/you/) > "We are not what we say but what we do" <br>
 
 > "If Time build within our Self's, then Time is Our Selfs as result of Time it Self"
 
-> Which Means: 1 + 1 = 1 OR 3 [Tao](https://www.odicforcesounds.com/#/tao/yin/yang)
+> Which Means: 1 + 1 = 1 OR 3 [Tao](https://wiki.odicforcesounds.com/art/#/tao/yin/yang)
 
 > OR in another words: <br>
 
-> (Fantasy) 1 [OM](https://www.odicforcesounds.com/#/three/you/tell/me) + (Logic) 1 [Spirit](https://www.odicforcesounds.com/#/secret/responsability/exposed) = (Application) 1 [Expression](https://www.odicforcesounds.com/#/expression) <br>
+> (Fantasy) 1 [OM](https://wiki.odicforcesounds.com/art/#/three/you/tell/me) + (Logic) 1 [Spirit](https://wiki.odicforcesounds.com/art/#/secret/responsability/exposed) = (Application) 1 [Expression](https://wiki.odicforcesounds.com/art/#/expression) <br>
 
 > **Thanks to**: [Eternal Masters of My Heart](https://odicforcesounds.bandcamp.com/track/eternal-masters-of-my-heart-goodbye) <br>

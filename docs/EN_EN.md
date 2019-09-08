@@ -15,7 +15,7 @@
 
 - A Simple Mental Exercise:
 
-> ## [OM](https://www.odicforcesounds.com/#/three/you/tell/me) [1] [Fantasy](./docs/Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "[We Came In Peace](https://www.odicforcesounds.com/#/we/came/in/peace) - Trance Zone" {**m**}
+> ## [OM](https://wiki.odicforcesounds.com/art/#/three/you/tell/me) [1] [Fantasy](./docs/Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "[We Came In Peace](https://wiki.odicforcesounds.com/art/#/we/came/in/peace) - Trance Zone" {**m**}
 
 - Full in your Natural Air Box and stop Your breath for some moments.
 
@@ -23,13 +23,13 @@
 - ( it is only in your mind) 
 - Then we <b>Sum</b> that "Dream" to the last step, and we call this next step  <b>Spirit</b>, which is about that abstract capacity we all have, where we "produce" <b>Fantasy</b> while comparing our self's to those creations, which means, we are using: <b>Logic</b>:
 
-> ## '+' [Spirit](https://www.odicforcesounds.com/#/secret/responsability/exposed) [1] [Logic](./docs/Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "[Our Eternal License](https://www.odicforcesounds.com/#/license)" {**E**}
+> ## '+' [Spirit](https://wiki.odicforcesounds.com/art/#/secret/responsability/exposed) [1] [Logic](./docs/Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "[Our Eternal License](https://wiki.odicforcesounds.com/art/#/license)" {**E**}
 
 - By <b>Logic</b>, each person (men or woman) in the world, even having the same skills or (body tools), we assume that all develop  something different from all others. That is our <b>Spirit</b>! 
 
 - This Concept of being Logicly Some "Fantastic-Self-Creation" give us a good suggestion as Slogan:
 
-- <b>Our [Spirit](https://www.odicforcesounds.com/#/respect/spiritual/life) - Our [Style](https://www.odicforcesounds.com/#/my/style)</b>
+- <b>Our [Spirit](https://wiki.odicforcesounds.com/art/#/respect/spiritual/life) - Our [Style](https://wiki.odicforcesounds.com/art/#/my/style)</b>
 
 - Styles are about <b>Colors</b> and Color is one of the Brain Creation when listning to <b>Music</b> which is made of <b>Sound</b>.
 
@@ -37,7 +37,7 @@
 
 - Share Your Voice Sound, Expressing Your Inner Self Creation.
 
-> ## = [Expression](https://www.odicforcesounds.com/#/expression) [1] [Application](./docs/Tao/Tao.md) : (Tao) - "Real Time [Shamanic Quest Dream](https://www.odicforcesounds.com/#/magic/fire) " {c2}
+> ## = [Expression](https://wiki.odicforcesounds.com/art/#/expression) [1] [Application](./docs/Tao/Tao.md) : (Tao) - "Real Time [Shamanic Quest Dream](https://wiki.odicforcesounds.com/art/#/magic/fire) " {c2}
 
 - I don't know about your Sound...
 - But if someone else above yourself did listen to...
@@ -79,4 +79,4 @@ Now You may click the Links of the next text piece, since they will dive your re
 - "**If Time is Built Within Our Self's, then Time is Our Self's as result of Time it Self**"
 - "You are the Wood" : **America** - **[White Tiger](./letters/Tiger_America.md)**
    "I am the Fire" : **Asia** - **[Fire Dragon](./letters/Dragon_Asia.md)**
-- Which means: 1 + 1 = 1 OR 3 ([Tao](https://www.odicforcesounds.com/#/tao))
+- Which means: 1 + 1 = 1 OR 3 ([Tao](https://wiki.odicforcesounds.com/art/#/tao))
