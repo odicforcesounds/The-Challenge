@@ -1,17 +1,17 @@
  ## All Rights Reserved ®
 
-- If You deny to contribute to this project, You are Included In <b>OdicforceSounds</b> [Eternal License](https://odicforcesounds.com/#/license)!
+- If You deny to contribute to this project, You are Included In <b>OdicforceSounds</b> [Eternal License](https://wiki.odicforcesounds.com/#/license)!
 
-# [Social Tool Kit - World Wide Conscious Cleaner](https://odicforcesounds.com/#/tool/kit)
+# [Social Tool Kit - World Wide Conscious Cleaner](https://wiki.odicforcesounds.com/#/tool/kit)
 
-## [Tao](https://odicforcesounds.com/#/tao) - The Wind of God
+## [Tao](https://wiki.odicforcesounds.com/#/tao) - The Wind of God
 ##### The Main Gift of OdicforceSounds Expression
-###### <b>Note</b>: "We dont' care What You Think but What You do" [Severn Cullis Suzuki](https://odicforcesounds.com/#/we/must/change/our/ways) Public Talk Tribute
+###### <b>Note</b>: "We dont' care What You Think but What You do" [Severn Cullis Suzuki](https://wiki.odicforcesounds.com/#/we/must/change/our/ways) Public Talk Tribute
 ##### 
 
 ## Abstraction + Fantasy = Logic
-## 1 + 1 = 1 or 3 [Feeling Logic](https://odicforcesounds.com/#/you/are/the/wood/i/am/the/fire) ?
-##### Note: You Shall not deny to Join [World Cleaner](https://www.facebook.com/odicforcesounds/posts/831816413649165) challenge, the main Gift delivered and expressed by Sun Wukong, the [Monkey King](https://odicforcesounds.com/#/sun/wukong/the/monkey/king) 
+## 1 + 1 = 1 or 3 [Feeling Logic](https://wiki.odicforcesounds.com/#/you/are/the/wood/i/am/the/fire) ?
+##### Note: You Shall not deny to Join [World Cleaner](https://www.facebook.com/odicforcesounds/posts/831816413649165) challenge, the main Gift delivered and expressed by Sun Wukong, the [Monkey King](https://wiki.odicforcesounds.com/#/sun/wukong/the/monkey/king) 
 
 ### For Education Propose Only! 
 ( About Me and this project )
@@ -85,7 +85,7 @@ This project "Care" about Privacy.
 #### CryptoCoins Respective Challenge:
 - CryptoCoins Communities Should care about the Energy that is spend by each single user of this Competition. If one Approved action represents Value, a CryptoCoin Should be given to each User Approved Action.
 
-### Logic: The [Paths](https://odicforcesounds.com/#/wiki/path) in Challenge are the mining process. 
+### Logic: The [Paths](https://wiki.odicforcesounds.com/#/wiki/path) in Challenge are the mining process. 
 
 # Todo: WebDesign
 ### Frontend and Backend
@@ -141,7 +141,7 @@ This project "Care" about Privacy.
 
 # -----------------------------------------
 
-This challenge assume [everyone](https://odicforcesounds.com/#/absolute/everything/and/everyone) is included!
+This challenge assume [everyone](https://wiki.odicforcesounds.com/#/absolute/everything/and/everyone) is included!
 
 This means, all Religions, Spiritual, Mystic, Political, Charity, Sport groups. 
 

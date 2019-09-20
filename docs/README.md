@@ -1,8 +1,12 @@
 # The World In Progress
 
+## - Click [here](https://odicforcesounds.github.io/Dao/) to understand why this solution intents to be created. 
+
 ## - Click [here](./EN_EN/README.md) to read the English Version of this Challenge
 
-## - Clica [aqui](./PT_PT/README.md) para ler a versão em Português deste desafio
+## - Clica [aqui](https://odicforcesounds.github.io/Desafio-Mundial/) para ler a versão em Português deste Desafio
+
+## - Clica [aqui](https://odicforcesounds.github.io/Textos-Motivacionais/) para ler mais textos em Português
 
 ## - Click [here](https://wiki.odicforcesounds.com/) to return to the main page (Blog)
 
