@@ -1,5 +1,0 @@
-This is not empty, but it could!
-
-The final project is our Web Application hosted in Firebase. 
-
-The folder /firebase/ is to host the code of the Application.

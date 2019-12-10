@@ -1,3 +1,0 @@
-Não vamos falar de emoções tão profundamente como um livro técnico sobre o tema, em irei falar das razões que elevam as emoções de forma tão concreta que a própria razão deixa de ser uma simples emoção para passar a ser uma nota que rege a regra. 
-Uma vez mais irei escrever um pouco sobre tudo o que tenho feito em OdicforceSounds, mas com uma maior humildade sobre o evento. Para quem não acredita em questões e\ou experiências paranormais, é natural que ponha em causa tudo o que lẽ sobre essa matéria, tal como a ciência o faz, avançando nas suas pesquisas que procuram simplesmente explicar eventos, sem alguma vez afirmar que são verdadeiros ou falsos. 
-O Ego é a causa primeira das soluções e dos problemas. O Ego afirma-se 

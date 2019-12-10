@@ -1,4 +1,0 @@
-Notas para alguns convites de eventos:
-Eu não preciso da leitura da minha aura.. ela está explicita na minha imagem de perfil !!! E se lerem o meu trabalho nem precisavam de a ver. 
-Eu poderei aceitar a participação de cultos chamanicos, caso os mesmos sejam feitos ao ar livre e sem um custo pré adjacente. Caso contrário, o melhor seria pagaram-me pela participação, o que também não aceitaria. 
-O Chamanismo é feito em prol de causas de ordem sagradas, não são negócios. Fazer deles um negócio é uma violação do mesmo. Assim sendo, é uma anulação do seu efeito espíritual & carnal. A chamada desumanização da espiritualidade, ou rudemente chamada de "venda da alma ao diabo"
