@@ -1,55 +1,71 @@
 ### Dive into the possibilities of Simplicity:
 
-Q: How to Approve an Action? 
+Question: How to Approve an Action? 
 
-A: Click Number 1(one)
+Answer: Click Number 1(one)
 
-Q: How to Deny an Action? 
+Question: How to Deny an Action? 
 
-A: Click Number 0(zero)
+Answer: Click Number 0(zero)
 
-Q: How many Approved Rates are needed to considere to approve an Action? 
+Question: How many Approved Rates are needed to considere to approve an Action? 
 
-A: 'lets say 10' if all of them are in sequence ( every user(first 10) did rate that action as approved action)
+Answer: 'lets say 10' if all of them are in sequence ( every user(first 10) did rate that action as approved action)
 
-Q: What each user gain as proof of their profit? 
+  forEach(positiveRate) {
+    Add(1);
+    // more Logic in here... 
+    If(positiveRate === 10){
+      Add(ConceptProof.ActionPath(1));
+    }
+  };
 
-A: Each 1 is added to a 0.0.0 RGB profile Color Status.
+Question: What each user gain as proof of their profit? 
 
-Q: Is that an animation? 
+Answer: Each 1 is added to a 0.0.0 RGB profile Color Status.
 
-A: Yes. We start at Yin(0.0.0) to gain Yang(255.255.255)
+Question: Is that an animation? 
 
-Q: Each ('0'.'0'.'0') represents a Path? 
+Answer: Yes. We start at Yin(0.0.0) to gain Yang(255.255.255)
 
-A: Yes, but we will have more, since those are the main.
+Question: Each ('0'.'0'.'0') represents a Path? 
 
-Q: What is the value of each point per approved action?
+Answer: Yes, but we will have more, since those are the main.
 
-A: A single numeric expression (1).
+Question: What is the value of each point per approved action?
 
-Q: Can we use a cryptocurrency using this system?
+Answer: A single numeric expression (1).
 
-A: Since each community gives different values to those values, each can join.
+Question: Can we use a cryptocurrency using this system?
 
-Q: Does users have profile? 
+Answer: Since each community gives different values to those values, each can join.
 
-A: Yes, to manage their builds (profit) & their rates (proofs).
+Question: Does users have profile? 
 
-Q: What programming language this challenge will use? 
+Answer: Yes, to manage their builds (profit) & their rates (proofs). 
 
-A: It have many names: ES6 / JavaScript or deeper, TypeScript
+Question: What data we may care to set for each user?
 
-Q: We need a database. What kind of DB will be used?
+Answer: Username, Email Only! 
 
-A: Google Firebase. 
+Question: Can users find other users? 
 
-Q: This system can be used in social networks? 
+Answer: No! This challenge is not a Social-Network.
 
-A: Yes, but we need to code an App, for each Social-Network.
+Question: What programming language this challenge will use? 
 
-Q: I have to make more questions. How do I talk with You?
+Answer: It have many names: ES6 / JavaScript or deeper, TypeScript
 
-A: Open an ISSUE to talk with us. Care to give a Title of "Question".
+Question: We need a database. What kind of DB will be used?
+
+Answer: Google Firebase.
+
+Question: This system can be used in social networks? 
+
+Answer: Yes, but we need to code an App, for each Social-Network.
+
+Question: I have to make more questions. How do I talk with You?
+
+Answer: Open an ISSUE to talk with us. Care to give a Title of "Question".
 
 
