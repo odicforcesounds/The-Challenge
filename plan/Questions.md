@@ -24,7 +24,7 @@
 
   'lets say 10' if all of them are in sequence ( every user(first 10) did rate that action as approved action)
 
-javascript```
+```javascript
 
   forEach(positiveRate) {
 
