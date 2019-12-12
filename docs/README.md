@@ -36,9 +36,9 @@ Close Your Eyes. What Can You See, What Can You Do?
 
 Open Your Eyes. What Can You See, what Can You Do?
 
-## Let me think, since I already feel... I am the reader!
+## Let me think, since I already feel...
 
-I am a Coder, and I wish to code and help to build this world wide challenge!
+You are a Coder, and You wish to code and help to build this world wide challenge!
 
 #### - Click [here](../plan/Questions.md) to read the common questions we shared
 
