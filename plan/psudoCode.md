@@ -23,7 +23,8 @@ let userPath = function(NCP, ACP, HCP, ... ) {
   this.NPC = NPC; // Nature Care Path
   this.ACP = ACP; // Animals Care Path 
   this.HCP = HCP; // Humans Care Path
-  this.... = ...; // Good Answers, Good Treatment, Good Behaviors, Good Choices, Good Political Choices, Good is always Good!
+  this.... = ...; 
+  // Good Answers, Good Treatment, Good Behaviors, Good Choices, Good Political Choices, Good is always Good!
 }
 
 ``` 
@@ -32,10 +33,15 @@ let userPath = function(NCP, ACP, HCP, ... ) {
 
 ```javascript
 let action = [this.NPC, this.ACP, this.HCP];
+let approved = 1;
+let denied = 0;
 
 let userAction = function(approved, denied) {
  this.approved = approved;
  this.denied = denied;
+ let privateFunction(countUserRating) {
+  // Pseudo-Coding 
+ }
 }
 ```
 
@@ -64,4 +70,3 @@ let validatePathCycle = function() {
   }
 }
 ```
-Probably we will need more, but let's build it as simple as it should start! 
