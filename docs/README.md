@@ -8,7 +8,7 @@
 
 #### - Click [here](./EN_EN/README.md) to read the English Version of this Challenge
 
-#### - Click [here](https://wiki.odicforcesounds.com/static/src/b.html) to return to the main page (Blog) - Coders
+#### - Click [here](https://wiki.odicforcesounds.com/static/src/b.html) to return to the main page (Blog)
 
 #### - Click [here](https://wiki.odicforcesounds.com/art/#/tool/kit) to dive into the (Tao / Dao) Expression
 
@@ -40,19 +40,19 @@ Open Your Eyes. What Can You See, what Can You Do?
 
 I am a Coder, and I wish to code and help to build this world wide challenge!
 
-#### - Click [here](../plan/Questions.md) to read more about this challenge.
+#### - Click [here](../plan/Questions.md) to read the common questions we shared
 
-#### - Click [here](../plan/psudoCode.md) to understand how we should care (simplicity)
+#### - Click [here](../plan/psudoCode.md) to understand how we should care (simplicity) when coding
 
 ## Main Social Networking Activities
 
-#### - [Facebook](https://www.facebook.com/odicforcesounds) to read more
+#### - [Facebook](https://www.facebook.com/odicforcesounds) to read more content 
 
-#### - [Twitter](https://twitter.com/ROscarfm) to share more
+#### - [Twitter](https://twitter.com/ROscarfm) to share more (if you have a twitter account)
 
-#### - [Keybase](https://keybase.io/path_of_shields) old stuff and Images used in ../art/#/* 
+#### - [Keybase](https://keybase.io/path_of_shields) Image hosting and private chat zone ( send me a message )*  
 
-#### - [Instagram](https://www.instagram.com/odicforcesounds/)
+#### - [Instagram](https://www.instagram.com/odicforcesounds/) not using for some years.. 
 
 #### - [BandCamp](https://odicforcesounds.bandcamp.com/) to download any of my EDM tracks for free... 
 
