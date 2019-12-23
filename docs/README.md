@@ -2,9 +2,9 @@
 
 ## Abstraction 
 
-- You are the Wood(America([Tiger](./letters/Tiger_America.md)(Yin))) [1] I am the Fire(Asia([Dragon](./letters/Dragon_Asia.md))) [1]
+- You are the Wood (<b>America</b>([Tiger](./letters/Tiger_America.md)(Yin))) [1] I am the Fire (<b>Asia</b>([Dragon](./letters/Dragon_Asia.md))) [1]
 
-- Fantasy[OM](1) + Logic[Spirit](1) = Application[Expression](1) : Which means: 1 + 1 = 1 OR 3
+- <b>Fantasy</b>[OM] (1) + <b>Logic</b>[Spirit] (1) = <b>Application</b>[Expression] (1) : Which means: 1 + 1 = 1 OR 3
 
 ## English Topic's
 
