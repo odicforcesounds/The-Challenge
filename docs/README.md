@@ -1,5 +1,11 @@
 # The World In Progress
 
+## Abstraction 
+
+- Fantasy[OM](1) + Logic[Spirit](1) = Application[Expression](1) 
+
+- Which means: 1 + 1 = 1 OR 3
+
 ## English Topic's
 
 #### - Click [here](https://odicforcesounds.github.io/Dao/) to understand why this solution intents to be created. 
@@ -14,7 +20,7 @@
 
 #### - Click [here](./MANIFEST.md) to read my Manifest
 
-## Topicos em Portugues (latin)
+## Tópicos em Português (latin)
 
 #### - Clica [aqui](https://odicforcesounds.github.io/Desafio-Mundial/) para ler a versão em Português deste Desafio
 
