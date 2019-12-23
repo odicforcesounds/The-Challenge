@@ -2,15 +2,15 @@
 
 ## Abstraction 
 
-- Fantasy[OM](1) + Logic[Spirit](1) = Application[Expression](1) 
+- You are the Wood(America([Tiger](./letters/Tiger_America.md)(Yin))) [1] I am the Fire(Asia([Dragon](./letters/Dragon_Asia.md))) [1]
 
-- Which means: 1 + 1 = 1 OR 3
+- Fantasy[OM](1) + Logic[Spirit](1) = Application[Expression](1) : Which means: 1 + 1 = 1 OR 3
 
 ## English Topic's
 
 #### - Click [here](https://odicforcesounds.github.io/Dao/) to understand why this solution intents to be created. 
 
-#### - Click [here](../LICENSE) to read our Eternal License (Including You(readers, coders & players))
+#### - Click [here](./letters/Eternal_License.md) to read our Eternal License (Including You(readers, coders & players))
 
 #### - Click [here](./EN_EN/README.md) to read the English Version of this Challenge
 
@@ -46,9 +46,9 @@ Open Your Eyes. What Can You See, what Can You Do?
 
 You are a Coder, and You wish to code and help to build this world wide challenge!
 
-#### - Click [here](../plan/Questions.md) to read the common questions we shared
+#### - Click [here](./plan/Questions.md) to read the common questions we shared
 
-#### - Click [here](../plan/psudoCode.md) to understand how we should care (simplicity) when coding
+#### - Click [here](./plan/psudoCode.md) to understand how we should care (simplicity) when coding
 
 ## Main Social Networking Activities
 
@@ -61,5 +61,3 @@ You are a Coder, and You wish to code and help to build this world wide challeng
 #### - [Instagram](https://www.instagram.com/odicforcesounds/) not using for some years.. 
 
 #### - [BandCamp](https://odicforcesounds.bandcamp.com/) to download any of my EDM tracks for free... 
-
-
