@@ -20,9 +20,9 @@
 
 ## Tópicos em Português (latin)
 
-#### - Clica [aqui](https://odicforcesounds.github.io/Desafio-Mundial/) para ler a versão em Português deste Desafio
+#### - Clica [aqui](./dm/README.md) para ler a versão em Português deste Desafio
 
-#### - Clica [aqui](https://odicforcesounds.github.io/Textos-Motivacionais/) para ler mais textos em Português
+#### - Clica [aqui](./tm/README.md) para ler mais textos em Português
 
 #### - Clica [aqui](https://www.youtube.com/channel/UCKxb1p0OzXuiAQBkiY0dCGg) para ouvires-me a falar sobre temas relacionados
 
