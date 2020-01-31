@@ -34,4 +34,4 @@ Lets say "you" did made some action that benefit others with sucess. You got one
 
 All relations between Clients and Brands ( Brands employees can <b>only</b> gain points to particular proprieties of their own professionalism in cause at real-time ) > Negative "opinions" can be shared not pointed or evaluated as we normally care to share what is negative, not so far what is not, but positive. Is always good to learn from who did a bad choice. Not because "who is who" but because we all learn from knowledge or most of mistakes, that give and share knowledge aka (more information).
 
-Back to [Main Page](../../../EN_EN/README.md)
+Back to [Main Page](../../EN_EN/README.md)
