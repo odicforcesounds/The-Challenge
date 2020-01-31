@@ -12,4 +12,4 @@ Imagine it, as a `karma` _healing_ **game**, your personal Curriculum Vitae, wit
 
 ###### We are not here to make "friends", we are here to show to the World how much we Care this world. 
 
-Back to [Main Page](../../EN_EN/README.md)
+Back to [Main Page](../../Tao.md)
