@@ -9,4 +9,4 @@ This project "Care" about Privacy.
 - GPS + Time Zone information is used to add as Note in each Approved User Action and add it in a World Map as a Pixel which refers an Action made in that Point of the Planet.  
 - This challenge don't care about how much secure You are, but if the actions are made. Secure communications sometimes are slow and not good to Real Time Video Recording. If Player Have a good connetion, player only needs an email to start playing. 
 
-Back to [Main Page](../../Tao.md)
+Back to [Main Page](../../../README.md)
