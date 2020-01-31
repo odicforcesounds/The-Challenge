@@ -19,4 +19,4 @@
 
 - You are free to add more content / functonality, but You need to comment the **Code** you write / add, and You need to explain the Logic association between Content+Function, while You shall give priority to this **Challenge**!
 
-Go back to [Main Page](../../../../../../README.md)
+Go back to [Main Page](../../LOGIC.md)
