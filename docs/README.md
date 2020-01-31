@@ -49,14 +49,3 @@ You are a Coder, and You wish to code and help to build this world wide challeng
 
 #### - Click [here](./plan/psudoCode.md) to understand how we should care (simplicity) when coding
 
-## Main Social Networking Activities
-
-#### - [Facebook](https://www.facebook.com/odicforcesounds) to read more content 
-
-#### - [Twitter](https://twitter.com/ROscarfm) to share more (if you have a twitter account)
-
-#### - [Keybase](https://keybase.io/path_of_shields) Image hosting and private chat zone ( send me a message )*  
-
-#### - [Instagram](https://www.instagram.com/odicforcesounds/) not using for some years.. 
-
-#### - [BandCamp](https://odicforcesounds.bandcamp.com/) to download any of my EDM tracks for free... 
