@@ -37,3 +37,5 @@
 > (Fantasy) 1 [OM](https://wiki.odicforcesounds.com/art/#/three/you/tell/me) + (Logic) 1 [Spirit](https://wiki.odicforcesounds.com/art/#/secret/responsability/exposed) = (Application) 1 [Expression](https://wiki.odicforcesounds.com/art/#/expression) <br>
 
 > **Thanks to**: [Eternal Masters of My Heart](https://odicforcesounds.bandcamp.com/track/eternal-masters-of-my-heart-goodbye) <br>
+
+Click [here](./README.md) to go back
