@@ -2,21 +2,20 @@
 
 ## Abstraction 
 
-- You are the Wood (<b>America</b>([Tiger](./letters/Tiger_America.md)(Yin))) [1] I am the Fire (<b>Asia</b>([Dragon](./letters/Dragon_Asia.md))) [1]
-
-- <b>Fantasy</b>[OM] (1) + <b>Logic</b>[Spirit] (1) = <b>Application</b>[Expression] (1) : Which means: 1 + 1 = 1 OR 3
+- You are the Wood (<b>America</b>([Tiger](./letters/Tiger_America.md)(Yin))) [1] 
+- I am the Fire (<b>Asia</b>([Dragon](./letters/Dragon_Asia.md))) [1]
+- Which means: 1 + 1 = 1 OR 3 ( Tao / Dao ) [1] (Monkey) (WorldWide)
+- <b>Fantasy</b>[OM] (1) + <b>Logic</b>[Spirit] (1) = <b>Application</b>[Expression] (1) 
 
 ## English Topic's
 
-#### - Click [here](https://odicforcesounds.github.io/Dao/) to understand why this solution intents to be created. 
+#### - Click [here](./dao/README.md) to understand why this solution intents to be created. 
 
 #### - Click [here](./letters/Eternal_License.md) to read our Eternal License (Including You(readers, coders & players))
 
 #### - Click [here](./EN_EN/README.md) to read the English Version of this Challenge
 
 #### - Click [here](https://wiki.odicforcesounds.com/static/src/b.html) to return to the main page (Blog)
-
-#### - Click [here](https://wiki.odicforcesounds.com/art/#/tool/kit) to dive into the (Tao / Dao) Expression
 
 #### - Click [here](./MANIFEST.md) to read my Manifest
 
