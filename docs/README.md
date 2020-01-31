@@ -3,8 +3,8 @@
 ## Abstraction 
 
 - You are the Wood (<b>America</b>([Tiger](./letters/Tiger_America.md)(Yin))) [1] 
-- I am the Fire (<b>Asia</b>([Dragon](./letters/Dragon_Asia.md))) [1]
-- Which means: 1 + 1 = 1 OR 3 ( Tao / Dao ) [1] [Monkey] (WorldWide)
+- I am the Fire (<b>Asia</b>([Dragon](./letters/Dragon_Asia.md)(Yang))) [1]
+- Which means: 1 + 1 = 1 OR 3 ( Tao / Dao ) [1] [Monkey](WorldWide)
 
 ## English Topic's
 
