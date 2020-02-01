@@ -1,6 +1,6 @@
-# Our **Eternal** [LICENSE](https://www.odicforcesounds.com/#/license) 
+# Our **Eternal** [LICENSE](https://wiki.odicforcesounds.com/art/#/license) 
 
-## Dedicated to Our **Eternal** [LOVE](https://www.odicforcesounds.com/#/love)!
+## Dedicated to Our **Eternal** [LOVE](https://wiki.odicforcesounds.com/art/#/love)!
 
 ## Copyright (c) 2050 odicforcesounds 
 
