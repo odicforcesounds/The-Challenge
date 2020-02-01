@@ -1,16 +1,16 @@
 # Textos Motivacionais em Português
 
-## Conteúdo teórico para o desenvolvimento deste nosso [Desafio Mundial](https://odicforcesounds.github.io/Desafio-Mundial/)
+## Conteúdo teórico para o desenvolvimento deste nosso [Desafio Mundial](../dm/README.md)
 
 #### 1. Notas do 4º Macaco Budista
   - **Descrição**: "O Macaco que Vê, Fala e Ouve."
-  -  **GibHub**: [Texto](./docs/Macaco_Budista.md)
+  -  **GibHub**: [Texto]()
   - **Youtube**: [Video](https://www.youtube.com/watch?v=_iRz_BrCEbs) 
   - **Nota do video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
 #### 2. O Caracol Cerebral
   - **Descrição**: "Até parece que o meu cérebro é menor do que um Caracol."
-  - **GibHub**: [Texto](./docs/O_Caracol_Cerebral.md)
+  - **GibHub**: [Texto]()
   - **Youtube**: [Videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExCJKaQjuVlJyY2kxxfYJMD-)
   - **Nota video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
