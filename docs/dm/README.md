@@ -17,3 +17,5 @@
 15. [Fantasia](./FANTASIA.md) - breve descrição sobre "o que é a fantasia" e para que serve. Não é só para crianças!
 16. [Lógica](./LOGICA.md) - breve descrição sobre os ensinamentos dos 3 macacos (pessoas)
 17. [Caminhos](./CAMINHOS.md) - descrição dos caminhos do objecto de função desta aplicação (pessoas)
+
+Clica [aqui](../README.md) para ir para a página principal

@@ -24,3 +24,5 @@
   - **Github**: Pensar e aprofundar (em todas as áreas possíveis) a seguinte [tabela](https://wiki.odicforcesounds.com/art/#/tool/kit) que é "formula" de qualquer processo de criação.
   - **Youtube**: [Video](https://www.youtube.com/watch?v=nFnfABOV-6c)
   - **Nota do video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+
+click [here](../README.md) to go into the main page
