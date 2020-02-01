@@ -28,6 +28,8 @@
 
 ## World Wide Slogans
 
+If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!
+
 ### Extra's
 
 If "we" like, we can include our self's on it...
