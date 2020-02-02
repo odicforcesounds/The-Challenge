@@ -4,7 +4,7 @@
 
 #### - You are the Wood (<b>America</b>([Tiger](./letters/Tiger_America.md) (Yin))) [1] 
 #### - I am the Fire (<b>Asia</b>([Dragon](./letters/Dragon_Asia.md) (Yang))) [1]
-#### - Which means: 1 + 1 = 1 OR 3 (Tao/Dao) [Monkey](./letters/Tempo.md) [1]
+#### - Which means: 1 + 1 = 1 OR 3 <b>World Wide</b> [Monkey](./letters/Tempo.md) [1]
 
 ## English Topic's
 
