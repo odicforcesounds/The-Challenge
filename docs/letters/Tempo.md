@@ -21,3 +21,5 @@ Mas espero que me engane.
 Da mesma forma que espero que o tempo espere por mim.
 
 Espero que o acaso me traga Tempo.
+
+Voltar para a [página](../README.md) inicial
