@@ -3,7 +3,7 @@
 ## Conteúdo teórico para o desenvolvimento deste nosso [Desafio Mundial](../dm/README.md)
 
 ### 1. Caminho de Escudos
-  - **Descrição**: "Explicação"
+  - **Descrição**: "Pedido de um Caminho de Escudos (explicação)"
   -  **GibHub**: [Texto]()
   - **Youtube**: [Video](https://www.youtube.com/playlist?list=PLEIKvfX5iExDcV4eAdBnRVF6xgrhW_oFJ) 
   - **Nota do video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
@@ -15,7 +15,7 @@
   - **Nota video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
 ### 3. Caminhada Xamânica
-  - **Descrição**: "Missão em tempo-real!"
+  - **Descrição**: "Missão em tempo-real"
   - **Youtube**: [Video]( https://www.youtube.com/playlist?list=PLEIKvfX5iExDC6s7Lx8unSbeA8wqqsB6m )
   - **Nota do video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
