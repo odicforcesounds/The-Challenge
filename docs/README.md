@@ -24,8 +24,6 @@
 
 #### - Clica [aqui](./tm/README.md) para ler mais textos em Português
 
-#### - Clica [aqui](https://www.youtube.com/channel/UCKxb1p0OzXuiAQBkiY0dCGg) para ouvires-me a falar sobre temas relacionados
-
 ## World Wide Slogans
 
 If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!
