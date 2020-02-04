@@ -2,9 +2,9 @@
 
 ## Abstraction 
 
-#### - You are the Wood (<b>America</b>([Tiger](./letters/Tiger_America.md) (Yin))) [1] 
-#### - I am the Fire (<b>Asia</b>([Dragon](./letters/Dragon_Asia.md) (Yang))) [1]
-#### - Which means: 1 + 1 = 1 OR 3 <b>World Wide</b> [Monkey](./letters/Tempo.md) (Tao/Dao) [1]
+#### - You are the Wood (<b>America</b>([White Tiger](./letters/Tiger_America.md) (Yin))) [1] 
+#### - I am the Fire (<b>Asia</b>([Fire Dragon](./letters/Dragon_Asia.md) (Yang))) [1]
+#### - Which means: 1 + 1 = 1 OR 3 <b>World Wide</b> [Metal Monkey](./letters/Tempo.md) (Tao/Dao) [1]
 
 ## English Topic's
 
