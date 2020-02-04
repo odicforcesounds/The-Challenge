@@ -4,13 +4,11 @@
 
 ### 1. Caminho de Escudos
   - **Descrição**: "Pedido de um Caminho de Escudos (explicação)"
-  -  **GibHub**: [Texto]()
   - **Youtube**: [Video](https://www.youtube.com/playlist?list=PLEIKvfX5iExDcV4eAdBnRVF6xgrhW_oFJ) 
   - **Nota do video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
 ### 2. O Caracol Cerebral
   - **Descrição**: "Até parece que o meu cérebro é menor do que um Caracol."
-  - **GibHub**: [Texto]()
   - **Youtube**: [Videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExCJKaQjuVlJyY2kxxfYJMD-)
   - **Nota video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
@@ -21,7 +19,6 @@
 
 ### 4. Sun Wukong
   - **Descrição**: " O Rei Macaco "
-  - **Github**: Pensar e aprofundar (em todas as áreas possíveis) a seguinte [tabela](https://wiki.odicforcesounds.com/art/#/tool/kit) que é "formula" de qualquer processo de criação.
   - **Youtube**: [Video](https://www.youtube.com/playlist?list=PLEIKvfX5iExBzVb0gbo72xIU6xaV1bPXd)
   - **Nota do video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
