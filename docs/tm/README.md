@@ -47,4 +47,3 @@
 
 
 click [here](../README.md) to go into the main page
-Disallow: /firebase/
