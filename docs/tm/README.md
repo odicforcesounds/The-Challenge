@@ -25,21 +25,21 @@
 ### 5. Crítica Sem Piedade
   - Descrição: "Crítica sem Piedade"
   - Youtube: [Video](https://www.youtube.com/playlist?list=PLEIKvfX5iExArL3bi2y0VoaVhKWSP3dAv)
-  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguage pouco cuidada)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
 ### 6. Macaco Preguiçoso
   - Descrição: "Aulas de Linux e outros temas relevantes"
   - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExD8upuQYCaLJpCx6sKtxg3N)
-  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguage pouco cuidada)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
 ### 7. Só Tributos
   - Descrição: "Só tributos"
   - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExDflCxQ2SUHcOzaodhD7onf)
-  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguage pouco cuidada)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
 ### 8. Marcha Mundial das Mulheres 
   - Descrição: "Tributo à Marcha Mundial das Mulheres"
   - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExCm9YrriaKIy-4hKrKhPlGk)
-  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguage pouco cuidada)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
 click [here](../README.md) to go into the main page
