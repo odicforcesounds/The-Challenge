@@ -46,4 +46,6 @@ Em Actualização ( Lista incompleta )
 
 [Humor ou Subversão](./pt/Humor_Subversao.md)
 
+[Tempo](./pt/Tempo.md)
+
 Clica [aqui](../README.md) para voltar para a página principal.
