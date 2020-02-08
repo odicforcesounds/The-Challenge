@@ -48,4 +48,14 @@ Em Actualização ( Lista incompleta )
 
 [Tempo](./pt/Tempo.md)
 
+[O Valor de uma Expressão](./pt/Valor_Expressao.md)
+
+[Tributo ao Mendigo](./pt/Mendigar.md)
+
+[Erro ou Razão](./pt/Erro_ou_Razao.md)
+
+[Uma Questão de Escolha](./pt/Questao_de_Escolha.md)
+
+[Tributo à Excentricidade](./pt/Excentricidade.md)
+
 Clica [aqui](../README.md) para voltar para a página principal.
