@@ -22,7 +22,7 @@
 
 #### - Clica [aqui](./dm/README.md) para ler a versão em Português deste Desafio
 
-#### - Clica [aqui](./tm/README.md) para ler mais textos em Português
+#### - Clica [aqui](./tm/README.md) para ver a lista de videos do canal de Youtube 
 
 ## World Wide Slogans
 
