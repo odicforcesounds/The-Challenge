@@ -1,10 +1,10 @@
 # Lista de Textos em Português e Inglês
 
+Em Actualização ( Lista incompleta )
+
 ## List of English Texts
 
 [I don't Use Drugs or Machines](./en/Drugs_or_Machines.md)
-
-Em Actualização ( Lista incompleta )
 
 ## Lista de textos em Português
 
