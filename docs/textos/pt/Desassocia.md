@@ -1,4 +1,4 @@
-# A Desassociação é Benéfica ?
+# A Desassociação é Benéfica
 
 Todos Nós Somos...
 
