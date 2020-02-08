@@ -36,4 +36,14 @@ Em Actualização ( Lista incompleta )
 
 [As Pessoas não Amam Palavras](./pt/Pessoas_nao_amam_palavras.md)
 
+[Tributo à Corrupção do Ser](./pt/Corrupcao_do_ser.md)
+
+[Tributo ao Invisivel](./pt/Tributo_ao_Invisivel.md)
+
+[Uma Verdade só pode ser Auto-Comparativa](./pt/Verdade_auto_comparativa.md)
+
+[Defesa Racional de uma Ofensa](./pt/Defesa_Racional_Ofensa.md)
+
+[Tributo à Corrupção](./pt/Corrupcao.md)
+
 Clica [aqui](../README.md) para voltar para a página principal.
