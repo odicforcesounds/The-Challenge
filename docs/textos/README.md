@@ -44,6 +44,6 @@ Em Actualização ( Lista incompleta )
 
 [Defesa Racional de uma Ofensa](./pt/Defesa_Racional_Ofensa.md)
 
-[Tributo à Corrupção](./pt/Corrupcao.md)
+[Humor ou Subversão](./pt/Humor_Subversao.md)
 
 Clica [aqui](../README.md) para voltar para a página principal.
