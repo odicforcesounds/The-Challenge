@@ -58,4 +58,10 @@ Em Actualização ( Lista incompleta )
 
 [Tributo à Excentricidade](./pt/Excentricidade.md)
 
+[Tributo à Justiça](./pt/Justica.md)
+
+[Há Males que Vêm por Bem](./pt/Males_Bem.md)
+
+[Tributo ao Povo](./pt/Povo.md)
+
 Clica [aqui](../README.md) para voltar para a página principal.
