@@ -64,4 +64,42 @@ Em Actualização ( Lista incompleta )
 
 [Tributo ao Povo](./pt/Povo.md)
 
+[Tributo à Verdade e à Mentira no Amor](./pt/Verdade_Mentira_Amor.md)
+
+[Tributo Simplista às Religiões](./pt/Religiao.md)
+
+[Tributo à História](./pt/Historia.md)
+
+[Tributo à Consciência Social](./pt/Consciencia_Social.md)
+
+[Tributo à Racionalidade](./pt/Racionalidade.md)
+
+[Tributo à Auto-Crítica](./pt/Auto_Critica.md)
+
+[Tributo à Estupidez](./pt/Estupidez.md)
+
+[Tributo ao Conhecimento](./pt/Conhecimento.md)
+
+[Tributo ao Silêncio](./pt/Silencio.md)
+
+[Questões Soltas](./pt/Questoes_Soltas.md)
+
+[A Auto-Desassociação é Benéfica](./pt/Desassocia.md)
+
+[Doação de Milhões para a Educação](./pt/Milhoes_Educa.md)
+
+[Tributo ao Dinheiro](./pt/Dinheiro.md)
+
+[Simplicidade](./pt/Simplicidade.md)
+
+[Tributo à Ironia Cultural](./pt/Ironia_Cultural.md)
+
+[Tributo à Ajuda Humanitária](./pt/Ajuda_Humanitaria.md)
+
+[Tributo à Irracionalidade Química](./pt/Irracionalidade_Quimica.md)
+
+[Tributo ao Controverso](./pt/Controverso.md)
+
+[Tributo à Escolha](./pt/Escolha.md)
+
 Clica [aqui](../README.md) para voltar para a página principal.
