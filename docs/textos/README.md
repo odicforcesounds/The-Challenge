@@ -4,7 +4,12 @@ Em Actualização ( Lista incompleta )
 
 ## List of English Texts
 
- [I don't Use Drugs or Machines](./en/Drugs_or_Machines.md)
+Yin(1) | Yang(0)
+--- | ---
+[I don't Use Drugs or Machines](./en/Drugs_or_Machines.md) | [Between Good and Evil](./en/Between_Good_Evil.md)
+[How to Stop Problems](./en/Stop_Problems.md) | [A Strange Choice](./en/Strange_Choice.md)
+[True Politics](./en/True_Politics.md) | [Turn a Blind Eye Tribute](./en/Turn_Eyes_Blind.md)
+[What we Teach](./en/What_We_Teadch.md) | [Yin(1) + Yang(1) = Tao(1)](./en/Yin_Yang_Tao.md)
 
 ## Lista de textos em Português
 
@@ -40,6 +45,7 @@ Yin(1) | Yang(0)
 [Necessidades Compulsivas](./pt/Necessidades.md) | [Uma Pergunta Simplesmente Complexa](./pt/Pergunta_Complexa.md)
 [No Linear dos Limites do Ego](./pt/Limites_Ego.md) | [Valor sem Valor](./pt/Valor_sem_Valor.md)
 [Rir e Voltar a Rir](./pt/Rir.md) | [Curiosidades da Vida](./pt/Curiosidade_Vida.md)
-[Ordem e Progresso](./pt/Ordem_Progresso.md) | [Link VAZIO](./README.md)
+[Ordem e Progresso](./pt/Ordem_Progresso.md) | [Uma Carta pela Paz Mundial](./pt/Carta_Paz_Mundial.md)
+[A Ofensa](./pt/A_Ofensa.md) | [Mais de 70 Causas Crime](./70_Causas_Crime.md)
 
 Clica [aqui](../README.md) para voltar para a página principal.
