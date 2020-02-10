@@ -40,5 +40,6 @@ Yin(1) | Yang(0)
 [Necessidades Compulsivas](./pt/Necessidades.md) | [Uma Pergunta Simplesmente Complexa](./pt/Pergunta_Complexa.md)
 [No Linear dos Limites do Ego](./pt/Limites_Ego.md) | [Valor sem Valor](./pt/Valor_sem_Valor.md)
 [Rir e Voltar a Rir](./pt/Rir.md) | [Curiosidades da Vida](./pt/Curiosidade_Vida.md)
-[Ordem e Progresso](./pt/Ordem_Progresso.md) |
+[Ordem e Progresso](./pt/Ordem_Progresso.md) | []()
+
 Clica [aqui](../README.md) para voltar para a página principal.
