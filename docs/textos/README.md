@@ -8,7 +8,7 @@ Em Actualização ( Lista incompleta )
 
 ## Lista de textos em Português
 
-1 | 2
+Yin(1) | Yang(0)
 --- | ---
 [O Cagalhão da Razão](./pt/O_Cagalhão_Da_Razão.md) |  [Vamos falar de coisas óbvias](./pt/Vamos_falar_de_coisas_obvias.md)
 [Meritocracia e Humanismo nas Democracias](./pt/Meritocracia_e_Humanismo_na_Democracia.md) |  [Perde-se com a Subjectividade](./pt/Perde-se_com_a_subjectividade.md)
@@ -38,5 +38,7 @@ Em Actualização ( Lista incompleta )
 [Reflexos](./pt/Reflexos.md) |  [Será Possível](./pt/Possivel.md)
 [Tributo aos Amigos](./pt/Amigos.md) | [Tributo ao meu Ego que me Engana](./pt/Engana_Ego.md)
 [Necessidades Compulsivas](./pt/Necessidades.md) | [Uma Pergunta Simplesmente Complexa](./pt/Pergunta_Complexa.md)
-
+[No Linear dos Limites do Ego](./pt/Limites_Ego.md) | [Valor sem Valor](./pt/Valor_sem_Valor.md)
+[Rir e Voltar a Rir](./pt/Rir.md) | [Curiosidades da Vida](./pt/Curiosidade_Vida.md)
+[Ordem e Progresso](./pt/Ordem_Progresso.md) |
 Clica [aqui](../README.md) para voltar para a página principal.
