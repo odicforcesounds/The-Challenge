@@ -57,11 +57,9 @@ address {
   margin-left:2%;
 }
 
-/* HTML ID's  */
 #topmenus{
   padding: 1%;
 }
-
 
 #main {
   text-align: center;
@@ -71,23 +69,22 @@ address {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  margin-top: -1%;
-  background-color: black;
+  margin-top: -2%;
 }
 
-#logo {
-  margin-top:20%;
+#logo{
+  bottom: 0%;
   position: fixed;
-  bottom:0;
   background-position: center;
   background-repeat: no-repeat;
-  height:15%;
-  width:100%;
+  background-size: cover;
+  width: 100%;
+  height:20%;
 }
 
 #vt {
   margin-top: -5%;
-  margin-left:1%;
+  margin-left: 1%;
   display: block;
   text-align: center;
   float: left;
