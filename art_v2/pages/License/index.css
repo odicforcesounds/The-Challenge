@@ -60,8 +60,8 @@ address {
 
 #main {
   text-align: center;
-  background: url("https://path_of_shields.keybase.pub/Myth-illusions-Memories/License/License.jpg");
-  height: 800px;
+  background: url("./backgrounds/License.jpg");
+  height: 900px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
