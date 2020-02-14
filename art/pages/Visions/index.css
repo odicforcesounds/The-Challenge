@@ -24,10 +24,13 @@ ul {
 }
 
 li {
-  margin-left: 2rem;
+  margin-left: 3rem;
   text-align:center;
   display: inline-block;
   position: relative;
+}
+#Home{
+  float: left;
 }
 
 a {

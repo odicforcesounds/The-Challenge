@@ -23,8 +23,11 @@ ul {
   height: 60px;
 }
 
+#Home{
+  float: left;
+}
+
 li {
-  margin-left: 2rem;
   text-align:center;
   display: inline-block;
   position: relative;
@@ -75,7 +78,7 @@ address {
 
 #logo{
   bottom: 0%;
-  position: fixed;
+  position: relative;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

@@ -24,7 +24,6 @@ ul {
 }
 
 li {
-  margin-left: 2rem;
   text-align:center;
   display: inline-block;
   position: relative;
@@ -40,6 +39,10 @@ a {
   align-content: center;
   align-self: center;
 
+}
+
+#Home{
+  float: left;
 }
 
 p {

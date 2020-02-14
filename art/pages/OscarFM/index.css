@@ -24,7 +24,6 @@ ul {
 }
 
 li {
-  margin-left: 2rem;
   text-align:center;
   display: inline-block;
   position: relative;
@@ -39,7 +38,10 @@ a {
   text-align: center;
   align-content: center;
   align-self: center;
+}
 
+#Home{
+  float: left;
 }
 
 p {
@@ -86,16 +88,115 @@ address {
   position: absolute;
   border: 1px solid darkgreen;
   background: rgb(0, 0, 0); 
-  padding: 1%;
 }
 #social a{
-  margin-left: 2%;
   padding: 0.1%;
   align-content: center;
   align-items: center;
   align-self: auto;
 }
-#msg{
-  float: right;
+
+#p1{
+  float: left;
+  margin-left: 4%;
+  background-color: aqua;
+  color:brown;
+  padding: 0.3%;
 }
 
+#p2{
+  float: left;
+  margin-left: 4%;
+  background-color: gray;
+  color:burlywood;
+  padding: 0.3%;
+}
+
+#p3{
+  float: left;
+  margin-left:3%;
+  background-color: orangered;
+  color: yellow;
+  padding: 0.3%;
+}
+
+#p4{
+  float: left;
+  margin-left: 3%;
+  background-color: black;
+  color:white;
+  padding: 0.3%;
+}
+#code{
+  float: right;
+  margin-top: 10%;
+  margin-right: 2%;
+  width:300px;
+  padding: 0.3%;
+}
+
+#sun{
+  color: yellow;
+  background-color: black;
+  float: left;
+  margin-left: 5%;
+  padding: 0.3%;
+}
+#wukong{
+  color: yellow;
+  background-color: black;
+  float: left;
+  margin-left: 2%;
+  padding: 0.3%;
+}
+#monkey{
+  color: yellow;
+  background-color: black;
+  float: left;
+  margin-left: 2%;
+  padding: 0.3%;
+}
+#kong{
+  margin-left: -1%;
+}
+#love{
+  color: white;
+  background-color: black;
+  float: left;
+  margin-left: -20%;
+  margin-top: 10%;
+  padding: 0.3%;
+  width: auto;
+}
+#love a{
+  color: red;
+  background-color: black;
+}
+#license{
+  color: white;
+  background-color: black;
+  margin-right: 10%;
+  width: auto;
+}
+#license a{
+  color: orange;
+  background-color: black;
+}
+#v{
+  width: max-content;
+  margin-top: 30%;
+  margin-left: 10%;
+}
+#visions{
+  background-color:lightseagreen;
+  color: whitesmoke;
+}
+#visions a{
+  background-color: lightseagreen;
+  color: black;
+}
+#develop{
+  float: right;
+  margin-right: 5%;
+  width: 300px;
+}
