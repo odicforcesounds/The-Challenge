@@ -47,22 +47,13 @@ a {
   text-align: center;
   color: aqua;
   height: 800px;
+  width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  margin-top: -2%;
+  margin-top: -3%;
   margin-bottom: 1%;
-}
-
-#logo {
-  margin-top:20%;
-  position: fixed;
-  bottom:0;
-  background-position: center;
-  background-repeat: no-repeat;
-  height:15%;
-  width:100%;
 }
 
 .table {

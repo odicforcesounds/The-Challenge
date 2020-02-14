@@ -4,6 +4,11 @@
   text-align: center;
   position: relative;
 }
+
+#Home{
+  float: left;
+}
+
 #YinYang{
   color:white;
 }
