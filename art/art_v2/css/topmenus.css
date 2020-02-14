@@ -1,0 +1,62 @@
+#topmenus{
+  padding: 1%;
+  margin-bottom: 5px;
+  text-align: center;
+  position: relative;
+}
+#YinYang{
+  color:white;
+}
+#YinYang:hover a{
+  background-color: white;
+  color: black;
+}
+#Dao{
+  color:aquamarine;
+}
+#Dao:hover a{
+  background-color: aquamarine;
+  color:black;
+}
+#Who{
+  color: yellow;
+}
+#Who:hover a{
+  background-color: yellow;
+  color: black;
+}
+#Visions{
+  color:yellowgreen;
+}
+#Visions:hover a{
+  background-color: yellowgreen;
+  color:black;
+}
+#OscarFM{
+  color: grey;
+}
+#OscarFM:hover a{
+  background-color: grey;
+  color:black;
+}
+#License{
+  color:orange;
+}
+#License:hover a{
+  background-color: orange;
+  color:black;
+}
+#Love{
+  color: red;
+}
+#Love:hover a{
+  background-color: red;
+  color: black;
+}
+#Code{
+  color:lightseagreen;
+}
+#Code:hover a{
+  background-color: lightseagreen;
+  color:black;
+}
