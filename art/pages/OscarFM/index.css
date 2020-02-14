@@ -189,3 +189,12 @@ h1{
   margin-left: 5%;
   width: 300px;
 }
+#galactic{
+  width: 20%;
+  float: right;
+  margin-right: 10%;
+}
+#galactic a{
+  background-color: aquamarine;
+  color: black;
+}
