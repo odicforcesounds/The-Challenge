@@ -56,8 +56,8 @@ h1{
 
 #main {
   text-align: center;
-  background: url("./backgrounds/MonkeyTouch.jpg");
-  height: 1000px;
+  background: url("./backgrounds/MonkeyTouch2.jpg");
+  height: 1200px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -188,6 +188,10 @@ h1{
   float: left;
   margin-left: 5%;
   width: 300px;
+}
+#developer{
+  color: beige;
+  background-color: black;
 }
 #galactic{
   width: 20%;
