@@ -70,17 +70,18 @@ address {
 
 #main {
   text-align: center;
-  background: url("./backgrounds/peaceCode.jpg");
+  background: url("./backgrounds/Tao.jpg");
   height: 1000px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  margin-top: -3%;
+  margin-top: -1%;
 }
 
-#main h1{
-  color:white;
+#main h3{
+  font-size: xx-large;
+  color: aliceblue;
 }
 
 #logo {

@@ -1,8 +1,8 @@
-# Our **Eternal** [LICENSE](https://wiki.odicforcesounds.com/art/#/license) 
+# Our **Eternal** [LICENSE](https://wiki.odicforcesounds.com/art/pages/License/index.html) 
 
-## Dedicated to Our **Eternal** [LOVE](https://wiki.odicforcesounds.com/art/#/love)!
+## Dedicated to Our **Eternal** [LOVE](https://wiki.odicforcesounds.com/art/pages/Love/index.html)!
 
-## Copyright (c) 2050 odicforcesounds 
+## Copyright (c) 2050 odicforcesounds
 
 ### PLAYERS, INVESTORS, DEVELOPERS and Next World Wide Generations ETERNAL LICENSE:
 

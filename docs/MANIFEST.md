@@ -30,7 +30,7 @@
 
 > "If Time build within our Self's, then Time is Our Selfs as result of Time it Self"
 
-> Which Means: 1 + 1 = 1 OR 3 [Tao](https://wiki.odicforcesounds.com/art/#/tao/yin/yang)
+> Which Means: 1 + 1 = 1 OR 3 [Tao / Dao](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)
 
 > OR in another words: <br>
 

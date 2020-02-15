@@ -16,6 +16,6 @@ You already know I do not use the same Tools You both use to accomplish my Real 
 
 Naturally I didn't Learn so much about myself, while You both Should Care so much.
 
-Not because you are able to Care, but because is a single dream, that is in my head :D
+Not because you are able to Care, but because is a single dream, that is in my head and it can only happen in my own life time! :D
 
 back to [main page](../README.md)
