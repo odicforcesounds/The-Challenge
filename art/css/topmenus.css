@@ -11,6 +11,7 @@
 
 #YinYang{
   color:white;
+  float: left;
 }
 #YinYang:hover a{
   background-color: white;
@@ -39,6 +40,7 @@
 }
 #OscarFM{
   color: grey;
+  float: right;
 }
 #OscarFM:hover a{
   background-color: grey;
