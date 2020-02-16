@@ -1,45 +1,7 @@
 html {
   margin:0;
   padding:0;
-}
-
-body {
-  margin-top:-1%;
-  margin-left:2%;
-  margin-right:2%;
-  margin-bottom: 2%;
   background-color: #333;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  position: sticky;
-  top: 0;
-  width: 100%;
-  height: 60px;
-}
-
-li {
-  text-align:center;
-  display: inline-block;
-  position: relative;
-}
-
-a {
-  display:block;
-  color:rgb(255, 255, 255);
-  text-decoration:none;
-  font-size:calc(1vw + 0.5vh + 0.2vmin);
-  text-align: center;
-  align-content: center;
-  align-self: center;
-
-}
-#Home{
-  float: left;
 }
 
 #main {
@@ -49,7 +11,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  margin-top: -3%;
+  margin-top: -2%;
 }
 #main a{
   color: rgb(0, 255, 255);
@@ -59,7 +21,7 @@ a {
 
 .table {
   text-align: center;
-  width: 98%;
+  width: 100%;
   height: 100%;
   margin-top: -2%;
   color: white;
