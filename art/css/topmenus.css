@@ -1,12 +1,6 @@
-#topmenus{
-  padding: 1%;
-  margin-bottom: 5px;
-  text-align: center;
-  position: relative;
-}
-
 #Home{
-  float: left;
+  float: right;
+  margin-right: 3.5rem;
 }
 
 #YinYang{
@@ -17,6 +11,7 @@
   background-color: white;
   color: black;
 }
+
 #Dao{
   color:aquamarine;
 }
@@ -24,46 +19,34 @@
   background-color: aquamarine;
   color:black;
 }
-#Who{
-  color: yellow;
-}
-#Who:hover a{
-  background-color: yellow;
-  color: black;
-}
-#Visions{
-  color:yellowgreen;
-}
-#Visions:hover a{
-  background-color: yellowgreen;
-  color:black;
-}
+
 #OscarFM{
   color: grey;
   float: right;
+  margin-right: 2rem;
 }
 #OscarFM:hover a{
   background-color: grey;
   color:black;
 }
-#License{
-  color:orange;
+
+#topmenus{
+  padding: 2%;
+  text-align: center;
+  position: relative;
+  top: 0;
+  width: 98%;
+  height: 50px;
 }
-#License:hover a{
-  background-color: orange;
-  color:black;
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  position: relative;
+  top: 0;
 }
-#Love{
-  color: red;
-}
-#Love:hover a{
-  background-color: red;
-  color: black;
-}
-#Code{
-  color:lightseagreen;
-}
-#Code:hover a{
-  background-color: lightseagreen;
-  color:black;
+
+li {
+  text-align:center;
+  position: relative;
 }

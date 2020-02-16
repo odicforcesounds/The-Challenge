@@ -30,10 +30,9 @@ li {
 
 a {
   display:block;
-  color:white;
+  color:rgb(255, 255, 255);
   text-decoration:none;
-  font-size:calc(2vw + 0.5vh + 0.2vmin);
-  margin:10px;
+  font-size:calc(1vw + 0.5vh + 0.2vmin);
   text-align: center;
   align-content: center;
   align-self: center;
@@ -52,33 +51,20 @@ a {
   position: relative;
   margin-top: -3%;
 }
+#main a{
+  color: black;
+  font-size: 40px;
+}
 
 .table {
   text-align: center;
-  margin-left: 1%;
-  margin-right: 0.5%;
-  margin-bottom: 5%;
   width: 98%;
   height: 100%;
-  margin-top: 2%;
-  margin-left: 1%;
+  margin-top: -2%;
   color: black;
-}
-
-.table {
   font-size: 36px;
 }
 
-tr{
-  background-color: black;
-}
-
-th{
-  background-color:darkblue;
-}
-td{
-  background-color: black;
-}
 
 #symbol{
   background-color: black;
