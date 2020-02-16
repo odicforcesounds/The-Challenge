@@ -52,8 +52,9 @@ a {
   margin-top: -3%;
 }
 #main a{
-  color: black;
-  font-size: 40px;
+  color: rgb(0, 255, 255);
+  font-size: larger;
+  width: auto;
 }
 
 .table {
@@ -61,7 +62,7 @@ a {
   width: 98%;
   height: 100%;
   margin-top: -2%;
-  color: black;
+  color: white;
   font-size: 36px;
 }
 
