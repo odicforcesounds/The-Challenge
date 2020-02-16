@@ -4,22 +4,13 @@ html {
   background-color: #333;
 }
 
-body {
-  margin-top:-1%;
-  margin-left:2%;
-  margin-right:2%;
-  margin-bottom: 2%;
-}
-
 a {
-  display:block;
   color:white;
   text-decoration:none;
   font-size:calc(1vw + 0.5vh + 0.2vmin);
   text-align: center;
   align-content: center;
   align-self: center;
-
 }
 
 p {
