@@ -52,7 +52,7 @@ h1{
 
 #main {
   text-align: center;
-  background: url("./backgrounds/License.jpg");
+  background: url("./backgrounds/License.jpg") no-repeat no-repeat fixed;
   height: 1200px;
   width: 100%;
   background-position: center;

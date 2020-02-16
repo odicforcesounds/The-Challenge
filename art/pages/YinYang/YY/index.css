@@ -48,7 +48,7 @@ h1{
 
 #main {
   margin-top: -2%;
-  background: url("./backgrounds/YinYang.jpg");
+  background: url("./backgrounds/YinYang.jpg") no-repeat no-repeat fixed;
   height: 780px;
   background-position: center;
   background-repeat: no-repeat;

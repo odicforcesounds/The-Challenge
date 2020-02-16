@@ -70,7 +70,7 @@ address {
 
 #main {
   text-align: center;
-  background: url("./backgrounds/Tao.jpg");
+  background: url("./backgrounds/Tao.jpg") no-repeat no-repeat fixed;
   height: 1000px;
   background-position: center;
   background-repeat: no-repeat;

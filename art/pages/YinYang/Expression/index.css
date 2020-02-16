@@ -65,9 +65,7 @@ h1{
 
 
 #main {
-  background: url("../Expression/backgrounds/Tree_of_life.jpg");
-  height: 7700px;
-  width: 1550px;
+  background: url("../Expression/backgrounds/Tree_of_life.jpg") no-repeat no-repeat fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
