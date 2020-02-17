@@ -1,0 +1,22 @@
+html {
+  margin:0;
+  padding:0;
+  background-color: black;
+}
+
+#main{
+  text-align: center;
+  color: aquamarine;
+  
+}
+
+#img{
+  float: left;
+
+}
+
+#description{
+  float: right;
+  text-align: center;
+  margin-right: 10%;
+}
