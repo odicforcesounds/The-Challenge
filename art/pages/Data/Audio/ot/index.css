@@ -4,3 +4,17 @@ html {
   background-color: #333;
 }
 
+a {
+  color:white;
+  text-decoration:none;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+
+}
+
+#main {
+  text-align: justify;
+  position: relative;
+  color: aquamarine;
+}

@@ -4,17 +4,23 @@ html {
   background-color: #333;
 }
 
+body {
+  margin:0%;
+}
+
+
 a {
   color:white;
   text-decoration:none;
+  font-size:calc(2vw + 0.5vh + 0.2vmin);
   text-align: center;
   align-content: center;
   align-self: center;
 
 }
 
+
 #main {
   text-align: justify;
   position: relative;
-  color: aquamarine;
 }
