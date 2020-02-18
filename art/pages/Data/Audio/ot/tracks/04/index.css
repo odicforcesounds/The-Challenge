@@ -10,10 +10,11 @@ html {
 
 #image{
   float: left;
+  margin-top: 2rem;
 }
 
 #description{
-  float: right;
+    float: right;
   text-align: center;
-  margin-right: 10%;
+  margin-right: 3%;
 }

@@ -30,23 +30,24 @@
 }
 
 #topmenus{
-  padding: 2%;
+  padding: 1%;
   text-align: center;
   position: relative;
   top: 0;
-  height: 50px;
+  height: 40px;
   background-color: black;
 }
 
 ul {
-  list-style-type: none;
-  overflow: hidden;
   position: relative;
   top: 0;
 }
 
 li {
   text-align:center;
+  list-style-type: none;
+  overflow: hidden;
+  position: relative;
 }
 
 li a{

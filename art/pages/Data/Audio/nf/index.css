@@ -10,11 +10,33 @@ a {
   text-align: center;
   align-content: center;
   align-self: center;
+}
+
+#main{
+  padding: 1%;
+  font-size: larger;
+}
+
+#image{
+  float: left;
+  margin-top: 1rem;
+}
+
+#description{
+  position: relative;
 
 }
 
-#main {
+#description p{
+  float: right;
   text-align: justify;
-  position: relative;
-  color: aquamarine;
+  color: lightblue;
+  margin-top: -25%;
+  margin-right: 5%;
+  width: 40%;
+}
+
+h1{
+  text-align: center;
+  color: aqua;
 }

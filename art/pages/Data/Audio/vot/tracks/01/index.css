@@ -1,0 +1,20 @@
+html {
+    margin:0;
+    padding:0;
+    background-color: #333;
+  }
+  
+  #main{
+    color: aquamarine;
+  }
+  
+  #image{
+    float: left;
+    margin-top: 2rem;
+  }
+  
+  #description{
+      float: right;
+    text-align: center;
+    margin-right: 3%;
+  }

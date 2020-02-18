@@ -12,14 +12,31 @@ a {
   align-self: center;
 }
 
-#main {
-  text-align: justify;
-  position: relative;
-  color: aquamarine;
+#main{
+  padding: 1%;
+  font-size: larger;
 }
 
-#main p{
-  margin:2rem;
+#image{
+  float: left;
+  margin-top: 1rem;
+}
+
+#description{
+  position: relative;
+
+}
+
+#description p{
+  float: right;
   text-align: justify;
-  font-size: larger;
+  color: lightblue;
+  margin-top: -25%;
+  margin-right: 5%;
+  width: 40%;
+}
+
+h1{
+  text-align: center;
+  color: aqua;
 }
