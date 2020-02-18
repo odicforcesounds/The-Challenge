@@ -4,11 +4,6 @@ html {
   background-color:#333;
 }
 
-body {
-  margin-top:-1%;
-
-}
-
 p {
   font-size:28px;
   color:black;
@@ -18,21 +13,15 @@ h1{
   font-size:36px;
   color:black;
 }
-/* HTML ID's  */
-
-#topmenus{
-  padding: 1%;
-}
 
 #main {
   text-align: center;
-  background: url("./backgrounds/peaceCode.jpg");
+  background: url("./backgrounds/peaceCode.jpg") no-repeat no-repeat fixed;
   height: 700px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  margin-top: -3%;
 }
 
 #main h1{

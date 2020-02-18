@@ -22,7 +22,6 @@
 #OscarFM{
   color: grey;
   float: right;
-  margin-right: 4rem;
 }
 #OscarFM:hover a{
   background-color: grey;
