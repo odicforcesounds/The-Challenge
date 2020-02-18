@@ -10,11 +10,16 @@ a {
   text-align: center;
   align-content: center;
   align-self: center;
-
 }
 
 #main {
   text-align: justify;
   position: relative;
   color: aquamarine;
+}
+
+#main p{
+  margin:2rem;
+  text-align: justify;
+  font-size: larger;
 }
