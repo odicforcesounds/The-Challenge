@@ -1,4 +1,4 @@
-### Yin(1) + Yang(1) = 1 or 3 ([Tao](https://odicforcesounds.com/#/tao)) [The Wind of God](https://www.odicforcesounds.com/#/tao/the/wind/of/god)
+### Yin(1) + Yang(1) = 1 or 3 ([Tao](https://odicforcesounds.com/#/tao)) [The Way of God](https://www.odicforcesounds.com/#/tao/the/wind/of/god)
 
 "If Time is build within our Self's, then Time is Our Selfs as result of Time it Self"
 
