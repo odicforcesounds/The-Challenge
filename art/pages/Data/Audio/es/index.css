@@ -7,9 +7,6 @@ html {
 a {
   color:white;
   text-decoration:none;
-  text-align: center;
-  align-content: center;
-  align-self: center;
 }
 
 #main{
@@ -24,16 +21,16 @@ a {
 
 #description{
   position: relative;
-
+  width: 60%;
+  margin-left: 35%;
+  margin-top: -33%;
 }
 
 #description p{
   float: right;
   text-align: justify;
   color: lightblue;
-  margin-top: -25%;
-  margin-right: 5%;
-  width: 40%;
+  font-size: larger;
 }
 
 h1{
