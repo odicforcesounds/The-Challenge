@@ -1,10 +1,7 @@
 #main {
   background: url("./backgrounds/YinYang.jpg") no-repeat no-repeat fixed;
   height: 900px;
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
   align-content: center;
   text-align: center;
 }
@@ -98,11 +95,13 @@
 #left{
   float: left;
   margin-left: 13rem;
+  margin-top: 5rem;
 }
 
 #right{
   float: right;
   margin-right: 15rem;
+  margin-top: 5rem;
 }
 
 #upper{
@@ -110,12 +109,13 @@
   height: 100px;
   text-align: center;
   margin-left: 47%;
-  position: relative;
+  position: fixed;
 }
 
 #downCenter{
   text-align: center;
   bottom: 0;
-  position: absolute;
+  position: fixed;
   margin-left: 43%; 
+  margin-top: -140%;
 }
