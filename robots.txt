@@ -1,4 +1,4 @@
 # robots.txt for https://wiki.odicforcesounds.com/
 
 User-agent: *
-Disallow: /images/
+Sitemap: https://wiki.odicforcesounds.com/sitemal.xml
