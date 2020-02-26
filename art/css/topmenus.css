@@ -3,19 +3,25 @@ html{
   margin: 0;
   background-color: #444;
 }
+
 body{
-  margin-top: 3.5rem;
-  padding: 0.5%;
+  padding: 0.1%;
+  margin-top: -1%;
 }
+
 p{
   font-size: calc(1.1vw + 1vh + 0.5vmin);
   color: aliceblue;
 }
 
 a{
-  color: white;
+  color: rgb(0, 247, 255);
   font-size: calc(1.1vw + 1vh + 0.5vmin);
 }
+a:hover{
+  background-color: darkslategray;
+}
+
 span{
   color:yellow;
 }
@@ -24,15 +30,13 @@ h1{
   text-align: center;
   color: aliceblue;
 }
-nav{
 
+nav{
   position: relative;
 }
 
-
 ul {
   top: 0;
-  margin-top: -3rem;
   padding: 0.5%;
 }
 
@@ -47,7 +51,6 @@ li a{
   text-decoration: none;
   font-size: xx-large;
 }
-
 
 #Home{
   float: right;
@@ -82,7 +85,7 @@ li a{
 
 #topmenus{
   text-align: center;
-  position: sticky;
+  position: static;
   top: 0;
   height: 40px;
   margin-bottom: 1rem;
