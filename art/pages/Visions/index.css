@@ -21,9 +21,14 @@ h1{
 #main {
   text-align: center;
   background: url("./backgrounds/Visions.jpg") no-repeat no-repeat fixed;
-  height: 900px;
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
+  height: 100%;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: 0;
+  
+  /* Set up positioning */
   position: relative;
+  left: 0;
 }

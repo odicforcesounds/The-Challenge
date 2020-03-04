@@ -1,54 +1,72 @@
-#main {
+.container {
   background: url("./backgrounds/YinYang.jpg") no-repeat no-repeat fixed;
-  height: 900px;
   background-size: cover;
-  align-content: center;
+  height: 100%;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: 0;
+  
+  /* Set up positioning */
+  position: relative;
+  left: 0;
+}
+
+#main{
   text-align: center;
 }
 
 #vt {
   position: relative;
+  display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
 #vt a{
   color: yellow;
   background-color: black;
+  font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
 #mw{
   position: relative;
+  display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
 #mw a{
   color: yellow;
   background-color: black;
+  font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
 #st{
   position: relative;
+  display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
-
 }
 
 #st a{
   color: yellow;
   background-color: black;
+  font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
 #skd{
   position: relative;
+  display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
 #skd a{
   color: yellow;
   background-color: black;
+  font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
 #ed{
   position: relative;
+  display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
@@ -59,6 +77,7 @@
 
 #nf{
   position: relative;
+  display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
@@ -69,6 +88,7 @@
 
 #es{
   position: relative;
+  display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
@@ -79,6 +99,7 @@
 
 #ot {
   position: relative;
+  display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
@@ -93,29 +114,23 @@
 }
 
 #left{
-  float: left;
-  margin-left: 13rem;
+  display: block;
   margin-top: 5rem;
 }
 
 #right{
-  float: right;
-  margin-right: 15rem;
+  display: block;
   margin-top: 5rem;
 }
 
 #upper{
-  width: 100px;
-  height: 100px;
-  text-align: center;
-  margin-left: 47%;
-  position: fixed;
+  display: block;
+  position: relative;
+  top: -3;
 }
 
 #downCenter{
-  text-align: center;
   bottom: 0;
-  position: fixed;
-  margin-left: 43%; 
-  margin-top: -140%;
+  display: block;
+  position: relative;
 }

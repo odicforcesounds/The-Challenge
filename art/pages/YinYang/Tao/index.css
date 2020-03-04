@@ -1,16 +1,16 @@
-html {
-  margin:0;
-  padding:0;
-  background-color:#333;
-}
-
 #main {
   text-align: center;
   background: url("./backgrounds/Tao.jpg") no-repeat no-repeat fixed;
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
+  height: 100%;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: 0;
+  
+  /* Set up positioning */
   position: relative;
+  left: 0;
 }
 
 #main h3{

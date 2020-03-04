@@ -2,24 +2,30 @@ html{
   padding: 0;
   margin: 0;
   background-color: #444;
+  box-sizing: border-box;
+  align-items: stretch;
 }
 
 body{
-  padding: 0.1%;
+  margin: -0%;
   margin-top: -1%;
 }
 
 p{
   font-size: calc(1.1vw + 1vh + 0.5vmin);
-  color: aliceblue;
 }
 
 a{
-  color: rgb(0, 247, 255);
+  color: lightblue(0, 247, 255);
   font-size: calc(1.1vw + 1vh + 0.5vmin);
+  text-decoration: none;
+  margin-top: 0;
+  margin-left: 0;
+  
 }
+
 a:hover{
-  background-color: darkslategray;
+  color: orange;
 }
 
 span{
@@ -28,11 +34,17 @@ span{
 
 h1{
   text-align: center;
-  color: aliceblue;
+  color: yellow;
+  background-color: black;
+  display: inline;
 }
 
 nav{
   position: relative;
+}
+
+nav li{
+  display: inline-flex;
 }
 
 ul {
@@ -43,7 +55,6 @@ ul {
 li {
   text-align:center;
   list-style-type: none;
-  display: block;
 }
 
 li a{
@@ -60,6 +71,7 @@ li a{
   color:white;
   float: left;
 }
+
 #YinYang:hover a{
   background-color: white;
   color: black;
@@ -69,8 +81,8 @@ li a{
   color:aquamarine;
   margin-right: 20px;
 }
+
 #Dao:hover a{
-  background-color: aquamarine;
   color:black;
 }
 
@@ -78,6 +90,7 @@ li a{
   color: grey;
   float: right;
 }
+
 #OscarFM:hover a{
   background-color: grey;
   color:black;
@@ -85,22 +98,25 @@ li a{
 
 #topmenus{
   text-align: center;
-  position: static;
+  position: relative;
   top: 0;
   height: 40px;
   margin-bottom: 1rem;
 }
 
 #social{
-  position: absolute;
-  background: rgb(0, 0, 0); 
-  float: left;
+  position: flex-end;
   width: 40px;
 }
+
 #social a{
   padding: 0.1%;
   align-content: center;
   align-items: center;
   align-self: auto;
-  margin-top:10px;
+}
+
+#main{
+  justify-items: stretch;
+
 }
