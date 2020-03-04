@@ -19,7 +19,7 @@ a {
 
 #image{
   float: left;
-  margin-top: 1rem;
+  margin-left: 1rem;
 }
 
 #description{
@@ -28,7 +28,7 @@ a {
 }
 
 #description p{
-  float: right;
+  float: left;
   text-align: justify;
   color: lightblue;
   margin-top: -25%;

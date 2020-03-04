@@ -20,11 +20,12 @@ a {
 #image{
   float: left;
   margin-top: 1rem;
+  margin-left: 2rem;
 }
 
 #description{
   position: relative;
-
+  margin-right: 2rem;
 }
 
 #description p{

@@ -24,7 +24,7 @@ a {
 
 #description{
   position: relative;
-
+  margin-left: -3rem;
 }
 
 #description p{

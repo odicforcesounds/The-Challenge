@@ -65,7 +65,7 @@
 
 #visions{
   color: whitesmoke;
-
+  display: inline;
   background-color: black;
 }
 
@@ -115,13 +115,9 @@
   text-align: center;
 }
 
-#slogan span{
-  text-align: center;
-  padding: 1rem;
-}
-
 #kong{
   text-align: center;
+  display: inline-block;
   max-width: max-content;
 }
 
