@@ -9,12 +9,12 @@ html {
 }
 
 #image{
-  float: left;
-  margin-top: 2rem;
+  text-align: center;
+  margin-top: 4rem;
+
 }
 
 #description{
-    float: right;
   text-align: center;
-  margin-right: 3%;
+
 }

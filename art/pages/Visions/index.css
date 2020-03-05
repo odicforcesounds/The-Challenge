@@ -18,6 +18,16 @@ h1{
   color:white;
 }
 
+h2{
+  font-size:36px;
+  color:white;
+}
+
+h3{
+  font-size:36px;
+  color:white;
+}
+
 #main {
   text-align: center;
   background: url("./backgrounds/Visions.jpg") no-repeat no-repeat fixed;
