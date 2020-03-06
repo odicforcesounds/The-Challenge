@@ -6,15 +6,8 @@
   /* Set up proportionate scaling */
   min-width: 100%;
   min-height: 100%;
-  margin-top: 0;
   
   /* Set up positioning */
   position: absolute;
   left: 0;
 }
-
-#main h3{
-  font-size: xx-large;
-  color: aliceblue;
-}
-

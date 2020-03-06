@@ -28,6 +28,7 @@ h1{
   position: relative;
   left: 0;
 }
+
 #main table{
   text-align: center;
 }
@@ -46,9 +47,4 @@ h1{
   color: rgb(102, 255, 0);
   background-color: black;
   width: 40%;
-}
-
-#Dao{
-  padding: 5px;
-  background-color: black;
 }
