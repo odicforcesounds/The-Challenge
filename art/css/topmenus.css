@@ -1,27 +1,42 @@
 html{
-  padding: 0;
-  margin: 0;
-  background-color: #444;
-  box-sizing: border-box;
-  align-items: stretch;
+  background-color: #000;
 }
 
 body{
-  margin: -0%;
-  margin-top: -1%;
+  margin: 0;
+  margin-top: 0;
 }
 
 p{
   font-size: calc(1.1vw + 1vh + 0.5vmin);
+  color: aqua;
+}
+
+h1{
+  color: yellowgreen;
+}
+
+h2{
+  color:yellowgreen;
+}
+
+h3{
+  color: yellowgreen;
+}
+
+h4{
+  color: yellowgreen;
+}
+
+h5{
+  color: yellowgreen;
 }
 
 a{
-  color: lightblue(0, 247, 255);
-  font-size: calc(1.1vw + 1vh + 0.5vmin);
+  color: whitesmoke;
   text-decoration: none;
   margin-top: 0;
   margin-left: 0;
-  
 }
 
 a:hover{
@@ -30,13 +45,6 @@ a:hover{
 
 span{
   color:yellow;
-}
-
-h1{
-  text-align: center;
-  color: yellow;
-  background-color: black;
-  display: inline;
 }
 
 nav{
@@ -53,18 +61,19 @@ ul {
 }
 
 li {
-  text-align:center;
   list-style-type: none;
 }
 
 li a{
   color: white;
   text-decoration: none;
-  font-size: xx-large;
+  font-size: calc(2.3vw + 1vh + 1.2vmin);
+  margin-left: 2rem;
 }
 
 #Home{
   float: right;
+  margin-right: 2rem;
 }
 
 #YinYang{
@@ -79,7 +88,6 @@ li a{
 
 #Dao{
   color:aquamarine;
-  margin-right: 20px;
 }
 
 #Dao:hover a{
@@ -87,8 +95,14 @@ li a{
 }
 
 #OscarFM{
-  color: grey;
+  color: blue;
+  margin-right: 2rem;
   float: right;
+}
+
+#OscarFM a{
+  color: blue;
+  background-color: white;
 }
 
 #OscarFM:hover a{
@@ -101,12 +115,13 @@ li a{
   position: relative;
   top: 0;
   height: 40px;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 #social{
-  position: flex-end;
+  position: fixed;
   width: 40px;
+  margin-top: 15%;
 }
 
 #social a{
@@ -117,6 +132,5 @@ li a{
 }
 
 #main{
-  justify-items: stretch;
-
+  text-align: center;
 }

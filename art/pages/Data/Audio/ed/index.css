@@ -1,36 +1,14 @@
-a {
-  color:white;
-  text-decoration:none;
-  text-align: center;
-  align-content: center;
-  align-self: center;
-}
-
-#main{
-  padding: 1%;
-  font-size: larger;
-}
-
 #image{
-  float: left;
-  margin-top: 1rem;
+  text-align: center;
 }
 
 #description{
   position: relative;
-
 }
 
 #description p{
-  float: right;
-  text-align: justify;
   color: lightblue;
-  margin-top: -30%;
-  width: 65%;
-}
-
-h1{
-  text-align: center;
-  color: aqua;
+  text-align: justify;
+  margin: 2rem;
 }
 

@@ -1,4 +1,4 @@
-#main {
+.container {
   background: url("./backgrounds/YinYang.jpg") no-repeat no-repeat fixed;
   background-size: cover;
   height: 100%;
@@ -6,18 +6,13 @@
   min-width: 100%;
   min-height: 100%;
   margin-top: 0;
-  
+
   /* Set up positioning */
-  position: relative;
+  position: absolute;
   left: 0;
 }
 
-#main{
-  text-align: center;
-}
-
 #vt {
-  position: relative;
   display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
@@ -29,7 +24,6 @@
 }
 
 #mw{
-  position: relative;
   display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
@@ -41,7 +35,6 @@
 }
 
 #st{
-  position: relative;
   display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
@@ -53,7 +46,6 @@
 }
 
 #skd{
-  position: relative;
   display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
@@ -65,8 +57,6 @@
 }
 
 #ed{
-  position: relative;
-  display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
@@ -76,7 +66,6 @@
 }
 
 #nf{
-  position: relative;
   display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
@@ -87,7 +76,6 @@
 }
 
 #es{
-  position: relative;
   display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
@@ -98,7 +86,6 @@
 }
 
 #ot {
-  position: relative;
   display: block;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
@@ -109,28 +96,29 @@
 }
 
 #wb{
-  position: relative;
   font-size: calc(1.3vw + 1vh + 1.2vmin);
 }
 
 #left{
+  float: left;
   display: block;
-  margin-top: 5rem;
+  margin-left: 2rem;
 }
 
 #right{
+  float: right;
   display: block;
-  margin-top: 5rem;
+  margin-right: 2rem;
 }
 
 #upper{
-  display: block;
-  position: relative;
-  top: -3;
+  position: absolute;
+  margin-left: 50%;
+  top: 3;
 }
 
 #downCenter{
+  margin-left: 45%;
+  position: absolute;
   bottom: 0;
-  display: block;
-  position: relative;
 }

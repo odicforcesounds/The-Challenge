@@ -1,39 +1,15 @@
-html {
-  margin:0;
-  padding:0;
-  background-color: #333;
-}
-
-a {
-  color:white;
-  text-decoration:none;
-}
-
-#main{
-  padding: 1%;
-  font-size: larger;
-}
-
 #image{
-  float: left;
-  margin-top: 1rem;
+  margin: 2rem;
+  text-align: center;
 }
 
 #description{
   position: relative;
-  width: 60%;
-  margin-left: 35%;
-  margin-top: -42%;
+  margin: 2rem;
 }
 
 #description p{
-  float: right;
   text-align: justify;
   color: lightblue;
   font-size: larger;
-}
-
-h1{
-  text-align: center;
-  color: aqua;
 }

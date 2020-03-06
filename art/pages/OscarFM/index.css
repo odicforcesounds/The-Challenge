@@ -8,39 +8,18 @@
   min-width: 100%;
   min-height: 100%;
   margin-top: 0;
-  
   /* Set up positioning */
-  position: absolute;
+  position: relative;
   left: 0;
 }
 
-#sun{
-  color: yellow;
-  background-color: black;
-}
-
-#social{
-  position:absolute;
-  background-color: black;
-  padding: 5px;
-}
-
-#wukong{
-  color: yellow;
-  background-color: black;
-}
-#monkey{
-  color: yellow;
-  background-color: black;
-}
-
 #love{
-  float: right;
   color: white;
   background-color: black;
-  margin-right: 5rem;
-  padding: 1rem;
+  text-align: center;
+  width: max-content;
 }
+
 #love a{
   color: red;
   background-color: black;
@@ -49,24 +28,19 @@
 #license{
   color: white;
   background-color: black;
-  float: right;
-  margin-right: 1rem;
+  width: max-content;
+  position: relative;
 }
+
 #license a{
   color: orange;
   background-color: black;
 }
 
-#v{
-  padding: 0.5rem;
-  display: inline-block;
-  text-align: center;
-}
-
 #visions{
   color: whitesmoke;
-  display: inline;
   background-color: black;
+  width: max-content;
 }
 
 #visions a{
@@ -74,54 +48,65 @@
   background-color: lightskyblue;
 }
 
+#signature{
+  background-color: black;
+  width: max-content;
+  position: relative;
+  margin-left: 5rem;
+}
+
 #msg{
-  margin-top: 2rem;
+  margin-top: 3rem;
   text-align: center;
-  margin-bottom: 2rem;
 }
 
 #p1{
   background-color: aqua;
   color:brown;
-  padding: 0.3%;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  display: inline;
+  font-size: calc(3vw + 0.5vh + 0.2vmin);
  }
 
 #p2{
   background-color: gray;
   color:aqua;
-  padding: 0.3%;
   display: inline;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  font-size: calc(3vw + 0.5vh + 0.2vmin);
 }
 
 #p3{
   background-color: orangered;
   color: yellow;
-  padding: 0.3%;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  display: inline;
+  font-size: calc(3vw + 0.5vh + 0.2vmin);
 }
 
 #p4{
   background-color: black;
   color:white;
-  padding: 0.3%;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  display: inline;
+  font-size: calc(3vw + 0.5vh + 0.2vmin);
 }
 
 #slogan{
-  margin: 1rem;
-  padding: 1rem;
   text-align: center;
-}
-
-#kong{
-  text-align: center;
-  display: inline-block;
-  max-width: max-content;
 }
 
 #mplayer{
   text-align: center;
-  display: block;
+  margin-top: 3rem;
+}
+
+#main{
+  margin-top: 3%;
+  margin-left: 30%;
+}
+
+#main p{
+  text-align: center;
+}
+
+#v{
+  text-align: center;
+  
 }
