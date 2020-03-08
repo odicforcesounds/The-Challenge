@@ -6,11 +6,16 @@ a {
     text-align: center;
     align-content: center;
     align-self: center;
-  
   }
   
   #main {
     text-align: center;
+    background: url("../../backgrounds/MythIllusionsMemories.jpg") no-repeat no-repeat fixed;
+    background-size: cover;
+    height: 100%;
+    /* Set up proportionate scaling */
+    min-width: 100%;
+    min-height: 100%;
     position: relative;
-    margin-top: 1rem;
+    margin-left: 0%;
   }

@@ -11,6 +11,12 @@ a {
   
   #main {
     text-align: center;
-    position: relative;
-    margin-top: 1rem;
+    background: url("../../backgrounds/HypnoticDance.jpg") no-repeat no-repeat fixed;
+    background-size: cover;
+    height: 100%;
+    /* Set up proportionate scaling */
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    margin-left: 0%;
   }
