@@ -18,6 +18,8 @@
   background-color: black;
   text-align: center;
   width: max-content;
+  float: right;
+  margin-right: 2rem;
 }
 
 #love a{
@@ -45,7 +47,7 @@
 
 #visions a{
   color: black;
-  background-color: lightskyblue;
+  background-color: orange;
 }
 
 #signature{
@@ -53,6 +55,11 @@
   width: max-content;
   position: relative;
   margin-left: 5rem;
+}
+
+#signature a{
+  background-color: black;
+  color: orange;
 }
 
 #msg{
