@@ -87,6 +87,7 @@ li a{
 
 #Dao{
   color:aquamarine;
+  width: 40px;
 }
 
 #Dao:hover a{
