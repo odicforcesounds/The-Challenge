@@ -16,10 +16,9 @@
 #love{
   color: white;
   background-color: black;
-  text-align: center;
+  text-align: center;  
   width: max-content;
-  float: right;
-  margin-right: 2rem;
+  margin-left: 45%;
 }
 
 #love a{
