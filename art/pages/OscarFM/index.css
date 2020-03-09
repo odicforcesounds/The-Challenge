@@ -52,9 +52,10 @@
 
 #signature{
   background-color: black;
+  color: white;
   width: max-content;
   position: relative;
-  margin-left: 5rem;
+  margin-left: 2rem;
 }
 
 #signature a{
@@ -116,4 +117,16 @@
 #v{
   text-align: center;
   
+}
+
+#who{
+  background-color: black;
+  color: white;
+  width: max-content;
+  float: right;
+  margin-top: -4rem;
+}
+
+#who a{
+  color: orange;
 }
