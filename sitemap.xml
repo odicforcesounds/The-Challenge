@@ -219,10 +219,20 @@
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/index.html</loc>
             <priority>0.9</priority>
     </url>
+
+
+
+
+
     
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/index.html</loc>
@@ -230,20 +240,124 @@
     </url>
     
     <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/01/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/02/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/03/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/04/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/05/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/06/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/07/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/08/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/09/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/10/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/11/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/12/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+  
+     <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/13/index.html</loc>
+            <priority>0.9</priority>
+    </url> 
+
+
+
+
+
+    
+    <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/gs/index.html</loc>
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/lr/index.html</loc>
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/mw/index.html</loc>
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/nf/index.html</loc>
             <priority>0.9</priority>
@@ -258,6 +372,14 @@
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ot/index.html</loc>
             <priority>0.9</priority>
     </url>
+
+
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ot/tracks/04/index.html</loc>
             <priority>0.9</priority>
@@ -271,40 +393,93 @@
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/sa/index.html</loc>
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/skd/index.html</loc>
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/spt/index.html</loc>
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/st/index.html</loc>
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/te/index.html</loc>
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/tt/index.html</loc>
             <priority>0.9</priority>
     </url>
     
+
+
+
+
+
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/uc/index.html</loc>
             <priority>0.9</priority>
     </url>
+    
+
+
+
+
+
     
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/vot/index.html</loc>
