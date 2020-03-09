@@ -1,17 +1,13 @@
-#image{
-  margin-top: 4rem;
-  margin-left: 2rem;
-  text-align: center;
-}
-
 #description{
   position: relative;
+  width: 90%;
 }
 
 #description p{
   color: lightblue;
   text-align: justify;
-  margin: 2rem;
+  margin-left: 20%;
+  margin-top: 5%;
 
 }
 
@@ -20,3 +16,16 @@ h1{
   color: aqua;
 }
 
+.container {
+  text-align: center;
+  background: url("./backgrounds/WeCameInPeace5.jpg") no-repeat no-repeat fixed;
+  background-size: cover;
+  height: 100%;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: -1%;
+  /* Set up positioning */
+  position: absolute;
+  left: 0;
+}

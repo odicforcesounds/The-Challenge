@@ -13,6 +13,24 @@
 #description p{
   float: right;
   text-align: justify;
-  color: lightblue;
-  font-size: larger;
+  color:blanchedalmond;
+  font-size: x-large;
+}
+
+a{
+  color: black;
+}
+
+.container {
+  text-align: center;
+  background: url("./backgrounds/VisionsOfThor.jpg") no-repeat no-repeat fixed;
+  background-size: cover;
+  height: 100%;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: -1%;
+  /* Set up positioning */
+  position: absolute;
+  left: 0;
 }

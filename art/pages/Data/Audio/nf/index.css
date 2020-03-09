@@ -1,16 +1,13 @@
-#image{
-  margin:2rem;
-  text-align: center;
-}
-
 #description{
   position: relative;
-  margin: 2rem;
+  margin-top: 5%;
+  width: 80%;
 }
 
 #description p{
   text-align: justify;
-  color: lightblue;
+  color: cornflowerblue;
+  margin-left: 20%;
 }
 
 h1{
@@ -18,3 +15,21 @@ h1{
   color: aqua;
 }
 
+a{
+  color: black;
+}
+
+
+.container {
+  text-align: center;
+  background: url("./backgrounds/nf.jpg") no-repeat no-repeat fixed;
+  background-size: cover;
+  height: 100%;
+  /* Set up proportionate scaling */
+  min-width: 100%;
+  min-height: 100%;
+  margin-top: -1%;
+  /* Set up positioning */
+  position: absolute;
+  left: 0;
+}
