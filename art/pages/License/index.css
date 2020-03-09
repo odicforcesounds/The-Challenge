@@ -14,7 +14,11 @@
 }
 
 #main a{
-  color:rgb(70, 43, 223);
+  color:rgb(43, 121, 223);
   font-size:26px;
+}
+
+.container{
+  text-align: center;
 }
 
