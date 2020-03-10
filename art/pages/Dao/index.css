@@ -1,20 +1,3 @@
-html {
-  margin:0;
-  padding:0;
-  background-color: #333;
-}
-
-#main {
-  text-align: center;
-  color: aqua;
-  position: relative;
-}
-
-#main a{
-  color: rgb(0, 255, 255);
-  font-size: larger;
-  width: auto;
-}
 
 .table {
   text-align: center;
@@ -23,6 +6,7 @@ html {
   color: white;
   font-size: 36px;
   align-items: stretch;
+  padding:1rem;
 }
 
 
