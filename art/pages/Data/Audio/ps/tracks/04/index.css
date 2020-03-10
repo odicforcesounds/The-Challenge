@@ -1,7 +1,7 @@
  
   #main {
     text-align: center;
-    background: url("../../backgrounds/DarkWarrior.jpg") no-repeat no-repeat fixed;
+    background: url("../../backgrounds/") no-repeat no-repeat fixed;
     background-size: cover;
     height: 100%;
     /* Set up proportionate scaling */
