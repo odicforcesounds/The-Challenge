@@ -63,16 +63,6 @@ var user_profile = {
 // LOGO
 
 // document.getElementById('logo').innerHTML = user_profile.logo;
-document.getElementById('blogspot').innerHTML = '<a href=' + user_profile.social_media[6].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-blogger-48.png"></a>';
-document.getElementById('facebook').innerHTML = '<a href=' + user_profile.social_media[0].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-facebook-circled-48.png"></a>';
-document.getElementById('twitter').innerHTML = '<a href=' + user_profile.social_media[2].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-twitter-circled-48.png"></a>';
-document.getElementById('tumblr').innerHTML = '<a href=' + user_profile.social_media[3].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-tumblr-48.png"></a>';
-document.getElementById('instagram').innerHTML = '<a href=' + user_profile.social_media[4].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-instagram-48.png"></a>';
-document.getElementById('github').innerHTML = '<a href=' + user_profile.social_media[1].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-github-48.png"></a>';
-document.getElementById('youtube').innerHTML = '<a href=' + user_profile.social_media[7].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/icons8-youtube-48.png"></a>';
-document.getElementById('stackoverflow').innerHTML = '<a href=' + user_profile.social_media[8].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/stack-overflow.png"></a>';
-document.getElementById('redit').innerHTML = '<a href=' + user_profile.social_media[8].link + ' ' + 'target=_blank><img width="24px" src="../../images/icons/reddit-icon-25852.png"></a>';
-
 // SLOGAN
 document.getElementById('slogan').innerHTML = user_profile.slogan;
 // USER PROFILE PICTURE
