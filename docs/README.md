@@ -14,8 +14,6 @@
 
 #### - Click [here](./EN_EN/README.md) to read the English Version of this Challenge
 
-#### - Click [here](https://wiki.odicforcesounds.com/static/src/b.html) to return to the main page (Blog)
-
 #### - Click [here](./MANIFEST.md) to read my Manifest
 
 #### - Click [here](https://wiki.odicforcesounds.com/art/index.html) to return the the main website
@@ -49,4 +47,3 @@ You are a Coder, and You wish to code and help to build this world wide challeng
 #### - Click [here](./plan/Questions.md) to read the common questions we shared
 
 #### - Click [here](./plan/psudoCode.md) to understand how we should care (simplicity) when coding
-
