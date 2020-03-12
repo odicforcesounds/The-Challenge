@@ -1,0 +1,34 @@
+{
+  "name": "the-challenge",
+  "version": "3.0.0",
+  "description": "World Wide Challenge ",
+  "main": "none",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odicforcesounds/The-Challenge.git"
+  },
+  "keywords": [
+    "odicforcesounds",
+    "dao",
+    "logic",
+    "fantasy",
+    "politics",
+    "society",
+    "justice"
+  ],
+  "author": "OscarFM aka Rakzhodekams aka Monkey aka odicforceSounds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odicforcesounds/The-Challenge/issues"
+  },
+  "homepage": "https://github.com/odicforcesounds/The-Challenge#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
