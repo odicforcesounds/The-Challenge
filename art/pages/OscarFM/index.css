@@ -121,10 +121,8 @@
 #who{
   background-color: black;
   color: white;
-  width: max-content;
-  float: right;
-  margin-top: -4rem;
-  margin-right: 4rem;
+  float: left;
+  margin-left: 4rem;
 }
 
 #who a{
