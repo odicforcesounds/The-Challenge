@@ -80,11 +80,6 @@ li a{
   float: left;
 }
 
-#YinYang:hover a{
-  background-color: white;
-  color: black;
-}
-
 #Dao{
   color:aquamarine;
   width: 40px;
@@ -95,24 +90,14 @@ li a{
 }
 
 #OscarFM{
-  color: blue;
   margin-right: 2rem;
   float: right;
 }
 
-#OscarFM a{
-  color: blue;
-  background-color: white;
-}
-
-#OscarFM:hover a{
-  background-color: grey;
-  color:black;
-}
-
-#topmenus{
+nav{
   text-align: center;
   position: relative;
+  padding: 2em;
   top: 0;
   height: 40px;
   margin-bottom: 2rem;

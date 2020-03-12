@@ -1,12 +1,7 @@
-li{
-  margin-left: 100px;
-}
-
-
 .container {
   background: url("./backgrounds/YinYang.jpg") no-repeat no-repeat fixed;
   background-size: cover;
-
+  height=100%;
   /* Set up proportionate scaling */
   min-width: 100%;
   min-height: 100%;
@@ -18,56 +13,62 @@ li{
 }
 
 #main{
+  display:flex;
   width: 100%;
   height: 100%;
 }
 
 #vt {
-  display: block;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  display: flex;
+  flex-direction:column;
+  order:1;
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #vt a{
   color: yellow;
   background-color: black;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #mw{
-  display: block;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  display: flex;
+  flex-direction:column;
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #mw a{
   color: yellow;
   background-color: black;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #st{
-  display: block;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  display: flex;
+  flex-direction:column;
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #st a{
   color: yellow;
   background-color: black;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #skd{
-  display: block;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  display: flex;
+  flex-direction:column;
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #skd a{
   color: yellow;
   background-color: black;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #ed{
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #ed a{
@@ -76,8 +77,10 @@ li{
 }
 
 #nf{
-  display: block;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  display: flex;
+  flex-direction:column;
+  justify-content:start-end;
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #nf a{
@@ -86,9 +89,10 @@ li{
 }
 
 #es{
-  display: block;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  display: flex;
+  flex-direction:column;
 }
+
 
 #es a{
   color: yellow;
@@ -97,7 +101,7 @@ li{
 
 #ot {
   display: block;
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  font-size: calc(1.1vw + 1vh + 0.2vmin);
 }
 
 #ot a {
@@ -106,29 +110,28 @@ li{
 }
 
 #wb{
-  font-size: calc(1.3vw + 1vh + 1.2vmin);
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #left{
-  float: left;
-  display: block;
   margin-left: 2rem;
 }
 
 #right{
-  float: right;
-  display: block;
-  margin-right: 2rem;
+    display:flex;
+    flex-direction:column;
+    flex-flow:flex-start;
 }
 
 #upper{
-  position: relative;
-  margin-left: 10%;
-  top: 0;
+    display:flex;
+    flex-direction:column;
+    justify-content:stretch;
+    margin-left: 2%;
 }
 
 #downCenter{
-  margin-left: 45%;
-  position: absolute;
-  bottom: 0;
+    bottom:0;
+    position:absolute;
+    margin-left: 2%;
 }

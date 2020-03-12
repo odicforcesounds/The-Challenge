@@ -52,9 +52,7 @@
 #signature{
   background-color: black;
   color: white;
-  width: max-content;
   position: relative;
-  margin-left: 2rem;
 }
 
 #signature a{
@@ -101,7 +99,7 @@
 
 #mplayer{
   text-align: center;
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 
 #main{
@@ -121,8 +119,9 @@
 #who{
   background-color: black;
   color: white;
-  float: left;
-  margin-left: 4rem;
+  float: right;
+  margin-top: -5rem;
+  margin-right: 4rem;
 }
 
 #who a{

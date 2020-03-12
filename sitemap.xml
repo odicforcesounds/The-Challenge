@@ -72,18 +72,6 @@
         <loc>https://wiki.odicforcesounds.com/docs/PT_PT/CAMINHOS.html</loc>
             <priority>0.9</priority>
     </url>
-        <url>
-        <loc>https://wiki.odicforcesounds.com/static/src/b.html</loc>
-            <priority>0.9</priority>
-    </url>
-        <url>
-        <loc>https://wiki.odicforcesounds.com/static/src/c.html</loc>
-            <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://wiki.odicforcesounds.com/static/src/f.html</loc>
-            <priority>0.9</priority>
-    </url>
     <url>
         <loc>https://wiki.odicforcesounds.com/docs/MANIFEST.html</loc>
             <priority>0.9</priority>
@@ -93,52 +81,52 @@
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/Welcome/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/Welcome/</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/About/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/About/</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/Concerns/HR.html</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/Concerns/HR.html</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/Privacy/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/Privacy/</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/Path/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/Path/</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/Rating/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/Rating/</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/OdicPoints/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/OdicPoints/</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/UserInterface/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/UserInterface/</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/BrandsInterface/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/BrandsInterface/</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/BlackBox/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/BlackBox/</loc>
             <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Fragments/Devices/</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Fragments/Devices/</loc>
             <priority>0.9</priority>
     </url>
 
     <url>
-        <loc>https://wiki.odicforcesounds.com/docs/Tao/Tao.html</loc>
+        <loc>https://wiki.odicforcesounds.com/docs/EN_EN/Tao/Tao.html</loc>
             <priority>0.9</priority>
     </url>
     <url>
@@ -146,79 +134,99 @@
             <priority>0.9</priority>
     </url>
 
-    
-    
-    
-    
-    
-    
-    
     <url>
         <loc>https://wiki.odicforcesounds.com/art/index.html</loc>
+            <image:image>
+                <image:loc>https://wiki.odicforcesounds.com/art/backgrounds/peaceCode.jpg</image:loc>
+            </image:image>
             <priority>0.9</priority>
     </url>
     
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Dao/index.html</loc>
-            <priority>0.9</priority>
+        <priority>0.9</priority>
     </url>
 
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/License/index.html</loc>
+        <image:title>You are Included in this Eternal License</image:title>
+        <image:image>
+           <image:loc>https://wiki.odicforcesounds.com/art/pages/License/backgrounds/license.jpg</image:loc>
+        </image:image>
             <priority>0.9</priority>
     </url>
     
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Love/index.html</loc>
-            <priority>0.9</priority>
+        <image:title> Our Love Message to the Dragon (Asia)</image:title>
+        <image:image>
+           <image:loc>https://wiki.odicforcesounds.com/art/pages/Love/backgrounds/Love.jpg</image:loc>
+       </image:image>
+       <priority>0.9</priority>
     </url>
     
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/OscarFM/index.html</loc>
-            <priority>0.9</priority>
+        <image:title> Sun Wukong - The Monkey King</image:title>
+        <image:image>
+           <image:loc>https://wiki.odicforcesounds.com/art/pages/OscarFM/backgrounds/MonkeyTouch.jpg</image:loc>
+       </image:image>
+        <priority>0.9</priority>
     </url>
     
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Visions/index.html</loc>
-            <priority>0.9</priority>
+        <image:title>See My Visions</image:title>
+        <image:image>
+           <image:loc>https://wiki.odicforcesounds.com/art/pages/Visions/backgrounds/Visions.jpg</image:loc>
+       </image:image>
+       <priority>0.9</priority>
     </url>
     
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/YinYang/YY/index.html</loc>
+        <image:title>Yin Yang</image:title>
+        <image:image>
+            <image:loc>https://wiki.odicforcesounds.com/art/pages/YinYang/YY/backgrounds/YinYang.jpg</image:loc>
+       </image:image>
             <priority>0.9</priority>
     </url>
     
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/YinYang/Tao/index.html</loc>
+        <image:title>Dao / Tao</image:title>
+        <image:image>
+            <image:loc>https://wiki.odicforcesounds.com/art/pages/YinYang/Tao/backgrounds/Tao.jpg</image:loc>
+       </image:image>
             <priority>0.9</priority>
     </url>
-
     
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/YinYang/Expression/index.html</loc>
+        <image:title>Dao Expression</image:title>
+        <image:image>
+            <image:loc>https://wiki.odicforcesounds.com/art/pages/YinYang/Expression/backgrounds/Tree_of_life.jpg</image:loc>
+       </image:image>
             <priority>0.9</priority>
     </url>
     
     <url> 
-      <loc>https://wiki.odicforcesounds.com/art/pages/YinYang/BoomCat/index.html</loc>
+        <loc>https://wiki.odicforcesounds.com/art/pages/YinYang/BoomCat/index.html</loc>
+        <image:title>Where the Cat is Black, Boom - Where the Cat is White, Boom</image:title>
+        <image:image>
+            <image:loc>https://wiki.odicforcesounds.com/art/pages/YinYang/BoomCat/backgrounds/boomcat.jpg</image:loc>
+       </image:image>
       <priority>0.9</priority>
     </url>
 
 
-
-
-
-
-
-
-
-
-    
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/drm/index.html</loc>
             <priority>0.9</priority>
     </url>
-    
+
+
+
 
 
 
@@ -226,14 +234,67 @@
 
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/index.html</loc>
+        <image:image>
+            <image:title>Eternal Delay by OdicforceSounds</image:title>
+            <image:loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/backgrounds/EternalDelay.jpg</image:loc>
             <priority>0.9</priority>
     </url>
 
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/01/index.html</loc>
+            <priority>0.9</priority>
+    </url>
 
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/02/index.html</loc>
+            <priority>0.9</priority>
+    </url>
 
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/03/index.html</loc>
+            <priority>0.9</priority>
+    </url>
 
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/04/index.html</loc>
+            <priority>0.9</priority>
+    </url>
 
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/05/index.html</loc>
+            <priority>0.9</priority>
+    </url>
     
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/06/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/07/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/08/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/09/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/10/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/ed/tracks/11/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/index.html</loc>
             <priority>0.9</priority>
@@ -316,19 +377,45 @@
             <priority>0.9</priority>
     </url> 
 
-
-
-
-
-    
     <url>
         <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/gs/index.html</loc>
             <priority>0.9</priority>
     </url>
     
-
-
-
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/gs/tracks/01/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/gs/tracks/02/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/gs/tracks/03/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/gs/tracks/04/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/gs/tracks/05/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/gs/tracks/06/index.html</loc>
+            <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://wiki.odicforcesounds.com/art/pages/Data/Audio/gs/tracks/07/index.html</loc>
+            <priority>0.9</priority>
+    </url>
 
 
 
