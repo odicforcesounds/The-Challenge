@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/path_of_shields
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wiki.odicforcesounds.com
+    * I am path_of_shields (https://keybase.io/path_of_shields) on keybase.
+      * I have a public key ASA9XfSZjJUO8VHqkuGWaOwH8aDrLrynQsB8-2RceX7eogo
+
+      To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+                  "eldest_kid": "0120c235a310c7b6abf971a07d5d2c1eb71df9a8e2cd0c1e43f31b22d3ed6a66235e0a",
+                        "host": "keybase.io",
+                              "kid": "01203d5df4998c950ef151ea92e19668ec07f1a0eb2ebca742c07cfb645c797edea20a",
+                                    "uid": "fbc9ca131ca3729477896c70cab53b19",
+                                          "username": "path_of_shields"
+
+        },
+        "merkle_root": {
+                  "ctime": 1584063218,
+                        "hash": "264e9493268823508017921a1ece3b216ca75ff2758c24cd90dc5dc61731a52641f8f7e285fe77b4659f8c985405ef164d364b1e8d3deff8b243695b2298e35c",
+                              "hash_meta": "360a5119a15171a0f6e7cdb5e2fc0ce6b6491097753d6a485b0f0c87e6465573",
+                                    "seqno": 15338221
+
+        },
+        "service": {
+                  "entropy": "J/0rCLEdBLTdFThTEi043G/h",
+                        "hostname": "wiki.odicforcesounds.com",
+                              "protocol": "https:"
+
+        },
+            "type": "web_service_binding",
+                "version": 2
+
+    },
+    "client": {
+            "name": "keybase.io go client",
+                "version": "5.3.0"
+
+    },
+      "ctime": 1584063230,
+        "expire_in": 504576000,
+          "prev": "cea39d83ce8848c398a1b5b499225d86cd344046f9178f301cd308f97745e1b6",
+            "seqno": 64,
+              "tag": "signature"
+
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPV30mYyVDvFR6pLhlmjsB/Gg6y68p0LAfPtkXHl+3qIKp3BheWxvYWTESpcCQMQgzqOdg86ISMOYobW0mSJdhs00QEb5F48wHNMI+XdF4bbEINJBVYBNmv6dZsklKSBfpYRAm6T0yyXSWsaadGbyrcXFAgHCo3NpZ8RAqJwM6Kf5v7+EMZM64Lv9ZOmyywIknaKS9pW/K5YdO8TPpkfinynIKzz/w0oaIbhnBwhFoA384u+kFrj4XI5qBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIETAbG6+WlK3nJ9mohjK0PRIq/19AfiWmIR6qr6ZtlyPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/path_of_shields
+
+==================================================================
