@@ -1,4 +1,4 @@
-#main {
+.container {
   text-align: center;
   background: url("./backgrounds/WeBringFire.jpg") no-repeat no-repeat fixed;
   background-size: cover;
@@ -6,24 +6,24 @@
   /* Set up proportionate scaling */
   min-width: 100%;
   min-height: 100%;
-  position: absolute;
+  position: relative;
   margin-left: 0%;
 }
 
 #main {
   margin-left: 0%;
-  font-size: 150%;
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
   text-align: center;
   display: -webkit-flex;
   /* Safari */
   display: block;
   width: max-content;
-  margin-top: -2%;
+  margin-top: -1%;
 }
 
 #main div {
   text-align: center;
-  padding: 1.5em;
+  padding: 1em;
 }
 
 #main div a{
@@ -69,5 +69,5 @@ a {
   flex-wrap: nowrap;
   flex-shrink: initial;
   display: inline-block;
-  margin-top: -2%;
+  margin-top: -3;
 }

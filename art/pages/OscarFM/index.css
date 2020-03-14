@@ -9,7 +9,7 @@
   min-height: 100%;
   margin-top: -1%;
   /* Set up positioning */
-  position: relative;
+  position: absolute;
   left: 0;
 }
 
@@ -52,7 +52,7 @@
 #signature{
   background-color: black;
   color: white;
-  position: relative;
+  width:max-content;
 }
 
 #signature a{
@@ -119,9 +119,7 @@
 #who{
   background-color: black;
   color: white;
-  float: right;
-  margin-top: -5rem;
-  margin-right: 4rem;
+  float: left;
 }
 
 #who a{

@@ -21,7 +21,6 @@
 #vt {
   display: flex;
   flex-direction:column;
-  order:1;
   font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
@@ -68,18 +67,20 @@
 }
 
 #ed{
+  display:flex;
+  flex-direction:column;
   font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #ed a{
   color: yellow;
   background-color: black;
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 #nf{
   display: flex;
   flex-direction:column;
-  justify-content:start-end;
   font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
@@ -91,6 +92,7 @@
 #es{
   display: flex;
   flex-direction:column;
+  font-size: calc(1.1vw + 1vh + 1.2vmin);
 }
 
 
@@ -114,24 +116,30 @@
 }
 
 #left{
-  margin-left: 2rem;
+    display:flex;
+    flex-direction:column;
+}
+#left div{
+    padding:1rem;
 }
 
 #right{
     display:flex;
     flex-direction:column;
-    flex-flow:flex-start;
+}
+#right div{
+    padding:1rem;
 }
 
 #upper{
     display:flex;
-    flex-direction:column;
-    justify-content:stretch;
-    margin-left: 2%;
+    margin-left:5%;
+    margin-top:10%;
 }
 
 #downCenter{
+    display:flex;
     bottom:0;
-    position:absolute;
     margin-left: 2%;
+    position:absolute;
 }

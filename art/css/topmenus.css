@@ -76,7 +76,6 @@ li a{
 }
 
 #YinYang{
-  color:white;
   float: left;
 }
 
@@ -97,10 +96,10 @@ li a{
 nav{
   text-align: center;
   position: relative;
-  padding: 2em;
+  padding: 1em;
   top: 0;
-  height: 40px;
-  margin-bottom: 2rem;
+  height: 30px;
+  margin-bottom: 1rem;
 }
 
 #social{
