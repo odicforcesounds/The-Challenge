@@ -14,17 +14,18 @@
 
 #main{
   margin-top: 5rem;
+  margin-left:1rem;
 }
 
 #Dao{
   float: left;
-  margin-left:14%;
 }
 
 #vt {
   display: flex;
+  padding:1rem;
   flex-direction:row;
-  width: max-content;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
 }
 
 #vt a{
@@ -35,7 +36,8 @@
 #mw{
   display: flex;
   flex-direction:row;
-  width: max-content;
+  padding:1rem;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
 }
 
 #mw a{
@@ -45,8 +47,9 @@
 
 #st{
   display: flex;
+  padding:1rem;
   flex-direction:row;
-  width: max-content;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
 }
 
 #st a{
@@ -56,8 +59,9 @@
 
 #skd{
   display: flex;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+  padding:1rem;
   flex-direction:row;
-  width: max-content;
 }
 
 #skd a{
@@ -67,8 +71,9 @@
 
 #ed{
   display: flex;
+  padding:1rem;
   flex-direction:row;
-  width: max-content;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
 }
 
 #ed a{
@@ -79,7 +84,8 @@
 #nf{
   display: flex;
   flex-direction:row;
-  width: max-content;
+  padding:1rem;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
 }
 
 #nf a{
@@ -90,8 +96,8 @@
 #es{
   display: flex;
   flex-direction:row;
-  width: max-content;
   padding:1rem;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
 }
 
 
@@ -103,8 +109,8 @@
 #ot {
   display: flex;
   flex-direction:row;
-  width: max-content;
   padding:1rem;
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
 }
 
 #ot a {
@@ -113,7 +119,8 @@
 }
 
 #wb{
-  font-size: calc(1.1vw + 1vh + 1.2vmin);
+  font-size: calc(2.1vw + 0.7vh + 0.2vmin);
+  padding:1rem;
 }
 
 #left{
@@ -122,27 +129,16 @@
   float: left;
 }
 
-#left div{
-  padding:1rem;
-}
-
 #right{
     display:flex;
-    flex-direction: row;
-    flex-flow: column;
-}
-
-#right div{
-    padding:1rem;
+    flex-direction: column;
+    float:right;
 }
 
 #upper{
     display:flex;
-    margin-left:14%;
+    position:relative;
+    top:0;
+    text-align:center;
+    justify-content:center;
 }
-
-#downCenter{
-    display:flex;
-    bottom:0;
-    margin-left: 2%;
-  }
