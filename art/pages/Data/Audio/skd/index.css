@@ -13,7 +13,8 @@
 #description p{
   margin: 2rem;
   text-align: justify;
-  color: lightblue;
+  text-align: justify;
+  font-size: calc(1vw + 0.5vh + 0.2vmin);
 }
 
 

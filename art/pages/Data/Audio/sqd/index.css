@@ -14,11 +14,10 @@
   margin-left: 0%;
   font-size: calc(1.1vw + 1vh + 1.2vmin);
   text-align: center;
-  display: -webkit-flex;
   /* Safari */
-  display: block;
+  display: flex;
   width: max-content;
-  margin-top: -1%;
+  margin-top:0%;
 }
 
 #main div {
@@ -62,12 +61,5 @@ a {
 
 #table{
   flex: content;
-  flex-direction: row;
-  text-align: center;
-  flex-direction: row;
-  flex-flow: column;
-  flex-wrap: nowrap;
-  flex-shrink: initial;
-  display: inline-block;
-  margin-top: -3;
+  flex-direction:column;
 }
