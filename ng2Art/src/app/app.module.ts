@@ -1,12 +1,16 @@
-import { BrowserModule } from '@angular/platform-browser';
-import { NgModule, Provider, Component } from '@angular/core';
+import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { HttpModule } from '@angular/http';
+import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { Routes, RouterModule, Route, provideRoutes } from '@angular/router';
 
-import { APP_BASE_HREF } from '@angular/common';
-import { RouterModule, Routes, Route, provideRoutes } from '@angular/router';
-import { HashLocationStrategy, Location, LocationStrategy } from '@angular/common';
+const routes: Routes = [];
+
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }
 // import { RecaptchaModule } from 'ng-recaptcha';
 // import { AngularFireModule } from 'angularfire2';
 // import { AngularFireAuthModule } from 'angularfire2/auth';
@@ -305,34 +309,6 @@ import { GalacticSignatureComponent } from './pages/yinyang/mixcloud/galactic-si
 import { SpiritualAlgorithmComponent } from './pages/yinyang/mixcloud/spiritual-algorithm/spiritual-algorithm.component';
 import { OdicPointsComponent } from './pages/license/wiki/odic-points/odic-points.component';
 import { OdicCoinsComponent } from './pages/license/wiki/odic-coins/odic-coins.component';
-// Blog
-import { BlogComponent } from './blog/blog.component';
-import { VaiVemComponent } from './blog/articles/vai-vem/vai-vem.component';
-import { CriticaConstrutivaComponent } from './blog/articles/critica-construtiva/critica-construtiva.component';
-import { FaltaMemoriaComponent } from './blog/articles/falta-memoria/falta-memoria.component';
-import { GamificaDireitosComponent } from './blog/articles/gamifica-direitos/gamifica-direitos.component';
-import { RelacoesAstrologicasComponent } from './blog/articles/relacoes-astrologicas/relacoes-astrologicas.component';
-import { MimosAtomicosComponent } from './blog/articles/mimos-atomicos/mimos-atomicos.component';
-import { DebugTheBugComponent } from './blog/articles/debug-the-bug/debug-the-bug.component';
-import { ValorSagradoComponent } from './blog/articles/valor-sagrado/valor-sagrado.component';
-import { DrugsMachinesComponent } from './blog/articles/drugs-machines/drugs-machines.component';
-import { LimpezaMundialComponent } from './blog/articles/limpeza-mundial/limpeza-mundial.component';
-import { TentativaEscolhaComponent } from './blog/articles/tentativa-escolha/tentativa-escolha.component';
-import { ComOuSemComponent } from './blog/articles/com-ou-sem/com-ou-sem.component';
-import { CagaRazaoComponent } from './blog/articles/caga-razao/caga-razao.component';
-import { CoisasObviasComponent } from './blog/articles/coisas-obvias/coisas-obvias.component';
-import { MeritoDemocraciaComponent } from './blog/articles/merito-democracia/merito-democracia.component';
-import { SubjectividadeComponent } from './blog/articles/subjectividade/subjectividade.component';
-import { VHorizontalComponent } from './blog/articles/vhorizontal/vhorizontal.component';
-import { CompulsividadeComponent } from './blog/articles/compulsividade/compulsividade.component';
-import { ClaraEvidenciaComponent } from './blog/articles/clara-evidencia/clara-evidencia.component';
-import { CinemaPrivineComponent } from './blog/articles/cinema-privine/cinema-privine.component';
-import { CausasCrimeComponent } from './blog/articles/causas-crime/causas-crime.component';
-import { CartaPazMundialComponent } from './blog/articles/carta-paz-mundial/carta-paz-mundial.component';
-import { OfensaComponent } from './blog/articles/ofensa/ofensa.component';
-import { ConsequenciasComponent } from './blog/articles/consequencias/consequencias.component';
-import { DualidadeComponent } from './blog/articles/dualidade/dualidade.component';
-
 
 const appRoutes: Routes = [ //
     { path: '', redirectTo: '/tao', pathMatch: 'full' },
@@ -343,33 +319,6 @@ const appRoutes: Routes = [ //
     { path: 'oscar/fm', component: OscarFmComponent },
     { path: 'about/me/and/you', component: WhoweareComponent },
     { path: 'license', component: LicenseComponent }, // Eternal License
-    // Blog
-    { path: 'blog', component: BlogComponent },
-    { path: 'drugs/machines', component: DrugsMachinesComponent },
-    { path: 'vai/vem', component: VaiVemComponent },
-    { path: 'critica/construtiva', component: CriticaConstrutivaComponent },
-    { path: 'falta/memoria', component: FaltaMemoriaComponent },
-    { path: 'gamifica/direitos', component: GamificaDireitosComponent },
-    { path: 'relacoes/antrologicas', component: RelacoesAstrologicasComponent },
-    { path: 'mimos/atomicos', component: MimosAtomicosComponent },
-    { path: 'bug/debug', component: DebugTheBugComponent },
-    { path: 'valor/sagrado', component: ValorSagradoComponent },
-    { path: 'limpeza/mundial', component: LimpezaMundialComponent },
-    { path: 'tentativa/escolha', component: TentativaEscolhaComponent },
-    { path: 'com/sem', component: ComOuSemComponent },
-    { path: 'caga/razao', component: CagaRazaoComponent },
-    { path: 'coisas/obvias', component: CoisasObviasComponent },
-    { path: 'merito/cracia', component: MeritoDemocraciaComponent },
-    { path: 'subjectividade', component: SubjectividadeComponent },
-    { path: 'v/horizontal', component: VHorizontalComponent },
-    { path: 'compulsividade', component: CompulsividadeComponent },
-    { path: 'clara/evidencia', component: ClaraEvidenciaComponent },
-    { path: 'cinema', component: CinemaPrivineComponent },
-    { path: 'carta/paz/mundial', component: CartaPazMundialComponent },
-    { path: 'ofensa', component: OfensaComponent },
-    { path: 'janelas', component: ConsequenciasComponent },
-    { path: 'dualidade', component: DualidadeComponent },
-    // OdicforceSounds - OdicforceSounds - Monkey King - Sun Wukong
     { path: 'expression', component: OdicComponent },
     { path: 'tao/the/wind/of/god', component: TaoTheWindOfGodComponent },
     { path: 'hermit/walk/for/liberty', component: HermitWalkForLibertyComponent },
@@ -947,38 +896,11 @@ const appRoutes: Routes = [ //
         SpiritualAlgorithmComponent,
         OdicPointsComponent,
         OdicCoinsComponent,
-        BlogComponent,
-        VaiVemComponent,
-        CriticaConstrutivaComponent,
-        FaltaMemoriaComponent,
-        GamificaDireitosComponent,
-        RelacoesAstrologicasComponent,
-        MimosAtomicosComponent,
-        DebugTheBugComponent,
-        ValorSagradoComponent,
-        DrugsMachinesComponent,
-        LimpezaMundialComponent,
-        TentativaEscolhaComponent,
-        ComOuSemComponent,
-        CagaRazaoComponent,
-        CoisasObviasComponent,
-        MeritoDemocraciaComponent,
-        SubjectividadeComponent,
-        VHorizontalComponent,
-        CompulsividadeComponent,
-        ClaraEvidenciaComponent,
-        CinemaPrivineComponent,
-        CausasCrimeComponent,
-        CartaPazMundialComponent,
-        OfensaComponent,
-        ConsequenciasComponent,
-        DualidadeComponent,
     ],
 
     imports: [
-        BrowserModule,
         FormsModule,
-        HttpModule,
+        HttpClientModule,
         BrowserAnimationsModule,
         //   AngularFireModule.initializeApp(environment.firebase),
         // AngularFirestoreModule, // imports firebase/firestore, only needed for database features
@@ -989,12 +911,7 @@ const appRoutes: Routes = [ //
             { enableTracing: false }
         )
     ],
-    providers: [Location,
-        {
-            provide: LocationStrategy,
-            useClass: HashLocationStrategy,
-            useValue: '<%= APP_BASE %>'
-        }],
+
     bootstrap: [AppComponent]
 })
 export class AppModule { }
