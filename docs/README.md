@@ -19,7 +19,7 @@ If Time is built within Our Self's, then Time is Our Self's, as result of Time i
 
 #### - Click [here](https://wiki.odicforcesounds.com/art/index.html) to return to the main website [<b>HTML & CSS</b>]
 
-#### - Click [here](https://wiki.odicforcesounds.com/Art/) to retern to the main website [<b>Full JavaScript</b>]
+#### - Click [here](https://wiki.odicforcesounds.com/v/) to retern to the main website [<b>Full JavaScript</b>]
 
 ### Extra's
 
