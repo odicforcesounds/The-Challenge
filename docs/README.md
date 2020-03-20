@@ -39,4 +39,4 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 ## Tópicos em Português (latin)
 
 - Clica [aqui](./pt/README.md) para ler a versão em Português deste Desafio
-- Clica [aqui](./pt/README.md) para ver a lista de videos do canal de Youtube
+- Clica [aqui](./yt/README.md) para ver a lista de videos do canal de Youtube
