@@ -1,4 +1,6 @@
-# The World In Progress ![]()
+# The World In Progress ![](./images/tao.png)
+
+
 
 ## Abstraction 
 
