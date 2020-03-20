@@ -13,7 +13,7 @@
 
 #main {
     margin-left: 0%;
-    font-size: 150%;
+    font-size: 50%;
     text-align: center;
     display: -webkit-flex; /* Safari */
     display: flex;
@@ -24,7 +24,7 @@
     padding: 1em;
     -webkit-columns: 110px 3; /* Chrome, Safari, Opera */
     -moz-columns: 110px 3; /* Firefox */
-    columns: 100px 3;
+    columns: 90px 3;
     -webkit-flex: 1;  /* Safari 6.1+ */
     -ms-flex: 1;  /* IE 10 */
     flex: 1;

@@ -8,8 +8,20 @@ body{
     background-color: black;
     text-align: center;
     display: flex;
+    font-size: calc(2vw + 0.5vh + 0.2vmin);
 }
-
+p{
+    color: aliceblue;
+}
 a{
     color: cornflowerblue;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
 }
