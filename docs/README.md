@@ -1,6 +1,7 @@
 # The World In Progress
 
-## Abstraction 
+## Abstraction
+If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!
 
 #### - You are the Wood (<b>America</b>([White Tiger](./letters/Tiger_America.md) (Yin))) [1] 
 #### - I am the Fire (<b>Asia</b>([Fire Dragon](./letters/Dragon_Asia.md) (Yang))) [1]
@@ -16,17 +17,9 @@
 
 #### - Click [here](./MANIFEST.md) to read my Manifest
 
-#### - Click [here](https://wiki.odicforcesounds.com/art/index.html) to return the the main website
+#### - Click [here](https://wiki.odicforcesounds.com/art/index.html) to return to the main website [<b>HTML & CSS</b>]
 
-## Tópicos em Português (latin)
-
-#### - Clica [aqui](./dm/README.md) para ler a versão em Português deste Desafio
-
-#### - Clica [aqui](./tm/README.md) para ver a lista de videos do canal de Youtube 
-
-## World Wide Slogans
-
-If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!
+#### - Click [here](https://wiki.odicforcesounds.com/DaoExpression/) to retern to the main website [<b>Full JavaScript</b>]
 
 ### Extra's
 
@@ -47,3 +40,9 @@ You are a Coder, and You wish to code and help to build this world wide challeng
 #### - Click [here](./plan/Questions.md) to read the common questions we shared
 
 #### - Click [here](./plan/psudoCode.md) to understand how we should care (simplicity) when coding
+
+## Tópicos em Português (latin)
+
+#### - Clica [aqui](./dm/README.md) para ler a versão em Português deste Desafio
+
+#### - Clica [aqui](./tm/README.md) para ver a lista de videos do canal de Youtube
