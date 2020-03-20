@@ -11,9 +11,9 @@ If Time is built within Our Self's, then Time is Our Self's, as result of Time i
 
 #### - Click [here](./dao/README.md) to understand why this solution intents to be created. 
 
-#### - Click [here](./letters/Eternal_License.md) to read our Eternal License (Including You(readers, coders & players))
+#### - Click [here](./letters/Eternal_License.md) to read our Eternal License (Including You(readers, coders, investors & players))
 
-#### - Click [here](./EN_EN/README.md) to read the English Version of this Challenge
+#### - Click [here](./en/README.md) to read the English Version of this Challenge
 
 #### - Click [here](./MANIFEST.md) to read my Manifest
 
@@ -43,6 +43,6 @@ You are a Coder, and You wish to code and help to build this world wide challeng
 
 ## Tópicos em Português (latin)
 
-#### - Clica [aqui](./dm/README.md) para ler a versão em Português deste Desafio
+#### - Clica [aqui](./pt/README.md) para ler a versão em Português deste Desafio
 
-#### - Clica [aqui](./tm/README.md) para ver a lista de videos do canal de Youtube
+#### - Clica [aqui](./pt/README.md) para ver a lista de videos do canal de Youtube

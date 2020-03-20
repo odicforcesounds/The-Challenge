@@ -14,7 +14,4 @@
 
 ![](../images/FullMap.jpg)
 
-12. [All in One](./Tao/Tao.md) Version 0.1
-13. [All in One](./ALLINONE.md) Version 0.2
-
 Back to [Main Page](../README.md)

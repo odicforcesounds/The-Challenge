@@ -4,7 +4,7 @@
 - Is a World Wide Brands Competition for <b>image</b> propose Only!
 - List all <b>Brands</b> which have more approved Actions Above the Others.
 
-This challenge assume [everyone](https://odicforcesounds.com/#/absolute/everything/and/everyone) is included!
+This challenge assume [everyone]() is included!
 
 Some way or another, we all care!
 

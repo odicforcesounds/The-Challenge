@@ -15,7 +15,7 @@
 
 - A Simple Mental Exercise:
 
-> ## [OM](https://wiki.odicforcesounds.com/#/three/you/tell/me) [1] [Fantasy](../Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "[We Came In Peace](https://wiki.odicforcesounds.com/#/we/came/in/peace) - Trance Zone" {**m**}
+> ## [OM](https://wiki.odicforcesounds.com/#/three/you/tell/me) [1] [Fantasy](./Tao/Yang/0/Fantasy/Fantasy.md) (**Yang**(0)) : "[We Came In Peace](https://wiki.odicforcesounds.com/#/we/came/in/peace) - Trance Zone" {**m**}
 
 - Full in your Natural Air Box and stop Your breath for some moments.
 
@@ -23,7 +23,7 @@
 - ( it is only in your mind) 
 - Then we <b>Sum</b> that "Dream" to the last step, and we call this next step  <b>Spirit</b>, which is about that abstract capacity we all have, where we "produce" <b>Fantasy</b> while comparing our self's to those creations, which means, we are using: <b>Logic</b>:
 
-> ## '+' [Spirit](https://wiki.odicforcesounds.com/#/secret/responsability/exposed) [1] [Logic](../Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "[Our Eternal License](https://wiki.odicforcesounds.com/#/license)" {**E**}
+> ## '+' [Spirit](https://wiki.odicforcesounds.com/#/secret/responsability/exposed) [1] [Logic](./Tao/Yin/1/Logic/Logic.md) (**Yin**(1)) : "[Our Eternal License](https://wiki.odicforcesounds.com/#/license)" {**E**}
 
 - By <b>Logic</b>, each person (men or woman) in the world, even having the same skills or (body tools), we assume that all develop  something different from all others. That is our <b>Spirit</b>! 
 

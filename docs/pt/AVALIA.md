@@ -16,7 +16,7 @@ Neste desafio, consideramos que 7 visualizações em sequência de pessoas aleat
 
 Do mesmo modo 7 visualizações em sequência ( seguidas ) de 7 pessoas que marcam o vídeo que acabaram de ver como Negativo, o utilizador que o produziu, adquire 0 ( Zero ) pontos. 
 
-Quando o mesmo acontece com 7 marcações em sequência da opção R ( Reportar ), o vídeo será encaminhado para uma zona chamada "Caixa Negra". 
+Quando o mesmo acontece com 7 marcações em sequência da opção R ( Reportar ), o vídeo será encaminhado para uma zona chamada "Caixa Negra".
 
 A Caixa Negra é um processo de avaliação e exposição para fins de educação, onde os vídeos serão vistos pela equipa interna e em casos de abuso, expostos da zona pública do site que irá servir unicamente esse propósito.
 

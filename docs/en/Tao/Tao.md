@@ -2,7 +2,7 @@
 
 - If You deny to contribute to this project, You are Included In <b>OdicforceSounds</b> [Eternal License](https://wiki.odicforcesounds.com/#/license)!
 
-# [Social Tool Kit - World Wide Conscious Cleaner](https://wiki.odicforcesounds.com/#/tool/kit)
+# [Social Tool Kit - World Wide Conscious Cleaner](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)
 
 ## [Tao](https://wiki.odicforcesounds.com/#/tao) - The Wind of God
 ##### The Main Gift of OdicforceSounds Expression
@@ -140,8 +140,6 @@ This project "Care" about Privacy.
 - If the user desire to make it public, is possible. For Social / Political proposes. 
 
 # -----------------------------------------
-
-This challenge assume [everyone](https://wiki.odicforcesounds.com/#/absolute/everything/and/everyone) is included!
 
 This means, all Religions, Spiritual, Mystic, Political, Charity, Sport groups. 
 
