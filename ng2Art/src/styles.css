@@ -7,20 +7,34 @@ html{
 body{
     background-color: black;
     text-align: center;
-    display: flex;
 }
-p{
-    color: aliceblue;
+p {
+    font-size: calc(1vw + 1vh + 0.5vmin);
+    margin-top: 1%;
+    color: aqua;
 }
 a{
-    color: cornflowerblue;
+    color: rgb(0, 89, 255);
+    animation: none;
+    text-decoration: none;
 }
 h1{
-    color: white;
+    color: rgb(255, 251, 0);
 }
 h2{
-    color: white;
+    color: rgb(255, 251, 0);
 }
 h3{
-    color: white;
+    color: rgb(255, 251, 0);
 }
+#main {
+    width: 100%;
+    min-width: 25%;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+
+
+

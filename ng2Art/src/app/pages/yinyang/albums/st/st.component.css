@@ -9,11 +9,12 @@
   margin-top: 2%;
   margin-left: 2%;
   margin-right: 2%;
-  text-align: left justify;
+  text-align: justify;
   font-size: 180%;
   font-size-adjust: inherit;
   font-weight: bold;
   line-height: 2;
+  color: aqua;
 }
 
 #text-box a {
