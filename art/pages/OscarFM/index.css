@@ -3,7 +3,6 @@
   text-align: center;
   background: url("./backgrounds/MonkeyTouch.jpg") no-repeat no-repeat fixed;
   background-size: cover;
-  height: 100%;
   /* Set up proportionate scaling */
   min-width: 100%;
   min-height: 100%;
