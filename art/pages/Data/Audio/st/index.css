@@ -3,7 +3,6 @@
   text-align: center;
   background: url("../spt/backgrounds/WeCameInPeace1.jpg") no-repeat no-repeat fixed;
   background-size: cover;
-  height: 100%;
   /* Set up proportionate scaling */
   min-width: 100%;
   min-height: 100%;
@@ -14,5 +13,6 @@
 }
 
 a{
-  color: black;
+  background-color: black;
+  color: aqua;
 }
