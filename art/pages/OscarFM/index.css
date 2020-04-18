@@ -69,28 +69,28 @@
   background-color: aqua;
   color:brown;
   display: inline;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  font-size: calc(1vw + 0.5vh + 0.2vmin);
  }
 
 #p2{
   background-color: gray;
   color:aqua;
   display: inline;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  font-size: calc(1vw + 0.5vh + 0.2vmin);
 }
 
 #p3{
   background-color: orangered;
   color: yellow;
   display: inline;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  font-size: calc(1vw + 0.5vh + 0.2vmin);
 }
 
 #p4{
   background-color: black;
   color:white;
   display: inline;
-  font-size: calc(2vw + 0.5vh + 0.2vmin);
+  font-size: calc(1vw + 0.5vh + 0.2vmin);
 }
 
 #slogan{
@@ -110,6 +110,10 @@
 #main p{
   text-align: center;
 }
+#main h3{
+ text-align:center;
+}
+
 
 #v{
   text-align: center;
