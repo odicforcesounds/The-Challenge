@@ -8,7 +8,6 @@
 - I am the Fire (<b>Asia</b>([Fire Dragon](./letters/Dragon_Asia.md) (Yang))) [1] :dragon:
 - Which means: 1 + 1 = 1 OR 3 <b>World Wide</b> [Metal Monkey](./textos/README.md) ([Tao / Dao](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)) [1] :monkey_face:
 
-
 ## English Topic's
 
 - Click [here](./dao/README.md) to understand why this solution intents to be created.
@@ -16,9 +15,9 @@
 - Click [here](./en/README.md) to read the English Version of this Challenge
 - Click [here](./MANIFEST.md) to read my Manifest
 - Click [here](https://wiki.odicforcesounds.com/art/index.html) to return to the main website [<b>HTML & CSS</b>] only
-- Click [here](https://wiki.odicforcesounds.com/v/) to retern to the main website [<b>Full Angular9</b> 
+- Click [here](https://wiki.odicforcesounds.com/v/) to return to the main website [<b>Full Angular9</b> 
 - Click [here](https://wiki.odicforcesounds.com/blogjs/src/b.html) to retern to the Blog [<b>JavaScript</b>] Learning and Test zone
-- Click [here](https://sites.google.com/view/odicforcesoundsrecords/as-janelas-das-consequencias-das-sequencias) the to read Google Pages
+- Click [here](https://go.odicforcesounds.com) NOT Working .. Soon Will...  
 
 ## Extra's
 
@@ -41,5 +40,5 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 
 - Clica [aqui](./pt/README.md) para ler a versão em Português deste Desafio
 - Clica [aqui](./yt/README.md) para ver a lista de videos do canal de Youtube
-- Click [aqui](https://macacopreguicoso.blogspot.com/) para ler os artigos do Macaco Preguiçoso no Blogspot
+- Click [aqui](https://macacopreguicoso.blogspot.com/) para ler os artigos do blog chamado "Macaco Preguiçoso"
 - Click [aqui](https://criticasempiedade.blogspot.com/) para ler mais artigos no blog chamado "Critica Sem Piedade"
