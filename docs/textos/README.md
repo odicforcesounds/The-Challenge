@@ -15,6 +15,7 @@ Yin(1) | Yang(0)
 
 Yin(1) | Yang(0)
 --- | ---
+[O Quarto Macaco Budista](./pt/O_4_Macaco_Budista.md) | [Sentido da Vida](./pt/Sentido_da_Vida.md)
 [O Cagalhão da Razão](./pt/O_Cagalhão_Da_Razão.md) |  [Vamos falar de coisas óbvias](./pt/Vamos_falar_de_coisas_obvias.md)
 [Meritocracia e Humanismo nas Democracias](./pt/Meritocracia_e_Humanismo_na_Democracia.md) |  [Perde-se com a Subjectividade](./pt/Perde-se_com_a_subjectividade.md)
 [V de Verticalidade Horizontal](./pt/V_de_verticalidade_horizontal.md) |  [Fruto da Compulsividade](./pt/Fruto_da_Compulsividade.md)
