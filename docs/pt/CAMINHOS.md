@@ -23,7 +23,7 @@ Verificação da aplicação do conhecimento associado, para servir cuidar do me
 1. Ajuda de pessoas em estado de pobreza.
 2. Alimentação, Água,  Companhia. 
 
-<b>C</b>aminho dos <b>D</b>everes <b>C</c>ívicos
+<b>C</b>aminho dos <b>D</b>everes <b>C</b>ívicos
 
 1. CCN
 2. CCA
