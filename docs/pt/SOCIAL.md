@@ -11,8 +11,6 @@
     - [OdicforceSounds](https://twitter.com/odicforcesounds)
 - ##### [Tumblr]
     - [Rakzhodekams](https://rakzhodekams.tumblr.com/)
-- ##### [Instagram]
-    - [OdicforceSounds](https://www.instagram.com/odicforcesounds/)
 - ##### [Github]
     - [OdicforceSounds](https://github.com/odicforcesounds) Projecto no Github
     - [Rakzhodekams](https://github.com/rakzhodekams) Perfil pessoal do Github

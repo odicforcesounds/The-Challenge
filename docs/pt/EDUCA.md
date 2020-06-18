@@ -2,7 +2,9 @@
 
 ## Escolas Públicas e Privadas
 
-O tempo de atenção de cada alun@ é vital para entender o efeito da atenção. O resultado do efeito de atenção deverá ser sempre premiado com expressões numéricas que representam valor.
+O tempo de atenção de cada alun@ é vital para entender o efeito da atenção. 
+
+O resultado do efeito de atenção deverá ser sempre premiado com expressões numéricas que representam valor.
 
 Existem programas televisivos que pagam por respostas certas, respostas estas que advêm da atenção. A TV ganha milhões com a vossa atenção. A internet também. Os professores também. Os polícias também. Os bombeiros também. Os políticos também. Os comercios também. Os produtos, as viagens, as cores, as imagens, os sons... também!
 

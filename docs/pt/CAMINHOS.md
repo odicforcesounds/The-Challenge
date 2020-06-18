@@ -21,7 +21,18 @@ Verificação da aplicação do conhecimento associado, para servir cuidar do me
 <b>C</b>aminho do <b>C</b>uidado das <b>P</b>essoas:
 
 1. Ajuda de pessoas em estado de pobreza.
-2. Alimentação, Água, Roupa, Dormida, Vacinação, Banho, Companhia.
-3. Estadia: Quarto e Acompanhamentos educacionais
+2. Alimentação, Água,  Companhia. 
+
+<b>C</b>aminho dos <b>D</b>everes <b>C</c>ívicos
+
+1. CCN
+2. CCA
+3. CCP
+
+<b>C</b>aminho dos <b>P</b>roprietários de <b>B</b>ens Materiais
+
+1. Estadia: Quarto e Acompanhamentos educacionais
+2. Trabalho Voluntariado retribuído
+3. Vacinação, Banho, Roupa, Dormida,
 
 [voltar](./README.md) para a página inicial

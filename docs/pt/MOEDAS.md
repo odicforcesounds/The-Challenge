@@ -2,6 +2,8 @@
 
 Expressões Numéricas que representam Valor
 
+O Valor de uma expressão numérica que representa valor está entregue à noção de valor que existe pela maioria e não, na atrituição de valor da peça em questão, pois seja ela qual for, não tem tradução numérica. 
+
 Nota: Gostemos ou não, o dinheiro é propriedade de solução, pois sem dinheiro o governo e\ou o estado e\ou uma maioria de pessoas que fazem parte, não querem saber e\ou não mostram interesse em participar para melhorar as condições de fragilidade de terceiros, para torna-los mais "fortes" e dessa forma serem igualmente livres de escolher algo melhor para elas. Além disso, todos tentamos quantificar as propriedades do Ser, associadas às várias qualidades do Ser.
 
 Referência aos pontos da competição [industrial](./INDUSTRIA.md).
