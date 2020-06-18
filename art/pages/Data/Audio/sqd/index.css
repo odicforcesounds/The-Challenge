@@ -2,17 +2,16 @@
   text-align: center;
   background: url("./backgrounds/WeBringFire.jpg") no-repeat no-repeat fixed;
   background-size: cover;
-  height: 100%;
   /* Set up proportionate scaling */
   min-width: 100%;
   min-height: 100%;
-  position: relative;
-  margin-left: 0%;
+  position: absolute;
+  margin-top: -1%;
 }
 
 #main {
   margin-left: 0%;
-  font-size: calc(1.1vw + 1vh + 1.2vmin);
+  font-size: calc(1.5vw + 1vh + 0.2vmin);
   text-align: center;
   /* Safari */
   display: flex;
