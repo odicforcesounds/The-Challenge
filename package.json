@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,8 @@
     "fantasy",
     "politics",
     "society",
-    "justice"
+    "justice",
+    "Business"
   ],
   "author": "OscarFM aka Rakzhodekams aka Monkey aka odicforceSounds",
   "license": "MIT",
@@ -28,10 +30,10 @@
     "url": "https://github.com/odicforcesounds/The-Challenge/issues"
   },
   "homepage": "https://github.com/odicforcesounds/The-Challenge#readme",
-  "dependencies": {
-    "http-server": "^0.12.1"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "jslint": "^0.12.1"
+    "eslint": "^7.3.0",
+    "jshint": "^2.11.1",
+    "live-server": "^1.2.1"
   }
 }

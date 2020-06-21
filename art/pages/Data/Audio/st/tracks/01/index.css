@@ -6,11 +6,12 @@ a {
     text-align: center;
     align-content: center;
     align-self: center;
-  
   }
   
   #main {
     text-align: center;
-    position: relative;
-    margin-top: 1rem;
   }
+
+#player{
+	text-align: center;
+}
