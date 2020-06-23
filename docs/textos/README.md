@@ -13,7 +13,8 @@ Yin(1) | Yang(0)
 [Mastering the Self](./en/Mastering_the_Self.md) | 
 
 ## Lista de textos em Português
-
+### Nota 
+"Os "Monstros da História" não produziram nada de monstruoso, mas os que prestaram atenção aos "monstros" sim, produziram acções horrendas pelo desejo de produzir o que foi Expresso pelos "Monstros" pacificos. Curioso que a História propriamente dita, continue a enganar-se a si própria, com faltas de atenção e\ou falta de compreenção do fenómeno do poder da imaginação. Desde o Staline até ao Hitler. Ambos não mataram uma única pessoa. Eles são os monstros da história que estão em memória, por falta de conhecimento da razão ou por livre e expontanea intenção? Questões que são fruto da ilusão!"
 Yin(1) | Yang(0)
 --- | ---
 [O Quarto Macaco Budista](./pt/O_4_Macaco_Budista.md) | [Sentido da Vida](./pt/Sentido_da_Vida.md)
