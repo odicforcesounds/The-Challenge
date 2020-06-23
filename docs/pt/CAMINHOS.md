@@ -35,4 +35,10 @@ Verificação da aplicação do conhecimento associado, para servir cuidar do me
 2. Trabalho Voluntariado retribuído
 3. Vacinação, Banho, Roupa, Dormida,
 
+<b>C</b>aminho da <b>T</b>ransformação <b>I</b>ndustrial
+
+1. Melhoria dos componentes dos produtos que fabrica.
+2. Adaptação às energias alternativas.
+3. Produção de componentes saudáveis. 
+
 [voltar](./README.md) para a página inicial
