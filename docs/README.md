@@ -13,11 +13,11 @@
 - Click [here](./dao/README.md) to understand why this solution intents to be created.
 - Click [here](./letters/Eternal_License.md) to read our Eternal License (Including You(readers, coders, investors & players)
 - Click [here](./en/README.md) to read the English Version of this Challenge
+- Click [here](./World-Cleaner.md) to dive deeper in this Challenge Road Map
 - Click [here](./MANIFEST.md) to read my Manifest
-- Click [here](https://wiki.odicforcesounds.com/art/index.html) to return to the main website [<b>HTML & CSS</b>] only
-- Click [here](https://wiki.odicforcesounds.com/v/) to return to the main website [<b>Full Angular9</b> 
+- Click [here](https://wiki.odicforcesounds.com/art/index.html) to return to the main website [<b>HTML & CSS</b>] Incomplete new Version 
+- Click [here](https://wiki.odicforcesounds.com/v/) to return to the main website <b>Full Angular9</b> Completed old version
 - Click [here](https://wiki.odicforcesounds.com/blogjs/src/b.html) to return to the Blog [<b>JavaScript</b>] Learning and Test zone
-- Click [here](https://go.odicforcesounds.com) NOT Working .. Soon Will...  ( Google Pages ) 
 
 ## Extra's
 
