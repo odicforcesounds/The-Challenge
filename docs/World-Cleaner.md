@@ -32,7 +32,7 @@ If Time is built within Our Self's, then Time is Our Self's, as result of Time i
 - We have different options, all of them good. 
 1. We write in **JavaScript**
 2. We write in **[Typescript](https://www.typescriptlang.org/)**
-3. We use a Framework like **[VueJS](https://vuejs.org/)** or **[]Angular](https://angular.io/)** where both can use **ES6** or **TypeScript**
+3. We use a Framework like **[VueJS](https://vuejs.org/)** or **[Angular](https://angular.io/)** where both can use **ES6** or **TypeScript**
 4. Since we wish to target all devices, some extra frameworks can he handle, as Ionic. 
 5. While **[Ionic](https://ionicframework.com/)** framework and many others can produce content for **Android** and **iOS**, we may care to develop a specific platform application using Java. 
 6. For each Social Media, if user is logged by **[Google](https://accounts.google.com/Login)** accounts or **[Facebook](https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&)** accounts, users need to login using [Android](https://www.android.com/) or [iOS](https://www.apple.com/ios/ios-13/). ( We start testing using only a Webapp for PC browser (e.g. [Google Chromium](https://www.google.com/chrome/) ) 
