@@ -47,7 +47,9 @@ If Time is built within Our Self's, then Time is Our Self's, as result of Time i
 1. <button>Do Action</button> 
 2. <button>Rate Action</button>
 3. [ShortPathName](https://wiki.odicforcesounds.com/docs/en/Tao/Fragments/Path/) e.g. NCP (Nature Care Path) : Value e.g. [0] - Result: **NPC** [0000] 
-4. Rating Menu (activated in the end of video) <button>0</buttun> (deny) <button>1</button> (approve)
+4. Rating Menu (activated in the end of video) 
+- <button>0</button> (deny) 
+- <button>1</button> (approve)
 
 #### Users Proprieties
 Note: If this application grows... 
