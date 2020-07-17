@@ -76,7 +76,7 @@ Note: If this application grows...
 
 #### Video Services
 - Users produce action concept proof by streaming a video that is stored in some service like **Youtube**. We only need to know that address of the video user made, to share that video adress as a video to rate, to X users more until rate get 7 positive or negative votes. So, again: if we can know that link, we don't need to store videos ;) 
-- Note: Since I only know / read about JavaScropt world, I do a relation between using Redux to control User Video Time state.  
+- Note: Since I only know / read about JavaScript world, I do a relation between using Redux to control User Video Time state.  
 
 #### This is a test or maybe this is a challenge
 As any contribution is as well, numeric expressions that represent value, money, for each contribution that pass throught all reviews in a pull request, we share a numeric expression that represents value (N) 
