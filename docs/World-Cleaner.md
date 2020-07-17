@@ -37,6 +37,7 @@ If Time is built within Our Self's, then Time is Our Self's, as result of Time i
 4. Since we wish to target all devices, some extra frameworks can he handle, as Ionic. 
 5. While **[Ionic](https://ionicframework.com/)** framework and many others can produce content for **Android** and **iOS**, we may care to develop a specific platform application using Java. 
 6. For each Social Media, if user is logged by **[Google](https://accounts.google.com/Login)** accounts or **[Facebook](https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&)** accounts, users need to login using [Android](https://www.android.com/) or [iOS](https://www.apple.com/ios/ios-13/). ( We start testing using only a Webapp for PC browser (e.g. [Google Chromium](https://www.google.com/chrome/) ) 
+7. Care! Firebase works with NoSQL and NodeJS. Naturally we write both: front end and backend JavaScript Applications
 
 - Thinking this Application, as a functional application, we don't need a Awesome Interface for users, but if all principles of this application grow, we should care to put things beautiful and nice. 
 
