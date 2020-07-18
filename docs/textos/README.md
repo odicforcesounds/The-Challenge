@@ -6,7 +6,7 @@ Em Actualização ( Lista incompleta )
 
 Yin(1) | Yang(0)
 --- | ---
-[I don't Use Drugs or Machines](./en/Drugs_or_Machines.md) | [Between Good and Evil](./en/Between_Good_Evil.md)
+[Ego Master vs Master Ego](./en/EgoMasters.md) | [Between Good and Evil](./en/Between_Good_Evil.md)
 [How to Stop Problems](./en/Stop_Problems.md) | [A Strange Choice](./en/Strange_Choice.md)
 [True Politics](./en/True_Politics.md) | [Turn a Blind Eye Tribute](./en/Turn_Eyes_Blind.md)
 [What we Teach](./en/What_We_Teadch.md) | [Yin(1) + Yang(1) = Tao(1)](./en/Yin_Yang_Tao.md)
