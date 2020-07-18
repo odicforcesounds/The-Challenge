@@ -1,9 +1,10 @@
-# I don't use Drugs or Machines
+
+# Ego Master vs Master Ego 
+
+## The Coincidence of Incidence
 
 - I just Like to Talk to My Self while writing.
 - is like playing chess with my self, I always loose, then I learn!
-
-Ego Master vs Master Ego ( The coincidence of incidence )
 
 - What We Express, We Create. Is This Magic? 
 
