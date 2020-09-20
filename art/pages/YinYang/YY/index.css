@@ -16,10 +16,6 @@
   margin-left:1rem;
 }
 
-#Dao{
-  text-align:center;
-}
-
 #vt {
   display: flex;
   padding:1rem;
@@ -136,6 +132,10 @@
 
 #upper{
     display:flex;
-    position:absolute;
+    position:relative;
     text-align:center;
+}
+
+#tao{
+  float: left;
 }
