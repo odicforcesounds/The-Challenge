@@ -10,19 +10,20 @@ body{
 }
 p {
     font-size: calc(1vw + 1vh + 0.5vmin);
-    margin-top: 1%;
+    margin: 1%;
     color: aqua;
 }
 a{
-    color: rgb(0, 89, 255);
+    color: rgb(189, 247, 255);
     animation: none;
     text-decoration: none;
+    font-size:calc(1.5vw + 1vh + 0.5vmin);
 }
 h1{
     color: rgb(255, 251, 0);
 }
 h2{
-    color: rgb(255, 251, 0);
+    color: rgb(255, 196, 0);
 }
 h3{
     color: rgb(255, 251, 0);
