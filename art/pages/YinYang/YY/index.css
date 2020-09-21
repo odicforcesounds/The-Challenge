@@ -139,3 +139,15 @@
 #tao{
   float: left;
 }
+
+.spiritual{
+  text-align-last: center;
+  margin-top: 40%;
+  margin-left: 15%;
+  font-size: 200%;
+}
+
+.spiritual a {
+  background-color: black;
+  color: yellow;
+}
