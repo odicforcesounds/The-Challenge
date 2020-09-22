@@ -100,9 +100,9 @@ nav{
 }
 
 #social{
-  position: fixed;
+  position: relative;
   width: 40px;
-  margin-top: 15%;
+  float: left;
 }
 
 #social a{
@@ -118,7 +118,6 @@ nav{
 
 #player {
   text-align: center;
-  margin-top: 2%;
 }
 
 
