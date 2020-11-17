@@ -2,20 +2,18 @@
 
 " Quem sabe, sabe definir. Como pouco sei, pouco sei definir."
 
-- Tudo isto, sao criticas sem piedade e mesmo que nao queira ser agressivo, 'e bom lembrar que ha sempre um lado ofensivo na verdade.
+- Tudo isto, sao [críticas sem piedade](https://blogspot.criticasempiedade.pt) e mesmo que não queira ser agressivo, é bom lembrar que há sempre um lado ofensivo na verdade.
 
 - Mas qual Verdade, se pouco sabemos neste pouco tempo que temos?
 
-- Mais vale nao ter piedade nas palavras do que nao ter piedade nos actos.
+- É que mais vale não ter piedade nas palavras do que não ter piedade nos actos.
 
-- Que bom que existe alguem que possa completar e complementar o pouco que aprendemos ate ao dia em que tudo esquemos. 
+- Que bom que existe alguém que possa completar e complementar o pouco que aprendemos ate ao dia em que tudo esquemos. 
 
-- Bom, e' a verdade comum e, mesmo que ela seja tao superficial que seja impossivel definir o tema alem do lado comum, e' a partir desse lado comum, que cada qual completa e complementa o pouco que aprendemos. 
+- Bom, é a verdade comum e, mesmo que ela seja tão superficial que seja impossivel definir o tema além do lado comum, é a partir desse lado comum, que cada qual completa e complementa o pouco que aprendemos. 
 
-- A direccao do vento 'e inconstante e a imprevisiblidade da transformacao do tempo tambem.
+- A direccão do vento é inconstante e a imprevisiblidade da transformacão do tempo também.
 
-- Porque haverei de lutar contra o tempo, se posso dancar com ele?
+- Porque haverei de lutar contra o tempo, se posso dançar com ele?
 
-- E o sabio que tambem aprende, aprende a respeitar, isto e', a deitar estar, a nao interferir, pois o sabio nao procura competir. 
-
-- Agora entendi! Porque haveremos de competir com os restantes fragmentos deste nosso pouco tempo, onde existe mais alguem que possa completar e complementar o pouco que aprendemos ate' ao dia em que tudo esquecemos. 
+- E o sábio que tambem aprende, aprende a respeitar, isto é, a deitar estar, a não interferir, pois o sábio não procura competir. 

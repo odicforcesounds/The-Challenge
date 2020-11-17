@@ -55,6 +55,6 @@ Yin(1) | Yang(0)
 [Rir e Voltar a Rir](./pt/Rir.md) | [Curiosidades da Vida](./pt/Curiosidade_Vida.md)
 [Ordem e Progresso](./pt/Ordem_Progresso.md) | [Uma Carta pela Paz Mundial](./pt/Carta_Paz_Mundial.md)
 [A Ofensa](./pt/A_Ofensa.md) | [Mais de 70 Causas Crime](./pt/70_Causas_Crime.md)
-[Eternamente Ignorages](./pt/Eternamente_Ignorantes.md) | 
+[Eternamente Ignorantes](./pt/Eternamente_Ignorantes.md) | 
 
 Clica [aqui](../README.md) para voltar para a página principal.
