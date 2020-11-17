@@ -2,7 +2,7 @@
 
 " Quem sabe, sabe definir. Como pouco sei, pouco sei definir."
 
-- Tudo isto, sao [críticas sem piedade](https://blogspot.criticasempiedade.pt) e mesmo que não queira ser agressivo, é bom lembrar que há sempre um lado ofensivo na verdade.
+- Tudo isto, são críticas sem piedade e mesmo que não queira ser agressivo, é bom lembrar que há sempre um lado ofensivo na verdade.
 
 - Mas qual Verdade, se pouco sabemos neste pouco tempo que temos?
 
@@ -16,4 +16,4 @@
 
 - Porque haverei de lutar contra o tempo, se posso dançar com ele?
 
-- E o sábio que tambem aprende, aprende a respeitar, isto é, a deitar estar, a não interferir, pois o sábio não procura competir. 
+- E o sábio que tambem aprende, aprende a respeitar, isto é, a deixar estar, a não interferir, pois o sábio não procura competir. 
