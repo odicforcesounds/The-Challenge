@@ -34,6 +34,7 @@ Tu és a Madeira ( America(Yin) ) [1],
 
 Eu sou o Fogo ( Asia(Yang) ) [1],
 
-o que significa que 1 + 1 = 1 OU 3 ([Tao]())
+o que significa que 1 + 1 = 1 OU 3 ([Tao](https://wiki.odicforcesounds.com/art/pages/Data/Audio/sqd/tracks/09/index.html))
+
 
 [Voltar](./README.md) para a página inicial

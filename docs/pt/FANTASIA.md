@@ -15,7 +15,7 @@ Se querem entender mais profundamente este sonho, sugiro a consulta dos seguinte
 
 - Um simples exercício mental:
 
-> ### [OM]() [1] [Fantasia]() (**Yang**(0)) : "[Viémos em Paz - Trance Zone]() - Zona de Ressonancia" {**m**}
+> ### [OM](https://wiki.odicforcesounds.com/art/pages/Data/Audio/ps/tracks/17/index.html) [1] [Fantasia](https://wiki.odicforcesounds.com/art/pages/Data/Audio/sqd/tracks/01/index.html) (**Yang**(0)) : "[Viémos em Paz - Trance Zone](https://wiki.odicforcesounds.com/art/pages/Data/Audio/es/tracks/01/index.html) - Zona de Ressonancia" {**m**}
 
 - Inspira ar até encher os pulmões e não largues por uns momentos de forma a idealizares-te numa qualquer situação.
 
@@ -23,7 +23,7 @@ Se querem entender mais profundamente este sonho, sugiro a consulta dos seguinte
 - Depois somamos o "Sonho" ao último passo, ao qual chamamos de <b>Espírito</b>, que refere a nossa capacidade de nos auto-compararmo-nos às criações que acabamos de produzir, o que significa que estamos a usar a <b>Lógica</b>:
 
 
-> ### '+' [Espírito]() [1] [Lógica]() (**Yin**(1)) : "[A nossa Licença Eterna]()" {**E**}
+> ### '+' [Espírito](https://wiki.odicforcesounds.com/art/pages/Data/Audio/te/tracks/09/index.html) [1] [Lógica](https://wiki.odicforcesounds.com/docs/pt/LOGICA.html) (**Yin**(1)) : "[A nossa Licença Eterna](https://wiki.odicforcesounds.com/art/pages/License/index.html)" {**E**}
 
 - Pela <b>lógica</b>, cada pessoa no mundo, homem ou mulher, mesmo tendo as mesmas capacidades físicas e\ou ferramentas físicas, assume-se que todos tenham desenvolvido diferentes caracteristicas dos restantes. A isso chamamos de <b>Espírito</b>.
 
@@ -35,6 +35,6 @@ Se querem entender mais profundamente este sonho, sugiro a consulta dos seguinte
 
 - Partilha o som da tua voz em voz alta, expressando a tua auto-criação.
 
-> ### = [Expressão]() [1] [Aplicação](./APP.md) : (Tao) - "Missão em [Tempo Real](https://www.odicforcesounds.com/v) " {c2}
+> ### = [Expressão](https://wiki.odicforcesounds.com/art/pages/YinYang/Expression/index.html) [1] [Aplicação](./APP.md) : (Tao) - "Missão em [Tempo Real](https://www.odicforcesounds.com/v) " {c2}
 
 [Voltar](./README.md) para a página inicial
