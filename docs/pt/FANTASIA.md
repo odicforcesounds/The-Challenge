@@ -37,8 +37,4 @@ Se querem entender mais profundamente este sonho, sugiro a consulta dos seguinte
 
 > ### = [Expressão]() [1] [Aplicação](./APP.md) : (Tao) - "Missão em [Tempo Real](https://www.odicforcesounds.com/v) " {c2}
 
-Leituras sugeridas:
-
-- Todas as notas podem ser lidas na página de <b>Facebook</b> chamada <b>[OdicforceSounds](https://www.facebook.com/odicforcesounds/)</b>.
-
 [Voltar](./README.md) para a página inicial
