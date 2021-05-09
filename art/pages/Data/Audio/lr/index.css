@@ -1,15 +1,8 @@
-#description{
-  position: relative;
-
+#main p{
+  color:black;
 }
 
-#description p{
-  text-align: justify;
-  color: black;
-  font-size: calc(1vw + 0.5vh + 0.2vmin);
-}
-
-#main {
+.container {
   
   background: url("./backgrounds/lr.jpeg") no-repeat no-repeat fixed;
   background-size: cover;
