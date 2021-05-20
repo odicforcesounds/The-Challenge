@@ -1,0 +1,4 @@
+site_name: OdicforceSounds Challenge
+repo_url: https://github.com/odicforcesounds/The-Challenge
+nav: 
+  - Home: docs/README.md
