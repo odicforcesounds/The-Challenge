@@ -35,3 +35,21 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 ## Asia Yang ( Fire Dragon ) 1
     **=** 
     - Monkey Can Teach if You Wish
+    - Monkey Make Business
+    - Monkey Points to Logic Path
+    - Monkey is Funny
+    - Monkey is NOT the King of the Jungle
+    - Monkey wish to have Fun! 
+    - Monkey ask a Path of Shields 
+    - Monkey ask Help
+    - Monkey cannot do it alone ( not good for motivation )
+    - Monkey which to educate only
+    - Monkey understand the Brain - Monkey Can help 
+        - Monkey Style: Provocative or Fun? 
+        - Monkey knows: 
+            - if brain is fun, monkey is fun
+            - if brain is not fun, monkey is not fun
+    - Monkey Thoughts: "Always teaching about simplicity" 
+        - :> You can create everything you focus in
+        - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
+    - You are included in Monkey Eternal License! 
