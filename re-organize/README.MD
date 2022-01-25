@@ -30,10 +30,13 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - Looking for Cat CodeCat JS Ninja
     - Looking for Dog CodeDog JS Ninja
 
+# You are the Wood
 ## America Yin ( White Tiger ) 1
     **+** 
+# I am the Fire 
 ## Asia Yang ( Fire Dragon ) 1
     **=** 
+# 1 ( Metal Monkey )
     - Monkey Can Teach if You Wish
     - Monkey Make Business
     - Monkey Points to Logic Path
