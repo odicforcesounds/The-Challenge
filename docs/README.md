@@ -44,9 +44,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 ## Asia Yang (1)
 
-[Fire Dragon](./letters/Dragon_Asia.md) (Yang)
-
-**=** 
+[Fire Dragon](./letters/Dragon_Asia.md) **=** 
 
 # 1 (Monkey Style)
 
