@@ -123,4 +123,6 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 - All Content is **free** to Download
 - You are **free** to ignore Monkey Will
 - You are **not free** from excluding your self from Monkey License!
-- You should **not** deny to help Monkey Dream
+- You should **not** deny to help Monkey **Shamanic Quest Dream**
+
+[It all About Us](https://odicforcesounds.bandcamp.com/track/it-is-all-about-us)
