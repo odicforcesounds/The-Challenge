@@ -11,7 +11,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 2. If Domain is pointing to wiki, Monkey should create more
     - [app.odicforcesonds.com](https://github.com/odicforcesounds/World-Cleaner) (with **World Cleaner Challenge**)
         - Language Versions: 
-            - [English Version](./en/README.md) Monkey not English
+            - [English Version](./en/README.md) Monkey is not English
             - [Portuguese Version](./pt/README.md) Monkey can do Better
             - Help me to Add More Translations 
     - [art.odicforcesounds.com](https://wiki.odicforcesounds.com/art/index.html) ( no JavaScript )
