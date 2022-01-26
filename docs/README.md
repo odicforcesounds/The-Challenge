@@ -1,38 +1,4 @@
-# Life is only a dream
-
-[JavaScript](https://odicforcesounds.bandcamp.com/album/spiritual-algorithm) and [computer technology](https://odicforcesounds.bandcamp.com/track/just-a-technical-skill-set) is all about logic.
-
-Then we split the problem into several pieces.. 
-
-What else is simplicity if not a bunch of other simplicities in sequence, while all of them represent the complexity it self, which is complex if you wish to understand! 
-
-## Rules to organize EVERYTHING 
-1. Monkey need to organize all text and mix them together to a better sense of interpretation to each reader / listener / visitor..
-2. If Domain is pointing to wiki, Monkey should create more
-    - [app.odicforcesonds.com](https://github.com/odicforcesounds/World-Cleaner) (with **World Cleaner Challenge**)
-        - Language Versions: 
-            - [English Version](./en/README.md) Monkey is not English
-            - [Portuguese Version](./pt/README.md) Monkey can do Better
-            - Help me to Add More Translations 
-    - [art.odicforcesounds.com](https://wiki.odicforcesounds.com/art/index.html) ( no JavaScript )
-    - [v.odicforcesounds.com](https://wiki.odicforcesounds.com/v/) ( pure JavaScript )
-    - [blogs.odicforcesounds.com](https://wiki.odicforcesounds.com/blogjs/src/b.html)
-        - Other blogs content posts can be included: 
-            1. [Criticasempiedade](https://criticasempiedade.blogspot.com/)
-            2. [MacacoPreguiçoso](https://macacopreguicoso.blogspot.com/) 
-    - wiki.odicforcesonds.com (mkdocs github default template)
-        - Monkey can improve this content using **Hexo**
-3. Monkey need several versions of the same website?
-    - Maybe not... while Monkey like to static version
-4. Monkey English is not so good, then maybe Monkey should translate all to Portuguese. Therefor text content become better.
-5. [Youtube](./yt/README.md)  content must be extracted and included in site. New domain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.domain (static)
-6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.domain, while Monkey can try to build a pure vanilla-javascript from scratch. 
-    - Monkey knows the God of Web is [Mr.JSON](https://odicforcesounds.bandcamp.com/track/mr-json)
-    - Extract Youtube Videos IDs (from playlist - organized)
-    - Extract Bandcamp Music Tracks IDs (from each album)
-    - Images can have their own repository or elsewhere.. 
-        - Images repo can have 1 md per file with tags (mkdocs)
-    - wrap all into a big big static JS Object{[] , []}
+# Life is only a Dream
 
 # You are the Wood
 
@@ -50,7 +16,11 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 - [Monkey Style](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
+[JavaScript](https://odicforcesounds.bandcamp.com/album/spiritual-algorithm) and [computer technology](https://odicforcesounds.bandcamp.com/track/just-a-technical-skill-set) is all about logic.
 
+Then we split the problem into several pieces.. 
+
+What else is simplicity if not a bunch of other simplicities in sequence, while all of them represent the complexity it self, which is complex if you wish to understand! 
 
 - Monkey Can [Teach](https://odicforcesounds.bandcamp.com/track/crafting-new-generations) if You Wish
 - Monkey [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
@@ -123,6 +93,35 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 
 - Click [here](./plan/Questions.md) Monkey can think about more questions: lets chat?
 - Click [here](./plan/psudoCode.md) Monkey like simplicity! 
+
+
+## Rules to organize EVERYTHING 
+1. Monkey need to organize all text and mix them together to a better sense of interpretation to each reader / listener / visitor..
+2. If Domain is pointing to wiki, Monkey should create more
+    - [app.odicforcesonds.com](https://github.com/odicforcesounds/World-Cleaner) (with **World Cleaner Challenge**)
+        - Language Versions: 
+            - [English Version](./en/README.md) Monkey is not English
+            - [Portuguese Version](./pt/README.md) Monkey can do Better
+            - Help me to Add More Translations 
+    - [art.odicforcesounds.com](https://wiki.odicforcesounds.com/art/index.html) ( no JavaScript )
+    - [v.odicforcesounds.com](https://wiki.odicforcesounds.com/v/) ( pure JavaScript )
+    - [blogs.odicforcesounds.com](https://wiki.odicforcesounds.com/blogjs/src/b.html)
+        - Other blogs content posts can be included: 
+            1. [Criticasempiedade](https://criticasempiedade.blogspot.com/)
+            2. [MacacoPreguiçoso](https://macacopreguicoso.blogspot.com/) 
+    - wiki.odicforcesonds.com (mkdocs github default template)
+        - Monkey can improve this content using **Hexo**
+3. Monkey need several versions of the same website?
+    - Maybe not... while Monkey like to static version
+4. Monkey English is not so good, then maybe Monkey should translate all to Portuguese. Therefor text content become better.
+5. [Youtube](./yt/README.md)  content must be extracted and included in site. New domain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.domain (static)
+6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.domain, while Monkey can try to build a pure vanilla-javascript from scratch. 
+    - Monkey knows the God of Web is [Mr.JSON](https://odicforcesounds.bandcamp.com/track/mr-json)
+    - Extract Youtube Videos IDs (from playlist - organized)
+    - Extract Bandcamp Music Tracks IDs (from each album)
+    - Images can have their own repository or elsewhere.. 
+        - Images repo can have 1 md per file with tags (mkdocs)
+    - wrap all into a big big static JS Object{[] , []}
 
 # Monkey Gifts 
 
