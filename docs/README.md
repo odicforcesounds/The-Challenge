@@ -37,7 +37,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey teaching is **not** violent
 - Monkey like [Peace](https://odicforcesounds.bandcamp.com/track/we-came-in-peace-trance-zone) 
 - Monkey is Spiritual ( [Show Monkey some Respect](https://odicforcesounds.bandcamp.com/track/show-us-some-respect-warning) )
-- Monkey Compile content to explain
+- Monkey Compile content to explain the [digital](https://odicforcesounds.bandcamp.com/track/digital-perspective) way
     - Use your [Brain](https://odicforcesounds.bandcamp.com/track/brain-chilout) 
 - Monkey cannot do it alone ( not good for motivation )
 - Monkey ask if [solution](./World-Cleaner.md) is necessary ( Monkey is good not stupid )
@@ -58,7 +58,8 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - Monkey knows the difference [between](https://odicforcesounds.bandcamp.com/track/between-us-image-and-sound) right or wrong comes from intentions! 
     - Monkey want to [show you something](https://odicforcesounds.bandcamp.com/track/i-want-to-show-you-something)
     - Monkey **Challenge** [target](https://odicforcesounds.bandcamp.com/track/v-euclidean-space-3) World Wide Brands
-
+    - World Wide Brands don't know Monkey is here, then Monkey found Awesome [Fake](https://github.com/odicforcesounds/fakeSolutions) data. 
+    - If Monkey dream is an [illusion](https://odicforcesounds.bandcamp.com/track/myth-illusion-memories), then can become real. What is Your Will? 
 
 # Asking [Dogs and Cats](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) Help 
 
@@ -97,12 +98,12 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 
 [Hacking - Into the Error Festival Patch](https://odicforcesounds.bandcamp.com/track/hacking-into-the-error-festival-patch)
 
-- Click [here](./plan/Questions.md) Monkey can think about more questions: lets chat?
+- Click [here](./plan/Questions.md) Monkey can think about more questions. 
 - Click [here](./plan/psudoCode.md) Monkey like simplicity! 
 
 ## Rules to organize EVERYTHING 
 1. Monkey need to organize all text and mix them together to a better sense of interpretation to each reader / listener / visitor..
-2. If Domain is pointing to wiki, Monkey should create more
+2. If subdomain is pointing to wiki, Monkey should create more
     - [app.odicforcesonds.com](https://github.com/odicforcesounds/World-Cleaner) (with **World Cleaner Challenge**)
         - Language Versions: 
             - [English Version](./en/README.md) Monkey is not English
@@ -114,13 +115,13 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
         - Other blogs content posts can be included: 
             1. [Criticasempiedade](https://criticasempiedade.blogspot.com/)
             2. [MacacoPreguiçoso](https://macacopreguicoso.blogspot.com/) 
-    - wiki.odicforcesonds.com (mkdocs github default template)
+        - wiki.odicforcesonds.com (mkdocs github default hacker template)
         - Monkey can improve this content using **Hexo**
 3. Monkey need several versions of the same website?
     - Maybe not... while Monkey like to static version
 4. Monkey English is not so good, then maybe Monkey should translate all to Portuguese. Therefor text content become better.
-5. [Youtube](./yt/README.md)  content must be extracted and included in site. New domain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.domain (static)
-6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.domain, while Monkey can try to build a pure vanilla-javascript from scratch. 
+5. [Youtube](./yt/README.md)  content must be extracted and included in site. New subdomain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.subdomain (static)
+6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.subdomain, while Monkey can try to build a pure vanilla-javascript from scratch. 
     - Monkey knows God of Web is [JSON](https://odicforcesounds.bandcamp.com/track/mr-json)
     - Extract Youtube Videos IDs (from playlist - organized) or use API callbacks
     - Extract Bandcamp Music Tracks IDs (from each album) or use API callbacks
@@ -130,7 +131,7 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 # Monkey Gifts 
 
 - All Content is **free** to Download (Spread Monkey Spread)
-- You are **free** to ignore Monkey Will ( Monkey can be Mad )
+- You are **free** to ignore Monkey Will of [Power](https://odicforcesounds.bandcamp.com/track/money-is-no-power) ( Monkey can be Mad )
 - You are **not free** from excluding yourself from Monkey License!
 - You should **not** deny to help Monkey **Shamanic Quest Dream**
 
