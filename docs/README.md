@@ -18,7 +18,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - [blogs.odicforcesounds.com](https://wiki.odicforcesounds.com/blogjs/src/b.html)
         - Other blogs content posts can be included: 
             1. [Criticasempiedade](https://criticasempiedade.blogspot.com/)
-            2. [MacaoPreguiçoso](https://macacopreguicoso.blogspot.com/) 
+            2. [MacacoPreguiçoso](https://macacopreguicoso.blogspot.com/) 
     - wiki.odicforcesonds.com (mkdocs github default template)
         - I can improve this content using **Hexo**
 3. I. need several versions of the same website?
