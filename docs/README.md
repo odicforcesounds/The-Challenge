@@ -60,6 +60,8 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey Wish to have **Fun**!
 - Monkey Like to [write](./MANIFEST.md) **bla bla bla** 
 - Monkey Like **[Music](https://odicforcesounds.bandcamp.com/track/piano-words)**
+- Monkey is [Funky](https://odicforcesounds.bandcamp.com/track/accurate-fingers-and-funky-orgasms)
+- Monkey is [Naughty](https://odicforcesounds.bandcamp.com/track/bruce-lee-advice-and-the-naughty-challenge)
 - Monkey ask a **Path of Shields**
 - Monkey is **not** God ( No Imposition of Monkey Will )
 - Monkey teaching is **not** violent
