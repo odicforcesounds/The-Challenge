@@ -52,7 +52,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
 - You are included in Monkey [Eternal License](./letters/Eternal_License.md) ! 
     - "Numeric Expressions that represent value..."
-    - The value in not in the representation of the value it self, but in the relation of what else make the self. 
+    - The value is not in the representation of the value it self, but in the relation of what else make the self. 
     - **[DEEDS - PATH TO PARADISE](https://odicforcesounds.bandcamp.com/track/deeds-path-to-paradise)** 
 
 # Asking [Dogs and Cats](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) Help 
