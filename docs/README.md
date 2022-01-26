@@ -89,13 +89,17 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 ## (if you feel it in yourself)
 - No parties for them, is only to code a better world for both
-- Looking for Cat CodeCat JS Ninja 
-- Looking for Dog CodeDog JS Ninja
-- Looking for Dragon CodeDragon JS Ninja
-- Looking for Wolf CodeWolf JS Nija
-- Looking for Rat CodeRat JS Ninja 
-- Looking for Serpent CodeSerpent JS Ninja ( secret friends )
-- Looking for big PIG CodePig JS Ninja ( please: don't eat everything )
+- Looking for Cat CodeCat JS Ninja ( Monkey always care about them )
+- Looking for Dog CodeDog JS Ninja ( Monkey always care about them )
+- Looking for Dragon CodeDragon JS Ninja ( Monkey Warrior Friend )
+- Looking for Wolf CodeWolf JS Ninja ( Monkey Supporter Friend )
+- Looking for Rat CodeRat JS Ninja ( Monkey Transport Friend )
+- Looking for Serpent CodeSerpent JS Ninja ( Monkey Secret Friend )
+- Looking for Pig CodePig JS Ninja ( please: don't eat everything )
+- Looking for Horse CodeHorse JS Ninja ( Monkey Friend )
+- Looking for Bird CodeBird JS Ninjs ( Monkey Friend ) 
+
+[All Color Frinds](https://odicforcesounds.bandcamp.com/track/united-colors-of-skeleton-grow-your-skills)
 
 # Monkey notes: 
 
