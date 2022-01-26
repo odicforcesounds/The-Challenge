@@ -7,8 +7,8 @@ Then we split the problem into several pieces..
 What else is simplicity if not a bunch of other simplicities in sequence, while all of them represent the complexity it self, which is complex if you wish to understand! 
 
 ## Rules to organize EVERYTHING 
-1. I need to organize all text and mix them together to a better sense of interpretation to each reader / listener / visitor..
-2. If Domain is pointer to wiki, I should create more
+1. Monkey need to organize all text and mix them together to a better sense of interpretation to each reader / listener / visitor..
+2. If Domain is pointer to wiki, Monkey should create more
     - [app.odicforcesonds.com](https://github.com/odicforcesounds/World-Cleaner) (with **World Cleaner Challenge**)
         - Language Versions: 
             - [English Version](./en/README.md) Monkey not English
@@ -23,7 +23,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - wiki.odicforcesonds.com (mkdocs github default template)
         - Monkey can improve this content using **Hexo**
 3. Monkey need several versions of the same website?
-    - Maybe not... while I like to static version
+    - Maybe not... while Monkey like to static version
 4. Monkey English is not so good, then maybe Monkey should translate all to Portuguese. Therefor text content become better.
 5. [Youtube](./yt/README.md)  content must be extracted and included in site. New domain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.domain (static)
 6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.domain, while Monkey can try to build a pure vanilla-javascript from scratch. 
@@ -40,7 +40,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 [White Tiger](./letters/Tiger_America.md) **+**
 
-# I am the Fire 
+# Monkey am the Fire 
 
 ## Asia Yang (1)
 
@@ -109,7 +109,7 @@ Open Your Eyes. What Can You See, what Can You Do?
 
 ## Monkey think and feel
 
-[I have a Body - I Can Feel](https://odicforcesounds.bandcamp.com/track/i-can-feel-i-have-a-body)
+[Monkey have a Body - Monkey Can Feel](https://odicforcesounds.bandcamp.com/track/i-can-feel-i-have-a-body)
 
 You are a <b>Coder</b>, and You wish to code and help to build this world wide challenge!
 
