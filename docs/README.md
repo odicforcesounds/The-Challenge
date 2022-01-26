@@ -86,7 +86,8 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - The value in not in the the representation of the value it self but in the relation of what else make the self. 
     - **[DEEDS - PATH TO PARADISE](https://odicforcesounds.bandcamp.com/track/deeds-path-to-paradise)** 
 
-# Asking [Dogs and Cats Help](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) (if you feel it in yourself)
+# Asking [Dogs and Cats Help](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) 
+## (if you feel it in yourself)
 - No parties for them, is only to code a better world for both
 - Looking for Cat CodeCat JS Ninja 
 - Looking for Dog CodeDog JS Ninja
