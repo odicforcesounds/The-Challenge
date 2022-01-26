@@ -48,9 +48,9 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 # 1 [Metal Monkey](https://odicforcesounds.bandcamp.com/track/you-are-the-wood-i-am-the-fire)
 
-- Monkey Style: **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
+- [Monkey Style](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
-[Metal Monkey](./textos/README.md)
+
 
 - Monkey Can [Teach](https://odicforcesounds.bandcamp.com/track/crafting-new-generations) if You Wish
 - Monkey [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
