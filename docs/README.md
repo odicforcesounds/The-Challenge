@@ -14,9 +14,9 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
             - [English Version](./en/README.md) Monkey not English
             - [Portuguese Version](./pt/README.md) Monkey can do Better
     - [art.odicforcesounds.com](https://wiki.odicforcesounds.com/art/index.html) ( no JavaScript )
-    - [v.odicforcesounds.com](https://wiki.odicforcesounds.com/v/ ( pure JavaScript )
+    - [v.odicforcesounds.com](https://wiki.odicforcesounds.com/v/) ( pure JavaScript )
     - [blogs.odicforcesounds.com](https://wiki.odicforcesounds.com/blogjs/src/b.html)
-        - Other blogs content can be included: 
+        - Other blogs content posts can be included: 
             1. [Criticasempiedade](https://criticasempiedade.blogspot.com/)
             2. [MacaoPreguiçoso](https://macacopreguicoso.blogspot.com/) 
     - wiki.odicforcesonds.com (mkdocs github default template)
@@ -65,7 +65,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey is **not** God ( No Imposition of Monkey Will )
 - Monkey teaching is **not** violent
 - Monkey like peace 
-- Monkey is Spiritual ( Show monkey some Respect )
+- Monkey is Spiritual ( [Show monkey some Respect](https://odicforcesounds.bandcamp.com/track/show-us-some-respect-warning) )
 - Monkey Compile content to explain
     - Use your brain 
 - Monkey cannot do it alone ( not good for motivation )
@@ -92,7 +92,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Looking for Wolf CodeWolf JS Nija
 - Looking for Rat CodeRat JS Ninja 
 - Looking for Serpent CodeSerpent JS Ninja ( secret friends )
-- Looking for big PIG CodePig JS Ninja ( please: don't eat it )
+- Looking for big PIG CodePig JS Ninja ( please: don't eat everything )
 
 # Monkey notes: 
 
