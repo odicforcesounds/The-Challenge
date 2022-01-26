@@ -58,7 +58,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey is Funny
 - Monkey is NOT the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-monkey-king) of the Jungle
 - Monkey Wish to have **Fun**!
-- Monkey Like to write **bla bla bla** 
+- Monkey Like to [write](./MANIFEST.md) **bla bla bla** 
 - Monkey Like **[Music](https://odicforcesounds.bandcamp.com/track/piano-words)**
 - Monkey ask a **Path of Shields**
 - Monkey is **not** God ( No Imposition of Monkey Will )
@@ -68,7 +68,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey Compile content to explain
     - Use your [Brain](https://odicforcesounds.bandcamp.com/track/brain-chilout) 
 - Monkey cannot do it alone ( not good for motivation )
-- Monkey ask if solution is necessary ( monkey is good person not stupid )
+- Monkey ask if [solution](./World-Cleaner.md) is necessary ( monkey is good person not stupid )
 - Monkey which to educate only! 
 - Monkey understand the Brain - Monkey Can help 
     - Monkey Style: Provocative or Fun? 
