@@ -1,6 +1,6 @@
 # Life is only a dream
 
-JavaScript and computer technology is all about logic.
+[JavaScript](https://odicforcesounds.bandcamp.com/album/spiritual-algorithm) and [computer technology](https://odicforcesounds.bandcamp.com/track/just-a-technical-skill-set) is all about logic.
 
 Then we split the problem into several pieces.. 
 
