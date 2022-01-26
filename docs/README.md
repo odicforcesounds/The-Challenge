@@ -70,7 +70,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey Compile content to explain
     - Use your [Brain](https://odicforcesounds.bandcamp.com/track/brain-chilout) 
 - Monkey cannot do it alone ( not good for motivation )
-- Monkey ask if [solution](./World-Cleaner.md) is necessary ( monkey is good person not stupid )
+- Monkey ask if [solution](./World-Cleaner.md) is necessary ( monkey is good not stupid )
 - Monkey which to educate only! 
 - Monkey understand the Brain - Monkey Can help 
     - Monkey Style: Provocative or Fun? 
