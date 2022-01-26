@@ -102,7 +102,7 @@ If "we" don't like, we can exclude our self's from it...
 
 ## Respect 
 
-[Spiritual Life](https://odicforcesounds.bandcamp.com/track/respect-spiritual-life) : All Energy - All Soul 
+[Spiritual Life](https://odicforcesounds.bandcamp.com/track/respect-spiritual-life) : [All Energy - All Soul](https://odicforcesounds.bandcamp.com/track/organic-fields-all-energy-all-soul) 
 
 Close Your Eyes. What Can You See, What Can You Do?<br>
 Open Your Eyes. What Can You See, what Can You Do?
