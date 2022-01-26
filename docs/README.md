@@ -94,7 +94,6 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 - Click [here](./plan/Questions.md) Monkey can think about more questions: lets chat?
 - Click [here](./plan/psudoCode.md) Monkey like simplicity! 
 
-
 ## Rules to organize EVERYTHING 
 1. Monkey need to organize all text and mix them together to a better sense of interpretation to each reader / listener / visitor..
 2. If Domain is pointing to wiki, Monkey should create more
@@ -125,9 +124,9 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 
 # Monkey Gifts 
 
-- All Content is **free** to Download
-- You are **free** to ignore Monkey Will
-- You are **not free** from excluding your self from Monkey License!
+- All Content is **free** to Download (Spread Monkey Spread)
+- You are **free** to ignore Monkey Will ( Monkey can be Mad )
+- You are **not free** from excluding yourself from Monkey License!
 - You should **not** deny to help Monkey **Shamanic Quest Dream**
 
 [It all About Us](https://odicforcesounds.bandcamp.com/track/it-is-all-about-us)
