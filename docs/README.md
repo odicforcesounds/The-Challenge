@@ -16,7 +16,7 @@ Life is only a Dream
 
 - [Monkey Style](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
-[JavaScript](https://odicforcesounds.bandcamp.com/album/spiritual-algorithm) and [computer technology](https://odicforcesounds.bandcamp.com/track/just-a-technical-skill-set) is all about logic.
+[JavaScript](https://odicforcesounds.bandcamp.com/track/dive-into-the-world-of-javascript) and [Computer Technology](https://odicforcesounds.bandcamp.com/track/just-a-technical-skill-set) is all about Logic.
 
 Then we split the problem into several pieces.. 
 
@@ -26,7 +26,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
 - Monkey Points to [Logic Path](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)
 - Monkey is Funny
-- Monkey is NOT the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-monkey-king) of the Jungle
+- Monkey is NOT the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-Monkey-king) of the Jungle
 - Monkey Wish to have **Fun**!
 - Monkey Like to [write](./MANIFEST.md) **bla bla bla** 
 - Monkey Like **[Music](https://odicforcesounds.bandcamp.com/track/piano-words)**
@@ -36,17 +36,17 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey is **not** God ( No Imposition of Monkey Will )
 - Monkey teaching is **not** violent
 - Monkey like [Peace](https://odicforcesounds.bandcamp.com/track/we-came-in-peace-trance-zone) 
-- Monkey is Spiritual ( [Show monkey some Respect](https://odicforcesounds.bandcamp.com/track/show-us-some-respect-warning) )
+- Monkey is Spiritual ( [Show Monkey some Respect](https://odicforcesounds.bandcamp.com/track/show-us-some-respect-warning) )
 - Monkey Compile content to explain
     - Use your [Brain](https://odicforcesounds.bandcamp.com/track/brain-chilout) 
 - Monkey cannot do it alone ( not good for motivation )
-- Monkey ask if [solution](./World-Cleaner.md) is necessary ( monkey is good not stupid )
-- Monkey which to educate only! 
+- Monkey ask if [solution](./World-Cleaner.md) is necessary ( Monkey is good not stupid )
+- Monkey wish to educate only! 
 - Monkey understand the Brain - Monkey Can help 
     - Monkey Style: Provocative or Fun? 
     - Monkey knows: 
-        - if brain is fun, monkey is fun
-        - if brain is not fun, monkey is not fun
+        - if brain is fun, Monkey is fun
+        - if brain is not fun, Monkey is not fun
 - Monkey Thoughts: "Always teaching about simplicity" 
     - :> You can create everything you focus in
     - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
@@ -55,19 +55,20 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - The value in not in the representation of the value it self, but in the relation of what else make the self. 
     - **[DEEDS - PATH TO PARADISE](https://odicforcesounds.bandcamp.com/track/deeds-path-to-paradise)** 
 
-# Asking [Dogs and Cats Help](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) 
+# Asking [Dogs and Cats](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) Help 
 
 ## (if you feel it in yourself)
 - No parties for them, is only to code a better world for both
-- Looking for Cat CodeCat JS Ninja ( Monkey always care about them )
-- Looking for Dog CodeDog JS Ninja ( Monkey always care about them )
-- Looking for Dragon CodeDragon JS Ninja ( Monkey Warrior Friend )
-- Looking for Wolf CodeWolf JS Ninja ( Monkey Supporter Friend )
-- Looking for Rat CodeRat JS Ninja ( Monkey Transport Friend )
-- Looking for Serpent CodeSerpent JS Ninja ( Monkey Secret Friend )
-- Looking for Pig CodePig JS Ninja ( please: don't eat everything )
-- Looking for Horse CodeHorse JS Ninja ( Monkey Friend )
-- Looking for Bird CodeBird JS Ninjs ( Monkey Friend ) 
+- Looking for Cats [Boom](https://odicforcesounds.bandcamp.com/track/boom-cat) CodeCat JS Ninjas ( Monkey always care about them )
+- Looking for Dogs CodeDog JS Ninjas ( Monkey always care about them )
+- Looking for [Dragons](https://soundcloud.com/odicforcesounds-channel/the-dragon) CodeDragon JS Ninjas ( Monkey Time Warrior Friends )
+- Looking for Wolfs CodeWolf JS Ninjas ( Monkey Supporter Friends )
+- Looking for Rats CodeRat JS Ninjas ( Monkey [Time-Conditional](https://wiki.odicforcesounds.com/art/pages/YinYang/YY/index.html) Friends )
+- Looking for Serpents CodeSerpent JS Ninjas ( Monkey Secret Friends )
+- Looking for Pigs CodePig JS Ninjas ( please: don't eat everything )
+- Looking for [Horses](https://odicforcesounds.bandcamp.com/track/water-horses-woman-freedom) CodeHorse JS Ninjas ( Monkey Friends )
+- Looking for [Birds](https://odicforcesounds.bandcamp.com/track/birds-of-fire) CodeBird JS Ninjas ( Monkey Friends ) 
+- Looking for [Monkeys](https://odicforcesounds.bandcamp.com/track/eyes-on-you) (c0!)eMonkey JS Ninjas ( Monkey don't forget their own )
 
 [All Color Frinds](https://odicforcesounds.bandcamp.com/track/united-colors-of-skeleton-grow-your-skills)
 
@@ -119,7 +120,6 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
     - Extract Youtube Videos IDs (from playlist - organized)
     - Extract Bandcamp Music Tracks IDs (from each album)
     - Images can have their own repository or elsewhere.. 
-        - Images repo can have 1 md per file with tags (mkdocs)
     - wrap all into a big big static JS Object{[] , []}
 
 # Monkey Gifts 
