@@ -25,34 +25,49 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - Images can have their own repository or elsewhere.. 
         - Images repo can have 1 md per file with tags (mkdocs)
     - wrap all into a big big static JS Object{[] , []}
-7. Asking Dogs and Cats help (if you feel it in yourself)
-    - No parties for them, is only to code a better world for both
-    - Looking for Cat CodeCat JS Ninja
-    - Looking for Dog CodeDog JS Ninja
 
 # You are the Wood
+
 ## America Yin ( White Tiger ) 1
-    **+** 
+
+**+**
+
 # I am the Fire 
+
 ## Asia Yang ( Fire Dragon ) 1
-    **=** 
+
+**=** 
+
 # 1 ( Metal Monkey )
-    - Monkey Can Teach if You Wish
-    - Monkey Make Business
-    - Monkey Points to Logic Path
-    - Monkey is Funny
-    - Monkey is NOT the King of the Jungle
-    - Monkey wish to have Fun! 
-    - Monkey ask a Path of Shields 
-    - Monkey ask Help
-    - Monkey cannot do it alone ( not good for motivation )
-    - Monkey which to educate only
-    - Monkey understand the Brain - Monkey Can help 
-        - Monkey Style: Provocative or Fun? 
-        - Monkey knows: 
-            - if brain is fun, monkey is fun
-            - if brain is not fun, monkey is not fun
-    - Monkey Thoughts: "Always teaching about simplicity" 
-        - :> You can create everything you focus in
-        - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
-    - You are included in Monkey Eternal License! 
+
+- Monkey Can Teach if You Wish
+- Monkey Make Business
+- Monkey Points to Logic Path
+- Monkey is Funny
+- Monkey is NOT the King of the Jungle
+- Monkey wish to have Fun! 
+- Monkey Like Music
+- Monkey ask a Path of Shields 
+- Monkey ask Help
+- Monkey Compile content to explain
+    - Use your brain 
+- Monkey cannot do it alone ( not good for motivation )
+- Monkey ask if solution is necessary ( monkey is good person not stupid )
+- Monkey which to educate only! 
+- Monkey understand the Brain - Monkey Can help 
+    - Monkey Style: Provocative or Fun? 
+    - Monkey knows: 
+        - if brain is fun, monkey is fun
+        - if brain is not fun, monkey is not fun
+- Monkey Thoughts: "Always teaching about simplicity" 
+    - :> You can create everything you focus in
+    - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
+- You are included in Monkey Eternal License! 
+    - "Numeric Expressions that represent value..."
+    - The value in not in the the representation of the value it self but in the relation of what else make the self. 
+    - **DEEDS - PATH TO PARADISE** 
+# Asking Dogs and Cats Help (if you feel it in yourself)
+- No parties for them, is only to code a better world for both
+- Looking for Cat CodeCat JS Ninja
+- Looking for Dog CodeDog JS Ninja
+
