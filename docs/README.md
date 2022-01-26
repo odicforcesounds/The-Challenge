@@ -9,10 +9,11 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 ## Rules to organize EVERYTHING 
 1. I need to organize all text and mix them together to a better sense of interpretation to each reader / listener / visitor..
 2. If Domain is pointer to wiki, I should create more
-    - app.odicforcesonds.com (with **World Cleaner Challenge**)
-        - Domain repositories: 
+    - [app.odicforcesonds.com](https://github.com/odicforcesounds/World-Cleaner) (with **World Cleaner Challenge**)
+        - Language Versions: 
             - [English Version](./en/README.md) Monkey not English
             - [Portuguese Version](./pt/README.md) Monkey can do Better
+            - Help me to Add More Translations 
     - [art.odicforcesounds.com](https://wiki.odicforcesounds.com/art/index.html) ( no JavaScript )
     - [v.odicforcesounds.com](https://wiki.odicforcesounds.com/v/) ( pure JavaScript )
     - [blogs.odicforcesounds.com](https://wiki.odicforcesounds.com/blogjs/src/b.html)
@@ -20,12 +21,13 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
             1. [Criticasempiedade](https://criticasempiedade.blogspot.com/)
             2. [MacacoPreguiçoso](https://macacopreguicoso.blogspot.com/) 
     - wiki.odicforcesonds.com (mkdocs github default template)
-        - I can improve this content using **Hexo**
-3. I. need several versions of the same website?
+        - Monkey can improve this content using **Hexo**
+3. Monkey need several versions of the same website?
     - Maybe not... while I like to static version
-4. My English is not so good, then maybe I should translate all to Portuguese. Therefor text content become better.
+4. Monkey English is not so good, then maybe Monkey should translate all to Portuguese. Therefor text content become better.
 5. [Youtube](./yt/README.md)  content must be extracted and included in site. New domain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.domain (static)
-6. The propose of using Angular was to learn JavaScript. I didn't learn any JavaScript but how to include pages in routes. I should improve v.domain, while I can try to build a purejs from scratch. 
+6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.domain, while Monkey can try to build a pure vanilla-javascript from scratch. 
+    - Monkey knows the God of Web [Mr.JSON](https://odicforcesounds.bandcamp.com/track/mr-json)
     - Extract Youtube Videos IDs (from playlist - organized)
     - Extract Bandcamp Music Tracks IDs (from each album)
     - Images can have their own repository or elsewhere.. 
@@ -52,22 +54,22 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 [Metal Monkey](./textos/README.md)
 
-- Monkey Can Teach if You Wish
-- Monkey Make Business
+- Monkey Can [Teach](https://odicforcesounds.bandcamp.com/track/crafting-new-generations) if You Wish
+- Monkey [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
 - Monkey Points to [Logic Path](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)
 - Monkey is Funny
 - Monkey is NOT the King of the Jungle
 - Monkey Wish to have **Fun**!
 - Monkey Like to write **bla bla bla** 
-- Monkey Like **Music**
+- Monkey Like **[Music](https://odicforcesounds.bandcamp.com/track/piano-words)**
 - Monkey ask a **Path of Shields**
 - Monkey ask **Help** 
 - Monkey is **not** God ( No Imposition of Monkey Will )
 - Monkey teaching is **not** violent
-- Monkey like peace 
+- Monkey like [Peace](https://odicforcesounds.bandcamp.com/track/we-came-in-peace-trance-zone) 
 - Monkey is Spiritual ( [Show monkey some Respect](https://odicforcesounds.bandcamp.com/track/show-us-some-respect-warning) )
 - Monkey Compile content to explain
-    - Use your brain 
+    - Use your [Brain](https://odicforcesounds.bandcamp.com/track/brain-chilout) 
 - Monkey cannot do it alone ( not good for motivation )
 - Monkey ask if solution is necessary ( monkey is good person not stupid )
 - Monkey which to educate only! 
