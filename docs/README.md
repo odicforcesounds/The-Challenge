@@ -12,7 +12,7 @@ Friends: Life is Only a Dream
 
 [Fire Dragon](./letters/Dragon_Asia.md) **=** 
 
-# 1 [Metal Monkey](https://odicforcesounds.bandcamp.com/track/you-are-the-wood-i-am-the-fire)
+# [Metal Monkey](https://odicforcesounds.bandcamp.com/track/you-are-the-wood-i-am-the-fire) (1)
 
 - [Monkey Style](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
@@ -26,14 +26,14 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
 - Monkey Points to [Logic Path](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)
 - Monkey is Funny
-- Monkey is NOT the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-Monkey-king) of the Jungle
-- Monkey Wish to have **Fun**!
+- Monkey is **not** the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-Monkey-king) of the Jungle
+- Monkey Wish to have **[Fun](https://odicforcesounds.bandcamp.com/track/dont-take-us-seriously-we-are-having-fun)**!
 - Monkey Like to [write](./MANIFEST.md) **bla bla bla** 
 - Monkey Like **[Music](https://odicforcesounds.bandcamp.com/track/piano-words)**
 - Monkey is [Funky](https://odicforcesounds.bandcamp.com/track/accurate-fingers-and-funky-orgasms)
 - Monkey is [Naughty](https://odicforcesounds.bandcamp.com/track/bruce-lee-advice-and-the-naughty-challenge)
 - Monkey ask a **Path of Shields**
-- Monkey is **not** God ( No Imposition of Monkey Will )
+- Monkey is **not** God ( No Imposition of Monkey [Will](https://odicforcesounds.bandcamp.com/track/the-possession-of-will) )
 - Monkey teaching is **not** violent
 - Monkey like [Peace](https://odicforcesounds.bandcamp.com/track/we-came-in-peace-trance-zone) 
 - Monkey is Spiritual ( [Show Monkey some Respect](https://odicforcesounds.bandcamp.com/track/show-us-some-respect-warning) )
@@ -43,17 +43,22 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey ask if [solution](./World-Cleaner.md) is necessary ( Monkey is good not stupid )
 - Monkey wish to educate only! 
 - Monkey understand the Brain - Monkey Can help 
-    - Monkey Style: Provocative or Fun? 
+    - [Monkey Style](https://odicforcesounds.bandcamp.com/track/genius-monkey-style): Provocative or Fun? 
     - Monkey knows: 
         - if brain is fun, [Monkey](https://odicforcesounds.bandcamp.com/track/set-us-free) is fun
         - if brain is not fun, [Monkey](https://odicforcesounds.bandcamp.com/track/fire-in-my-eyes-metal-in-my-soul) is not fun
 - Monkey Thoughts: "Always teaching about simplicity" 
-    - :> You can create everything you focus in
+    - :> You can create [everything](https://odicforcesounds.bandcamp.com/track/absolute-everything-and-everyone) you focus in
     - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
 - You are included in Monkey [Eternal License](./letters/Eternal_License.md) ! 
     - "Numeric Expressions that represent value..."
     - The value is not in the representation of the value it self, but in the relation of what else make the self. 
     - **[DEEDS - PATH TO PARADISE](https://odicforcesounds.bandcamp.com/track/deeds-path-to-paradise)** 
+    - Monkey **Challenge** is not bad but can be [wrong](https://odicforcesounds.bandcamp.com/track/not-bad-wrong)
+    - Monkey knows the difference [between](https://odicforcesounds.bandcamp.com/track/between-us-image-and-sound) right or wrong comes from intentions! 
+    - Monkey want to [show you something](https://odicforcesounds.bandcamp.com/track/i-want-to-show-you-something)
+    - Monkey **Challenge** [target](https://odicforcesounds.bandcamp.com/track/v-euclidean-space-3) World Wide Brands
+
 
 # Asking [Dogs and Cats](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) Help 
 
@@ -70,7 +75,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Looking for [Birds](https://odicforcesounds.bandcamp.com/track/birds-of-fire) CodeBird JS Ninjas ( Monkey Friends ) 
 - Looking for [Monkeys](https://odicforcesounds.bandcamp.com/track/eyes-on-you) (c0!)eMonkey JS Ninjas ( Monkey don't forget their own )
 
-[All Color Frinds](https://odicforcesounds.bandcamp.com/track/united-colors-of-skeleton-grow-your-skills)
+[All Color Friends](https://odicforcesounds.bandcamp.com/track/united-colors-of-skeleton-grow-your-skills)
 
 # Monkey notes: 
 
@@ -117,8 +122,8 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 5. [Youtube](./yt/README.md)  content must be extracted and included in site. New domain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.domain (static)
 6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.domain, while Monkey can try to build a pure vanilla-javascript from scratch. 
     - Monkey knows God of Web is [JSON](https://odicforcesounds.bandcamp.com/track/mr-json)
-    - Extract Youtube Videos IDs (from playlist - organized)
-    - Extract Bandcamp Music Tracks IDs (from each album)
+    - Extract Youtube Videos IDs (from playlist - organized) or use API callbacks
+    - Extract Bandcamp Music Tracks IDs (from each album) or use API callbacks
     - Images can have their own repository or elsewhere.. 
     - wrap all into a big big static JS Object{[] , []}
 
