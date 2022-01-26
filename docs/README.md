@@ -58,12 +58,11 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
 - Monkey Points to [Logic Path](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)
 - Monkey is Funny
-- Monkey is NOT the King of the Jungle
+- Monkey is NOT the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-monkey-king) of the Jungle
 - Monkey Wish to have **Fun**!
 - Monkey Like to write **bla bla bla** 
 - Monkey Like **[Music](https://odicforcesounds.bandcamp.com/track/piano-words)**
 - Monkey ask a **Path of Shields**
-- Monkey ask **Help** 
 - Monkey is **not** God ( No Imposition of Monkey Will )
 - Monkey teaching is **not** violent
 - Monkey like [Peace](https://odicforcesounds.bandcamp.com/track/we-came-in-peace-trance-zone) 
@@ -87,6 +86,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - **[DEEDS - PATH TO PARADISE](https://odicforcesounds.bandcamp.com/track/deeds-path-to-paradise)** 
 
 # Asking [Dogs and Cats Help](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) 
+
 ## (if you feel it in yourself)
 - No parties for them, is only to code a better world for both
 - Looking for Cat CodeCat JS Ninja 
