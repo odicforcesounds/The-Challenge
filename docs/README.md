@@ -46,9 +46,9 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 [Fire Dragon](./letters/Dragon_Asia.md) **=** 
 
-# 1 (Monkey Style)
+# 1 [Metal Monkey](https://odicforcesounds.bandcamp.com/track/you-are-the-wood-i-am-the-fire)
 
-**If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
+- Monkey Style: **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
 [Metal Monkey](./textos/README.md)
 
@@ -80,7 +80,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
 - You are included in Monkey [Eternal License](./letters/Eternal_License.md) ! 
     - "Numeric Expressions that represent value..."
-    - The value in not in the the representation of the value it self but in the relation of what else make the self. 
+    - The value in not in the representation of the value it self, but in the relation of what else make the self. 
     - **[DEEDS - PATH TO PARADISE](https://odicforcesounds.bandcamp.com/track/deeds-path-to-paradise)** 
 
 # Asking [Dogs and Cats Help](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) 
