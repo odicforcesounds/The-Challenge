@@ -8,7 +8,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 ## Rules to organize EVERYTHING 
 1. Monkey need to organize all text and mix them together to a better sense of interpretation to each reader / listener / visitor..
-2. If Domain is pointer to wiki, Monkey should create more
+2. If Domain is pointing to wiki, Monkey should create more
     - [app.odicforcesonds.com](https://github.com/odicforcesounds/World-Cleaner) (with **World Cleaner Challenge**)
         - Language Versions: 
             - [English Version](./en/README.md) Monkey not English
