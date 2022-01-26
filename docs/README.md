@@ -1,4 +1,4 @@
-Life is only a Dream
+Friends: Life is Only a Dream
 
 # You are the Wood
 
@@ -45,8 +45,8 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey understand the Brain - Monkey Can help 
     - Monkey Style: Provocative or Fun? 
     - Monkey knows: 
-        - if brain is fun, Monkey is fun
-        - if brain is not fun, Monkey is not fun
+        - if brain is fun, [Monkey](https://odicforcesounds.bandcamp.com/track/set-us-free) is fun
+        - if brain is not fun, [Monkey](https://odicforcesounds.bandcamp.com/track/fire-in-my-eyes-metal-in-my-soul) is not fun
 - Monkey Thoughts: "Always teaching about simplicity" 
     - :> You can create everything you focus in
     - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
@@ -62,7 +62,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Looking for Cats [Boom](https://odicforcesounds.bandcamp.com/track/boom-cat) CodeCat JS Ninjas ( Monkey always care about them )
 - Looking for Dogs CodeDog JS Ninjas ( Monkey always care about them )
 - Looking for [Dragons](https://soundcloud.com/odicforcesounds-channel/the-dragon) CodeDragon JS Ninjas ( Monkey Time Warrior Friends )
-- Looking for Wolfs CodeWolf JS Ninjas ( Monkey Supporter Friends )
+- Looking for [Wolfs](https://odicforcesounds.bandcamp.com/track/walking-with-the-river) CodeWolf JS Ninjas ( Monkey Supporter Friends )
 - Looking for Rats CodeRat JS Ninjas ( Monkey [Time-Conditional](https://wiki.odicforcesounds.com/art/pages/YinYang/YY/index.html) Friends )
 - Looking for Serpents CodeSerpent JS Ninjas ( Monkey Secret Friends )
 - Looking for Pigs CodePig JS Ninjas ( please: don't eat everything )
@@ -116,7 +116,7 @@ You are a <b>Coder</b>, and You wish to code and help to build this world wide c
 4. Monkey English is not so good, then maybe Monkey should translate all to Portuguese. Therefor text content become better.
 5. [Youtube](./yt/README.md)  content must be extracted and included in site. New domain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.domain (static)
 6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.domain, while Monkey can try to build a pure vanilla-javascript from scratch. 
-    - Monkey knows the God of Web is [Mr.JSON](https://odicforcesounds.bandcamp.com/track/mr-json)
+    - Monkey knows God of Web is [JSON](https://odicforcesounds.bandcamp.com/track/mr-json)
     - Extract Youtube Videos IDs (from playlist - organized)
     - Extract Bandcamp Music Tracks IDs (from each album)
     - Images can have their own repository or elsewhere.. 
