@@ -127,4 +127,9 @@
   - Youtube [videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExC6LXfYENJH8TUuAsmf2W-_)
   - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
+### Comentaŕios a Notícias
+  - Descrição: Lista de videos com comentários a noticias
+  - Youtube [videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExCuVyPvTzY9LuQtgnWMNXUN)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+
 click [here](../README.md) to go into the main page
