@@ -1,14 +1,14 @@
-Friends: Life is Only a Dream
+Friends: Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-dream)
 
 # You are the Wood
 
-## America Yin (1)
+## America [Yin](https://odicforcesounds.bandcamp.com/track/accept-our-gift-ring-of-fire-yin) (1)
 
 [White Tiger](./letters/Tiger_America.md) **+**
 
 # I am the Fire 
 
-## Asia Yang (1)
+## Asia [Yang](https://odicforcesounds.bandcamp.com/track/accept-our-gift-ring-of-fire-yang) (1)
 
 [Fire Dragon](./letters/Dragon_Asia.md) **=** 
 
@@ -20,19 +20,21 @@ Friends: Life is Only a Dream
 
 Then we split the problem into several pieces.. 
 
-What else is simplicity if not a bunch of other simplicities in sequence, while all of them represent the complexity it self, which is complex if you wish to understand! 
+What else is simplicity if not a bunch of other simplicities in sequence, while all of them represent the complexity it self, which is complex if you wish to understand!
 
+- Monkey brings [Change](https://odicforcesounds.bandcamp.com/track/we-are-here-for-change)
 - Monkey Can [Teach](https://odicforcesounds.bandcamp.com/track/crafting-new-generations) if You Wish
-- Monkey [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
+- Monkey want to [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
 - Monkey Points to [Logic Path](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)
-- Monkey is Funny
+- Monkey wish to [Care](https://odicforcesounds.bandcamp.com/track/care-us-and-we-will-care-you)
 - Monkey is **not** the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-Monkey-king) of the Jungle
 - Monkey Wish to have **[Fun](https://odicforcesounds.bandcamp.com/track/dont-take-us-seriously-we-are-having-fun)**!
+- Monkey want to [play](https://odicforcesounds.bandcamp.com/track/well-played)
 - Monkey Like to [write](./MANIFEST.md) **bla bla bla** 
-- Monkey Like **[Music](https://odicforcesounds.bandcamp.com/track/piano-words)**
+- Monkey Like [Music](https://odicforcesounds.bandcamp.com/track/piano-words)
 - Monkey is [Funky](https://odicforcesounds.bandcamp.com/track/accurate-fingers-and-funky-orgasms)
 - Monkey is [Naughty](https://odicforcesounds.bandcamp.com/track/bruce-lee-advice-and-the-naughty-challenge)
-- Monkey ask a **Path of Shields**
+- Monkey ask an [advice](https://odicforcesounds.bandcamp.com/track/ask-an-advice-and-you-shall-rise)
 - Monkey is **not** God ( No Imposition of Monkey [Will](https://odicforcesounds.bandcamp.com/track/the-possession-of-will) )
 - Monkey teaching is **not** violent
 - Monkey like [Peace](https://odicforcesounds.bandcamp.com/track/we-came-in-peace-trance-zone) 
@@ -41,16 +43,16 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - Use your [Brain](https://odicforcesounds.bandcamp.com/track/brain-chilout) 
 - Monkey cannot do it alone ( not good for motivation )
 - Monkey ask if [solution](./World-Cleaner.md) is necessary ( Monkey is good not stupid )
-- Monkey wish to educate only! 
+- Monkey wish to [educate](https://odicforcesounds.bandcamp.com/track/genius-monkey-style) only! 
 - Monkey understand the Brain - Monkey Can help 
-    - [Monkey Style](https://odicforcesounds.bandcamp.com/track/genius-monkey-style): Provocative or Fun? 
+    - Monkey [Style](https://odicforcesounds.bandcamp.com/track/dark-warrior): Provocative or Fun? 
     - Monkey knows: 
         - if brain is fun, [Monkey](https://odicforcesounds.bandcamp.com/track/set-us-free) is fun
         - if brain is not fun, [Monkey](https://odicforcesounds.bandcamp.com/track/fire-in-my-eyes-metal-in-my-soul) is not fun
 - Monkey Thoughts: "Always teaching about simplicity" 
     - :> You can create [everything](https://odicforcesounds.bandcamp.com/track/absolute-everything-and-everyone) you focus in
     - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
-- You are included in Monkey [Eternal License](./letters/Eternal_License.md) ! 
+- You are included in Monkey [Eternal License](https://wiki.odicforcesounds.com/art/pages/License/index.html) ! 
     - "Numeric Expressions that represent value..."
     - The value is not in the representation of the value it self, but in the relation of what else make the self. 
     - **[DEEDS - PATH TO PARADISE](https://odicforcesounds.bandcamp.com/track/deeds-path-to-paradise)** 
@@ -58,8 +60,9 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - Monkey knows the difference [between](https://odicforcesounds.bandcamp.com/track/between-us-image-and-sound) right or wrong comes from intentions! 
     - Monkey want to [show you something](https://odicforcesounds.bandcamp.com/track/i-want-to-show-you-something)
     - Monkey **Challenge** [target](https://odicforcesounds.bandcamp.com/track/v-euclidean-space-3) World Wide Brands
-    - World Wide Brands don't know Monkey is here, then Monkey found Awesome [Fake](https://github.com/odicforcesounds/fakeSolutions) data. 
+    - [World Wide Brands](https://odicforcesounds.bandcamp.com/track/mission-world-wide-target) don't know Monkey is here, then Monkey found Awesome [Fake](https://github.com/odicforcesounds/fakeSolutions) data. 
     - If Monkey dream is an [illusion](https://odicforcesounds.bandcamp.com/track/myth-illusion-memories), then can become real. What is Your Will? 
+
 
 # Asking [Dogs and Cats](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) Help 
 
@@ -94,7 +97,7 @@ Open Your Eyes. What Can You See, what Can You Do?
 
 [Monkey have a Body - Monkey Can Feel](https://odicforcesounds.bandcamp.com/track/i-can-feel-i-have-a-body)
 
-You are a <b>Coder</b>, and You wish to code and help to build this world wide challenge!
+If You are a <b>Coder</b>, and You wish to code and help to build this world wide challenge!
 
 [Hacking - Into the Error Festival Patch](https://odicforcesounds.bandcamp.com/track/hacking-into-the-error-festival-patch)
 
