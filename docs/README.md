@@ -81,6 +81,21 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 [All Color Friends](https://odicforcesounds.bandcamp.com/track/united-colors-of-skeleton-grow-your-skills)
 
+# Asking Help to All Activist Groups of the World 
+
+- Monkey knows you don't like it so much. The point to ask Your help is to make a consideration of the part of this challenge where even children in school can gain value to the value they have demonstrated, where that value is also economic. ( if all children can earn "money" from their studies, at least the majority of world wide children can escape from hungry states and more.. Even thinking that each line of code that anyone in the world share with someone else, have value as well ) - AGAIN: for Monkey, the value is not in the **Numberic Expression** that represent value, but in between. The value for each action is in the action it self and the value for each understandable value is in the capacity to understand the problem. But if we don't value in this economic world, what is the most value tresure of each singularity, then each singularity have no value at all. 
+
+# Asking Colaboration Help to All Brands of the World 
+
+- Monkey contract is simple: 
+    - Brand must agree with the next condition. 
+    - {{BRAND}} desire to register to this challenge to gain social image that promote civic actions, where the value is based on all paths this challenge propose to care. Therefor we will help!
+
+# Asking Colaboration Help to All Political Forces of All Countries in the World 
+
+- Monkey Knows: The principles of good behavior in society is one of the most precious value each culture need to have to live in peace in society, while if they care, they can do better. 
+- In Political Terms, Monkey have no value, while Monkey challenge is designed to value all the values all Political group in society wish to see in everyone else.  
+
 # Monkey notes: 
 
 If "we" like, we can include our self's on it...<br>
@@ -88,7 +103,7 @@ If "we" don't like, we can exclude our self's from it...
 
 ## Respect 
 
-[Spiritual Life](https://odicforcesounds.bandcamp.com/track/respect-spiritual-life) : [All Energy - All Soul](https://odicforcesounds.bandcamp.com/track/organic-fields-all-energy-all-soul) 
+[Spiritual Life](https://odicforcesounds.bandcamp.com/track/respect-spiritual-life) : [Organic Fields](https://odicforcesounds.bandcamp.com/track/organic-fields-all-energy-all-soul) 
 
 Close Your Eyes. What Can You See, What Can You Do?<br>
 Open Your Eyes. What Can You See, what Can You Do?
@@ -121,7 +136,7 @@ If You are a <b>Coder</b>, and You wish to code and help to build this world wid
         - wiki.odicforcesonds.com (mkdocs github default hacker template)
         - Monkey can improve this content using **Hexo**
 3. Monkey need several versions of the same website?
-    - Maybe not... while Monkey like to static version
+    - Maybe not... while Monkey like the static version
 4. Monkey English is not so good, then maybe Monkey should translate all to Portuguese. Therefor text content become better.
 5. [Youtube](./yt/README.md)  content must be extracted and included in site. New subdomain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.subdomain (static)
 6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.subdomain, while Monkey can try to build a pure vanilla-javascript from scratch. 
