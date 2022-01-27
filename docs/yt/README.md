@@ -22,24 +22,84 @@
   - **Youtube**: [Video](https://www.youtube.com/playlist?list=PLEIKvfX5iExBzVb0gbo72xIU6xaV1bPXd)
   - **Nota do video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
-### 5. Crítica Sem Piedade
-  - Descrição: "Lista de Videos que produzem algumas Críticas sem Piedade"
-  - Youtube: [Video](https://www.youtube.com/playlist?list=PLEIKvfX5iExArL3bi2y0VoaVhKWSP3dAv)
-  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+### 8. Marcha Mundial das Mulheres 
+  - Descrição: "Lista de videos feitos em prol à Marcha Mundial das Mulheres"
+  - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExCm9YrriaKIy-4hKrKhPlGk)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada) 
 
-### 6. Macaco Preguiçoso
-  - Descrição: "Lista de videos das aulas de Linux e outros temas relevantes do mundo do Código Livre"
-  - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExD8upuQYCaLJpCx6sKtxg3N)
-  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+### Relativo à Educação
+  - Descrição: Lista de videos relativos às problemáticas socio-comportantais na educação
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExBB_i4rUOpF7odCfIvYcL_K)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada) 
 
 ### 7. Só Tributos
   - Descrição: "Lista de videos que têm como intenção fazer somente tributos"
   - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExDflCxQ2SUHcOzaodhD7onf)
   - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
-### 8. Marcha Mundial das Mulheres 
-  - Descrição: "Lista de videos feitos em prol à Marcha Mundial das Mulheres"
-  - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExCm9YrriaKIy-4hKrKhPlGk)
+### 5. Crítica Sem Piedade
+  - Descrição: "Lista de Videos que produzem algumas Críticas sem Piedade"
+  - Youtube: [Video](https://www.youtube.com/playlist?list=PLEIKvfX5iExArL3bi2y0VoaVhKWSP3dAv)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+ 
+### A Problemática do Verbo
+  - Descrição: A influência da informação como condição existencial
+  - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExA_F_kMb0z2AHSndXkVL72O)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Questões da Mística
+  - Descrição: Relativo à noção da mística, isto é, na consideração de ser verdade. 
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExA3v9-KCrNkgAUHlzna18Yv)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Relativo ao Ego
+  - Descrição: O Ego é a ponte entre o reconhecimento de nós próprios e as realidades envolventes. 
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExBBXRizfhxVNEunRTDJM2os)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Os melhores Improvisos
+  - Descrição: Videos de várias listas que tiveram votos positivos
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExAAQ89WDGIkAileiWzfn7Ur)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Assuntos Políticos
+  - Descrição: Politica é um tema relativo aos interesses económicos e culturais.
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExCtnvJEBbhSEL2wUgUpVAf1)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Assuntos Religiosos
+  - Descrição: A influência das religiões como base da consciência e o comportamento perante a mesma
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExCX9WVIQK6BWL3U-cfyUFBY)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Relativo ao Racismo
+  - Descrição: Lista de videos relativos à problemática do Racismo
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExDiEAahdHzcC25hIhLJCHx2)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Questões Psíquicas
+  - Descrição: Lista de videos relativos às problemáticas da sociedade ( a línguagem ) 
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExCs9dPpMr79cUp6zMmRwYG-)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Crítica Judicial
+  - Descrição: Lista de videos relativos a problemáticas que o sistema judicial costuma prestar atenção
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExBH9j71gCWK_gotTjAHqQXZ)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Crítica sem Piedade
+  - Descrição: Lista de videos relativos a várias outras problemáticas da sociedade
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExArL3bi2y0VoaVhKWSP3dAv)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### A Mudança
+  - Descrição: Lista de videos relativo às simplicidades da vida
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExCzgYHeOhqNrEE1nxQaWbjA)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### 6. Macaco Preguiçoso
+  - Descrição: "Lista de videos das aulas de Linux e outros temas relevantes do mundo do Código Livre"
+  - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExD8upuQYCaLJpCx6sKtxg3N)
   - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
 click [here](../README.md) to go into the main page
