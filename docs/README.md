@@ -89,12 +89,13 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 - Monkey contract is simple: 
     - Brand must agree with the next condition. 
-    - {{BRAND}} desire to register to this challenge to gain social image that promote civic actions, where the value is based on all paths this challenge propose to care. Therefor we will help!
+    - {{ BRANDNAME }} desire to register to this challenge to gain social image that promote civic actions, where the value is based on all paths this challenge propose to care. Therefor we will help! 
 
 # Asking Colaboration Help to All Political Forces of All Countries in the World 
 
 - Monkey Knows: The principles of good behavior in society is one of the most precious value each culture need to have to live in peace in society, while if they care, they can do better. 
-- In Political Terms, Monkey have no value, while Monkey challenge is designed to value all the values all Political group in society wish to see in everyone else.  
+- In Political Terms, Monkey have no value, while Monkey challenge is designed to value all the values all Political group in society wish to see in everyone else. 
+- "Rights ask Duties and Duties ask Actions" Which means: 1 + 1 = 1 OR 3 
 
 # Monkey notes: 
 
