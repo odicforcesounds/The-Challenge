@@ -87,6 +87,11 @@
   - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExBH9j71gCWK_gotTjAHqQXZ)
   - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
 
+### Militarismo
+  - Descrição: Lista de videos relativos às problemáticas politicas e militares
+  - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExCwBMD-6HyS8hYtNk2CGvng)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
 ### Crítica sem Piedade
   - Descrição: Lista de videos relativos a várias outras problemáticas da sociedade
   - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExArL3bi2y0VoaVhKWSP3dAv)
@@ -97,9 +102,29 @@
   - Youtube [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExCzgYHeOhqNrEE1nxQaWbjA)
   - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
 
-### 6. Macaco Preguiçoso
+### Analogias Tecnológicas
+  - Descrição: Lista de videos relativos à forma que melhor se pode entender tudo ( analogias ) 
+  - Youtube  [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExABL8iAOb3xfywvqxkdfYnf)
+  - Nota do Video: Para maiores de 10 ( conteudo sensivel e uso de linguagem pouco cuidada ) 
+
+### Macaco Preguiçoso
   - Descrição: "Lista de videos das aulas de Linux e outros temas relevantes do mundo do Código Livre"
   - Youtube: [video](https://www.youtube.com/playlist?list=PLEIKvfX5iExD8upuQYCaLJpCx6sKtxg3N)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+
+### Instalação do Slackware Linux
+  - Descrição: Lista de videos relativos à instalação do Slackware Linux
+  - Youtube [Videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExBpp-0SzsQGwO8UIdXxrq4K)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+
+### Instalação do Gentoo Linux
+  - Descrição: Lista de videos relativos à instalação do Gentoo Linux
+  - Youtube [videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExAN6ojs-McGEJyb5YVNGg5U)
+  - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+
+### Projectos OpenSource
+  - Descrição: Lista de videos relativos às novas tecnologias
+  - Youtube [videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExC6LXfYENJH8TUuAsmf2W-_)
   - Nota do video: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
 click [here](../README.md) to go into the main page
