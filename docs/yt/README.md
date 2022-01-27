@@ -1,4 +1,4 @@
-#Lista de Videos do Youtube
+# Lista de Videos do Youtube
 
 ### Caminho de Escudos
   - Descrição: " Lista de Videos sobre o meu Pedido de um Caminho de Escudos"
@@ -125,7 +125,7 @@
   - Youtube [Videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExC6LXfYENJH8TUuAsmf2W-_)
   - Nota dos videos: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
 
-### Comentaŕios a Notícias
+### Comentários a Notĩcias
   - Descrição: Lista de videos com comentários a noticias
   - Youtube [videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExCuVyPvTzY9LuQtgnWMNXUN)
   - Nota do videos: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
