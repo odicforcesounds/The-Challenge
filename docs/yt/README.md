@@ -1,4 +1,4 @@
-#Lista de Videos do Youtune
+#Lista de Videos do Youtube
 
 ### Caminho de Escudos
   - Descrição: " Lista de Videos sobre o meu Pedido de um Caminho de Escudos"
