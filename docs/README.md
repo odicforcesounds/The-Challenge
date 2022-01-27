@@ -140,7 +140,7 @@ If You are a <b>Coder</b>, and You wish to code and help to build this world wid
 4. Monkey English is not so good, then maybe Monkey should translate all to Portuguese. Therefor text content become better.
 5. [Youtube](./yt/README.md)  content must be extracted and included in site. New subdomain? ???.odicforcesounds.com .. if website content is in Portuguese, then videos can be included in art.subdomain (static)
 6. The propose of using Angular was to learn JavaScript. Monkey didn't learn any JavaScript but how to include pages in routes. Monkey should improve v.subdomain, while Monkey can try to build a pure vanilla-javascript from scratch. 
-    - Monkey knows God of Web is [JSON](https://odicforcesounds.bandcamp.com/track/mr-json)
+    - Monkey knows that God of Web is [JSON](https://odicforcesounds.bandcamp.com/track/mr-json)
     - Extract Youtube Videos IDs (from playlist - organized) or use API callbacks
     - Extract Bandcamp Music Tracks IDs (from each album) or use API callbacks
     - Images can have their own repository or elsewhere.. 
