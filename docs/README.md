@@ -1,3 +1,6 @@
+
+
+
 Friends: Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-dream)
 
 # You are the Wood
@@ -29,7 +32,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey Points to [Logic Path](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)
 - Monkey wish to [Care](https://odicforcesounds.bandcamp.com/track/care-us-and-we-will-care-you)
 - Monkey is **not** the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-Monkey-king) of the Jungle
-- Monkey Wish to have **[Fun](https://odicforcesounds.bandcamp.com/track/dont-take-us-seriously-we-are-having-fun)**!
+- Monkey Wish to have [Fun](https://odicforcesounds.bandcamp.com/track/dont-take-us-seriously-we-are-having-fun)!
 - Monkey want to [Play](https://odicforcesounds.bandcamp.com/track/well-played)
 - Monkey Like to [Write](./MANIFEST.md) **bla bla bla** 
 - Monkey Like [Music](https://odicforcesounds.bandcamp.com/track/piano-words)
@@ -48,8 +51,8 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey understand the Brain - Monkey Can help 
     - Monkey [Style](https://odicforcesounds.bandcamp.com/track/dark-warrior): Provocative or Fun? 
     - Monkey knows: 
-        - if brain is fun, [Monkey](https://odicforcesounds.bandcamp.com/track/set-us-free) is fun
-        - if brain is not fun, [Monkey](https://odicforcesounds.bandcamp.com/track/fire-in-my-eyes-metal-in-my-soul) is not fun
+      - if brain is fun, [Monkey](https://odicforcesounds.bandcamp.com/track/set-us-free) is fun
+      - if brain is not fun, [Monkey](https://odicforcesounds.bandcamp.com/track/fire-in-my-eyes-metal-in-my-soul) is not fun
 - Monkey Thoughts: "Always teaching about simplicity" 
     - :> You can create [Everything](https://odicforcesounds.bandcamp.com/track/absolute-everything-and-everyone) you focus in
     - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
@@ -64,9 +67,9 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - [World Wide Brands](https://odicforcesounds.bandcamp.com/track/mission-world-wide-target) don't know Monkey is here, then Monkey found Awesome [Fake](https://github.com/odicforcesounds/fakeSolutions) data. 
     - If Monkey dream is an [Illusion](https://odicforcesounds.bandcamp.com/track/myth-illusion-memories), then can become real. What is Your Will? 
 
-# Asking [Dogs and Cats](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) Help 
+# Monkey Ask [Dogs and Cats](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) Help 
 
-## (if you feel it in yourself)
+## (if you feel it in yourself) as well
 - No parties for them, is only to code a better world for both
 - Looking for Cats [Boom](https://odicforcesounds.bandcamp.com/track/boom-cat) CodeCat JS Ninjas ( Monkey always care about them )
 - Looking for Dogs CodeDog JS Ninjas ( Monkey always care about them )
@@ -81,21 +84,21 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 
 [All Color Friends](https://odicforcesounds.bandcamp.com/track/united-colors-of-skeleton-grow-your-skills)
 
-# Asking Help to All Activist Groups of the World 
+## Asking Help to All Activist Groups of the World 
 
-- Monkey knows you don't like it so much. The point to ask Your help is to ask you to make a consideration of the part of this challenge where even children in school can gain value to the value they have demonstrated, where that value is also economic. ( if all children can earn "money" from their studies, at least the majority of world wide children can escape from hungry states and more.. Even thinking that each line of code that anyone in the world share with someone else, have value as well ) - AGAIN: for Monkey, the value is not in the **Numberic Expression** that represent value, but in between. The value for each action is in the action it self and the value for each understandable problem is in the capacity to solve the problem. But if we don't value in this economic world, what is the most value tresure of each singularity, then each singularity have no value at all. 
+- Monkey knows you don't like it so much. The point to ask Your help is to ask you to make a consideration of the part of this challenge where even children in school can gain value to the value they have demonstrated, where that value is also economic. ( if all children can earn "money" from their studies, at least the majority of world wide children can escape from hungry states and more.. Even thinking that each line of code that anyone in the world share with someone else, have value as well ) - AGAIN: for Monkey, the value is not in the **Numberic Expression** that represent value, but in between. The value for each action is in the action it self and the value for each understandable problem is in the capacity to solve the problem. But if we don't value in this economic world, what is the most value tresure of each singularity, then each singularity have no value at all. About the control problem, keep educating good practics, keep doing good projects and good software! ( what is good if not the "object" which we focus in? ) And You know better than me, even to have good software many did break it... while is a logic challenge to those who know how to code, is as well based on intentions. We can even ask bitcoin or other "digital" coins ( electric impulses ) to join and give enought value to everyone, so everyone can be, at least free of choice. While I don't really care about that value. Have the same value of this content. :) 
 
-# Asking Colaboration Help to All Brands of the World 
+## Asking Colaboration Help from All Brands of the World 
 
 - Monkey contract is simple: 
     - Brand must agree with the next condition. 
     - {{ BRANDNAME }} desire to register to this challenge to gain social image that promote civic actions, where the value is based on all paths this challenge propose to care. Therefor we will help! 
 
-# Asking Colaboration Help to All Political Forces of All Countries in the World 
+## Asking Colaboration Help to All (CIVIC) Political Groups of All Countries in the World 
 
 - Monkey Knows: The principles of good behavior in society is one of the most precious value each culture need to have to live in peace in society, while if they care, they can do better. 
 - In Political Terms, Monkey have no value, while Monkey challenge is designed to value all the values all Political group in society wish to see in everyone else. 
-- "Rights ask Duties and Duties ask Actions" Which means: 1 + 1 = 1 OR 3 
+- " **Rights** ask **Duties** and **Duties** ask **Actions**" Which means: 1 + 1 = 1 OR 3 
 
 # Monkey notes: 
 

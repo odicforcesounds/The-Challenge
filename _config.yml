@@ -1,5 +1,9 @@
 theme: jekyll-theme-hacker
-site_name: OdicforceSounds Challenge
+site_name: OdicforceSounds Gifts and Challenges
+site_description: Fantasy[OM] + Logic[Spirity] = Application[Expression]
 repo_url: https://github.com/odicforcesounds/The-Challenge
 nav: 
-  - Home: docs/README.md
+Home: docs/README.md
+show_sidebar: true
+
+
