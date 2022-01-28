@@ -17,7 +17,7 @@ Friends: Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-wa
 
 # [Metal Monkey](https://odicforcesounds.bandcamp.com/track/you-are-the-wood-i-am-the-fire) (1)
 
-- [Monkey Style](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
+- [Monkey Thoughts](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
 [JavaScript](https://odicforcesounds.bandcamp.com/track/dive-into-the-world-of-javascript) and [Computer Technology](https://odicforcesounds.bandcamp.com/track/just-a-technical-skill-set) is all about Logic.
 
