@@ -105,7 +105,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - As You can see, Monkey is just here, writting about it without producing it. 
 - Is everything I wish to see as the future of next generations? Is not! 
 - But it is a tool to help to simplify many social / economical problems. 
-- Like Mobil devices are, like computers are.. [Tools](https://odicforcesounds.bandcamp.com/track/we-are-tools-objects-of-expression)... Objects of Expressio
+- Like Mobil devices are, like computers are.. [Tools](https://odicforcesounds.bandcamp.com/track/we-are-tools-objects-of-expression)... Objects of Expression
 - Monkey quest is simple: if this doesn't work, it means everyone knows it is useless. Monkey like that idea. Monkey like to live in the world of ideas :D 
 - While ideas create everything, but more than ideas, principles where the focused content is beneficial to many! 
 
