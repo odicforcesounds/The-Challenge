@@ -108,6 +108,10 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Like Mobil devices are, like computers are.. [Tools](https://odicforcesounds.bandcamp.com/track/we-are-tools-objects-of-expression)... Objects of Expression
 - Monkey quest is simple: if this doesn't work, it means everyone knows it is useless. Monkey like that idea. Monkey like to live in the world of ideas :D 
 - While ideas create everything, but more than ideas, principles where the focused content is beneficial to many! 
+- Anyway, I share everything for free and using some super simple ideas ( even a child can have them ) I try to solve world wide Economic and Social Problems :)
+- This is Monkey Try not Monkey Choice!!!! 
+- Monkey knows you will make joke of that, while Monkey and world children make joke of you! :D ( don't be mad with us ) 
+
 
 ## Asking Colaboration Help from All Brands of the World 
 
