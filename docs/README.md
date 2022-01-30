@@ -1,7 +1,8 @@
 
 
+Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-dream)
 
-Friends: Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-dream)
+- Welcome to the Era of Fire - 2016 - Year of the Red Fire Monkey
 
 # You are the Wood
 
@@ -11,11 +12,15 @@ Friends: Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-wa
 
 # I am the Fire 
 
+- We Came in Peace - 1980 - Year of the Golden Metal Monkey 
+
 ## Asia [Yang](https://odicforcesounds.bandcamp.com/track/accept-our-gift-ring-of-fire-yang) (1)
 
 [Fire Dragon](./letters/Dragon_Asia.md) **=** 
 
 # [Metal Monkey](https://odicforcesounds.bandcamp.com/track/you-are-the-wood-i-am-the-fire) (1)
+
+- Which means: 1 + 1 = 1 OR 3 ( [Tao / Dao](https://wiki.odicforcesounds.com/art/pages/Dao/index.html) )
 
 - [Monkey Thoughts](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
@@ -124,6 +129,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey Knows: The principles of good behavior in society is one of the most precious value each culture need to have to live in peace in society, while if they care, they can do better. 
 - In Political Terms, Monkey have no value, while Monkey challenge is designed to value all the values all Political group in society wish to see in everyone else. 
 - " **Rights** ask **Duties** and **Duties** ask **Actions**" Which means: 1 + 1 = 1 OR 3 
+- Monkey was joking! Monkey and world wide people don't need Governments help :D ( at least peace ) 
 
 # Monkey notes: 
 
@@ -152,16 +158,16 @@ If You are a <b>Coder</b>, and You wish to code and help to build this world wid
 1. Monkey need to organize all text and mix them together to a better sense of interpretation to each reader / listener / visitor..
 2. If subdomain is pointing to wiki, Monkey should create more
     - [app.odicforcesonds.com](https://github.com/odicforcesounds/World-Cleaner) (with **World Cleaner Challenge**)
-        - Language Versions: 
-            - [English Version](./en/README.md) Monkey is not English
-            - [Portuguese Version](./pt/README.md) Monkey can do Better
-            - Help me to Add More Translations 
+    - Language Versions: 
+    - [English Version](./en/README.md) Monkey is not English
+    - [Portuguese Version](./pt/README.md) Monkey can do Better
+    - Help me to Add More Translations 
     - [art.odicforcesounds.com](https://wiki.odicforcesounds.com/art/index.html) ( no JavaScript )
     - [v.odicforcesounds.com](https://wiki.odicforcesounds.com/v/) ( pure JavaScript )
     - [blogs.odicforcesounds.com](https://wiki.odicforcesounds.com/blogjs/src/b.html)
         - Other blogs content posts can be included: 
-            1. [Criticasempiedade](https://criticasempiedade.blogspot.com/)
-            2. [MacacoPreguiçoso](https://macacopreguicoso.blogspot.com/) 
+    1. [Criticasempiedade](https://criticasempiedade.blogspot.com/)
+    2. [MacacoPreguiçoso](https://macacopreguicoso.blogspot.com/) 
         - wiki.odicforcesonds.com (mkdocs github default hacker template)
         - Monkey can improve this content using **Hexo**
 3. Monkey need several versions of the same website?
