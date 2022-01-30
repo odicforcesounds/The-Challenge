@@ -116,7 +116,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Anyway, I share everything for free and using some super simple ideas ( even a child can have them ) I try to solve world wide Economic and Social Problems :)
 - This is Monkey Try not Monkey Choice!!!! 
 - Monkey knows you will make joke of that, while Monkey and world children make joke of you! :D ( don't be mad with us ) 
-
+- Monkey Time-Spended in something don't make something value, but monkey it self. Are You giving value to something that is not part of Yourself!? 
 
 ## Asking Colaboration Help from All Brands of the World 
 
@@ -124,12 +124,13 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
     - Brand must agree with the next condition. 
     - {{ BRANDNAME }} desire to register to this challenge to gain social image that promote civic actions, where the value is based on all paths this challenge propose to care. Therefor we will help! 
 
-## Asking Colaboration Help from all (CIVIC) Political Groups of All Countries in the World 
+## Asking Colaboration Help from all (CIVIC) Political Groups of All Countries in the World ??? 
 
 - Monkey Knows: The principles of good behavior in society is one of the most precious value each culture need to have to live in peace in society, while if they care, they can do better. 
 - In Political Terms, Monkey have no value, while Monkey challenge is designed to value all the values all Political group in society wish to see in everyone else. 
 - " **Rights** ask **Duties** and **Duties** ask **Actions**" Which means: 1 + 1 = 1 OR 3 
 - Monkey was joking! Monkey and world wide people don't need Governments help :D ( at least peace ) 
+- Maybe Not, maybe you don't care since you only care about money :p .. even then, you are the only ones who can make it "legal" while in the process You ask money to offer what you should offer without asking money. So yeah, maybe I will not ask governments help ( people can help each other without a government ). 
 
 # Monkey notes: 
 
