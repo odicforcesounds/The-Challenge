@@ -20,7 +20,7 @@ Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-
 
 # [Metal Monkey](https://odicforcesounds.bandcamp.com/track/you-are-the-wood-i-am-the-fire) (1)
 
-- Which means: 1 + 1 = 1 OR 3 ( [Tao / Dao](https://wiki.odicforcesounds.com/art/pages/Dao/index.html) )
+- Which means: 1 + 1 = 1 OR 3 ( [Tao / Dao](https://art.odicforcesounds.com/pages/Dao/index.html) )
 
 - [Monkey Thoughts](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
@@ -34,7 +34,6 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey Can [Teach](https://odicforcesounds.bandcamp.com/track/crafting-new-generations) if You Wish
 - Monkey want to [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
 - Monkey brings [Fire](https://odicforcesounds.bandcamp.com/track/we-bring-fire-the-magic-of-fantasy)
-- Monkey Points to [Logic Path](https://wiki.odicforcesounds.com/art/pages/Dao/index.html)
 - Monkey wish to [Care](https://odicforcesounds.bandcamp.com/track/care-us-and-we-will-care-you)
 - Monkey is **not** the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-Monkey-king) of the Jungle
 - Monkey Wish to have [Fun](https://odicforcesounds.bandcamp.com/track/dont-take-us-seriously-we-are-having-fun)!
@@ -61,7 +60,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Monkey Thoughts: "Always teaching about simplicity" 
     - :> You can create [Everything](https://odicforcesounds.bandcamp.com/track/absolute-everything-and-everyone) you focus in
     - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
-- You are included in Monkey [Eternal License](https://wiki.odicforcesounds.com/art/pages/License/index.html) ! 
+- You are included in Monkey [Eternal License](https://art.odicforcesounds.com/pages/License/index.html) ! 
     - "Numeric Expressions that represent value..."
     - The value is not in the representation of the value it self, but in the relation of what else make the self. 
     - **[DEEDS - PATH TO PARADISE](https://odicforcesounds.bandcamp.com/track/deeds-path-to-paradise)** 
@@ -80,7 +79,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Looking for Dogs CodeDog JS Ninjas ( Monkey always care about them )
 - Looking for [Dragons](https://soundcloud.com/odicforcesounds-channel/the-dragon) CodeDragon JS Ninjas ( Monkey Time Warrior Friends )
 - Looking for [Wolfs](https://odicforcesounds.bandcamp.com/track/walking-with-the-river) CodeWolf JS Ninjas ( Monkey Supporter Friends )
-- Looking for Rats CodeRat JS Ninjas ( Monkey [Time-Conditional](https://wiki.odicforcesounds.com/art/pages/YinYang/YY/index.html) Friends )
+- Looking for Rats CodeRat JS Ninjas ( Monkey [Time-Conditional](https://art.odicforcesounds.com/pages/YinYang/YY/index.html) Friends )
 - Looking for Serpents CodeSerpent JS Ninjas ( Monkey Secret Friends )
 - Looking for Pigs CodePig JS Ninjas ( please: don't eat everything )
 - Looking for [Horses](https://odicforcesounds.bandcamp.com/track/water-horses-woman-freedom) CodeHorse JS Ninjas ( Monkey Friends )
@@ -163,8 +162,6 @@ If You are a <b>Coder</b>, and You wish to code and help to build this world wid
     - [English Version](./en/README.md) Monkey is not English
     - [Portuguese Version](./pt/README.md) Monkey can do Better
     - Help me to Add More Translations 
-    - [art.odicforcesounds.com](https://wiki.odicforcesounds.com/art/index.html) ( no JavaScript )
-    - [v.odicforcesounds.com](https://wiki.odicforcesounds.com/v/) ( pure JavaScript )
     - [blogs.odicforcesounds.com](https://wiki.odicforcesounds.com/blogjs/src/b.html)
         - Other blogs content posts can be included: 
     1. [Criticasempiedade](https://criticasempiedade.blogspot.com/)
