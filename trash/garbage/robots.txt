@@ -1,4 +1,0 @@
-# robots.txt for https://wiki.odicforcesounds.com/
-
-User-agent: *
-Sitemap: https://wiki.odicforcesounds.com/sitemal.xml
