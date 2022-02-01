@@ -6,5 +6,5 @@ This repository was made as a concept proof of this idea: 1 + 1 = 1 OR 3
 
 [Creative artwork of OdicforceSounds](https://art.odicforcesounds.com)
 
-[Creative text of OdicforceSounds](https://wiki.odicforcesounds.com)
+[Creative text of OdicforceSounds Challenge](https://wiki.odicforcesounds.com)
 
