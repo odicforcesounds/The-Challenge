@@ -1,4 +1,0 @@
-{
-  "blogjs/js/*.js": {"alternate": "test/{}.js"},
-  "test/js/*.js": {"alternate": "src/{}.js"}
-}
