@@ -1,10 +1,36 @@
 # Nothing in here
 
-This repository was made as a concept proof of this idea: 1 + 1 = 1 OR 3 
+This repository was made as a concept proof of this idea: 1 + 1 = 1 OR 3
 
-## Check: 
+Everything works that way in Monkey Brain!
 
-[Creative artwork of OdicforceSounds](https://art.odicforcesounds.com)
+## Check:
 
-[Creative text of OdicforceSounds Challenge](https://wiki.odicforcesounds.com)
+```javascript
+if (source !== empty) {
+	const fantasy = 1;
+	const logic = 1;
+	const application = 1;
+	const source = fantasy + logic + application;
+}
+```
 
+<h2> Fantasy </h2>
+
+OM: [Creative Artwork](https://art.odicforcesounds.com) + [MonkeyBooks](https://odicforcesounds.github.io/MonkeyBooks/)
+
+<h2> Logic </h2>
+
+Brain + Internet = Communication ( union point - Synchronized )
+
+<h4>Computers</h4>
+
+- 1: Concepts ( fantasy ) +
+- 1: Language ( logic ) =
+- 1: Application ( expression )
+
+<h4> Brains </h4>
+
+- 1: Educational Principles ( fantasy ) +
+- 1: Educational Tools ( logic ) =
+- 1: Educational Behaviors ( expression )
