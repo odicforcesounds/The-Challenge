@@ -1,17 +1,21 @@
 # Nothing in here
 
-This repository was made as a concept proof of this idea: 1 + 1 = 1 OR 3
+This repository was made as a concept proof of this idea:
+
+- 1 + 1 = 1 OR 3
 
 Everything works that way in Monkey Brain!
 
 ## Check:
 
 ```javascript
-if (source !== empty) {
+const source = 1;
+if (source !== 0) {
 	const fantasy = 1;
 	const logic = 1;
 	const application = 1;
-	const source = fantasy + logic + application;
+	const expression = fantasy + logic + application;
+	return expression;
 }
 ```
 
