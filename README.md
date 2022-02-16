@@ -38,3 +38,9 @@ Brain + Internet = Communication ( union point - Synchronized )
 - 1: Educational Principles ( fantasy ) +
 - 1: Educational Tools ( logic ) =
 - 1: Educational Behaviors ( expression )
+
+---
+
+In reference to art.odicforcesounds.com // Dao Expression
+
+![](./Dao.png)
