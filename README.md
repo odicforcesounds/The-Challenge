@@ -1,4 +1,6 @@
-# Nothing in here
+# Notes:
+
+This repository refers [this](https://wiki.odicforcesounds.com/) text / topic
 
 This repository was made as a concept proof of this idea:
 
