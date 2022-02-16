@@ -41,6 +41,12 @@ Brain + Internet = Communication ( union point - Synchronized )
 
 ---
 
-In reference to art.odicforcesounds.com // Dao Expression
+A Artistic Approach about what is / means the origins of this <b>SUPER</b> old theory // Dao Expression
 
 ![](./Dao.png)
+
+---
+
+In reference of E=mc2 ( Electricity - aka Real Time )
+
+![](./emc2.png)
